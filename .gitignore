@@ -1,0 +1,32 @@
+#ignore misc BYOND files
+Thumbs.db
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+*.backup
+*.before
+data/
+cfg/
+build_log.txt
+use_map
+stopserver
+reboot_called
+atupdate
+__pycache__
+
+# ignore config, but not subdirs
+#config/*
+#!config/*/
+config/admins.txt
+config/whitelist_escalation.txt
+config/fireteams.txt
+config/motd.txt
+config/admins.txt
+config/dbconfig.txt
+config/whitelist_escalation.txt
+config/config.txt
+baystation12.dme
+config/whitelist_escalation.txt
+maps/rostock/rostock.dmm
