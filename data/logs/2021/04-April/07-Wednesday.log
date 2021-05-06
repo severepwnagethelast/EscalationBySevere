@@ -1,0 +1,245 @@
+
+
+Starting up. (ID: cbr-bH0G) 13:15.02
+---------------------
+[20:00:00] cbr-bH0G ADMIN: Loading ckey_whitelist
+[20:00:00] cbr-bH0G ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbr-bH0G ADMIN: Loading jobban_rank
+[20:00:00] cbr-bH0G ADMIN: jobban_keylist was empty
+[20:00:00] cbr-bH0G ADMIN: Loading Banlist
+[20:00:00] cbr-bH0G DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbr-bIlg) 13:16.13
+---------------------
+[15:00:00] cbr-bIlg ADMIN: Loading ckey_whitelist
+[15:00:00] cbr-bIlg ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbr-bIlg ADMIN: Loading jobban_rank
+[15:00:00] cbr-bIlg ADMIN: jobban_keylist was empty
+[15:00:00] cbr-bIlg ADMIN: Loading Banlist
+[15:00:00] cbr-bIlg DEBUG: Rebuilding Master Controller
+[15:00:00] cbr-bIlg ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-bIlg DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbr-bIlg ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-bIlg ADMIN: SeverePwnage has started the game.
+[15:00:00] cbr-bIlg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-bIlg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-bIlg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-bIlg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-bIlg ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbr-bIlg ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-bIlg GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbr-bIlg DEBUG: Next event of severity Mundane in 14.79 minutes.
+[15:00:00] cbr-bIlg DEBUG: Next event of severity Moderate in 52.04 minutes.
+[15:00:00] cbr-bIlg DEBUG: Next event of severity Major in 85.7217 minutes.
+[15:00:14] cbr-bIlg ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/suit/storage/vest/soviet/a6b2lifchik/alt at (148,213,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=213;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:18] cbr-bIlg ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/suit/storage/vest/soviet/a6b2lifchik at (148,212,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=212;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:35] cbr-bIlg ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (156,193,1)
+[15:00:43] cbr-bIlg ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (158,190,1)
+[15:00:59] cbr-bIlg ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cCJM) 19:17.31
+---------------------
+[20:00:00] cbr-cCJM ADMIN: Loading ckey_whitelist
+[20:00:00] cbr-cCJM ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbr-cCJM ADMIN: Loading jobban_rank
+[20:00:00] cbr-cCJM ADMIN: jobban_keylist was empty
+[20:00:00] cbr-cCJM ADMIN: Loading Banlist
+[20:00:00] cbr-cCJM DEBUG: Rebuilding Master Controller
+[20:00:00] cbr-cCJM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbr-cCJM ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cCJM ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cCJM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbr-cCJM ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cCJM ADMIN: SeverePwnage has started the game.
+[20:00:00] cbr-cCJM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cCJM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cCJM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cCJM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cCJM ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbr-cCJM ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:00] cbr-cCJM GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbr-cCJM DEBUG: Next event of severity Mundane in 17.772 minutes.
+[20:00:00] cbr-cCJM DEBUG: Next event of severity Moderate in 37.662 minutes.
+[20:00:00] cbr-cCJM DEBUG: Next event of severity Major in 89.3183 minutes.
+[20:00:15] cbr-cCJM ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cDkI) 19:21.21
+---------------------
+[10:00:00] cbr-cDkI ADMIN: Loading ckey_whitelist
+[10:00:00] cbr-cDkI ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbr-cDkI ADMIN: Loading jobban_rank
+[10:00:00] cbr-cDkI ADMIN: jobban_keylist was empty
+[10:00:00] cbr-cDkI ADMIN: Loading Banlist
+[10:00:00] cbr-cDkI DEBUG: Rebuilding Master Controller
+[10:00:00] cbr-cDkI ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbr-cDkI ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbr-cDrH) 19:22.04
+---------------------
+[15:00:00] cbr-cDrH ADMIN: Loading ckey_whitelist
+[15:00:00] cbr-cDrH ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbr-cDrH ADMIN: Loading jobban_rank
+[15:00:00] cbr-cDrH ADMIN: jobban_keylist was empty
+[15:00:00] cbr-cDrH ADMIN: Loading Banlist
+[15:00:00] cbr-cDrH DEBUG: Rebuilding Master Controller
+[15:00:00] cbr-cDrH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cDrH ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cDrH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbr-cDrH ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cDrH ADMIN: SeverePwnage has started the game.
+[15:00:00] cbr-cDrH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cDrH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cDrH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cDrH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cDrH ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbr-cDrH ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cDrH GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbr-cDrH DEBUG: Next event of severity Mundane in 12.942 minutes.
+[15:00:00] cbr-cDrH DEBUG: Next event of severity Moderate in 36.182 minutes.
+[15:00:00] cbr-cDrH DEBUG: Next event of severity Major in 82.085 minutes.
+[15:00:05] cbr-cDrH ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (166,225,1)
+[15:00:11] cbr-cDrH ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/under/blackjumpskirt at (165,227,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=165;Y=227;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:21] cbr-cDrH ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cENf) 19:30.42
+---------------------
+[15:00:00] cbr-cENf ADMIN: Loading ckey_whitelist
+[15:00:00] cbr-cENf ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbr-cENf ADMIN: Loading jobban_rank
+[15:00:00] cbr-cENf ADMIN: jobban_keylist was empty
+[15:00:00] cbr-cENf ADMIN: Loading Banlist
+[15:00:00] cbr-cENf DEBUG: Rebuilding Master Controller
+[15:00:00] cbr-cENf ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cENf ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cENf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbr-cENf ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cENf ADMIN: SeverePwnage has started the game.
+[15:00:00] cbr-cENf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cENf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cENf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cENf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cENf ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbr-cENf ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cENf GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbr-cENf DEBUG: Next event of severity Mundane in 12.722 minutes.
+[15:00:00] cbr-cENf DEBUG: Next event of severity Moderate in 51.886 minutes.
+[15:00:00] cbr-cENf DEBUG: Next event of severity Major in 81.5783 minutes.
+[15:00:13] cbr-cENf ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cFlj) 19:34.13
+---------------------
+[10:00:00] cbr-cFlj ADMIN: Loading ckey_whitelist
+[10:00:00] cbr-cFlj ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbr-cFlj ADMIN: Loading jobban_rank
+[10:00:00] cbr-cFlj ADMIN: jobban_keylist was empty
+[10:00:00] cbr-cFlj ADMIN: Loading Banlist
+[10:00:00] cbr-cFlj DEBUG: Rebuilding Master Controller
+[10:00:00] cbr-cFlj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbr-cFlj ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbr-cFlj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbr-cFlj ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbr-cFlj ADMIN: SeverePwnage has started the game.
+[10:00:00] cbr-cFlj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbr-cFlj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbr-cFlj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbr-cFlj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbr-cFlj ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbr-cFlj ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[10:00:00] cbr-cFlj GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbr-cFlj DEBUG: Next event of severity Mundane in 12.936 minutes.
+[10:00:00] cbr-cFlj DEBUG: Next event of severity Moderate in 41.956 minutes.
+[10:00:00] cbr-cFlj DEBUG: Next event of severity Major in 88.445 minutes.
+[10:00:18] cbr-cFlj ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/under/blackskirt at (37,15,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:42] cbr-cFlj ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cFAc) 19:35.45
+---------------------
+[15:00:00] cbr-cFAc ADMIN: Loading ckey_whitelist
+[15:00:00] cbr-cFAc ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbr-cFAc ADMIN: Loading jobban_rank
+[15:00:00] cbr-cFAc ADMIN: jobban_keylist was empty
+[15:00:00] cbr-cFAc ADMIN: Loading Banlist
+[15:00:00] cbr-cFAc DEBUG: Rebuilding Master Controller
+[15:00:00] cbr-cFAc ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cFAc ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbr-cOK6) 20:34.32
+---------------------
+[15:00:00] cbr-cOK6 ADMIN: Loading ckey_whitelist
+[15:00:00] cbr-cOK6 ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbr-cOK6 ADMIN: Loading jobban_rank
+[15:00:00] cbr-cOK6 ADMIN: jobban_keylist was empty
+[15:00:00] cbr-cOK6 ADMIN: Loading Banlist
+[15:00:00] cbr-cOK6 DEBUG: Rebuilding Master Controller
+[15:00:00] cbr-cOK6 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cOK6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cOK6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cOK6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbr-cOK6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbr-cOK6 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbr-cOK6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cOK6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cOK6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cOK6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbr-cOK6 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbr-cOK6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbr-cOK6 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbr-cOK6 DEBUG: Next event of severity Mundane in 13.406 minutes.
+[15:00:00] cbr-cOK6 DEBUG: Next event of severity Moderate in 47.94 minutes.
+[15:00:00] cbr-cOK6 DEBUG: Next event of severity Major in 92.565 minutes.
+[15:00:06] cbr-cOK6 ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (166,225,1)
+[15:00:13] cbr-cOK6 ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/under/sexymime at (162,227,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=227;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:24] cbr-cOK6 ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbr-cWCr) 21:24.54
+---------------------
+[20:00:00] cbr-cWCr ADMIN: Loading ckey_whitelist
+[20:00:00] cbr-cWCr ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbr-cWCr ADMIN: Loading jobban_rank
+[20:00:00] cbr-cWCr ADMIN: jobban_keylist was empty
+[20:00:00] cbr-cWCr ADMIN: Loading Banlist
+[20:00:00] cbr-cWCr DEBUG: Rebuilding Master Controller
+[20:00:00] cbr-cWCr ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbr-cWCr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cWCr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cWCr DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbr-cWCr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cWCr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbr-cWCr ADMIN: SeverePwnage has started the game.
+[20:00:00] cbr-cWCr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cWCr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cWCr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cWCr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbr-cWCr ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbr-cWCr ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:00] cbr-cWCr GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbr-cWCr DEBUG: Next event of severity Mundane in 16.108 minutes.
+[20:00:00] cbr-cWCr DEBUG: Next event of severity Moderate in 51.83 minutes.
+[20:00:00] cbr-cWCr DEBUG: Next event of severity Major in 92.4717 minutes.
+[20:00:13] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/under/sexyclown at (37,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:30] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (33,33,1)
+[20:02:16] cbr-cWCr GAME: Explosion with size (0, 0, 0) in area forest 
+[20:02:27] cbr-cWCr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[20:02:27] cbr-cWCr ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[20:02:27] cbr-cWCr ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:02:27] cbr-cWCr SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now prowls among the dead at USMC FOB. 
+[20:02:29] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=31;Y=33;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:02:31] cbr-cWCr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer lurks in the realm of the dead. 
+[20:02:31] cbr-cWCr ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[20:02:31] cbr-cWCr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:31] cbr-cWCr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:02:36] cbr-cWCr ACCESS: Logout: *no key*/(new player)
+[20:02:36] cbr-cWCr ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:02:36] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:02:46] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/suit/storage/vest/coldwar/soviet/a6b2lifchik/alt at (112,95,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=95;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:03:18] cbr-cWCr ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/clothing/suit/wizrobe/gentlecoat at (109,93,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=109;Y=93;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:03:21] cbr-cWCr ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)

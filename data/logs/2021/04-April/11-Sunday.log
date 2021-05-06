@@ -1,0 +1,498 @@
+
+
+Starting up. (ID: cbv-bcq1) 09:51.51
+---------------------
+[20:00:00] cbv-bcq1 ADMIN: Loading ckey_whitelist
+[20:00:00] cbv-bcq1 ADMIN: ckey_whitelist: 181 entrie(s).
+[20:00:00] cbv-bcq1 ADMIN: Loading jobban_rank
+[20:00:00] cbv-bcq1 ADMIN: jobban_keylist was empty
+[20:00:00] cbv-bcq1 ADMIN: Loading Banlist
+[20:00:00] cbv-bcq1 DEBUG: Rebuilding Master Controller
+[20:00:00] cbv-bcq1 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbv-bcq1 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-bcq1 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbv-bcq1 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-bcq1 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbv-bcq1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bcq1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bcq1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bcq1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bcq1 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbv-bcq1 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:00] cbv-bcq1 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbv-bcq1 DEBUG: Next event of severity Mundane in 14.352 minutes.
+[20:00:00] cbv-bcq1 DEBUG: Next event of severity Moderate in 51.632 minutes.
+[20:00:00] cbv-bcq1 DEBUG: Next event of severity Major in 96.8917 minutes.
+[20:00:04] cbv-bcq1 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to the very large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=136;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:31] cbv-bcq1 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to 151,144,1 in the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=140;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:33] cbv-bcq1 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to 159,147,1 in the road (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=154;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:53] cbv-bcq1 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to 201,154,1 in the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=196;Y=153;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:01:34] cbv-bcq1 ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-bfsq) 10:11.12
+---------------------
+[05:00:00] cbv-bfsq ADMIN: Loading ckey_whitelist
+[05:00:00] cbv-bfsq ADMIN: ckey_whitelist: 181 entrie(s).
+[05:00:00] cbv-bfsq ADMIN: Loading jobban_rank
+[05:00:00] cbv-bfsq ADMIN: jobban_keylist was empty
+[05:00:00] cbv-bfsq ADMIN: Loading Banlist
+[05:00:00] cbv-bfsq DEBUG: Rebuilding Master Controller
+[05:00:00] cbv-bfsq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-bfsq ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-bfsq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbv-bfsq ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-bfsq ADMIN: SeverePwnage has started the game.
+[05:00:00] cbv-bfsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bfsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bfsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bfsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bfsq ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbv-bfsq ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-bfsq GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbv-bfsq DEBUG: Next event of severity Mundane in 12.326 minutes.
+[05:00:00] cbv-bfsq DEBUG: Next event of severity Moderate in 47.18 minutes.
+[05:00:00] cbv-bfsq DEBUG: Next event of severity Major in 92.9317 minutes.
+[05:00:17] cbv-bfsq ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to the large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:02:02] cbv-bfsq ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-bisf) 10:30.24
+---------------------
+[10:00:00] cbv-bisf ADMIN: Loading ckey_whitelist
+[10:00:00] cbv-bisf ADMIN: ckey_whitelist: 181 entrie(s).
+[10:00:00] cbv-bisf ADMIN: Loading jobban_rank
+[10:00:00] cbv-bisf ADMIN: jobban_keylist was empty
+[10:00:00] cbv-bisf ADMIN: Loading Banlist
+[10:00:00] cbv-bisf DEBUG: Rebuilding Master Controller
+[10:00:00] cbv-bisf ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bisf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbv-bisf ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbv-bisf ADMIN: SeverePwnage has started the game.
+[10:00:00] cbv-bisf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bisf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bisf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bisf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bisf ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbv-bisf ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bisf GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbv-bisf DEBUG: Next event of severity Mundane in 14.144 minutes.
+[10:00:00] cbv-bisf DEBUG: Next event of severity Moderate in 37.332 minutes.
+[10:00:00] cbv-bisf DEBUG: Next event of severity Major in 98.37 minutes.
+[10:00:55] cbv-bisf ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-bjZu) 10:40.16
+---------------------
+[05:00:00] cbv-bjZu ADMIN: Loading ckey_whitelist
+[05:00:00] cbv-bjZu ADMIN: ckey_whitelist: 181 entrie(s).
+[05:00:00] cbv-bjZu ADMIN: Loading jobban_rank
+[05:00:00] cbv-bjZu ADMIN: jobban_keylist was empty
+[05:00:00] cbv-bjZu ADMIN: Loading Banlist
+[05:00:00] cbv-bjZu DEBUG: Rebuilding Master Controller
+[05:00:00] cbv-bjZu ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-bjZu ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-bjZu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbv-bjZu ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-bjZu ADMIN: SeverePwnage has started the game.
+[05:00:00] cbv-bjZu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bjZu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bjZu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bjZu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-bjZu ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-bjZu GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbv-bjZu DEBUG: Next event of severity Mundane in 14.514 minutes.
+[05:00:00] cbv-bjZu DEBUG: Next event of severity Moderate in 39.076 minutes.
+[05:00:00] cbv-bjZu DEBUG: Next event of severity Major in 83.3133 minutes.
+[05:00:00] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=441;Y=268;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:21] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:00:21] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:21] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:21] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now creeps among the dead at the outside. 
+[05:00:22] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer creeps in the realm of the dead. 
+[05:00:22] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:22] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:22] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[05:00:28] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:00:28] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:28] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Element Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=440;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:00:31] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:00:31] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:31] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:31] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now stalks among the dead at the outside. 
+[05:00:32] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer prowls in the realm of the dead. 
+[05:00:32] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:32] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:32] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[05:00:35] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:00:35] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:35] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Element Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=440;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[05:00:36] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:00:36] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:36] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:36] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now prowls among the dead at the outside. 
+[05:00:37] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer lurks in the realm of the dead. 
+[05:00:37] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:37] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:37] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[05:00:40] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:00:40] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:40] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Element Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=441;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[05:00:41] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:00:41] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:41] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:41] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now lurks among the dead at the outside. 
+[05:00:42] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer stalks in the realm of the dead. 
+[05:00:42] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:42] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:42] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[05:00:45] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:00:45] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:45] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Element Machinegunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=443;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[05:00:50] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:00:50] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:50] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:50] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now lurks among the dead at the outside. 
+[05:00:51] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer prowls in the realm of the dead. 
+[05:00:51] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:51] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:51] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[05:00:56] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:00:56] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:56] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Element Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=443;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[05:01:02] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:01:02] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:01:02] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:01:02] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now prowls among the dead at the outside. 
+[05:01:03] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer creeps in the realm of the dead. 
+[05:01:03] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:01:03] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:03] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[05:01:06] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:01:06] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:01:06] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Komandir Elementa. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=26;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[05:01:16] cbv-bjZu GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[05:01:16] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:01:16] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:01:16] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now stalks among the dead at the medium hard floor. 
+[05:01:17] cbv-bjZu SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer lurks in the realm of the dead. 
+[05:01:17] cbv-bjZu ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:01:17] cbv-bjZu ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:17] cbv-bjZu ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[05:01:21] cbv-bjZu ACCESS: Logout: *no key*/(new player)
+[05:01:21] cbv-bjZu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:01:21] cbv-bjZu ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=234;Y=110;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[05:02:03] cbv-bjZu ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-blb6) 10:47.57
+---------------------
+[15:00:00] cbv-blb6 ADMIN: Loading ckey_whitelist
+[15:00:00] cbv-blb6 ADMIN: ckey_whitelist: 181 entrie(s).
+[15:00:00] cbv-blb6 ADMIN: Loading jobban_rank
+[15:00:00] cbv-blb6 ADMIN: jobban_keylist was empty
+[15:00:00] cbv-blb6 ADMIN: Loading Banlist
+[15:00:00] cbv-blb6 DEBUG: Rebuilding Master Controller
+[15:00:00] cbv-blb6 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbv-blb6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbv-blb6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbv-blb6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbv-blb6 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbv-blb6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-blb6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-blb6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-blb6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-blb6 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbv-blb6 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbv-blb6 DEBUG: Next event of severity Mundane in 17.696 minutes.
+[15:00:00] cbv-blb6 DEBUG: Next event of severity Moderate in 37.002 minutes.
+[15:00:00] cbv-blb6 DEBUG: Next event of severity Major in 81.9683 minutes.
+[15:00:04] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=440;Y=268;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:00:07] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:07] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:07] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:07] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now skulks among the dead at the outside. 
+[15:00:07] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer lurks in the realm of the dead. 
+[15:00:07] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:07] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:07] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[15:00:11] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:00:11] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:11] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=440;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:12] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:12] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:12] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:12] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now stalks among the dead at the outside. 
+[15:00:13] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer prowls in the realm of the dead. 
+[15:00:13] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:13] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:13] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[15:00:15] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:00:15] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:15] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Machinegunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=443;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[15:00:18] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:18] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:18] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:18] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now skulks among the dead at the outside. 
+[15:00:19] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer creeps in the realm of the dead. 
+[15:00:19] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:19] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:19] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[15:00:22] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:00:22] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:22] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as FORECON Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=443;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[15:00:28] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:28] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:28] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:28] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now stalks among the dead at the outside. 
+[15:00:28] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer skulks in the realm of the dead. 
+[15:00:28] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:28] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:28] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[15:00:51] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:00:51] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:51] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Komandir Elementa. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=26;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[15:00:59] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:59] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:59] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:59] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now stalks among the dead at the medium hard floor. 
+[15:01:00] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer creeps in the realm of the dead. 
+[15:01:00] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:01:00] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:00] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[15:01:03] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:01:03] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:01:03] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[15:01:26] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:01:26] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:01:26] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:01:26] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now lurks among the dead at the outside. 
+[15:01:27] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer prowls in the realm of the dead. 
+[15:01:27] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:01:27] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:27] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[15:01:31] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:01:31] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:01:31] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=22;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[15:01:37] cbv-blb6 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:01:37] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:01:37] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:01:37] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now skulks among the dead at the outside. 
+[15:01:38] cbv-blb6 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer creeps in the realm of the dead. 
+[15:01:38] cbv-blb6 ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:01:38] cbv-blb6 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:38] cbv-blb6 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[15:01:41] cbv-blb6 ACCESS: Logout: *no key*/(new player)
+[15:01:41] cbv-blb6 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:01:41] cbv-blb6 ADMIN: SeverePwnage/(Artyom Chynorjy) has joined the round as KGB Snaiper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=22;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[15:01:55] cbv-blb6 ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-bOnB) 13:54.58
+---------------------
+[15:00:00] cbv-bOnB ADMIN: Loading ckey_whitelist
+[15:00:00] cbv-bOnB ADMIN: ckey_whitelist: 181 entrie(s).
+[15:00:00] cbv-bOnB ADMIN: Loading jobban_rank
+[15:00:00] cbv-bOnB ADMIN: jobban_keylist was empty
+[15:00:00] cbv-bOnB ADMIN: Loading Banlist
+[15:00:00] cbv-bOnB DEBUG: Rebuilding Master Controller
+[15:00:00] cbv-bOnB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbv-bOnB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbv-bOnB ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbv-bOnB ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbv-bOnB ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbv-bOnB ADMIN: SeverePwnage has started the game.
+[15:00:00] cbv-bOnB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-bOnB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-bOnB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-bOnB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbv-bOnB ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbv-bOnB ACCESS: Login: SeverePwnage/(Edwin Davies) from localhost-3031256942 || BYOND v513
+[15:00:00] cbv-bOnB GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbv-bOnB DEBUG: Next event of severity Mundane in 17.4 minutes.
+[15:00:00] cbv-bOnB DEBUG: Next event of severity Moderate in 37.078 minutes.
+[15:00:00] cbv-bOnB DEBUG: Next event of severity Major in 81.0067 minutes.
+[15:00:11] cbv-bOnB ADMIN: SeverePwnage/(Edwin Davies) changed Europe's time to 12:25.
+[15:00:42] cbv-bOnB ADMIN: SeverePwnage/(Edwin Davies) changed Europe's time to 12:26.
+[15:01:28] cbv-bOnB ACCESS: Logout: SeverePwnage/(Edwin Davies)
+
+
+Starting up. (ID: cbv-bSdi) 14:19.30
+---------------------
+[10:00:00] cbv-bSdi ADMIN: Loading ckey_whitelist
+[10:00:00] cbv-bSdi ADMIN: ckey_whitelist: 181 entrie(s).
+[10:00:00] cbv-bSdi ADMIN: Loading jobban_rank
+[10:00:00] cbv-bSdi ADMIN: jobban_keylist was empty
+[10:00:00] cbv-bSdi ADMIN: Loading Banlist
+[10:00:00] cbv-bSdi DEBUG: Rebuilding Master Controller
+[10:00:00] cbv-bSdi ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bSdi DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbv-bSdi ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbv-bSdi ADMIN: SeverePwnage has started the game.
+[10:00:00] cbv-bSdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bSdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bSdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bSdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bSdi ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbv-bSdi ACCESS: Login: SeverePwnage/(Maxwell Bashline) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bSdi GAME: SQL ERROR during population polling. Failed to connect.
+
+
+Starting up. (ID: cbv-bTb4) 14:25.48
+---------------------
+[10:00:00] cbv-bTb4 ADMIN: Loading ckey_whitelist
+[10:00:00] cbv-bTb4 ADMIN: ckey_whitelist: 181 entrie(s).
+[10:00:00] cbv-bTb4 ADMIN: Loading jobban_rank
+[10:00:00] cbv-bTb4 ADMIN: jobban_keylist was empty
+[10:00:00] cbv-bTb4 ADMIN: Loading Banlist
+[10:00:00] cbv-bTb4 DEBUG: Rebuilding Master Controller
+[10:00:00] cbv-bTb4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bTb4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbv-bTb4 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbv-bTb4 ADMIN: SeverePwnage has started the game.
+[10:00:00] cbv-bTb4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bTb4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bTb4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bTb4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbv-bTb4 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbv-bTb4 ACCESS: Login: SeverePwnage/(Gary Earl) from localhost-3031256942 || BYOND v513
+[10:00:00] cbv-bTb4 GAME: SQL ERROR during population polling. Failed to connect.
+
+
+Starting up. (ID: cbv-bT8P) 14:31.45
+---------------------
+[20:00:00] cbv-bT8P ADMIN: Loading ckey_whitelist
+[20:00:00] cbv-bT8P ADMIN: ckey_whitelist: 181 entrie(s).
+[20:00:00] cbv-bT8P ADMIN: Loading jobban_rank
+[20:00:00] cbv-bT8P ADMIN: jobban_keylist was empty
+[20:00:00] cbv-bT8P ADMIN: Loading Banlist
+[20:00:00] cbv-bT8P DEBUG: Rebuilding Master Controller
+[20:00:00] cbv-bT8P ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] cbv-bT8P ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-bT8P DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbv-bT8P ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-bT8P ADMIN: SeverePwnage has started the game.
+[20:00:00] cbv-bT8P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bT8P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bT8P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bT8P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bT8P ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbv-bT8P ACCESS: Login: SeverePwnage/(Alan Kepplinger) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] cbv-bT8P GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbv-bT8P DEBUG: Next event of severity Mundane in 15.448 minutes.
+[20:00:00] cbv-bT8P DEBUG: Next event of severity Moderate in 46.538 minutes.
+[20:00:00] cbv-bT8P DEBUG: Next event of severity Major in 99.9667 minutes.
+[20:00:36] cbv-bT8P ADMIN: SeverePwnage/(Alan Kepplinger) changed Europe's time to 12:05.
+[20:00:55] cbv-bT8P ADMIN: SeverePwnage/(Alan Kepplinger) deleted the steel door at (62,17,2)
+[20:01:00] cbv-bT8P ATTACK: Alan Kepplinger (severepwnage) primed RDG2 smoke grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=62;Y=15;Z=2'>JMP</a>)
+[20:01:16] cbv-bT8P ADMIN: SeverePwnage/(Alan Kepplinger) deleted the steel door at (66,17,2)
+[20:01:47] cbv-bT8P ACCESS: Logout: SeverePwnage/(Alan Kepplinger)
+
+
+Starting up. (ID: cbv-bVxr) 14:40.49
+---------------------
+[20:00:00] cbv-bVxr ADMIN: Loading ckey_whitelist
+[20:00:00] cbv-bVxr ADMIN: ckey_whitelist: 181 entrie(s).
+[20:00:00] cbv-bVxr ADMIN: Loading jobban_rank
+[20:00:00] cbv-bVxr ADMIN: jobban_keylist was empty
+[20:00:00] cbv-bVxr ADMIN: Loading Banlist
+[20:00:00] cbv-bVxr DEBUG: Rebuilding Master Controller
+[20:00:00] cbv-bVxr DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbv-bVxr ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] cbv-bVxr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-bVxr ADMIN: SeverePwnage has started the game.
+[20:00:00] cbv-bVxr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bVxr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bVxr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bVxr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-bVxr ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbv-bVxr ACCESS: Login: SeverePwnage/(Dustin Guess) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] cbv-bVxr GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbv-bVxr DEBUG: Next event of severity Mundane in 15.206 minutes.
+[20:00:00] cbv-bVxr DEBUG: Next event of severity Moderate in 37.758 minutes.
+[20:00:00] cbv-bVxr DEBUG: Next event of severity Major in 85.6467 minutes.
+[20:00:17] cbv-bVxr ACCESS: Logout: SeverePwnage/(Dustin Guess)
+
+
+Starting up. (ID: cbv-ciJj) 17:09.23
+---------------------
+[05:00:00] cbv-ciJj ADMIN: Loading ckey_whitelist
+[05:00:00] cbv-ciJj ADMIN: ckey_whitelist: 181 entrie(s).
+[05:00:00] cbv-ciJj ADMIN: Loading jobban_rank
+[05:00:00] cbv-ciJj ADMIN: jobban_keylist was empty
+[05:00:00] cbv-ciJj ADMIN: Loading Banlist
+[05:00:00] cbv-ciJj DEBUG: Rebuilding Master Controller
+[05:00:00] cbv-ciJj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-ciJj ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-ciJj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbv-ciJj ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-ciJj ADMIN: SeverePwnage has started the game.
+[05:00:00] cbv-ciJj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-ciJj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-ciJj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-ciJj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-ciJj ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbv-ciJj ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-ciJj GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbv-ciJj DEBUG: Next event of severity Mundane in 14.468 minutes.
+[05:00:00] cbv-ciJj DEBUG: Next event of severity Moderate in 41.07 minutes.
+[05:00:00] cbv-ciJj DEBUG: Next event of severity Major in 86.7383 minutes.
+[05:00:11] cbv-ciJj ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/weapon/storage/box/vhsbox at (41,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:20] cbv-ciJj ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-cjnu) 17:13.33
+---------------------
+[20:00:00] cbv-cjnu ADMIN: Loading ckey_whitelist
+[20:00:00] cbv-cjnu ADMIN: ckey_whitelist: 181 entrie(s).
+[20:00:00] cbv-cjnu ADMIN: Loading jobban_rank
+[20:00:00] cbv-cjnu ADMIN: jobban_keylist was empty
+[20:00:00] cbv-cjnu ADMIN: Loading Banlist
+[20:00:00] cbv-cjnu DEBUG: Rebuilding Master Controller
+[20:00:00] cbv-cjnu ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbv-cjnu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbv-cjnu ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbv-cjnu ADMIN: SeverePwnage has started the game.
+[20:00:00] cbv-cjnu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-cjnu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-cjnu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-cjnu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbv-cjnu ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbv-cjnu ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:00] cbv-cjnu GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbv-cjnu DEBUG: Next event of severity Mundane in 13.596 minutes.
+[20:00:00] cbv-cjnu DEBUG: Next event of severity Moderate in 48.264 minutes.
+[20:00:00] cbv-cjnu DEBUG: Next event of severity Major in 93.3733 minutes.
+[20:00:10] cbv-cjnu ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/weapon/storage/box/vhsbox at (232,98,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=232;Y=98;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:13] cbv-cjnu ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/weapon/storage/box/vinylsleeve at (233,98,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=233;Y=98;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:19] cbv-cjnu ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbv-cj4I) 17:17.55
+---------------------
+[05:00:00] cbv-cj4I ADMIN: Loading ckey_whitelist
+[05:00:00] cbv-cj4I ADMIN: ckey_whitelist: 181 entrie(s).
+[05:00:00] cbv-cj4I ADMIN: Loading jobban_rank
+[05:00:00] cbv-cj4I ADMIN: jobban_keylist was empty
+[05:00:00] cbv-cj4I ADMIN: Loading Banlist
+[05:00:00] cbv-cj4I DEBUG: Rebuilding Master Controller
+[05:00:00] cbv-cj4I ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-cj4I ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-cj4I DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbv-cj4I ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbv-cj4I ADMIN: SeverePwnage has started the game.
+[05:00:00] cbv-cj4I DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-cj4I DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-cj4I DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-cj4I DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbv-cj4I ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbv-cj4I ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbv-cj4I GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbv-cj4I DEBUG: Next event of severity Mundane in 15.394 minutes.
+[05:00:00] cbv-cj4I DEBUG: Next event of severity Moderate in 41.566 minutes.
+[05:00:00] cbv-cj4I DEBUG: Next event of severity Major in 99.4317 minutes.
+[05:01:03] cbv-cj4I ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/weapon/storage/box/vhsbox at (411,252,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=411;Y=252;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:13] cbv-cj4I ADMIN: SeverePwnage/(Artyom Chynorjy) spawned /obj/item/weapon/storage/box/vinylsleeve at (411,250,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=411;Y=250;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:43] cbv-cj4I ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)

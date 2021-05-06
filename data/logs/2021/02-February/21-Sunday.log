@@ -1,0 +1,1062 @@
+
+
+Starting up. (ID: caH-dll0) 00:03.22
+---------------------
+[20:00:00] caH-dll0 ADMIN: Loading jobban_rank
+[20:00:00] caH-dll0 ADMIN: jobban_keylist was empty
+[20:00:00] caH-dll0 ADMIN: Loading Banlist
+[20:00:00] caH-dll0 DEBUG: Rebuilding Master Controller
+[20:00:00] caH-dll0 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caH-dll0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caH-dll0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caH-dll0 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caH-dll0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caH-dll0 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-baqL) 09:38.57
+---------------------
+[05:00:00] caI-baqL ADMIN: Loading jobban_rank
+[05:00:00] caI-baqL ADMIN: jobban_keylist was empty
+[05:00:00] caI-baqL ADMIN: Loading Banlist
+[05:00:00] caI-baqL DEBUG: Rebuilding Master Controller
+[05:00:00] caI-baqL ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-baqL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-baqL ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caI-bbhm) 09:44.23
+---------------------
+[05:00:00] caI-bbhm ADMIN: Loading jobban_rank
+[05:00:00] caI-bbhm ADMIN: jobban_keylist was empty
+[05:00:00] caI-bbhm ADMIN: Loading Banlist
+[05:00:00] caI-bbhm DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bbhm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bbhm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bbhm ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bbhm ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bbhm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bbhm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bbhm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bbhm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bbhm ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bbhm ACCESS: Login: SeverePwnage/(Alexandria Fulton) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bbhm GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bbhm DEBUG: Next event of severity Mundane in 14.018 minutes.
+[05:00:00] caI-bbhm DEBUG: Next event of severity Moderate in 42.76 minutes.
+[05:00:00] caI-bbhm DEBUG: Next event of severity Major in 97.075 minutes.
+[05:00:23] caI-bbhm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Alexandria Fulton) has ghosted.
+[05:00:23] caI-bbhm ACCESS: Logout: *no key*/(Alexandria Fulton)
+[05:00:23] caI-bbhm ACCESS: Login: SeverePwnage/(Alexandria Fulton) from localhost-3031256942 || BYOND v513
+[05:00:23] caI-bbhm SAY: (DSAY) SeverePwnage - usr: *no key*/(Alexandria Fulton) : The ghost of <span class='name'>Alexandria Fulton</span> now skulks among the dead at USMC FOB. 
+[05:00:33] caI-bbhm ADMIN: SeverePwnage/(Alexandria Fulton) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=66;Y=283;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:43] caI-bbhm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Alexandria Fulton) : <span class='name'>Alexandria Fulton</span> no longer creeps in the realm of the dead. 
+[05:00:43] caI-bbhm ACCESS: Logout: *no key*/(Alexandria Fulton)
+[05:00:43] caI-bbhm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:43] caI-bbhm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:00:46] caI-bbhm ACCESS: Logout: *no key*/(new player)
+[05:00:46] caI-bbhm ACCESS: Login: SeverePwnage/(Alexandria Fulton) from localhost-3031256942 || BYOND v513
+[05:00:46] caI-bbhm ADMIN: SeverePwnage/(Alexandria Fulton) has joined the round as USA Field Medic. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=274;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:01:04] caI-bbhm ACCESS: Logout: SeverePwnage/(Alexandria Fulton)
+
+
+Starting up. (ID: caI-bcus) 09:52.08
+---------------------
+[10:00:00] caI-bcus ADMIN: Loading jobban_rank
+[10:00:00] caI-bcus ADMIN: jobban_keylist was empty
+[10:00:00] caI-bcus ADMIN: Loading Banlist
+[10:00:00] caI-bcus DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bcus ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bcus ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bcus DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bcus ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bcus ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bcus ADMIN: SeverePwnage has started the game.
+[10:00:00] caI-bcus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bcus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bcus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bcus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bcus ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caI-bcus ACCESS: Login: SeverePwnage/(Sarai Overstreet) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bcus GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caI-bcus DEBUG: Next event of severity Mundane in 14.442 minutes.
+[10:00:00] caI-bcus DEBUG: Next event of severity Moderate in 43.442 minutes.
+[10:00:00] caI-bcus DEBUG: Next event of severity Major in 94.975 minutes.
+[10:00:08] caI-bcus ADMIN: SeverePwnage/(Sarai Overstreet) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=291;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:22] caI-bcus ADMIN: SeverePwnage/(Sarai Overstreet) has declared Nato Major Victory (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:05] caI-bcus ADMIN: SeverePwnage/(Sarai Overstreet) has declared Warsaw Pact Major Victory (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=286;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:13] caI-bcus ADMIN: SeverePwnage/(Sarai Overstreet) has declared a draw... (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=285;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:18] caI-bcus ACCESS: Logout: SeverePwnage/(Sarai Overstreet)
+
+
+Starting up. (ID: caI-bdwk) 09:58.45
+---------------------
+[05:00:00] caI-bdwk ADMIN: Loading jobban_rank
+[05:00:00] caI-bdwk ADMIN: jobban_keylist was empty
+[05:00:00] caI-bdwk ADMIN: Loading Banlist
+[05:00:00] caI-bdwk DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bdwk ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bdwk ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bdwk ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bdwk DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bdwk ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bdwk ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bdwk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bdwk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bdwk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bdwk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bdwk ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bdwk ACCESS: Login: SeverePwnage/(Lenny Thomas) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bdwk GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bdwk DEBUG: Next event of severity Mundane in 17.47 minutes.
+[05:00:00] caI-bdwk DEBUG: Next event of severity Moderate in 48.326 minutes.
+[05:00:00] caI-bdwk DEBUG: Next event of severity Major in 92.5733 minutes.
+[05:00:42] caI-bdwk ADMIN: SeverePwnage/(Lenny Thomas) has declared a draw... (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=145;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:09] caI-bdwk ACCESS: Logout: SeverePwnage/(Lenny Thomas)
+
+
+Starting up. (ID: caI-beAV) 10:05.37
+---------------------
+[05:00:00] caI-beAV ADMIN: Loading jobban_rank
+[05:00:00] caI-beAV ADMIN: jobban_keylist was empty
+[05:00:00] caI-beAV ADMIN: Loading Banlist
+[05:00:00] caI-beAV DEBUG: Rebuilding Master Controller
+[05:00:00] caI-beAV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-beAV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-beAV ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-beAV ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-beAV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-beAV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-beAV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-beAV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-beAV ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-beAV ACCESS: Login: SeverePwnage/(Jeffrey Bash) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-beAV GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-beAV DEBUG: Next event of severity Mundane in 13.238 minutes.
+[05:00:00] caI-beAV DEBUG: Next event of severity Moderate in 42.106 minutes.
+[05:00:00] caI-beAV DEBUG: Next event of severity Major in 80.7183 minutes.
+[05:00:06] caI-beAV ACCESS: Logout: SeverePwnage/(Jeffrey Bash)
+
+
+Starting up. (ID: caI-bffI) 10:09.50
+---------------------
+[20:00:00] caI-bffI ADMIN: Loading jobban_rank
+[20:00:00] caI-bffI ADMIN: jobban_keylist was empty
+[20:00:00] caI-bffI ADMIN: Loading Banlist
+[20:00:00] caI-bffI DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bffI ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bffI ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bffI DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bffI ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bffI ADMIN: SeverePwnage has started the game.
+[20:00:00] caI-bffI DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bffI DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bffI DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bffI DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bffI ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caI-bffI ACCESS: Login: SeverePwnage/(Alijah Jewell) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bffI GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caI-bffI DEBUG: Next event of severity Mundane in 13.584 minutes.
+[20:00:00] caI-bffI DEBUG: Next event of severity Moderate in 51.69 minutes.
+[20:00:00] caI-bffI DEBUG: Next event of severity Major in 87.46 minutes.
+[20:01:13] caI-bffI ADMIN: SeverePwnage/(Alijah Jewell) spawned /obj/item/ammo_magazine/c762x51m at (87,141,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:23] caI-bffI ADMIN: SeverePwnage/(Alijah Jewell) spawned /obj/item/ammo_magazine/c762x51s at (88,141,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:27] caI-bffI ACCESS: Logout: SeverePwnage/(Alijah Jewell)
+
+
+Starting up. (ID: caI-bf6e) 10:15.10
+---------------------
+[05:00:00] caI-bf6e ADMIN: Loading jobban_rank
+[05:00:00] caI-bf6e ADMIN: jobban_keylist was empty
+[05:00:00] caI-bf6e ADMIN: Loading Banlist
+[05:00:00] caI-bf6e DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bf6e ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bf6e ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bf6e ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bf6e DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bf6e ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bf6e ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bf6e DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bf6e DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bf6e DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bf6e DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bf6e ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bf6e ACCESS: Login: SeverePwnage/(Lexia Rader) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bf6e GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bf6e DEBUG: Next event of severity Mundane in 13.65 minutes.
+[05:00:00] caI-bf6e DEBUG: Next event of severity Moderate in 49.192 minutes.
+[05:00:00] caI-bf6e DEBUG: Next event of severity Major in 85.645 minutes.
+[05:00:25] caI-bf6e ADMIN: SeverePwnage/(Lexia Rader) spawned /obj/item/ammo_magazine/c762x51s at (87,145,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=145;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:00:54] caI-bf6e ACCESS: Logout: SeverePwnage/(Lexia Rader)
+
+
+Starting up. (ID: caI-blBg) 10:50.31
+---------------------
+[15:00:00] caI-blBg ADMIN: Loading jobban_rank
+[15:00:00] caI-blBg ADMIN: jobban_keylist was empty
+[15:00:00] caI-blBg ADMIN: Loading Banlist
+[15:00:00] caI-blBg DEBUG: Rebuilding Master Controller
+[15:00:00] caI-blBg ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-blBg ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-blBg DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-blBg ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-blBg ADMIN: SeverePwnage has started the game.
+[15:00:00] caI-blBg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-blBg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-blBg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-blBg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-blBg ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caI-blBg ACCESS: Login: SeverePwnage/(Kyla Jowers) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-blBg GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caI-blBg DEBUG: Next event of severity Mundane in 17.284 minutes.
+[15:00:00] caI-blBg DEBUG: Next event of severity Moderate in 39.76 minutes.
+[15:00:00] caI-blBg DEBUG: Next event of severity Major in 97.16 minutes.
+[15:00:06] caI-blBg ADMIN: SeverePwnage/(Kyla Jowers) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18 at (88,142,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=142;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:17] caI-blBg GAME: Explosion with size (1, 3, 5) in area area 
+[15:00:54] caI-blBg ADMIN: SeverePwnage/(Kyla Jowers) created 1 /obj/item/clothing/suit/storage/toggle/lawyer/bluejacket (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:57] caI-blBg ADMIN: SeverePwnage/(Kyla Jowers) created 1 /obj/item/weapon/gun/launcher/oneuse/m72 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:08] caI-blBg ACCESS: Logout: SeverePwnage/(Kyla Jowers)
+
+
+Starting up. (ID: caI-bmW6) 10:59.11
+---------------------
+[15:00:00] caI-bmW6 ADMIN: Loading jobban_rank
+[15:00:00] caI-bmW6 ADMIN: jobban_keylist was empty
+[15:00:00] caI-bmW6 ADMIN: Loading Banlist
+[15:00:00] caI-bmW6 DEBUG: Rebuilding Master Controller
+[15:00:00] caI-bmW6 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-bmW6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-bmW6 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bmW6 ADMIN: SeverePwnage has started the game.
+[15:00:00] caI-bmW6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-bmW6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-bmW6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-bmW6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caI-bmW6 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caI-bmW6 ACCESS: Login: SeverePwnage/(Arturo Palmer) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-bmW6 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caI-bmW6 DEBUG: Next event of severity Mundane in 13.178 minutes.
+[15:00:00] caI-bmW6 DEBUG: Next event of severity Moderate in 45.856 minutes.
+[15:00:00] caI-bmW6 DEBUG: Next event of severity Major in 92.8833 minutes.
+[15:00:13] caI-bmW6 ADMIN: SeverePwnage/(Arturo Palmer) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/m72 at (84,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=84;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:25] caI-bmW6 GAME: Explosion with size (1, 3, 5) in area area 
+[15:00:26] caI-bmW6 GAME: Explosion with size (0, 0, 0) in area area 
+[15:00:31] caI-bmW6 ADMIN: SeverePwnage/(Arturo Palmer) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/m72 at (87,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:38] caI-bmW6 GAME: Explosion with size (1, 3, 5) in area house 
+[15:00:41] caI-bmW6 ACCESS: Logout: SeverePwnage/(Arturo Palmer)
+
+
+Starting up. (ID: caI-bptW) 11:15.23
+---------------------
+[20:00:00] caI-bptW ADMIN: Loading jobban_rank
+[20:00:00] caI-bptW ADMIN: jobban_keylist was empty
+[20:00:00] caI-bptW ADMIN: Loading Banlist
+[20:00:00] caI-bptW DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bptW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bptW ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bptW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bptW ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bptW ADMIN: SeverePwnage has started the game.
+[20:00:00] caI-bptW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bptW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bptW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bptW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bptW ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caI-bptW ACCESS: Login: SeverePwnage/(Salvador Ludwig) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bptW GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caI-bptW DEBUG: Next event of severity Mundane in 12.38 minutes.
+[20:00:00] caI-bptW DEBUG: Next event of severity Moderate in 36.862 minutes.
+[20:00:00] caI-bptW DEBUG: Next event of severity Major in 88.2017 minutes.
+[20:00:10] caI-bptW ACCESS: Logout: SeverePwnage/(Salvador Ludwig)
+
+
+Starting up. (ID: caI-bpSV) 11:17.57
+---------------------
+[10:00:00] caI-bpSV ADMIN: Loading jobban_rank
+[10:00:00] caI-bpSV ADMIN: jobban_keylist was empty
+[10:00:00] caI-bpSV ADMIN: Loading Banlist
+[10:00:00] caI-bpSV DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bpSV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bpSV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bpSV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bpSV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bpSV ADMIN: SeverePwnage has started the game.
+[10:00:00] caI-bpSV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bpSV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bpSV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bpSV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bpSV ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caI-bpSV ACCESS: Login: SeverePwnage/(Smoke Elderson) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bpSV GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caI-bpSV DEBUG: Next event of severity Mundane in 14.556 minutes.
+[10:00:00] caI-bpSV DEBUG: Next event of severity Moderate in 50.74 minutes.
+[10:00:00] caI-bpSV DEBUG: Next event of severity Major in 97.5167 minutes.
+
+
+Starting up. (ID: caI-bqeB) 11:20.12
+---------------------
+[20:00:00] caI-bqeB ADMIN: Loading jobban_rank
+[20:00:00] caI-bqeB ADMIN: jobban_keylist was empty
+[20:00:00] caI-bqeB ADMIN: Loading Banlist
+[20:00:00] caI-bqeB DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bqeB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bqeB ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bqeB ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bqeB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bqeB ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bqeB ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bqeB ADMIN: SeverePwnage has started the game.
+[20:00:00] caI-bqeB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bqeB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bqeB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bqeB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bqeB ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caI-bqeB ACCESS: Login: SeverePwnage/(Nehemiah White) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bqeB GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caI-bqeB DEBUG: Next event of severity Mundane in 13.562 minutes.
+[20:00:00] caI-bqeB DEBUG: Next event of severity Moderate in 36.132 minutes.
+[20:00:00] caI-bqeB DEBUG: Next event of severity Major in 82.7933 minutes.
+[20:00:39] caI-bqeB ACCESS: Logout: SeverePwnage/(Nehemiah White)
+
+
+Starting up. (ID: caI-bqHC) 11:23.12
+---------------------
+[05:00:00] caI-bqHC ADMIN: Loading jobban_rank
+[05:00:00] caI-bqHC ADMIN: jobban_keylist was empty
+[05:00:00] caI-bqHC ADMIN: Loading Banlist
+[05:00:00] caI-bqHC DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bqHC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bqHC ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bv9W) 11:58.03
+---------------------
+[20:00:00] caI-bv9W ADMIN: Loading jobban_rank
+[20:00:00] caI-bv9W ADMIN: jobban_keylist was empty
+[20:00:00] caI-bv9W ADMIN: Loading Banlist
+[20:00:00] caI-bv9W DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bv9W ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bv9W ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bv9W ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bv9W DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bv9W ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bv9W ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-byeR) 12:11.29
+---------------------
+[05:00:00] caI-byeR ADMIN: Loading jobban_rank
+[05:00:00] caI-byeR ADMIN: jobban_keylist was empty
+[05:00:00] caI-byeR ADMIN: Loading Banlist
+[05:00:00] caI-byeR DEBUG: Rebuilding Master Controller
+[05:00:00] caI-byeR ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-byeR DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-byeR ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-byeR ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-by4W) 12:16.45
+---------------------
+[10:00:00] caI-by4W ADMIN: Loading jobban_rank
+[10:00:00] caI-by4W ADMIN: jobban_keylist was empty
+[10:00:00] caI-by4W ADMIN: Loading Banlist
+[10:00:00] caI-by4W DEBUG: Rebuilding Master Controller
+[10:00:00] caI-by4W ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-by4W DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-by4W ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-by4W ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bzqq) 12:19.05
+---------------------
+[15:00:00] caI-bzqq ADMIN: Loading jobban_rank
+[15:00:00] caI-bzqq ADMIN: jobban_keylist was empty
+[15:00:00] caI-bzqq ADMIN: Loading Banlist
+[15:00:00] caI-bzqq DEBUG: Rebuilding Master Controller
+[15:00:00] caI-bzqq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-bzqq ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bzqq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-bzqq ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bzqq ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bzPt) 12:21.40
+---------------------
+[20:00:00] caI-bzPt ADMIN: Loading jobban_rank
+[20:00:00] caI-bzPt ADMIN: jobban_keylist was empty
+[20:00:00] caI-bzPt ADMIN: Loading Banlist
+[20:00:00] caI-bzPt DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bzPt ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bzPt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bzPt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bzPt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bzPt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bzPt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bzPt ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bBrR) 12:32.03
+---------------------
+[10:00:00] caI-bBrR ADMIN: Loading jobban_rank
+[10:00:00] caI-bBrR ADMIN: jobban_keylist was empty
+[10:00:00] caI-bBrR ADMIN: Loading Banlist
+[10:00:00] caI-bBrR DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bBrR ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bBrR ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bBrR ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bBrR DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bBrR ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bBrR ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bCzP) 12:39.16
+---------------------
+[05:00:00] caI-bCzP ADMIN: Loading jobban_rank
+[05:00:00] caI-bCzP ADMIN: jobban_keylist was empty
+[05:00:00] caI-bCzP ADMIN: Loading Banlist
+[05:00:00] caI-bCzP DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bCzP ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bCzP DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: caI-bCMv) 12:40.35
+---------------------
+[15:00:00] caI-bCMv ADMIN: Loading jobban_rank
+[15:00:00] caI-bCMv ADMIN: jobban_keylist was empty
+[15:00:00] caI-bCMv ADMIN: Loading Banlist
+[15:00:00] caI-bCMv DEBUG: Rebuilding Master Controller
+[15:00:00] caI-bCMv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-bCMv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-bCMv ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bCMv ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bDNH) 12:47.07
+---------------------
+[15:00:00] caI-bDNH ADMIN: Loading jobban_rank
+[15:00:00] caI-bDNH ADMIN: jobban_keylist was empty
+[15:00:00] caI-bDNH ADMIN: Loading Banlist
+[15:00:00] caI-bDNH DEBUG: Rebuilding Master Controller
+[15:00:00] caI-bDNH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-bDNH ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bDNH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-bDNH ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-bDNH ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bELc) 12:53.15
+---------------------
+[05:00:00] caI-bELc ADMIN: Loading jobban_rank
+[05:00:00] caI-bELc ADMIN: jobban_keylist was empty
+[05:00:00] caI-bELc ADMIN: Loading Banlist
+[05:00:00] caI-bELc DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bELc ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bELc ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bELc ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bELc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bELc ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bELc ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bELc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bELc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bELc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bELc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bELc ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bELc ACCESS: Login: SeverePwnage/(Warner Driggers) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bELc GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bELc DEBUG: Next event of severity Mundane in 14.122 minutes.
+[05:00:00] caI-bELc DEBUG: Next event of severity Moderate in 50.906 minutes.
+[05:00:00] caI-bELc DEBUG: Next event of severity Major in 89.4067 minutes.
+[05:00:09] caI-bELc ADMIN: SeverePwnage/(Warner Driggers) spawned /obj/item/weapon/shovel at (86,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=86;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:00:16] caI-bELc ADMIN: SeverePwnage/(Warner Driggers) spawned /obj/item/weapon/sandbag/full at (85,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:00:44] caI-bELc ADMIN: SeverePwnage/(Warner Driggers) spawned /obj/item/weapon/carpentry/axe at (86,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=86;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:01:31] caI-bELc ADMIN: SeverePwnage/(Warner Driggers) spawned /obj/item/stack/material/wood at (85,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:01:35] caI-bELc ACCESS: Logout: SeverePwnage/(Warner Driggers)
+
+
+Starting up. (ID: caI-bGQd) 13:06.35
+---------------------
+[05:00:00] caI-bGQd ADMIN: Loading jobban_rank
+[05:00:00] caI-bGQd ADMIN: jobban_keylist was empty
+[05:00:00] caI-bGQd ADMIN: Loading Banlist
+[05:00:00] caI-bGQd DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bGQd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bGQd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bGQd ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bGQd ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bGQd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bGQd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bGQd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bGQd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bGQd ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bGQd ACCESS: Login: SeverePwnage/(Malachi Mueller) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bGQd GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bGQd DEBUG: Next event of severity Mundane in 16.054 minutes.
+[05:00:00] caI-bGQd DEBUG: Next event of severity Moderate in 43.064 minutes.
+[05:00:00] caI-bGQd DEBUG: Next event of severity Major in 83.3617 minutes.
+[05:00:08] caI-bGQd ACCESS: Logout: SeverePwnage/(Malachi Mueller)
+
+
+Starting up. (ID: caI-bHDy) 13:11.41
+---------------------
+[20:00:00] caI-bHDy ADMIN: Loading jobban_rank
+[20:00:00] caI-bHDy ADMIN: jobban_keylist was empty
+[20:00:00] caI-bHDy ADMIN: Loading Banlist
+[20:00:00] caI-bHDy DEBUG: Rebuilding Master Controller
+[20:00:00] caI-bHDy ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bHDy DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caI-bHDy ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bHDy ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caI-bHDy ADMIN: SeverePwnage has started the game.
+[20:00:00] caI-bHDy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bHDy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bHDy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bHDy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caI-bHDy ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caI-bHDy ACCESS: Login: SeverePwnage/(Tate Paynter) from localhost-3031256942 || BYOND v513
+[20:00:00] caI-bHDy GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caI-bHDy DEBUG: Next event of severity Mundane in 13.152 minutes.
+[20:00:00] caI-bHDy DEBUG: Next event of severity Moderate in 50.87 minutes.
+[20:00:00] caI-bHDy DEBUG: Next event of severity Major in 99.885 minutes.
+[20:00:12] caI-bHDy ACCESS: Logout: SeverePwnage/(Tate Paynter)
+
+
+Starting up. (ID: caI-bIcl) 13:15.17
+---------------------
+[05:00:00] caI-bIcl ADMIN: Loading jobban_rank
+[05:00:00] caI-bIcl ADMIN: jobban_keylist was empty
+[05:00:00] caI-bIcl ADMIN: Loading Banlist
+[05:00:00] caI-bIcl DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bIcl ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bIcl DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bIcl ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bIcl ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bIcl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bIcl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bIcl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bIcl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bIcl ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bIcl ACCESS: Login: SeverePwnage/(Liam Cherry) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bIcl GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bIcl DEBUG: Next event of severity Mundane in 13.252 minutes.
+[05:00:00] caI-bIcl DEBUG: Next event of severity Moderate in 47.016 minutes.
+[05:00:00] caI-bIcl DEBUG: Next event of severity Major in 81.795 minutes.
+[05:00:08] caI-bIcl ACCESS: Logout: SeverePwnage/(Liam Cherry)
+
+
+Starting up. (ID: caI-bI64) 13:21.02
+---------------------
+[10:00:00] caI-bI64 ADMIN: Loading jobban_rank
+[10:00:00] caI-bI64 ADMIN: jobban_keylist was empty
+[10:00:00] caI-bI64 ADMIN: Loading Banlist
+[10:00:00] caI-bI64 DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bI64 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bI64 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bI64 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bI64 ADMIN: SeverePwnage has started the game.
+[10:00:00] caI-bI64 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bI64 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bI64 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bI64 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caI-bI64 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caI-bI64 ACCESS: Login: SeverePwnage/(Desmond Kuster) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bI64 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caI-bI64 DEBUG: Next event of severity Mundane in 13.664 minutes.
+[10:00:00] caI-bI64 DEBUG: Next event of severity Moderate in 49.372 minutes.
+[10:00:00] caI-bI64 DEBUG: Next event of severity Major in 97.4117 minutes.
+[10:00:10] caI-bI64 ACCESS: Logout: SeverePwnage/(Desmond Kuster)
+
+
+Starting up. (ID: caI-bJz9) 13:24.09
+---------------------
+[05:00:00] caI-bJz9 ADMIN: Loading jobban_rank
+[05:00:00] caI-bJz9 ADMIN: jobban_keylist was empty
+[05:00:00] caI-bJz9 ADMIN: Loading Banlist
+[05:00:00] caI-bJz9 DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bJz9 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bJz9 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bJz9 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bJz9 ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bJz9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bJz9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bJz9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bJz9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bJz9 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bJz9 ACCESS: Login: SeverePwnage/(Tucker Baum) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bJz9 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bJz9 DEBUG: Next event of severity Mundane in 17.724 minutes.
+[05:00:00] caI-bJz9 DEBUG: Next event of severity Moderate in 36.582 minutes.
+[05:00:00] caI-bJz9 DEBUG: Next event of severity Major in 83.6617 minutes.
+[05:00:16] caI-bJz9 ACCESS: Logout: SeverePwnage/(Tucker Baum)
+
+
+Starting up. (ID: caI-bR96) 14:19.02
+---------------------
+[10:00:00] caI-bR96 ADMIN: Loading jobban_rank
+[10:00:00] caI-bR96 ADMIN: jobban_keylist was empty
+[10:00:00] caI-bR96 ADMIN: Loading Banlist
+[10:00:00] caI-bR96 DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bR96 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bR96 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bR96 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bR96 ADMIN: SeverePwnage has started the game.
+[10:00:00] caI-bR96 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caI-bR96 DEBUG: Next event of severity Mundane in 17.838 minutes.
+[10:00:00] caI-bR96 DEBUG: Next event of severity Moderate in 44.022 minutes.
+[10:00:00] caI-bR96 DEBUG: Next event of severity Major in 86.1267 minutes.
+[10:00:05] caI-bR96 ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:07] caI-bR96 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:07] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:07] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=95;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:23] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:00:23] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:23] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:23] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at USMC FOB. 
+[10:00:24] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:00:24] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:24] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:24] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:00:27] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:00:27] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:27] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Platoon Leader Deputy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:36] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:00:36] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:36] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:36] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now prowls among the dead at USMC FOB. 
+[10:00:37] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:00:37] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:37] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:37] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[10:00:45] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:00:45] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:45] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Radiotelephone Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:00:51] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:00:51] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:51] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:51] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now creeps among the dead at USMC FOB. 
+[10:00:53] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:00:53] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:00:53] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:53] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[10:00:56] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:00:56] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:00:56] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Field Medic. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=98;Y=274;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[10:01:03] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:01:03] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:03] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:01:03] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now creeps among the dead at USMC FOB. 
+[10:01:05] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:01:05] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:05] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:05] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[10:01:10] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:01:10] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:01:10] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[10:01:36] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:01:36] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:36] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:01:36] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at the area. 
+[10:01:37] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:01:37] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:37] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:37] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[10:01:41] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:01:41] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:01:41] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Field Surgeon. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=85;Y=272;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[10:01:57] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:01:57] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:57] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:01:57] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at USMC FOB. 
+[10:01:59] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:01:59] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:01:59] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:59] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[10:02:02] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:02:02] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:02:02] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Squad Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[10:02:18] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:02:18] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:02:18] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:02:18] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at USMC FOB. 
+[10:02:19] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:02:19] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:02:19] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:19] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[10:02:23] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:02:23] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:02:23] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=296;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[10:02:30] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:02:30] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:02:30] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:02:30] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at USMC FOB. 
+[10:02:32] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:02:32] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:02:32] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:32] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[10:02:52] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:02:52] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:02:52] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Fireteam Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=59;Y=296;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[10:03:02] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:03:02] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:02] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:02] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now creeps among the dead at USMC FOB. 
+[10:03:04] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:03:04] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:04] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:04] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000016]'>MOB</a>)
+[10:03:10] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:03:10] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:10] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=298;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[10:03:16] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:03:16] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:16] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:16] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at USMC FOB. 
+[10:03:18] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:03:18] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:18] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:18] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000018]'>MOB</a>)
+[10:03:23] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:03:23] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:23] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000016]'>MOB</a>)
+[10:03:30] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:03:30] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:30] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:30] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at the area. 
+[10:03:31] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:03:31] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:31] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:31] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001a]'>MOB</a>)
+[10:03:34] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:03:34] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:34] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000018]'>MOB</a>)
+[10:03:48] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:03:48] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:48] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:48] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at the area. 
+[10:03:49] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:03:49] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:03:49] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:49] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001c]'>MOB</a>)
+[10:03:53] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:03:53] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:03:53] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA AT Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001a]'>MOB</a>)
+[10:04:04] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:04:04] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:04] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:04] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now prowls among the dead at USMC FOB. 
+[10:04:05] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:04:05] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:05] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:05] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001e]'>MOB</a>)
+[10:04:08] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:04:08] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:08] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA AT Gunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001c]'>MOB</a>)
+[10:04:14] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:04:14] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:14] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:14] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at USMC FOB. 
+[10:04:15] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:04:15] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:15] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:15] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000020]'>MOB</a>)
+[10:04:19] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:04:19] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:19] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as USA AT Asistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001e]'>MOB</a>)
+[10:04:28] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) spawned /obj/item/ammo_casing/rpg_missile/smaw at (68,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001e]'>MOB</a>)
+[10:04:48] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:04:48] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:48] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:48] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at USMC FOB. 
+[10:04:50] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:04:50] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:04:50] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:50] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000022]'>MOB</a>)
+[10:04:52] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:04:52] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:04:52] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=44;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000020]'>MOB</a>)
+[10:05:05] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:05:05] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:05:05] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:05:05] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at WARPACT FOB. 
+[10:05:06] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:05:06] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:05:06] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:05:06] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000024]'>MOB</a>)
+[10:05:08] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:05:08] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:05:08] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=40;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000022]'>MOB</a>)
+[10:05:43] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:05:43] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:05:43] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:05:43] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at WARPACT FOB. 
+[10:05:43] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:05:43] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:05:43] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:05:43] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000026]'>MOB</a>)
+[10:06:21] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:06:21] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:06:21] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Zug Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000024]'>MOB</a>)
+[10:06:59] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:06:59] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:06:59] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:06:59] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at the area. 
+[10:07:01] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:07:01] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:01] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:07:01] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000028]'>MOB</a>)
+[10:07:05] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:07:05] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:05] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Zug Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000026]'>MOB</a>)
+[10:07:12] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:07:12] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:12] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:12] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at WARPACT FOB. 
+[10:07:13] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:07:13] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:13] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:07:13] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002a]'>MOB</a>)
+[10:07:16] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:07:16] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:16] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000028]'>MOB</a>)
+[10:07:31] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:07:31] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:31] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:31] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at WARPACT FOB. 
+[10:07:32] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:07:32] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:32] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:07:32] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002c]'>MOB</a>)
+[10:07:36] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:07:36] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:36] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002a]'>MOB</a>)
+[10:07:45] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:07:45] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:45] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:45] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at WARPACT FOB. 
+[10:07:47] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer skulks in the realm of the dead. 
+[10:07:47] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:07:47] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:07:47] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[10:07:51] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:07:51] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:07:51] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=48;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002c]'>MOB</a>)
+[10:08:05] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:08:05] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:05] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:05] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now prowls among the dead at WARPACT FOB. 
+[10:08:06] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:08:06] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:06] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:08:06] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000030]'>MOB</a>)
+[10:08:09] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:08:09] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:09] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=18;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[10:08:13] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:08:13] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:13] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:13] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now creeps among the dead at WARPACT FOB. 
+[10:08:14] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:08:14] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:14] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:08:14] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000032]'>MOB</a>)
+[10:08:18] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:08:18] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:18] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=18;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000030]'>MOB</a>)
+[10:08:32] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:08:32] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:32] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:32] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now creeps among the dead at WARPACT FOB. 
+[10:08:32] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:08:32] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:32] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:08:32] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[10:08:37] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:08:37] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:37] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Panzerabwehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=18;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000032]'>MOB</a>)
+[10:08:50] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:08:50] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:50] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:08:50] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at WARPACT FOB. 
+[10:08:52] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:08:52] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:08:52] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:08:52] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[10:09:59] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:09:59] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:09:59] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[10:10:00] caI-bR96 GAME: SQL ERROR during population polling. Failed to connect.
+[10:10:16] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:10:16] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:10:16] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:10:16] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at WARPACT FOB. 
+[10:10:16] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer lurks in the realm of the dead. 
+[10:10:16] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:10:16] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:10:16] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000038]'>MOB</a>)
+[10:10:43] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:10:43] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:10:43] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Panzerabwerschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=21;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[10:10:51] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:10:51] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:10:51] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:10:51] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now skulks among the dead at WARPACT FOB. 
+[10:10:52] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:10:52] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:10:52] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:10:52] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003a]'>MOB</a>)
+[10:11:49] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:11:49] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:11:49] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000038]'>MOB</a>)
+[10:12:43] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:12:43] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:12:43] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:12:43] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now lurks among the dead at WARPACT FOB. 
+[10:12:44] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer prowls in the realm of the dead. 
+[10:12:44] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:12:44] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:12:44] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003c]'>MOB</a>)
+[10:12:47] caI-bR96 ACCESS: Logout: *no key*/(new player)
+[10:12:47] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:12:47] caI-bR96 ADMIN: SeverePwnage/(Danny Roberts) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=18;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003a]'>MOB</a>)
+[10:12:55] caI-bR96 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Danny Roberts) has ghosted.
+[10:12:55] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:12:55] caI-bR96 ACCESS: Login: SeverePwnage/(Danny Roberts) from localhost-3031256942 || BYOND v513
+[10:12:55] caI-bR96 SAY: (DSAY) SeverePwnage - usr: *no key*/(Danny Roberts) : The ghost of <span class='name'>Danny Roberts</span> now stalks among the dead at WARPACT FOB. 
+[10:12:56] caI-bR96 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Danny Roberts) : <span class='name'>Danny Roberts</span> no longer creeps in the realm of the dead. 
+[10:12:56] caI-bR96 ACCESS: Logout: *no key*/(Danny Roberts)
+[10:12:56] caI-bR96 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:12:56] caI-bR96 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003e]'>MOB</a>)
+[10:13:05] caI-bR96 ACCESS: Logout: SeverePwnage/(new player)
+
+
+Starting up. (ID: caI-bWnJ) 14:46.09
+---------------------
+[05:00:00] caI-bWnJ ADMIN: Loading jobban_rank
+[05:00:00] caI-bWnJ ADMIN: jobban_keylist was empty
+[05:00:00] caI-bWnJ ADMIN: Loading Banlist
+[05:00:00] caI-bWnJ DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bWnJ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bWnJ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bWnJ ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bWnJ ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bWnJ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bWnJ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bWnJ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bWnJ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bWnJ ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bWnJ ACCESS: Login: SeverePwnage/(Harvey Marcotte) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bWnJ GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bWnJ DEBUG: Next event of severity Mundane in 13.326 minutes.
+[05:00:00] caI-bWnJ DEBUG: Next event of severity Moderate in 42.412 minutes.
+[05:00:00] caI-bWnJ DEBUG: Next event of severity Major in 96.355 minutes.
+[05:00:05] caI-bWnJ GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Harvey Marcotte) has ghosted.
+[05:00:05] caI-bWnJ ACCESS: Logout: *no key*/(Harvey Marcotte)
+[05:00:05] caI-bWnJ ACCESS: Login: SeverePwnage/(Harvey Marcotte) from localhost-3031256942 || BYOND v513
+[05:00:05] caI-bWnJ SAY: (DSAY) SeverePwnage - usr: *no key*/(Harvey Marcotte) : The ghost of <span class='name'>Harvey Marcotte</span> now skulks among the dead at WARPACT FOB. 
+[05:00:11] caI-bWnJ ADMIN: SeverePwnage/(Harvey Marcotte) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=132;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:14] caI-bWnJ SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Harvey Marcotte) : <span class='name'>Harvey Marcotte</span> no longer lurks in the realm of the dead. 
+[05:00:14] caI-bWnJ ACCESS: Logout: *no key*/(Harvey Marcotte)
+[05:00:14] caI-bWnJ ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:14] caI-bWnJ ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:00:19] caI-bWnJ ACCESS: Logout: *no key*/(new player)
+[05:00:19] caI-bWnJ ACCESS: Login: SeverePwnage/(Harvey Marcotte) from localhost-3031256942 || BYOND v513
+[05:00:19] caI-bWnJ ADMIN: SeverePwnage/(Harvey Marcotte) has joined the round as USA Squad Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=296;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:31] caI-bWnJ ACCESS: Logout: SeverePwnage/(Harvey Marcotte)
+
+
+Starting up. (ID: caI-bXH7) 14:54.40
+---------------------
+[05:00:00] caI-bXH7 ADMIN: Loading jobban_rank
+[05:00:00] caI-bXH7 ADMIN: jobban_keylist was empty
+[05:00:00] caI-bXH7 ADMIN: Loading Banlist
+[05:00:00] caI-bXH7 DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bXH7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bXH7 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bXH7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: caI-bX3R) 14:56.49
+---------------------
+[10:00:00] caI-bX3R ADMIN: Loading jobban_rank
+[10:00:00] caI-bX3R ADMIN: jobban_keylist was empty
+[10:00:00] caI-bX3R ADMIN: Loading Banlist
+[10:00:00] caI-bX3R DEBUG: Rebuilding Master Controller
+[10:00:00] caI-bX3R ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-bX3R ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bX3R ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bX3R DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-bX3R ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caI-bX3R ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-bYC4) 15:00.33
+---------------------
+[05:00:00] caI-bYC4 ADMIN: Loading jobban_rank
+[05:00:00] caI-bYC4 ADMIN: jobban_keylist was empty
+[05:00:00] caI-bYC4 ADMIN: Loading Banlist
+[05:00:00] caI-bYC4 DEBUG: Rebuilding Master Controller
+[05:00:00] caI-bYC4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bYC4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caI-bYC4 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caI-bYC4 ADMIN: SeverePwnage has started the game.
+[05:00:00] caI-bYC4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bYC4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bYC4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bYC4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caI-bYC4 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caI-bYC4 ACCESS: Login: SeverePwnage/(Clayton Garneys) from localhost-3031256942 || BYOND v513
+[05:00:00] caI-bYC4 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caI-bYC4 DEBUG: Next event of severity Mundane in 16.962 minutes.
+[05:00:00] caI-bYC4 DEBUG: Next event of severity Moderate in 43.47 minutes.
+[05:00:00] caI-bYC4 DEBUG: Next event of severity Major in 80.225 minutes.
+[05:00:15] caI-bYC4 ADMIN: SeverePwnage/(Clayton Garneys) spawned /obj/item/weapon/mg_tripod/mg3 at (66,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=66;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:20] caI-bYC4 ADMIN: SeverePwnage/(Clayton Garneys) spawned /obj/item/weapon/mg_disassembled/mg3 at (67,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:40] caI-bYC4 ADMIN: SeverePwnage/(Clayton Garneys) spawned /obj/item/ammo_magazine/c762x51b/bdw/tr at (66,292,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=66;Y=292;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:25] caI-bYC4 ACCESS: Logout: SeverePwnage/(Clayton Garneys)
+
+
+Starting up. (ID: caI-b4mW) 15:30.55
+---------------------
+[15:00:00] caI-b4mW ADMIN: Loading jobban_rank
+[15:00:00] caI-b4mW ADMIN: jobban_keylist was empty
+[15:00:00] caI-b4mW ADMIN: Loading Banlist
+[15:00:00] caI-b4mW DEBUG: Rebuilding Master Controller
+[15:00:00] caI-b4mW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-b4mW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-b4mW ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-b4mW ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-cJIB) 20:02.15
+---------------------
+[10:00:00] caI-cJIB ADMIN: Loading jobban_rank
+[10:00:00] caI-cJIB ADMIN: jobban_keylist was empty
+[10:00:00] caI-cJIB ADMIN: Loading Banlist
+[10:00:00] caI-cJIB DEBUG: Rebuilding Master Controller
+[10:00:00] caI-cJIB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caI-cJIB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caI-cJIB ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-cJ1f) 20:04.04
+---------------------
+[15:00:00] caI-cJ1f ADMIN: Loading jobban_rank
+[15:00:00] caI-cJ1f ADMIN: jobban_keylist was empty
+[15:00:00] caI-cJ1f ADMIN: Loading Banlist
+[15:00:00] caI-cJ1f DEBUG: Rebuilding Master Controller
+[15:00:00] caI-cJ1f ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-cJ1f ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-cJ1f DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-cJ1f ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-cJ1f ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caI-cKZe) 20:10.22
+---------------------
+[15:00:00] caI-cKZe ADMIN: Loading jobban_rank
+[15:00:00] caI-cKZe ADMIN: jobban_keylist was empty
+[15:00:00] caI-cKZe ADMIN: Loading Banlist
+[15:00:00] caI-cKZe DEBUG: Rebuilding Master Controller
+[15:00:00] caI-cKZe ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caI-cKZe DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caI-cKZe ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caI-cKZe ACCESS: Logout: SeverePwnage/(SeverePwnage)

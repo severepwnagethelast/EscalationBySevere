@@ -1,0 +1,312 @@
+
+
+Starting up. (ID: cbI-a77K) 09:17.44
+---------------------
+[05:00:00] cbI-a77K ADMIN: Loading ckey_whitelist
+[05:00:00] cbI-a77K ADMIN: ckey_whitelist: 175 entrie(s).
+[05:00:00] cbI-a77K ADMIN: Loading jobban_rank
+[05:00:00] cbI-a77K ADMIN: jobban_keylist was empty
+[05:00:00] cbI-a77K ADMIN: Loading Banlist
+[05:00:00] cbI-a77K DEBUG: Rebuilding Master Controller
+[05:00:00] cbI-a77K ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[05:00:00] cbI-a77K ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-a77K DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbI-a77K ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-a77K ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbI-b1bv) 15:10.39
+---------------------
+[10:00:00] cbI-b1bv ADMIN: Loading ckey_whitelist
+[10:00:00] cbI-b1bv ADMIN: ckey_whitelist: 175 entrie(s).
+[10:00:00] cbI-b1bv ADMIN: Loading jobban_rank
+[10:00:00] cbI-b1bv ADMIN: jobban_keylist was empty
+[10:00:00] cbI-b1bv ADMIN: Loading Banlist
+[10:00:00] cbI-b1bv DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbI-cn0M) 17:44.10
+---------------------
+[20:00:00] cbI-cn0M ADMIN: Loading ckey_whitelist
+[20:00:00] cbI-cn0M ADMIN: ckey_whitelist: 175 entrie(s).
+[20:00:00] cbI-cn0M ADMIN: Loading jobban_rank
+[20:00:00] cbI-cn0M ADMIN: jobban_keylist was empty
+[20:00:00] cbI-cn0M ADMIN: Loading Banlist
+[20:00:00] cbI-cn0M DEBUG: Rebuilding Master Controller
+[20:00:00] cbI-cn0M ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-cn0M ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbI-crP9) 18:07.47
+---------------------
+[20:00:00] cbI-crP9 ADMIN: Loading ckey_whitelist
+[20:00:00] cbI-crP9 ADMIN: ckey_whitelist: 175 entrie(s).
+[20:00:00] cbI-crP9 ADMIN: Loading jobban_rank
+[20:00:00] cbI-crP9 ADMIN: jobban_keylist was empty
+[20:00:00] cbI-crP9 ADMIN: Loading Banlist
+[20:00:00] cbI-crP9 DEBUG: Rebuilding Master Controller
+[20:00:00] cbI-crP9 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-crP9 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbI-crP9 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbI-crP9 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbI-crP9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-crP9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-crP9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-crP9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-crP9 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbI-crP9 ACCESS: Login: SeverePwnage/(Anton Chernov) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-crP9 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbI-crP9 DEBUG: Next event of severity Mundane in 12.664 minutes.
+[20:00:00] cbI-crP9 DEBUG: Next event of severity Moderate in 50.116 minutes.
+[20:00:00] cbI-crP9 DEBUG: Next event of severity Major in 95.7083 minutes.
+[20:00:15] cbI-crP9 ADMIN: SeverePwnage/(Anton Chernov) spawned /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/grey at (55,31,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=31;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:19] cbI-crP9 ADMIN: SeverePwnage/(Anton Chernov) spawned /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting at (55,31,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=31;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:46] cbI-crP9 ADMIN: SeverePwnage/(Anton Chernov) spawned /obj/item/clothing/accessory/armor/coldwar/helmcover/m56 at (54,21,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=21;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:53] cbI-crP9 ADMIN: SeverePwnage/(Anton Chernov) spawned /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting at (55,20,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:10] cbI-crP9 ADMIN: SeverePwnage/(Anton Chernov) spawned /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/cover at (55,20,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:21] cbI-crP9 ACCESS: Logout: SeverePwnage/(Anton Chernov)
+
+
+Starting up. (ID: cbI-cupW) 18:24.18
+---------------------
+[10:00:00] cbI-cupW ADMIN: Loading ckey_whitelist
+[10:00:00] cbI-cupW ADMIN: ckey_whitelist: 175 entrie(s).
+[10:00:00] cbI-cupW ADMIN: Loading jobban_rank
+[10:00:00] cbI-cupW ADMIN: jobban_keylist was empty
+[10:00:00] cbI-cupW ADMIN: Loading Banlist
+[10:00:00] cbI-cupW DEBUG: Rebuilding Master Controller
+[10:00:00] cbI-cupW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbI-cupW ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbI-cupW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbI-cupW ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbI-cupW ADMIN: SeverePwnage has started the game.
+[10:00:00] cbI-cupW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cupW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cupW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cupW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cupW ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbI-cupW ACCESS: Login: SeverePwnage/(Yaroslav Malyshev) from localhost-3031256942 || BYOND v513
+[10:00:00] cbI-cupW GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbI-cupW DEBUG: Next event of severity Mundane in 13.646 minutes.
+[10:00:00] cbI-cupW DEBUG: Next event of severity Moderate in 53.76 minutes.
+[10:00:00] cbI-cupW DEBUG: Next event of severity Major in 98.6967 minutes.
+[10:00:15] cbI-cupW ADMIN: SeverePwnage/(Yaroslav Malyshev) spawned /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/grey at (55,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:21] cbI-cupW ADMIN: SeverePwnage/(Yaroslav Malyshev) spawned /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting at (55,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:32] cbI-cupW ACCESS: Logout: SeverePwnage/(Yaroslav Malyshev)
+
+
+Starting up. (ID: cbI-cvp1) 18:30.42
+---------------------
+[20:00:00] cbI-cvp1 ADMIN: Loading ckey_whitelist
+[20:00:00] cbI-cvp1 ADMIN: ckey_whitelist: 175 entrie(s).
+[20:00:00] cbI-cvp1 ADMIN: Loading jobban_rank
+[20:00:00] cbI-cvp1 ADMIN: jobban_keylist was empty
+[20:00:00] cbI-cvp1 ADMIN: Loading Banlist
+[20:00:00] cbI-cvp1 DEBUG: Rebuilding Master Controller
+[20:00:00] cbI-cvp1 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-cvp1 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbI-cvp1 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbI-cvp1 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbI-cvp1 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbI-cvp1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cvp1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cvp1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cvp1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cvp1 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbI-cvp1 ACCESS: Login: SeverePwnage/(John Stocker) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-cvp1 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbI-cvp1 DEBUG: Next event of severity Mundane in 16.866 minutes.
+[20:00:00] cbI-cvp1 DEBUG: Next event of severity Moderate in 39.886 minutes.
+[20:00:00] cbI-cvp1 DEBUG: Next event of severity Major in 98.1183 minutes.
+[20:00:14] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/grey (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=412;Y=254;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:16] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/strichtarn (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=412;Y=254;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:18] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=411;Y=254;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:10] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/head/helmet/nt (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=411;Y=250;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:15] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/head/helmet/pcrc (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=412;Y=249;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:37] cbI-cvp1 ADMIN: SeverePwnage/(John Stocker) created 1 /obj/item/clothing/accessory/armor/helmcover/blue (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=411;Y=248;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:46] cbI-cvp1 ACCESS: Logout: SeverePwnage/(John Stocker)
+
+
+Starting up. (ID: cbI-cwJl) 18:39.06
+---------------------
+[05:00:00] cbI-cwJl ADMIN: Loading ckey_whitelist
+[05:00:00] cbI-cwJl ADMIN: ckey_whitelist: 175 entrie(s).
+[05:00:00] cbI-cwJl ADMIN: Loading jobban_rank
+[05:00:00] cbI-cwJl ADMIN: jobban_keylist was empty
+[05:00:00] cbI-cwJl ADMIN: Loading Banlist
+[05:00:00] cbI-cwJl DEBUG: Rebuilding Master Controller
+[05:00:00] cbI-cwJl ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cwJl ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cwJl DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbI-cwJl ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cwJl ADMIN: SeverePwnage has started the game.
+[05:00:00] cbI-cwJl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cwJl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cwJl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cwJl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cwJl ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbI-cwJl ACCESS: Login: SeverePwnage/(Frank Fischer) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cwJl GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbI-cwJl DEBUG: Next event of severity Mundane in 15.196 minutes.
+[05:00:00] cbI-cwJl DEBUG: Next event of severity Moderate in 43.126 minutes.
+[05:00:00] cbI-cwJl DEBUG: Next event of severity Major in 99.7717 minutes.
+[05:00:03] cbI-cwJl ADMIN: SeverePwnage/(Frank Fischer) changed Europe's time to 12:37.
+[05:00:46] cbI-cwJl ADMIN: SeverePwnage/(Frank Fischer) created 1 /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/grey (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=223;Y=108;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:50] cbI-cwJl ADMIN: SeverePwnage/(Frank Fischer) created 1 /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/strichtarn (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=224;Y=108;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:51] cbI-cwJl ADMIN: SeverePwnage/(Frank Fischer) created 1 /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=225;Y=108;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:06] cbI-cwJl ACCESS: Logout: SeverePwnage/(Frank Fischer)
+
+
+Starting up. (ID: cbI-cxIA) 18:45.26
+---------------------
+[05:00:00] cbI-cxIA ADMIN: Loading ckey_whitelist
+[05:00:00] cbI-cxIA ADMIN: ckey_whitelist: 175 entrie(s).
+[05:00:00] cbI-cxIA ADMIN: Loading jobban_rank
+[05:00:00] cbI-cxIA ADMIN: jobban_keylist was empty
+[05:00:00] cbI-cxIA ADMIN: Loading Banlist
+[05:00:00] cbI-cxIA DEBUG: Rebuilding Master Controller
+[05:00:00] cbI-cxIA ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cxIA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cxIA DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbI-cxIA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cxIA ADMIN: SeverePwnage has started the game.
+[05:00:00] cbI-cxIA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cxIA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cxIA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cxIA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cxIA ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbI-cxIA ACCESS: Login: SeverePwnage/(Anton Ivanov) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cxIA GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbI-cxIA DEBUG: Next event of severity Mundane in 13.42 minutes.
+[05:00:00] cbI-cxIA DEBUG: Next event of severity Moderate in 53.036 minutes.
+[05:00:00] cbI-cxIA DEBUG: Next event of severity Major in 92.2133 minutes.
+[05:00:12] cbI-cxIA ADMIN: SeverePwnage/(Anton Ivanov) spawned /obj/item/clothing/head/coldwar/helmet/nvaddr/m56/grey at (55,29,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=29;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:21] cbI-cxIA ADMIN: SeverePwnage/(Anton Ivanov) spawned /obj/item/clothing/accessory/armor/coldwar/helmcover/m56/netting at (54,29,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=29;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:35] cbI-cxIA ACCESS: Logout: SeverePwnage/(Anton Ivanov)
+
+
+Starting up. (ID: cbI-cyia) 18:49.07
+---------------------
+[10:00:00] cbI-cyia ADMIN: Loading ckey_whitelist
+[10:00:00] cbI-cyia ADMIN: ckey_whitelist: 175 entrie(s).
+[10:00:00] cbI-cyia ADMIN: Loading jobban_rank
+[10:00:00] cbI-cyia ADMIN: jobban_keylist was empty
+[10:00:00] cbI-cyia ADMIN: Loading Banlist
+[10:00:00] cbI-cyia DEBUG: Rebuilding Master Controller
+[10:00:00] cbI-cyia ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbI-cyia DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbI-cyia ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbI-cyia ADMIN: SeverePwnage has started the game.
+[10:00:00] cbI-cyia DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cyia DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cyia DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cyia DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbI-cyia ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbI-cyia ACCESS: Login: SeverePwnage/(Werner Beck) from localhost-3031256942 || BYOND v513
+[10:00:00] cbI-cyia GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbI-cyia DEBUG: Next event of severity Mundane in 15.124 minutes.
+[10:00:00] cbI-cyia DEBUG: Next event of severity Moderate in 52.586 minutes.
+[10:00:00] cbI-cyia DEBUG: Next event of severity Major in 83.175 minutes.
+[10:00:16] cbI-cyia ADMIN: SeverePwnage/(Werner Beck) changed Europe's time to 12:28.
+[10:00:24] cbI-cyia ADMIN: SeverePwnage/(Werner Beck) spawned /obj/item/clothing/mask/balaclava at (236,109,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=236;Y=109;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:00:42] cbI-cyia ACCESS: Logout: SeverePwnage/(Werner Beck)
+
+
+Starting up. (ID: cbI-cVu8) 21:17.48
+---------------------
+[15:00:00] cbI-cVu8 ADMIN: Loading ckey_whitelist
+[15:00:00] cbI-cVu8 ADMIN: ckey_whitelist: 175 entrie(s).
+[15:00:00] cbI-cVu8 ADMIN: Loading jobban_rank
+[15:00:00] cbI-cVu8 ADMIN: jobban_keylist was empty
+[15:00:00] cbI-cVu8 ADMIN: Loading Banlist
+[15:00:00] cbI-cVu8 DEBUG: Rebuilding Master Controller
+[15:00:00] cbI-cVu8 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbI-cVu8 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbI-cVu8 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbI-cVu8 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbI-cVTN) 21:20.21
+---------------------
+[15:00:00] cbI-cVTN ADMIN: Loading ckey_whitelist
+[15:00:00] cbI-cVTN ADMIN: ckey_whitelist: 175 entrie(s).
+[15:00:00] cbI-cVTN ADMIN: Loading jobban_rank
+[15:00:00] cbI-cVTN ADMIN: jobban_keylist was empty
+[15:00:00] cbI-cVTN ADMIN: Loading Banlist
+[15:00:00] cbI-cVTN DEBUG: Rebuilding Master Controller
+[15:00:00] cbI-cVTN ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbI-cVTN ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbI-cVTN DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbI-cVTN ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbI-cVTN ADMIN: SeverePwnage has started the game.
+[15:00:00] cbI-cVTN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbI-cVTN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbI-cVTN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbI-cVTN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbI-cVTN ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbI-cVTN ACCESS: Login: SeverePwnage/(Yegor Tetyushev) from localhost-3031256942 || BYOND v513
+[15:00:00] cbI-cVTN GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbI-cVTN DEBUG: Next event of severity Mundane in 16.768 minutes.
+[15:00:00] cbI-cVTN DEBUG: Next event of severity Moderate in 36 minutes.
+[15:00:00] cbI-cVTN DEBUG: Next event of severity Major in 93.685 minutes.
+[15:00:03] cbI-cVTN ADMIN: SeverePwnage/(Yegor Tetyushev) changed Europe's time to 12:31.
+[15:00:21] cbI-cVTN ACCESS: Logout: SeverePwnage/(Yegor Tetyushev)
+
+
+Starting up. (ID: cbI-cWw2) 21:24.24
+---------------------
+[20:00:00] cbI-cWw2 ADMIN: Loading ckey_whitelist
+[20:00:00] cbI-cWw2 ADMIN: ckey_whitelist: 175 entrie(s).
+[20:00:00] cbI-cWw2 ADMIN: Loading jobban_rank
+[20:00:00] cbI-cWw2 ADMIN: jobban_keylist was empty
+[20:00:00] cbI-cWw2 ADMIN: Loading Banlist
+[20:00:00] cbI-cWw2 DEBUG: Rebuilding Master Controller
+[20:00:00] cbI-cWw2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-cWw2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbI-cWw2 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbI-cWw2 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbI-cWw2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cWw2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cWw2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cWw2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbI-cWw2 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbI-cWw2 ACCESS: Login: SeverePwnage/(Georgiy Davydov) from localhost-3031256942 || BYOND v513
+[20:00:00] cbI-cWw2 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbI-cWw2 DEBUG: Next event of severity Mundane in 17.346 minutes.
+[20:00:00] cbI-cWw2 DEBUG: Next event of severity Moderate in 51.246 minutes.
+[20:00:00] cbI-cWw2 DEBUG: Next event of severity Major in 85.7033 minutes.
+[20:00:19] cbI-cWw2 ADMIN: SeverePwnage/(Georgiy Davydov) deleted the concretegrey wall at (39,34,1)
+[20:00:29] cbI-cWw2 ACCESS: Logout: SeverePwnage/(Georgiy Davydov)
+
+
+Starting up. (ID: cbI-cW9b) 21:28.15
+---------------------
+[05:00:00] cbI-cW9b ADMIN: Loading ckey_whitelist
+[05:00:00] cbI-cW9b ADMIN: ckey_whitelist: 175 entrie(s).
+[05:00:00] cbI-cW9b ADMIN: Loading jobban_rank
+[05:00:00] cbI-cW9b ADMIN: jobban_keylist was empty
+[05:00:00] cbI-cW9b ADMIN: Loading Banlist
+[05:00:00] cbI-cW9b DEBUG: Rebuilding Master Controller
+[05:00:00] cbI-cW9b ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cW9b ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cW9b DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbI-cW9b ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbI-cW9b ADMIN: SeverePwnage has started the game.
+[05:00:00] cbI-cW9b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cW9b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cW9b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cW9b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbI-cW9b ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbI-cW9b ACCESS: Login: SeverePwnage/(Uland Bennett) from localhost-3031256942 || BYOND v513
+[05:00:00] cbI-cW9b GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbI-cW9b DEBUG: Next event of severity Mundane in 16.27 minutes.
+[05:00:00] cbI-cW9b DEBUG: Next event of severity Moderate in 48.956 minutes.
+[05:00:00] cbI-cW9b DEBUG: Next event of severity Major in 99.5633 minutes.
+[05:00:02] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) deleted the concretegrey wall at (419,257,1)
+[05:00:06] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) changed Europe's time to 12:34.
+[05:00:20] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) deleted the barbwire at (452,256,1)
+[05:00:22] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) deleted the platform at (452,256,1)
+[05:00:27] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) deleted the platform at (463,256,1)
+[05:00:31] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) jumped to 468,257,1 in the road (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=463;Y=256;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:34] cbI-cW9b ADMIN: SeverePwnage/(Uland Bennett) jumped to 477,257,1 in the road (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=474;Y=257;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:35] cbI-cW9b ACCESS: Logout: SeverePwnage/(Uland Bennett)

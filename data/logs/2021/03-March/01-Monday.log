@@ -1,0 +1,173 @@
+
+
+Starting up. (ID: caP-dlyi) 00:04.38
+---------------------
+[05:00:00] caP-dlyi ADMIN: Loading jobban_rank
+[05:00:00] caP-dlyi ADMIN: jobban_keylist was empty
+[05:00:00] caP-dlyi ADMIN: Loading Banlist
+[05:00:00] caP-dlyi DEBUG: Rebuilding Master Controller
+[05:00:00] caP-dlyi ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-dlyi ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dlyi ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dlyi ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dlyi ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dlyi DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caP-dlyi ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dlyi ADMIN: SeverePwnage has started the game.
+[05:00:00] caP-dlyi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dlyi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dlyi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dlyi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dlyi ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caP-dlyi ACCESS: Login: SeverePwnage/(John Taggart) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-dlyi GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caP-dlyi DEBUG: Next event of severity Mundane in 16.846 minutes.
+[05:00:00] caP-dlyi DEBUG: Next event of severity Moderate in 46.886 minutes.
+[05:00:00] caP-dlyi DEBUG: Next event of severity Major in 83.815 minutes.
+[05:00:06] caP-dlyi ADMIN: SeverePwnage/(John Taggart) spawned /obj/item/weapon/gun/projectile/automatic/rifle/mpiak74gl at (15,261,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=261;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:19] caP-dlyi ADMIN: SeverePwnage/(John Taggart) deleted the steel door at (32,259,1)
+[05:00:22] caP-dlyi ADMIN: SeverePwnage/(John Taggart) deleted the steel door at (32,254,1)
+[05:00:42] caP-dlyi ADMIN: SeverePwnage/(John Taggart) created 1 /mob/living/carbon/human/dummy (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=32;Y=251;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:54] caP-dlyi GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(John Taggart) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:00:57] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:00:59] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:00] caP-dlyi GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(John Taggart) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:01:01] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:01] caP-dlyi EMOTE: John Taggart/SeverePwnage : <B>John Taggart</B> screams in pain and falls on the ground!
+[05:01:03] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:05] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:07] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:09] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:11] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:13] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:14] caP-dlyi GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(John Taggart) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:01:15] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:15] caP-dlyi EMOTE: John Taggart/SeverePwnage : <B>John Taggart</B> screams in pain and falls on the ground!
+[05:01:17] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:19] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:21] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:23] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:25] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:27] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:29] caP-dlyi GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(John Taggart) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:01:29] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:31] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:33] caP-dlyi EMOTE: Chandler Linton/ : <B>Chandler Linton</B> collapses!
+[05:01:34] caP-dlyi ACCESS: Logout: SeverePwnage/(John Taggart)
+
+
+Starting up. (ID: caP-dmsO) 00:10.29
+---------------------
+[15:00:00] caP-dmsO ADMIN: Loading jobban_rank
+[15:00:00] caP-dmsO ADMIN: jobban_keylist was empty
+[15:00:00] caP-dmsO ADMIN: Loading Banlist
+[15:00:00] caP-dmsO DEBUG: Rebuilding Master Controller
+[15:00:00] caP-dmsO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-dmsO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-dmsO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-dmsO DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caP-dmsO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-dmsO ADMIN: SeverePwnage has started the game.
+[15:00:00] caP-dmsO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-dmsO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-dmsO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-dmsO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-dmsO ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caP-dmsO ACCESS: Login: SeverePwnage/(Everett Sybilla) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-dmsO GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caP-dmsO DEBUG: Next event of severity Mundane in 12.1 minutes.
+[15:00:00] caP-dmsO DEBUG: Next event of severity Moderate in 37.36 minutes.
+[15:00:00] caP-dmsO DEBUG: Next event of severity Major in 97.3133 minutes.
+[15:00:06] caP-dmsO ACCESS: Logout: SeverePwnage/(Everett Sybilla)
+
+
+Starting up. (ID: caP-dpxE) 00:30.11
+---------------------
+[05:00:00] caP-dpxE ADMIN: Loading jobban_rank
+[05:00:00] caP-dpxE ADMIN: jobban_keylist was empty
+[05:00:00] caP-dpxE ADMIN: Loading Banlist
+[05:00:00] caP-dpxE DEBUG: Rebuilding Master Controller
+[05:00:00] caP-dpxE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-dpxE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caP-dpxE ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-dpxE ADMIN: SeverePwnage has started the game.
+[05:00:00] caP-dpxE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dpxE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dpxE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dpxE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-dpxE ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caP-dpxE ACCESS: Login: SeverePwnage/(Tristan Brindle) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-dpxE GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caP-dpxE DEBUG: Next event of severity Mundane in 13.746 minutes.
+[05:00:00] caP-dpxE DEBUG: Next event of severity Moderate in 52.898 minutes.
+[05:00:00] caP-dpxE DEBUG: Next event of severity Major in 96.2333 minutes.
+[05:00:42] caP-dpxE ADMIN: SeverePwnage/(Tristan Brindle) spawned /obj/item/stack/tile/wood at (236,25,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=236;Y=25;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:08] caP-dpxE ADMIN: SeverePwnage/(Tristan Brindle) spawned /obj/item/stack/material/wood at (236,24,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=236;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:18] caP-dpxE ADMIN: SeverePwnage/(Tristan Brindle) spawned /obj/item/stack/material/wood/fifty at (235,23,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=235;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:47] caP-dpxE GAME: Explosion with size (1, 3, 5) in area USMC FOB 
+[05:01:57] caP-dpxE ACCESS: Logout: SeverePwnage/(Tristan Brindle)
+
+
+Starting up. (ID: caP-dqKo) 00:37.55
+---------------------
+[15:00:00] caP-dqKo ADMIN: Loading jobban_rank
+[15:00:00] caP-dqKo ADMIN: jobban_keylist was empty
+[15:00:00] caP-dqKo ADMIN: Loading Banlist
+[15:00:00] caP-dqKo DEBUG: Rebuilding Master Controller
+[15:00:00] caP-dqKo ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-dqKo ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caQ-a3dm) 08:46.19
+---------------------
+[20:00:00] caQ-a3dm ADMIN: Loading jobban_rank
+[20:00:00] caQ-a3dm ADMIN: jobban_keylist was empty
+[20:00:00] caQ-a3dm ADMIN: Loading Banlist
+[20:00:00] caQ-a3dm DEBUG: Rebuilding Master Controller
+[20:00:00] caQ-a3dm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caQ-a3dm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caQ-a3dm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caQ-a3dm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caQ-a3dm ADMIN: SeverePwnage has started the game.
+[20:00:00] caQ-a3dm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caQ-a3dm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caQ-a3dm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caQ-a3dm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caQ-a3dm ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caQ-a3dm ACCESS: Login: SeverePwnage/(Marshall Bode) from localhost-3031256942 || BYOND v513
+[20:00:00] caQ-a3dm GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caQ-a3dm DEBUG: Next event of severity Mundane in 16.44 minutes.
+[20:00:00] caQ-a3dm DEBUG: Next event of severity Moderate in 52.5 minutes.
+[20:00:00] caQ-a3dm DEBUG: Next event of severity Major in 90.9033 minutes.
+[20:00:37] caQ-a3dm ADMIN: SeverePwnage/(Marshall Bode) spawned /mob/living/carbon/human/dummy at (51,247,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=51;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:26] caQ-a3dm ADMIN: SeverePwnage/(Marshall Bode) spawned /obj/item/clothing/suit/surgicalapron at (57,246,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=246;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:37] caQ-a3dm ADMIN: SeverePwnage/(Marshall Bode) spawned /obj/item/clothing/mask/surgical at (55,251,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=251;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:05:12] caQ-a3dm ACCESS: Logout: SeverePwnage/(Marshall Bode)
+
+
+Starting up. (ID: caQ-a9QD) 09:28.49
+---------------------
+[15:00:00] caQ-a9QD ADMIN: Loading jobban_rank
+[15:00:00] caQ-a9QD ADMIN: jobban_keylist was empty
+[15:00:00] caQ-a9QD ADMIN: Loading Banlist
+[15:00:00] caQ-a9QD DEBUG: Rebuilding Master Controller
+[15:00:00] caQ-a9QD ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caQ-a9QD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caQ-a9QD DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caQ-a9QD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caQ-a9QD ADMIN: SeverePwnage has started the game.
+[15:00:00] caQ-a9QD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caQ-a9QD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caQ-a9QD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caQ-a9QD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caQ-a9QD ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caQ-a9QD ACCESS: Login: SeverePwnage/(Jonah Bluetenberger) from localhost-3031256942 || BYOND v513
+[15:00:00] caQ-a9QD GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caQ-a9QD DEBUG: Next event of severity Mundane in 16.824 minutes.
+[15:00:00] caQ-a9QD DEBUG: Next event of severity Moderate in 42.08 minutes.
+[15:00:00] caQ-a9QD DEBUG: Next event of severity Major in 93.6567 minutes.
+[15:00:50] caQ-a9QD ADMIN: SeverePwnage/(Jonah Bluetenberger) spawned /mob/living/carbon/human/dummy at (49,247,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=49;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:02:24] caQ-a9QD ADMIN: SeverePwnage/(Jonah Bluetenberger) modified lungs's damage from '0' to '30' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=52;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:02:47] caQ-a9QD ADMIN: SeverePwnage/(Jonah Bluetenberger) modified heart's damage from '0' to '50' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=52;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:03:52] caQ-a9QD ADMIN: SeverePwnage/(Jonah Bluetenberger) modified liver's damage from '0' to '30' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=52;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:04:07] caQ-a9QD ACCESS: Logout: SeverePwnage/(Jonah Bluetenberger)

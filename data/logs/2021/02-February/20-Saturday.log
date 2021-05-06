@@ -1,0 +1,27 @@
+
+
+Starting up. (ID: caH-ctGu) 18:19.31
+---------------------
+[20:00:00] caH-ctGu ADMIN: Loading jobban_rank
+[20:00:00] caH-ctGu ADMIN: jobban_keylist was empty
+[20:00:00] caH-ctGu ADMIN: Loading Banlist
+[20:00:00] caH-ctGu ADMIN: Banlist is empty.
+[20:00:00] caH-ctGu ADMIN: Banlist missing base dir.
+[20:00:00] caH-ctGu DEBUG: Rebuilding Master Controller
+[20:00:00] caH-ctGu ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caH-ctGu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caH-ctGu ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caH-ctGu ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caH-ctGu ADMIN: SeverePwnage has started the game.
+[20:00:00] caH-ctGu GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caH-ctGu DEBUG: Next event of severity Mundane in 13.624 minutes.
+[20:00:00] caH-ctGu DEBUG: Next event of severity Moderate in 50.256 minutes.
+[20:00:00] caH-ctGu DEBUG: Next event of severity Major in 89.135 minutes.
+[20:00:08] caH-ctGu ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:17] caH-ctGu ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:17] caH-ctGu ACCESS: Login: SeverePwnage/(Dayton Harrison) from localhost-3031256942 || BYOND v513
+[20:00:17] caH-ctGu ADMIN: SeverePwnage/(Dayton Harrison) has joined the round as USMC Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:42] caH-ctGu ADMIN: SeverePwnage/(Dayton Harrison) created 1 /obj/item/clothing/head/helmet/coldwar/usmc/pasgt/un (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=201;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:02:15] caH-ctGu ADMIN: SeverePwnage/(Dayton Harrison) spawned /obj/item/clothing/suit/storage/vest/pasgt/woodland at (207,14,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=207;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:02:21] caH-ctGu ADMIN: SeverePwnage/(Dayton Harrison) spawned /obj/item/clothing/head/helmet/coldwar/usmc/pasgt at (207,14,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=207;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:03:13] caH-ctGu ACCESS: Logout: SeverePwnage/(Dayton Harrison)

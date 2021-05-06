@@ -1,0 +1,665 @@
+
+
+Starting up. (ID: ca6-boue) 11:09.01
+---------------------
+[10:00:00] ca6-boue ADMIN: Loading jobban_rank
+[10:00:00] ca6-boue ADMIN: jobban_keylist was empty
+[10:00:00] ca6-boue ADMIN: Loading Banlist
+[10:00:00] ca6-boue DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-boue ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-boue ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca6-bqj5) 11:20.47
+---------------------
+[05:00:00] ca6-bqj5 ADMIN: Loading jobban_rank
+[05:00:00] ca6-bqj5 ADMIN: jobban_keylist was empty
+[05:00:00] ca6-bqj5 ADMIN: Loading Banlist
+[05:00:00] ca6-bqj5 DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-bqj5 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-bqj5 ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-bqj5 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca6-bqj5 ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-bqj5 ADMIN: Among us crewmate has started the game.
+[05:00:00] ca6-bqj5 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-bqj5 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-bqj5 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-bqj5 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-bqj5 ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca6-bqj5 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-bqj5 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca6-bqj5 DEBUG: Next event of severity Mundane in 13.16 minutes.
+[05:00:00] ca6-bqj5 DEBUG: Next event of severity Moderate in 40.8 minutes.
+[05:00:00] ca6-bqj5 DEBUG: Next event of severity Major in 87.8033 minutes.
+[05:00:05] ca6-bqj5 ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[05:00:59] ca6-bqj5 ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (25,10,1)
+[05:01:11] ca6-bqj5 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca6-bweC) 11:58.39
+---------------------
+[20:00:00] ca6-bweC ADMIN: Loading jobban_rank
+[20:00:00] ca6-bweC ADMIN: jobban_keylist was empty
+[20:00:00] ca6-bweC ADMIN: Loading Banlist
+[20:00:00] ca6-bweC DEBUG: Rebuilding Master Controller
+[20:00:00] ca6-bweC ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-bweC ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca6-bQPV) 14:10.40
+---------------------
+[10:00:00] ca6-bQPV ADMIN: Loading jobban_rank
+[10:00:00] ca6-bQPV ADMIN: jobban_keylist was empty
+[10:00:00] ca6-bQPV ADMIN: Loading Banlist
+[10:00:00] ca6-bQPV DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-bQPV ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-bQPV ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca6-bRzm) 14:15.21
+---------------------
+[15:00:00] ca6-bRzm ADMIN: Loading jobban_rank
+[15:00:00] ca6-bRzm ADMIN: jobban_keylist was empty
+[15:00:00] ca6-bRzm ADMIN: Loading Banlist
+[15:00:00] ca6-bRzm DEBUG: Rebuilding Master Controller
+[15:00:00] ca6-bRzm ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca6-bRzm ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca6-bRzm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca6-bRzm ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca6-bRzm ADMIN: Among us crewmate has started the game.
+[15:00:00] ca6-bRzm DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-bRzm DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-bRzm DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-bRzm DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-bRzm ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca6-bRzm ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca6-bRzm GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca6-bRzm DEBUG: Next event of severity Mundane in 14.896 minutes.
+[15:00:00] ca6-bRzm DEBUG: Next event of severity Moderate in 40.946 minutes.
+[15:00:00] ca6-bRzm DEBUG: Next event of severity Major in 95.4167 minutes.
+[15:00:50] ca6-bRzm ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/clothing/head/helmet/coldwar/heer/m1/netting at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:01:02] ca6-bRzm ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/clothing/head/helmet/coldwar/heer/m1 at (20,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:01:12] ca6-bRzm ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/clothing/head/helmet/coldwar/heer/m1/medic at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:01:16] ca6-bRzm ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca6-bTgR) 14:26.16
+---------------------
+[10:00:00] ca6-bTgR ADMIN: Loading jobban_rank
+[10:00:00] ca6-bTgR ADMIN: jobban_keylist was empty
+[10:00:00] ca6-bTgR ADMIN: Loading Banlist
+[10:00:00] ca6-bTgR DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-bTgR ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-bTgR ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-bTgR DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca6-bTgR ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-bTgR ADMIN: Among us crewmate has started the game.
+[10:00:00] ca6-bTgR DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-bTgR DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-bTgR DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-bTgR DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-bTgR ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-bTgR GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca6-bTgR DEBUG: Next event of severity Mundane in 15.298 minutes.
+[10:00:00] ca6-bTgR DEBUG: Next event of severity Moderate in 52.296 minutes.
+[10:00:00] ca6-bTgR DEBUG: Next event of severity Major in 93.4067 minutes.
+[10:00:51] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (21,10,1)
+[10:00:56] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted KAZ03 chest rig at (0,0,0)
+[10:00:58] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:00:58] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:00:58] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:00:58] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at the area. 
+[10:01:03] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:03] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer creeps in the realm of the dead. 
+[10:01:03] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:03] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:03] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:07] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:01:07] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:07] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=42;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:18] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (36,22,1)
+[10:01:24] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:01:24] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:24] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:24] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now lurks among the dead at USMC FOB. 
+[10:01:24] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer prowls in the realm of the dead. 
+[10:01:24] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:24] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:24] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:27] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:01:27] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:27] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=40;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:35] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:01:35] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:35] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:35] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now creeps among the dead at the area. 
+[10:01:36] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer stalks in the realm of the dead. 
+[10:01:36] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:36] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:36] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:01:39] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:01:39] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:39] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:43] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (33,33,1)
+[10:01:46] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:01:46] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:46] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:46] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now lurks among the dead at the area. 
+[10:01:46] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer skulks in the realm of the dead. 
+[10:01:46] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:46] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:46] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:01:48] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:01:48] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:48] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=36;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:01:52] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (36,36,1)
+[10:01:57] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:01:57] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:01:57] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:01:57] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at the area. 
+[10:02:05] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:02:05] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:02:05] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:05] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:02:07] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:02:07] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:02:07] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:02:27] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/gun/projectile/automatic/rifle/ssg58 at (21,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:02:45] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:02:45] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:02:45] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:02:45] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at the area. 
+[10:02:45] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer skulks in the realm of the dead. 
+[10:02:45] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:02:45] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:45] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:02:48] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:02:48] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:02:48] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:02:53] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:02:53] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:02:53] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:02:53] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at the area. 
+[10:02:53] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:02:53] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:02:53] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:53] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:02:56] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:02:56] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:02:56] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:03:11] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:03:11] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:11] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:11] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at USMC FOB. 
+[10:03:11] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer stalks in the realm of the dead. 
+[10:03:11] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:11] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:11] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:03:14] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:03:14] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:14] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Squad Radio Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:25] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:03:25] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:25] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:25] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at the area. 
+[10:03:25] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer skulks in the realm of the dead. 
+[10:03:25] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:25] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:25] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:03:28] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:03:28] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:28] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:03:31] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:03:31] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:31] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:31] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now lurks among the dead at USMC FOB. 
+[10:03:32] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer stalks in the realm of the dead. 
+[10:03:32] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:32] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:32] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:03:35] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:03:35] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:35] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:03:50] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:03:50] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:50] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:50] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now skulks among the dead at the area. 
+[10:03:50] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer skulks in the realm of the dead. 
+[10:03:50] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:50] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:50] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:03:53] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:03:53] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:53] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:03:57] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:03:57] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:57] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:03:57] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now skulks among the dead at the area. 
+[10:03:58] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:03:58] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:03:58] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:58] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:04:01] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:04:01] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:01] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:04:11] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[10:04:29] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:04:29] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:29] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:29] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at the area. 
+[10:04:29] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer creeps in the realm of the dead. 
+[10:04:29] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:29] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:29] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:04:33] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:04:33] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:33] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:04:34] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:04:34] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:34] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:34] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at USMC FOB. 
+[10:04:34] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:04:34] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:34] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:34] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:04:38] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:04:38] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:38] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Pioneer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:04:41] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:04:41] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:41] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:41] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at USMC FOB. 
+[10:04:41] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer prowls in the realm of the dead. 
+[10:04:41] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:41] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:41] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:04:47] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:04:47] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:47] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:04:53] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:04:53] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:53] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:53] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now prowls among the dead at the area. 
+[10:04:53] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:04:53] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:53] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:53] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:04:57] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:04:57] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:57] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:04:59] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:04:59] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:59] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:04:59] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at USMC FOB. 
+[10:04:59] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer stalks in the realm of the dead. 
+[10:04:59] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:04:59] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:59] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:05:05] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:05:05] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:05] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Panzerfaustschutze Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:05:10] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:05:10] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:10] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:10] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now creeps among the dead at USMC FOB. 
+[10:05:11] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:05:11] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:11] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:11] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[10:05:14] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:05:14] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:14] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:05:16] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:05:16] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:16] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:16] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now stalks among the dead at USMC FOB. 
+[10:05:17] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer creeps in the realm of the dead. 
+[10:05:17] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:17] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:17] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[10:05:19] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:05:19] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:19] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[10:05:38] ca6-bTgR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) has ghosted.
+[10:05:38] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:38] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:38] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: *no key*/(Fabian Raede) : The ghost of <span class='name'>Fabian Raede</span> now lurks among the dead at USMC FOB. 
+[10:05:39] ca6-bTgR SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Fabian Raede) : <span class='name'>Fabian Raede</span> no longer lurks in the realm of the dead. 
+[10:05:39] ca6-bTgR ACCESS: Logout: *no key*/(Fabian Raede)
+[10:05:39] ca6-bTgR ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:39] ca6-bTgR ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[10:05:43] ca6-bTgR ACCESS: Logout: *no key*/(new player)
+[10:05:43] ca6-bTgR ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:05:43] ca6-bTgR ADMIN: Among us crewmate/(Fabian Raede) has joined the round as BDH Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[10:05:44] ca6-bTgR ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-bWTK) 14:49.30
+---------------------
+[10:00:00] ca6-bWTK ADMIN: Loading jobban_rank
+[10:00:00] ca6-bWTK ADMIN: jobban_keylist was empty
+[10:00:00] ca6-bWTK ADMIN: Loading Banlist
+[10:00:00] ca6-bWTK DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-bWTK ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-bWTK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca6-bWTK ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca6-b8kw) 15:56.19
+---------------------
+[05:00:00] ca6-b8kw ADMIN: Loading jobban_rank
+[05:00:00] ca6-b8kw ADMIN: jobban_keylist was empty
+[05:00:00] ca6-b8kw ADMIN: Loading Banlist
+[05:00:00] ca6-b8kw DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-b8kw ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-b8kw DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca6-b8kw ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-b8kw ADMIN: Among us crewmate has started the game.
+[05:00:00] ca6-b8kw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-b8kw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-b8kw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-b8kw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-b8kw ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca6-b8kw ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-b8kw GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca6-b8kw DEBUG: Next event of severity Mundane in 15.5 minutes.
+[05:00:00] ca6-b8kw DEBUG: Next event of severity Moderate in 53.338 minutes.
+[05:00:00] ca6-b8kw DEBUG: Next event of severity Major in 88.465 minutes.
+[05:00:21] ca6-b8kw ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/clothing/under/bundesheer/flecktarn at (8,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:03] ca6-b8kw ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/clothing/head/helmet/coldwar/heer/m1 at (6,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:55] ca6-b8kw ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-b9O7) 16:05.52
+---------------------
+[20:00:00] ca6-b9O7 ADMIN: Loading jobban_rank
+[20:00:00] ca6-b9O7 ADMIN: jobban_keylist was empty
+[20:00:00] ca6-b9O7 ADMIN: Loading Banlist
+[20:00:00] ca6-b9O7 DEBUG: Rebuilding Master Controller
+[20:00:00] ca6-b9O7 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-b9O7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca6-b9O7 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-b9O7 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-b9O7 ADMIN: Among us crewmate has started the game.
+[20:00:00] ca6-b9O7 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-b9O7 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-b9O7 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-b9O7 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-b9O7 ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca6-b9O7 ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-b9O7 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca6-b9O7 DEBUG: Next event of severity Mundane in 12.006 minutes.
+[20:00:00] ca6-b9O7 DEBUG: Next event of severity Moderate in 38.692 minutes.
+[20:00:00] ca6-b9O7 DEBUG: Next event of severity Major in 89.6917 minutes.
+[20:00:31] ca6-b9O7 ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/storage/backpack/sakitbag at (113,218,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:34] ca6-b9O7 ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-cbTh) 16:25.31
+---------------------
+[20:00:00] ca6-cbTh ADMIN: Loading jobban_rank
+[20:00:00] ca6-cbTh ADMIN: jobban_keylist was empty
+[20:00:00] ca6-cbTh ADMIN: Loading Banlist
+[20:00:00] ca6-cbTh DEBUG: Rebuilding Master Controller
+[20:00:00] ca6-cbTh ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-cbTh DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca6-cbTh ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca6-ccfa) 16:27.47
+---------------------
+[20:00:00] ca6-ccfa ADMIN: Loading jobban_rank
+[20:00:00] ca6-ccfa ADMIN: jobban_keylist was empty
+[20:00:00] ca6-ccfa ADMIN: Loading Banlist
+[20:00:00] ca6-ccfa DEBUG: Rebuilding Master Controller
+[20:00:00] ca6-ccfa ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-ccfa DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca6-ccfa ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-ccfa ADMIN: Among us crewmate has started the game.
+[20:00:00] ca6-ccfa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-ccfa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-ccfa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-ccfa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-ccfa ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca6-ccfa ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-ccfa GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca6-ccfa DEBUG: Next event of severity Mundane in 15.002 minutes.
+[20:00:00] ca6-ccfa DEBUG: Next event of severity Moderate in 42.442 minutes.
+[20:00:00] ca6-ccfa DEBUG: Next event of severity Major in 97.9283 minutes.
+[20:00:18] ca6-ccfa ADMIN: Among us crewmate/(Fabian Raede) changed the equipment of Among us crewmate/(Fabian Raede) to Job - Coldwar - BDH Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:43] ca6-ccfa ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[20:00:48] ca6-ccfa ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-ccZW) 16:32.38
+---------------------
+[10:00:00] ca6-ccZW ADMIN: Loading jobban_rank
+[10:00:00] ca6-ccZW ADMIN: jobban_keylist was empty
+[10:00:00] ca6-ccZW ADMIN: Loading Banlist
+[10:00:00] ca6-ccZW DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-ccZW ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-ccZW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering disallowed.
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering allowed.
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering allowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering disallowed.
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) toggled guests game entering disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Among us crewmate) toggled new player game entering. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate/(Among us crewmate) <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Among us crewmate) toggled new player game entering. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca6-ccZW ADMIN: Among us crewmate has started the game.
+[10:00:00] ca6-ccZW DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-ccZW DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-ccZW DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-ccZW DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-ccZW ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca6-ccZW ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-ccZW GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca6-ccZW DEBUG: Next event of severity Mundane in 15.734 minutes.
+[10:00:00] ca6-ccZW DEBUG: Next event of severity Moderate in 49.662 minutes.
+[10:00:00] ca6-ccZW DEBUG: Next event of severity Major in 93.3933 minutes.
+[10:00:06] ca6-ccZW ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[10:00:24] ca6-ccZW ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/radioset/prc77 at (21,6,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=6;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:30] ca6-ccZW ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-cfXu) 16:51.35
+---------------------
+[15:00:00] ca6-cfXu ADMIN: Loading jobban_rank
+[15:00:00] ca6-cfXu ADMIN: jobban_keylist was empty
+[15:00:00] ca6-cfXu ADMIN: Loading Banlist
+[15:00:00] ca6-cfXu DEBUG: Rebuilding Master Controller
+[15:00:00] ca6-cfXu ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca6-cfXu ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca6-cfXu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca6-cfXu ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca6-cfXu ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca6-cfXu ADMIN: Among us crewmate has started the game.
+[15:00:00] ca6-cfXu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-cfXu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-cfXu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-cfXu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca6-cfXu ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca6-cfXu ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[15:00:00] ca6-cfXu GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca6-cfXu DEBUG: Next event of severity Mundane in 16.748 minutes.
+[15:00:00] ca6-cfXu DEBUG: Next event of severity Moderate in 47.428 minutes.
+[15:00:00] ca6-cfXu DEBUG: Next event of severity Major in 81.0183 minutes.
+[15:00:16] ca6-cfXu ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/ammo_magazine/c762x51b/bdw/drum/tr at (107,92,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=92;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:23] ca6-cfXu ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-cg3z) 16:58.31
+---------------------
+[05:00:00] ca6-cg3z ADMIN: Loading jobban_rank
+[05:00:00] ca6-cg3z ADMIN: jobban_keylist was empty
+[05:00:00] ca6-cg3z ADMIN: Loading Banlist
+[05:00:00] ca6-cg3z DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-cg3z ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+
+
+Starting up. (ID: ca6-cheq) 16:59.44
+---------------------
+[05:00:00] ca6-cheq ADMIN: Loading jobban_rank
+[05:00:00] ca6-cheq ADMIN: jobban_keylist was empty
+[05:00:00] ca6-cheq ADMIN: Loading Banlist
+[05:00:00] ca6-cheq DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-cheq ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-cheq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-cheq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-cheq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca6-cheq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-cheq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-cheq ADMIN: Among us crewmate has started the game.
+[05:00:00] ca6-cheq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-cheq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-cheq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-cheq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-cheq ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca6-cheq ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-cheq GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca6-cheq DEBUG: Next event of severity Mundane in 14.504 minutes.
+[05:00:00] ca6-cheq DEBUG: Next event of severity Moderate in 36.7 minutes.
+[05:00:00] ca6-cheq DEBUG: Next event of severity Major in 95.8983 minutes.
+[05:00:10] ca6-cheq ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/storage/backpack/soviet_tabletbag at (112,94,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=94;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:55] ca6-cheq ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-chKV) 17:03.06
+---------------------
+[20:00:00] ca6-chKV ADMIN: Loading jobban_rank
+[20:00:00] ca6-chKV ADMIN: jobban_keylist was empty
+[20:00:00] ca6-chKV ADMIN: Loading Banlist
+[20:00:00] ca6-chKV DEBUG: Rebuilding Master Controller
+[20:00:00] ca6-chKV ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-chKV ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-chKV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca6-chKV ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-chKV ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca6-chKV ADMIN: Among us crewmate has started the game.
+[20:00:00] ca6-chKV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-chKV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-chKV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-chKV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca6-chKV ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca6-chKV ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[20:00:00] ca6-chKV GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca6-chKV DEBUG: Next event of severity Mundane in 12.42 minutes.
+[20:00:00] ca6-chKV DEBUG: Next event of severity Moderate in 46.14 minutes.
+[20:00:00] ca6-chKV DEBUG: Next event of severity Major in 90.39 minutes.
+[20:01:22] ca6-chKV ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-ciBf) 17:08.30
+---------------------
+[05:00:00] ca6-ciBf ADMIN: Loading jobban_rank
+[05:00:00] ca6-ciBf ADMIN: jobban_keylist was empty
+[05:00:00] ca6-ciBf ADMIN: Loading Banlist
+[05:00:00] ca6-ciBf DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-ciBf ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ciBf ADMIN: Among us crewmate has started the game.
+[05:00:00] ca6-ciBf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ciBf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ciBf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ciBf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ciBf ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca6-ciBf ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-ciBf GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca6-ciBf DEBUG: Next event of severity Mundane in 14.736 minutes.
+[05:00:00] ca6-ciBf DEBUG: Next event of severity Moderate in 51.704 minutes.
+[05:00:00] ca6-ciBf DEBUG: Next event of severity Major in 91.4483 minutes.
+[05:00:16] ca6-ciBf ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-cjVx) 17:17.01
+---------------------
+[10:00:00] ca6-cjVx ADMIN: Loading jobban_rank
+[10:00:00] ca6-cjVx ADMIN: jobban_keylist was empty
+[10:00:00] ca6-cjVx ADMIN: Loading Banlist
+[10:00:00] ca6-cjVx DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-cjVx ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-cjVx ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-cjVx DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca6-cjVx ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-cjVx ADMIN: Among us crewmate has started the game.
+[10:00:00] ca6-cjVx DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-cjVx DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-cjVx DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-cjVx DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-cjVx ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca6-cjVx ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-cjVx GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca6-cjVx DEBUG: Next event of severity Mundane in 14.148 minutes.
+[10:00:00] ca6-cjVx DEBUG: Next event of severity Moderate in 49.468 minutes.
+[10:00:00] ca6-cjVx DEBUG: Next event of severity Major in 86.5967 minutes.
+[10:00:02] ca6-cjVx ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (166,225,1)
+[10:01:35] ca6-cjVx ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (156,193,1)
+[10:01:48] ca6-cjVx ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (166,194,1)
+[10:02:28] ca6-cjVx ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (160,194,1)
+[10:02:35] ca6-cjVx ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-ckVT) 17:23.27
+---------------------
+[05:00:00] ca6-ckVT ADMIN: Loading jobban_rank
+[05:00:00] ca6-ckVT ADMIN: jobban_keylist was empty
+[05:00:00] ca6-ckVT ADMIN: Loading Banlist
+[05:00:00] ca6-ckVT DEBUG: Rebuilding Master Controller
+[05:00:00] ca6-ckVT ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca6-ckVT ADMIN: Among us crewmate has started the game.
+[05:00:00] ca6-ckVT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ckVT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ckVT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ckVT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca6-ckVT ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca6-ckVT ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[05:00:00] ca6-ckVT GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca6-ckVT DEBUG: Next event of severity Mundane in 14.182 minutes.
+[05:00:00] ca6-ckVT DEBUG: Next event of severity Moderate in 53.602 minutes.
+[05:00:00] ca6-ckVT DEBUG: Next event of severity Major in 86.905 minutes.
+[05:01:10] ca6-ckVT ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca6-clVf) 17:29.47
+---------------------
+[10:00:00] ca6-clVf ADMIN: Loading jobban_rank
+[10:00:00] ca6-clVf ADMIN: jobban_keylist was empty
+[10:00:00] ca6-clVf ADMIN: Loading Banlist
+[10:00:00] ca6-clVf DEBUG: Rebuilding Master Controller
+[10:00:00] ca6-clVf ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-clVf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca6-clVf ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca6-clVf ADMIN: Among us crewmate has started the game.
+[10:00:00] ca6-clVf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-clVf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-clVf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-clVf DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca6-clVf ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca6-clVf ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3195767659 || BYOND v513
+[10:00:00] ca6-clVf GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca6-clVf DEBUG: Next event of severity Mundane in 17.468 minutes.
+[10:00:00] ca6-clVf DEBUG: Next event of severity Moderate in 49.774 minutes.
+[10:00:00] ca6-clVf DEBUG: Next event of severity Major in 92.2817 minutes.
+[10:00:13] ca6-clVf ADMIN: Among us crewmate/(Fabian Raede) deleted BDH field pack at (0,0,0)
+[10:00:59] ca6-clVf ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (36,23,1)
+[10:02:11] ca6-clVf ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (28,10,1)
+[10:02:14] ca6-clVf ATTACK: Fabian Raede (amonguscrewmate) primed M18 smoke grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=8;Z=1'>JMP</a>)
+[10:02:48] ca6-clVf ADMIN: Among us crewmate/(Fabian Raede) jumped to WARPACT FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=228;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:03:08] ca6-clVf ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (156,193,1)
+[10:03:17] ca6-clVf ACCESS: Logout: Among us crewmate/(Fabian Raede)

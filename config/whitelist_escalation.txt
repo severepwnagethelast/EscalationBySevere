@@ -1,0 +1,39 @@
+# KEY = {
+# TITLE ROLE
+# TITLE ROLE
+# TITLE ROLE
+# }
+
+############### HOSTS
+
+SeverePwnage = {
+::ALL::
+}
+
+############### USMC OFFICER
+
+############### USMC NCO
+
+############### USMC ENLISTED
+
+############### USMC SPECOPS
+
+############### HEER OFFICER
+
+############### HEER NCO
+
+############### HEER ENLISTED
+
+############### SA OFFICER
+
+############### SA NCO
+
+############### SA ENLISTED
+
+############### SA SPECOPS
+
+############### CSLA OFFICER
+
+############### CSLA NCO
+
+############### CSLA ENLISTED

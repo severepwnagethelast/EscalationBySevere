@@ -1,0 +1,178 @@
+
+
+Starting up. (ID: cbd-a1Kb) 08:36.54
+---------------------
+[20:00:00] cbd-a1Kb ADMIN: Loading jobban_rank
+[20:00:00] cbd-a1Kb ADMIN: jobban_keylist was empty
+[20:00:00] cbd-a1Kb ADMIN: Loading Banlist
+[20:00:00] cbd-a1Kb DEBUG: Rebuilding Master Controller
+[20:00:00] cbd-a1Kb ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbd-a1Kb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbd-a1Kb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbd-a1Kb DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbd-a1Kb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbd-a1Kb ADMIN: SeverePwnage has started the game.
+[20:00:00] cbd-a1Kb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a1Kb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a1Kb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a1Kb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a1Kb ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbd-a1Kb ACCESS: Login: SeverePwnage/(Zachariah Cavalet) from localhost-3031256942 || BYOND v513
+[20:00:00] cbd-a1Kb GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbd-a1Kb DEBUG: Next event of severity Mundane in 14.438 minutes.
+[20:00:00] cbd-a1Kb DEBUG: Next event of severity Moderate in 49.866 minutes.
+[20:00:00] cbd-a1Kb DEBUG: Next event of severity Major in 86.5567 minutes.
+[20:00:14] cbd-a1Kb ADMIN: SeverePwnage/(Zachariah Cavalet) deleted the steel door at (28,10,1)
+[20:00:20] cbd-a1Kb ADMIN: SeverePwnage/(Zachariah Cavalet) deleted the steel door at (21,10,1)
+[20:00:33] cbd-a1Kb ADMIN: SeverePwnage/(Zachariah Cavalet) spawned /mob/living/carbon/human at (20,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:48] cbd-a1Kb DEBUG: Moved - Lou Wolfe was deleted while still listening to Lou Wolfe's brain.
+[20:00:48] cbd-a1Kb DEBUG: Moved - Lou Wolfe's brain was deleted while still listening to Lou Wolfe's head.
+[20:01:36] cbd-a1Kb ACCESS: Logout: SeverePwnage/(Zachariah Cavalet)
+
+
+Starting up. (ID: cbd-a2d6) 08:39.59
+---------------------
+[10:00:00] cbd-a2d6 ADMIN: Loading jobban_rank
+[10:00:00] cbd-a2d6 ADMIN: jobban_keylist was empty
+[10:00:00] cbd-a2d6 ADMIN: Loading Banlist
+[10:00:00] cbd-a2d6 DEBUG: Rebuilding Master Controller
+[10:00:00] cbd-a2d6 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbd-a2d6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbd-a2d6 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbd-a2d6 ADMIN: SeverePwnage has started the game.
+[10:00:00] cbd-a2d6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbd-a2d6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbd-a2d6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbd-a2d6 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbd-a2d6 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbd-a2d6 ACCESS: Login: SeverePwnage/(Wayne Mcmullen) from localhost-3031256942 || BYOND v513
+[10:00:00] cbd-a2d6 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbd-a2d6 DEBUG: Next event of severity Mundane in 14.548 minutes.
+[10:00:00] cbd-a2d6 DEBUG: Next event of severity Moderate in 38.158 minutes.
+[10:00:00] cbd-a2d6 DEBUG: Next event of severity Major in 99.6 minutes.
+[10:00:10] cbd-a2d6 ADMIN: SeverePwnage/(Wayne Mcmullen) spawned /mob/living/carbon/human at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:20] cbd-a2d6 ADMIN: SeverePwnage/(Wayne Mcmullen) spawned /mob/living/carbon/human/dummy/mannequin at (21,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:43] cbd-a2d6 DEBUG: Moved - Levi Hussain was deleted while still listening to Levi Hussain's brain.
+[10:00:43] cbd-a2d6 DEBUG: Moved - Levi Hussain's brain was deleted while still listening to Levi Hussain's head.
+[10:01:07] cbd-a2d6 ACCESS: Logout: SeverePwnage/(Wayne Mcmullen)
+
+
+Starting up. (ID: cbd-a3KW) 08:49.48
+---------------------
+[15:00:00] cbd-a3KW ADMIN: Loading jobban_rank
+[15:00:00] cbd-a3KW ADMIN: jobban_keylist was empty
+[15:00:00] cbd-a3KW ADMIN: Loading Banlist
+[15:00:00] cbd-a3KW DEBUG: Rebuilding Master Controller
+[15:00:00] cbd-a3KW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-a3KW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbd-a3KW ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-a3KW ADMIN: SeverePwnage has started the game.
+[15:00:00] cbd-a3KW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a3KW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a3KW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a3KW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a3KW ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbd-a3KW ACCESS: Login: SeverePwnage/(Bryce Pearsall) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-a3KW GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbd-a3KW DEBUG: Next event of severity Mundane in 16.824 minutes.
+[15:00:00] cbd-a3KW DEBUG: Next event of severity Moderate in 42.482 minutes.
+[15:00:00] cbd-a3KW DEBUG: Next event of severity Major in 86.665 minutes.
+[15:00:03] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) deleted the steel door at (33,33,1)
+[15:00:11] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) spawned /obj/item/weapon/sandbag/full at (32,27,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=32;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:34] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) spawned /obj/item/weapon/sandbag/full at (33,29,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=33;Y=29;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:51] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) spawned /obj/item/weapon/grenade/frag/ugl/vog25 at (41,29,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=29;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:57] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) spawned /obj/item/weapon/gun/projectile/automatic/rifle/auga1gl at (41,30,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=30;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:06] cbd-a3KW ADMIN: SeverePwnage/(Bryce Pearsall) spawned /obj/item/weapon/grenade/frag/ugl/shell40mm at (44,29,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=44;Y=29;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:09] cbd-a3KW GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryce Pearsall) used a grenade (40x46mm 'M381 HE' grenade shell).
+[15:01:22] cbd-a3KW ACCESS: Logout: SeverePwnage/(Bryce Pearsall)
+
+
+Starting up. (ID: cbd-a7aw) 09:11.40
+---------------------
+[20:00:00] cbd-a7aw ADMIN: Loading jobban_rank
+[20:00:00] cbd-a7aw ADMIN: jobban_keylist was empty
+[20:00:00] cbd-a7aw ADMIN: Loading Banlist
+[20:00:00] cbd-a7aw DEBUG: Rebuilding Master Controller
+[20:00:00] cbd-a7aw ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbd-a7aw DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbd-a7aw ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbd-a7aw ADMIN: SeverePwnage has started the game.
+[20:00:00] cbd-a7aw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a7aw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a7aw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a7aw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbd-a7aw ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbd-a7aw ACCESS: Login: SeverePwnage/(Taylor Moberly) from localhost-3031256942 || BYOND v513
+[20:00:00] cbd-a7aw GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbd-a7aw DEBUG: Next event of severity Mundane in 12.03 minutes.
+[20:00:00] cbd-a7aw DEBUG: Next event of severity Moderate in 49.574 minutes.
+[20:00:00] cbd-a7aw DEBUG: Next event of severity Major in 82.1017 minutes.
+[20:00:08] cbd-a7aw ADMIN: SeverePwnage/(Taylor Moberly) spawned /obj/item/weapon/sandbag/full at (16,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=16;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:39] cbd-a7aw ADMIN: SeverePwnage/(Taylor Moberly) deleted the steel door at (25,10,1)
+[20:00:45] cbd-a7aw ADMIN: SeverePwnage/(Taylor Moberly) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1gl at (25,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:51] cbd-a7aw GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Taylor Moberly) used a grenade (40x46mm 'M381 HE' grenade shell).
+[20:00:53] cbd-a7aw ACCESS: Logout: SeverePwnage/(Taylor Moberly)
+
+
+Starting up. (ID: cbd-a7Gv) 09:14.58
+---------------------
+[15:00:00] cbd-a7Gv ADMIN: Loading jobban_rank
+[15:00:00] cbd-a7Gv ADMIN: jobban_keylist was empty
+[15:00:00] cbd-a7Gv ADMIN: Loading Banlist
+[15:00:00] cbd-a7Gv DEBUG: Rebuilding Master Controller
+[15:00:00] cbd-a7Gv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-a7Gv ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-a7Gv ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-a7Gv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbd-a7Gv ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-a7Gv ADMIN: SeverePwnage has started the game.
+[15:00:00] cbd-a7Gv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a7Gv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a7Gv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a7Gv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-a7Gv ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbd-a7Gv ACCESS: Login: SeverePwnage/(Roy Feufer) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-a7Gv GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbd-a7Gv DEBUG: Next event of severity Mundane in 13.224 minutes.
+[15:00:00] cbd-a7Gv DEBUG: Next event of severity Moderate in 50.704 minutes.
+[15:00:00] cbd-a7Gv DEBUG: Next event of severity Major in 93.2967 minutes.
+[15:00:08] cbd-a7Gv ADMIN: SeverePwnage/(Roy Feufer) spawned /obj/item/weapon/sandbag/full at (19,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:18] cbd-a7Gv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roy Feufer) used a grenade (40x46mm 'M381 HE' grenade shell).
+[15:00:25] cbd-a7Gv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roy Feufer) used a grenade (40x46mm 'M381 HE' grenade shell).
+[15:00:30] cbd-a7Gv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roy Feufer) used a grenade (40x46mm 'M381 HE' grenade shell).
+[15:00:51] cbd-a7Gv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roy Feufer) used a grenade (40x46mm 'M676' grenade shell).
+[15:00:52] cbd-a7Gv ACCESS: Logout: SeverePwnage/(Roy Feufer)
+
+
+Starting up. (ID: cbd-bWAT) 14:47.32
+---------------------
+[05:00:00] cbd-bWAT ADMIN: Loading jobban_rank
+[05:00:00] cbd-bWAT ADMIN: jobban_keylist was empty
+[05:00:00] cbd-bWAT ADMIN: Loading Banlist
+[05:00:00] cbd-bWAT DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbd-cdkd) 16:34.43
+---------------------
+[15:00:00] cbd-cdkd ADMIN: Loading jobban_rank
+[15:00:00] cbd-cdkd ADMIN: jobban_keylist was empty
+[15:00:00] cbd-cdkd ADMIN: Loading Banlist
+[15:00:00] cbd-cdkd DEBUG: Rebuilding Master Controller
+[15:00:00] cbd-cdkd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-cdkd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-cdkd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbd-cdkd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbd-cdkd ADMIN: SeverePwnage has started the game.
+[15:00:00] cbd-cdkd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-cdkd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-cdkd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-cdkd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbd-cdkd ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbd-cdkd ACCESS: Login: SeverePwnage/(Jimmy Llora) from localhost-3031256942 || BYOND v513
+[15:00:00] cbd-cdkd GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbd-cdkd DEBUG: Next event of severity Mundane in 14.372 minutes.
+[15:00:00] cbd-cdkd DEBUG: Next event of severity Moderate in 36.24 minutes.
+[15:00:00] cbd-cdkd DEBUG: Next event of severity Major in 96.545 minutes.
+[15:00:33] cbd-cdkd ADMIN: SeverePwnage/(Jimmy Llora) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jimmy Llora)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:41] cbd-cdkd ADMIN: SeverePwnage/(Jimmy Llora) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jimmy Llora)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=22;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:46] cbd-cdkd ACCESS: Logout: SeverePwnage/(Jimmy Llora)

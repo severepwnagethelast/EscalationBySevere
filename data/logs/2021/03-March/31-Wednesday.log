@@ -1,0 +1,901 @@
+
+
+Starting up. (ID: cbk-ba3A) 09:42.52
+---------------------
+[20:00:00] cbk-ba3A ADMIN: Loading ckey_whitelist
+[20:00:00] cbk-ba3A ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbk-ba3A ADMIN: Loading jobban_rank
+[20:00:00] cbk-ba3A ADMIN: jobban_keylist was empty
+[20:00:00] cbk-ba3A ADMIN: Loading Banlist
+[20:00:00] cbk-ba3A DEBUG: Rebuilding Master Controller
+[20:00:00] cbk-ba3A ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-ba3A DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbk-ba3A ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-ba3A ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-ba3A ADMIN: SeverePwnage has started the game.
+[20:00:00] cbk-ba3A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-ba3A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-ba3A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-ba3A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-ba3A ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbk-ba3A ACCESS: Login: SeverePwnage/(Matthew Owens) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-ba3A GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbk-ba3A DEBUG: Next event of severity Mundane in 17.932 minutes.
+[20:00:00] cbk-ba3A DEBUG: Next event of severity Moderate in 52.48 minutes.
+[20:00:00] cbk-ba3A DEBUG: Next event of severity Major in 96.3117 minutes.
+[20:00:03] cbk-ba3A ACCESS: Logout: SeverePwnage/(Matthew Owens)
+
+
+Starting up. (ID: cbk-bb85) 09:49.50
+---------------------
+[10:00:00] cbk-bb85 ADMIN: Loading ckey_whitelist
+[10:00:00] cbk-bb85 ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbk-bb85 ADMIN: Loading jobban_rank
+[10:00:00] cbk-bb85 ADMIN: jobban_keylist was empty
+[10:00:00] cbk-bb85 ADMIN: Loading Banlist
+[10:00:00] cbk-bb85 DEBUG: Rebuilding Master Controller
+[10:00:00] cbk-bb85 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bb85 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbk-bcin) 09:50.54
+---------------------
+[10:00:00] cbk-bcin ADMIN: Loading ckey_whitelist
+[10:00:00] cbk-bcin ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbk-bcin ADMIN: Loading jobban_rank
+[10:00:00] cbk-bcin ADMIN: jobban_keylist was empty
+[10:00:00] cbk-bcin ADMIN: Loading Banlist
+[10:00:00] cbk-bcin DEBUG: Rebuilding Master Controller
+[10:00:00] cbk-bcin ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bcin ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bcin DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbk-bcin ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bcin ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bcin ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bcin ADMIN: SeverePwnage has started the game.
+[10:00:00] cbk-bcin DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bcin DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bcin DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bcin DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bcin ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bcin GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbk-bcin DEBUG: Next event of severity Mundane in 13.572 minutes.
+[10:00:00] cbk-bcin DEBUG: Next event of severity Moderate in 49.534 minutes.
+[10:00:00] cbk-bcin DEBUG: Next event of severity Major in 86.5533 minutes.
+[10:00:58] cbk-bcin GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Shiloh Hill) has ghosted.
+[10:00:58] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:00:58] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:00:58] cbk-bcin SAY: (DSAY) SeverePwnage - usr: *no key*/(Shiloh Hill) : The ghost of <span class='name'>Shiloh Hill</span> now prowls among the dead at the outside. 
+[10:01:01] cbk-bcin ADMIN: SeverePwnage/(Shiloh Hill) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=95;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:03] cbk-bcin SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Shiloh Hill) : <span class='name'>Shiloh Hill</span> no longer stalks in the realm of the dead. 
+[10:01:03] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:01:03] cbk-bcin ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:03] cbk-bcin ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:13] cbk-bcin ACCESS: Logout: *no key*/(new player)
+[10:01:13] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:01:13] cbk-bcin ADMIN: SeverePwnage/(Shiloh Hill) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:18] cbk-bcin GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Shiloh Hill) has ghosted.
+[10:01:18] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:01:18] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:01:18] cbk-bcin SAY: (DSAY) SeverePwnage - usr: *no key*/(Shiloh Hill) : The ghost of <span class='name'>Shiloh Hill</span> now creeps among the dead at the outside. 
+[10:01:20] cbk-bcin SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Shiloh Hill) : <span class='name'>Shiloh Hill</span> no longer skulks in the realm of the dead. 
+[10:01:20] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:01:20] cbk-bcin ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:20] cbk-bcin ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:23] cbk-bcin ACCESS: Logout: *no key*/(new player)
+[10:01:23] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:01:23] cbk-bcin ADMIN: SeverePwnage/(Shiloh Hill) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:26] cbk-bcin GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Shiloh Hill) has ghosted.
+[10:01:26] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:01:26] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:01:26] cbk-bcin SAY: (DSAY) SeverePwnage - usr: *no key*/(Shiloh Hill) : The ghost of <span class='name'>Shiloh Hill</span> now skulks among the dead at USMC FOB. 
+[10:01:27] cbk-bcin SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Shiloh Hill) : <span class='name'>Shiloh Hill</span> no longer skulks in the realm of the dead. 
+[10:01:27] cbk-bcin ACCESS: Logout: *no key*/(Shiloh Hill)
+[10:01:27] cbk-bcin ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:27] cbk-bcin ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:01:37] cbk-bcin ACCESS: Logout: *no key*/(new player)
+[10:01:37] cbk-bcin ACCESS: Login: SeverePwnage/(Shiloh Hill) from localhost-3031256942 || BYOND v513
+[10:01:37] cbk-bcin ADMIN: SeverePwnage/(Shiloh Hill) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:41] cbk-bcin ACCESS: Logout: SeverePwnage/(Shiloh Hill)
+
+
+Starting up. (ID: cbk-bdCh) 09:59.22
+---------------------
+[20:00:00] cbk-bdCh ADMIN: Loading ckey_whitelist
+[20:00:00] cbk-bdCh ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbk-bdCh ADMIN: Loading jobban_rank
+[20:00:00] cbk-bdCh ADMIN: jobban_keylist was empty
+[20:00:00] cbk-bdCh ADMIN: Loading Banlist
+[20:00:00] cbk-bdCh DEBUG: Rebuilding Master Controller
+[20:00:00] cbk-bdCh ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bdCh DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbk-bdCh ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-bdCh ADMIN: SeverePwnage has started the game.
+[20:00:00] cbk-bdCh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bdCh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bdCh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bdCh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bdCh ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbk-bdCh ACCESS: Login: SeverePwnage/(Johnathan Allen) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bdCh GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbk-bdCh DEBUG: Next event of severity Mundane in 16.124 minutes.
+[20:00:00] cbk-bdCh DEBUG: Next event of severity Moderate in 48.65 minutes.
+[20:00:00] cbk-bdCh DEBUG: Next event of severity Major in 80.6367 minutes.
+[20:00:06] cbk-bdCh ACCESS: Logout: SeverePwnage/(Johnathan Allen)
+
+
+Starting up. (ID: cbk-beQ4) 10:07.18
+---------------------
+[10:00:00] cbk-beQ4 ADMIN: Loading ckey_whitelist
+[10:00:00] cbk-beQ4 ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbk-beQ4 ADMIN: Loading jobban_rank
+[10:00:00] cbk-beQ4 ADMIN: jobban_keylist was empty
+[10:00:00] cbk-beQ4 ADMIN: Loading Banlist
+[10:00:00] cbk-beQ4 DEBUG: Rebuilding Master Controller
+[10:00:00] cbk-beQ4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-beQ4 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-beQ4 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-beQ4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbk-beQ4 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-beQ4 ADMIN: SeverePwnage has started the game.
+[10:00:00] cbk-beQ4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-beQ4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-beQ4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-beQ4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-beQ4 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbk-beQ4 ACCESS: Login: SeverePwnage/(Milo Eliza) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-beQ4 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbk-beQ4 DEBUG: Next event of severity Mundane in 13.69 minutes.
+[10:00:00] cbk-beQ4 DEBUG: Next event of severity Moderate in 51.302 minutes.
+[10:00:00] cbk-beQ4 DEBUG: Next event of severity Major in 80.9133 minutes.
+[10:00:06] cbk-beQ4 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Milo Eliza) has ghosted.
+[10:00:06] cbk-beQ4 ACCESS: Logout: *no key*/(Milo Eliza)
+[10:00:06] cbk-beQ4 ACCESS: Login: SeverePwnage/(Milo Eliza) from localhost-3031256942 || BYOND v513
+[10:00:06] cbk-beQ4 SAY: (DSAY) SeverePwnage - usr: *no key*/(Milo Eliza) : The ghost of <span class='name'>Milo Eliza</span> now stalks among the dead at the outside. 
+[10:00:12] cbk-beQ4 ADMIN: SeverePwnage/(Milo Eliza) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:16] cbk-beQ4 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Milo Eliza) : <span class='name'>Milo Eliza</span> no longer creeps in the realm of the dead. 
+[10:00:16] cbk-beQ4 ACCESS: Logout: *no key*/(Milo Eliza)
+[10:00:16] cbk-beQ4 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:16] cbk-beQ4 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:50] cbk-beQ4 ACCESS: Logout: *no key*/(new player)
+[10:00:50] cbk-beQ4 ACCESS: Login: SeverePwnage/(Milo Eliza) from localhost-3031256942 || BYOND v513
+[10:00:50] cbk-beQ4 ADMIN: SeverePwnage/(Milo Eliza) has joined the round as USMC Fireteam Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:55] cbk-beQ4 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Milo Eliza) has ghosted.
+[10:00:55] cbk-beQ4 ACCESS: Logout: *no key*/(Milo Eliza)
+[10:00:55] cbk-beQ4 ACCESS: Login: SeverePwnage/(Milo Eliza) from localhost-3031256942 || BYOND v513
+[10:00:55] cbk-beQ4 SAY: (DSAY) SeverePwnage - usr: *no key*/(Milo Eliza) : The ghost of <span class='name'>Milo Eliza</span> now stalks among the dead at USMC FOB. 
+[10:00:56] cbk-beQ4 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Milo Eliza) : <span class='name'>Milo Eliza</span> no longer stalks in the realm of the dead. 
+[10:00:56] cbk-beQ4 ACCESS: Logout: *no key*/(Milo Eliza)
+[10:00:56] cbk-beQ4 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:56] cbk-beQ4 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:05] cbk-beQ4 ACCESS: Logout: *no key*/(new player)
+[10:01:05] cbk-beQ4 ACCESS: Login: SeverePwnage/(Milo Eliza) from localhost-3031256942 || BYOND v513
+[10:01:05] cbk-beQ4 ADMIN: SeverePwnage/(Milo Eliza) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:08] cbk-beQ4 ACCESS: Logout: SeverePwnage/(Milo Eliza)
+
+
+Starting up. (ID: cbk-bfxb) 10:11.40
+---------------------
+[05:00:00] cbk-bfxb ADMIN: Loading ckey_whitelist
+[05:00:00] cbk-bfxb ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbk-bfxb ADMIN: Loading jobban_rank
+[05:00:00] cbk-bfxb ADMIN: jobban_keylist was empty
+[05:00:00] cbk-bfxb ADMIN: Loading Banlist
+[05:00:00] cbk-bfxb DEBUG: Rebuilding Master Controller
+[05:00:00] cbk-bfxb ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bfxb DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbk-bfxb ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbk-bfxb ADMIN: SeverePwnage has started the game.
+[05:00:00] cbk-bfxb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bfxb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bfxb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bfxb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bfxb ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbk-bfxb ACCESS: Login: SeverePwnage/(Julian King) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bfxb GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbk-bfxb DEBUG: Next event of severity Mundane in 16.04 minutes.
+[05:00:00] cbk-bfxb DEBUG: Next event of severity Moderate in 49.2 minutes.
+[05:00:00] cbk-bfxb DEBUG: Next event of severity Major in 96.4817 minutes.
+[05:00:06] cbk-bfxb GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Julian King) has ghosted.
+[05:00:06] cbk-bfxb ACCESS: Logout: *no key*/(Julian King)
+[05:00:06] cbk-bfxb ACCESS: Login: SeverePwnage/(Julian King) from localhost-3031256942 || BYOND v513
+[05:00:06] cbk-bfxb SAY: (DSAY) SeverePwnage - usr: *no key*/(Julian King) : The ghost of <span class='name'>Julian King</span> now lurks among the dead at the road. 
+[05:00:12] cbk-bfxb ADMIN: SeverePwnage/(Julian King) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:14] cbk-bfxb SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Julian King) : <span class='name'>Julian King</span> no longer creeps in the realm of the dead. 
+[05:00:14] cbk-bfxb ACCESS: Logout: *no key*/(Julian King)
+[05:00:14] cbk-bfxb ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:14] cbk-bfxb ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:21] cbk-bfxb ACCESS: Logout: *no key*/(new player)
+[05:00:21] cbk-bfxb ACCESS: Login: SeverePwnage/(Julian King) from localhost-3031256942 || BYOND v513
+[05:00:21] cbk-bfxb ADMIN: SeverePwnage/(Julian King) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:25] cbk-bfxb GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Julian King) has ghosted.
+[05:00:25] cbk-bfxb ACCESS: Logout: *no key*/(Julian King)
+[05:00:25] cbk-bfxb ACCESS: Login: SeverePwnage/(Julian King) from localhost-3031256942 || BYOND v513
+[05:00:25] cbk-bfxb SAY: (DSAY) SeverePwnage - usr: *no key*/(Julian King) : The ghost of <span class='name'>Julian King</span> now skulks among the dead at USMC FOB. 
+[05:00:26] cbk-bfxb SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Julian King) : <span class='name'>Julian King</span> no longer skulks in the realm of the dead. 
+[05:00:26] cbk-bfxb ACCESS: Logout: *no key*/(Julian King)
+[05:00:26] cbk-bfxb ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:26] cbk-bfxb ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:00:37] cbk-bfxb ACCESS: Logout: *no key*/(new player)
+[05:00:37] cbk-bfxb ACCESS: Login: SeverePwnage/(Julian King) from localhost-3031256942 || BYOND v513
+[05:00:37] cbk-bfxb ADMIN: SeverePwnage/(Julian King) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:45] cbk-bfxb ACCESS: Logout: SeverePwnage/(Julian King)
+
+
+Starting up. (ID: cbk-bgkq) 10:16.46
+---------------------
+[20:00:00] cbk-bgkq ADMIN: Loading ckey_whitelist
+[20:00:00] cbk-bgkq ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbk-bgkq ADMIN: Loading jobban_rank
+[20:00:00] cbk-bgkq ADMIN: jobban_keylist was empty
+[20:00:00] cbk-bgkq ADMIN: Loading Banlist
+[20:00:00] cbk-bgkq DEBUG: Rebuilding Master Controller
+[20:00:00] cbk-bgkq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bgkq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbk-bgkq ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-bgkq ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] cbk-bgkq ADMIN: SeverePwnage has started the game.
+[20:00:00] cbk-bgkq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bgkq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bgkq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bgkq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bgkq ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbk-bgkq ACCESS: Login: SeverePwnage/(Percival Stern) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bgkq GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbk-bgkq DEBUG: Next event of severity Mundane in 13.262 minutes.
+[20:00:00] cbk-bgkq DEBUG: Next event of severity Moderate in 52.65 minutes.
+[20:00:00] cbk-bgkq DEBUG: Next event of severity Major in 89.96 minutes.
+[20:00:09] cbk-bgkq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Percival Stern) has ghosted.
+[20:00:09] cbk-bgkq ACCESS: Logout: *no key*/(Percival Stern)
+[20:00:09] cbk-bgkq ACCESS: Login: SeverePwnage/(Percival Stern) from localhost-3031256942 || BYOND v513
+[20:00:09] cbk-bgkq SAY: (DSAY) SeverePwnage - usr: *no key*/(Percival Stern) : The ghost of <span class='name'>Percival Stern</span> now prowls among the dead at the outside. 
+[20:00:10] cbk-bgkq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Percival Stern) : <span class='name'>Percival Stern</span> no longer stalks in the realm of the dead. 
+[20:00:10] cbk-bgkq ACCESS: Logout: *no key*/(Percival Stern)
+[20:00:10] cbk-bgkq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:10] cbk-bgkq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:00:15] cbk-bgkq ACCESS: Logout: *no key*/(new player)
+[20:00:15] cbk-bgkq ACCESS: Login: SeverePwnage/(Percival Stern) from localhost-3031256942 || BYOND v513
+[20:00:15] cbk-bgkq ADMIN: SeverePwnage/(Percival Stern) has joined the round as USMC Fireteam Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:18] cbk-bgkq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Percival Stern) has ghosted.
+[20:00:18] cbk-bgkq ACCESS: Logout: *no key*/(Percival Stern)
+[20:00:18] cbk-bgkq ACCESS: Login: SeverePwnage/(Percival Stern) from localhost-3031256942 || BYOND v513
+[20:00:18] cbk-bgkq SAY: (DSAY) SeverePwnage - usr: *no key*/(Percival Stern) : The ghost of <span class='name'>Percival Stern</span> now creeps among the dead at USMC FOB. 
+[20:00:19] cbk-bgkq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Percival Stern) : <span class='name'>Percival Stern</span> no longer prowls in the realm of the dead. 
+[20:00:19] cbk-bgkq ACCESS: Logout: *no key*/(Percival Stern)
+[20:00:19] cbk-bgkq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:19] cbk-bgkq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[20:00:32] cbk-bgkq ACCESS: Logout: *no key*/(new player)
+[20:00:32] cbk-bgkq ACCESS: Login: SeverePwnage/(Percival Stern) from localhost-3031256942 || BYOND v513
+[20:00:32] cbk-bgkq ADMIN: SeverePwnage/(Percival Stern) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:00:32] cbk-bgkq ACCESS: Logout: SeverePwnage/(Percival Stern)
+
+
+Starting up. (ID: cbk-bgS2) 10:20.21
+---------------------
+[10:00:00] cbk-bgS2 ADMIN: Loading ckey_whitelist
+[10:00:00] cbk-bgS2 ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbk-bgS2 ADMIN: Loading jobban_rank
+[10:00:00] cbk-bgS2 ADMIN: jobban_keylist was empty
+[10:00:00] cbk-bgS2 ADMIN: Loading Banlist
+[10:00:00] cbk-bgS2 DEBUG: Rebuilding Master Controller
+[10:00:00] cbk-bgS2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bgS2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbk-bgS2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bgS2 ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] cbk-bgS2 ADMIN: SeverePwnage has started the game.
+[10:00:00] cbk-bgS2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bgS2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bgS2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bgS2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bgS2 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bgS2 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbk-bgS2 DEBUG: Next event of severity Mundane in 13.842 minutes.
+[10:00:00] cbk-bgS2 DEBUG: Next event of severity Moderate in 40.412 minutes.
+[10:00:00] cbk-bgS2 DEBUG: Next event of severity Major in 94.7833 minutes.
+[10:00:04] cbk-bgS2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Johnny Prevatt) has ghosted.
+[10:00:04] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:04] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:04] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Johnny Prevatt) : The ghost of <span class='name'>Johnny Prevatt</span> now skulks among the dead at the outside. 
+[10:00:05] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Johnny Prevatt) : <span class='name'>Johnny Prevatt</span> no longer skulks in the realm of the dead. 
+[10:00:05] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:05] cbk-bgS2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:05] cbk-bgS2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:13] cbk-bgS2 ACCESS: Logout: *no key*/(new player)
+[10:00:13] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:13] cbk-bgS2 ADMIN: SeverePwnage/(Johnny Prevatt) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:17] cbk-bgS2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Johnny Prevatt) has ghosted.
+[10:00:17] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:17] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:17] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Johnny Prevatt) : The ghost of <span class='name'>Johnny Prevatt</span> now lurks among the dead at the outside. 
+[10:00:18] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Johnny Prevatt) : <span class='name'>Johnny Prevatt</span> no longer creeps in the realm of the dead. 
+[10:00:18] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:18] cbk-bgS2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:18] cbk-bgS2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:21] cbk-bgS2 ACCESS: Logout: *no key*/(new player)
+[10:00:21] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:21] cbk-bgS2 ADMIN: SeverePwnage/(Johnny Prevatt) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:23] cbk-bgS2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Johnny Prevatt) has ghosted.
+[10:00:23] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:23] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:23] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Johnny Prevatt) : The ghost of <span class='name'>Johnny Prevatt</span> now creeps among the dead at USMC FOB. 
+[10:00:24] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Johnny Prevatt) : <span class='name'>Johnny Prevatt</span> no longer creeps in the realm of the dead. 
+[10:00:24] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:24] cbk-bgS2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:24] cbk-bgS2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:34] cbk-bgS2 ACCESS: Logout: *no key*/(new player)
+[10:00:34] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:34] cbk-bgS2 ADMIN: SeverePwnage/(Johnny Prevatt) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:41] cbk-bgS2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Johnny Prevatt) has ghosted.
+[10:00:41] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:41] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:41] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Johnny Prevatt) : The ghost of <span class='name'>Johnny Prevatt</span> now skulks among the dead at USMC FOB. 
+[10:00:41] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Johnny Prevatt) : <span class='name'>Johnny Prevatt</span> no longer creeps in the realm of the dead. 
+[10:00:41] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:41] cbk-bgS2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:41] cbk-bgS2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:00:48] cbk-bgS2 ACCESS: Logout: *no key*/(new player)
+[10:00:48] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:48] cbk-bgS2 ADMIN: SeverePwnage/(Johnny Prevatt) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:50] cbk-bgS2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Johnny Prevatt) has ghosted.
+[10:00:50] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:50] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:50] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Johnny Prevatt) : The ghost of <span class='name'>Johnny Prevatt</span> now lurks among the dead at WARPACT FOB. 
+[10:00:51] cbk-bgS2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Johnny Prevatt) : <span class='name'>Johnny Prevatt</span> no longer skulks in the realm of the dead. 
+[10:00:51] cbk-bgS2 ACCESS: Logout: *no key*/(Johnny Prevatt)
+[10:00:51] cbk-bgS2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:51] cbk-bgS2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:00:59] cbk-bgS2 ACCESS: Logout: *no key*/(new player)
+[10:00:59] cbk-bgS2 ACCESS: Login: SeverePwnage/(Johnny Prevatt) from localhost-3031256942 || BYOND v513
+[10:00:59] cbk-bgS2 ADMIN: SeverePwnage/(Johnny Prevatt) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:01:01] cbk-bgS2 ACCESS: Logout: SeverePwnage/(Johnny Prevatt)
+
+
+Starting up. (ID: cbk-bhzW) 10:24.45
+---------------------
+[20:00:00] cbk-bhzW ADMIN: Loading ckey_whitelist
+[20:00:00] cbk-bhzW ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbk-bhzW ADMIN: Loading jobban_rank
+[20:00:00] cbk-bhzW ADMIN: jobban_keylist was empty
+[20:00:00] cbk-bhzW ADMIN: Loading Banlist
+[20:00:00] cbk-bhzW DEBUG: Rebuilding Master Controller
+[20:00:00] cbk-bhzW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bhzW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbk-bhzW ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-bhzW ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] cbk-bhzW ADMIN: SeverePwnage has started the game.
+[20:00:00] cbk-bhzW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bhzW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bhzW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bhzW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bhzW ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbk-bhzW ACCESS: Login: SeverePwnage/(Arturo Addison) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bhzW GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbk-bhzW DEBUG: Next event of severity Mundane in 13.842 minutes.
+[20:00:00] cbk-bhzW DEBUG: Next event of severity Moderate in 44.42 minutes.
+[20:00:00] cbk-bhzW DEBUG: Next event of severity Major in 99.7667 minutes.
+[20:00:04] cbk-bhzW GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Arturo Addison) has ghosted.
+[20:00:04] cbk-bhzW ACCESS: Logout: *no key*/(Arturo Addison)
+[20:00:04] cbk-bhzW ACCESS: Login: SeverePwnage/(Arturo Addison) from localhost-3031256942 || BYOND v513
+[20:00:04] cbk-bhzW SAY: (DSAY) SeverePwnage - usr: *no key*/(Arturo Addison) : The ghost of <span class='name'>Arturo Addison</span> now lurks among the dead at USMC FOB. 
+[20:00:04] cbk-bhzW SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Arturo Addison) : <span class='name'>Arturo Addison</span> no longer lurks in the realm of the dead. 
+[20:00:04] cbk-bhzW ACCESS: Logout: *no key*/(Arturo Addison)
+[20:00:04] cbk-bhzW ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:04] cbk-bhzW ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:00:12] cbk-bhzW ACCESS: Logout: *no key*/(new player)
+[20:00:12] cbk-bhzW ACCESS: Login: SeverePwnage/(Arturo Addison) from localhost-3031256942 || BYOND v513
+[20:00:12] cbk-bhzW ADMIN: SeverePwnage/(Arturo Addison) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:13] cbk-bhzW ACCESS: Logout: SeverePwnage/(Arturo Addison)
+
+
+Starting up. (ID: cbk-bhYR) 10:27.20
+---------------------
+[15:00:00] cbk-bhYR ADMIN: Loading ckey_whitelist
+[15:00:00] cbk-bhYR ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbk-bhYR ADMIN: Loading jobban_rank
+[15:00:00] cbk-bhYR ADMIN: jobban_keylist was empty
+[15:00:00] cbk-bhYR ADMIN: Loading Banlist
+[15:00:00] cbk-bhYR DEBUG: Rebuilding Master Controller
+[15:00:00] cbk-bhYR ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] cbk-bhYR ADMIN: SeverePwnage has started the game.
+[15:00:00] cbk-bhYR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bhYR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bhYR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bhYR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bhYR ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbk-bhYR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-bhYR GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbk-bhYR DEBUG: Next event of severity Mundane in 12.17 minutes.
+[15:00:00] cbk-bhYR DEBUG: Next event of severity Moderate in 48.69 minutes.
+[15:00:00] cbk-bhYR DEBUG: Next event of severity Major in 92.3617 minutes.
+[15:00:04] cbk-bhYR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[15:00:04] cbk-bhYR ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:04] cbk-bhYR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:04] cbk-bhYR SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at WARPACT FOB. 
+[15:00:04] cbk-bhYR SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer lurks in the realm of the dead. 
+[15:00:04] cbk-bhYR ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:04] cbk-bhYR ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:04] cbk-bhYR ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:16] cbk-bhYR ACCESS: Logout: *no key*/(new player)
+[15:00:16] cbk-bhYR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:16] cbk-bhYR ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:20] cbk-bhYR ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbk-biBX) 10:31.22
+---------------------
+[05:00:00] cbk-biBX ADMIN: Loading ckey_whitelist
+[05:00:00] cbk-biBX ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbk-biBX ADMIN: Loading jobban_rank
+[05:00:00] cbk-biBX ADMIN: jobban_keylist was empty
+[05:00:00] cbk-biBX ADMIN: Loading Banlist
+[05:00:00] cbk-biBX DEBUG: Rebuilding Master Controller
+[05:00:00] cbk-biBX ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-biBX DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbk-biBX ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:00] cbk-biBX ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbk-biBX ADMIN: SeverePwnage has started the game.
+[05:00:00] cbk-biBX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-biBX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-biBX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-biBX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-biBX ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbk-biBX ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-biBX GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbk-biBX DEBUG: Next event of severity Mundane in 14.79 minutes.
+[05:00:00] cbk-biBX DEBUG: Next event of severity Moderate in 43.466 minutes.
+[05:00:00] cbk-biBX DEBUG: Next event of severity Major in 80.565 minutes.
+
+
+Starting up. (ID: cbk-bjaR) 10:34.58
+---------------------
+[05:00:00] cbk-bjaR ADMIN: Loading ckey_whitelist
+[05:00:00] cbk-bjaR ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbk-bjaR ADMIN: Loading jobban_rank
+[05:00:00] cbk-bjaR ADMIN: jobban_keylist was empty
+[05:00:00] cbk-bjaR ADMIN: Loading Banlist
+[05:00:00] cbk-bjaR DEBUG: Rebuilding Master Controller
+[05:00:00] cbk-bjaR ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bjaR DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbk-bjaR ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbk-bjaR ADMIN: SeverePwnage has started the game.
+[05:00:00] cbk-bjaR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bjaR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bjaR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bjaR DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bjaR ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbk-bjaR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bjaR GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbk-bjaR DEBUG: Next event of severity Mundane in 14.908 minutes.
+[05:00:00] cbk-bjaR DEBUG: Next event of severity Moderate in 50.402 minutes.
+[05:00:00] cbk-bjaR DEBUG: Next event of severity Major in 94.19 minutes.
+[05:00:09] cbk-bjaR ADMIN: SeverePwnage/(Roscoe Osterweis) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:13] cbk-bjaR GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[05:00:13] cbk-bjaR ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[05:00:13] cbk-bjaR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:13] cbk-bjaR SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now skulks among the dead at USMC FOB. 
+[05:00:13] cbk-bjaR SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer creeps in the realm of the dead. 
+[05:00:13] cbk-bjaR ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[05:00:13] cbk-bjaR ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:13] cbk-bjaR ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:19] cbk-bjaR ACCESS: Logout: *no key*/(new player)
+[05:00:19] cbk-bjaR ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:19] cbk-bjaR ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:22] cbk-bjaR ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbk-bjPj) 10:39.09
+---------------------
+[15:00:00] cbk-bjPj ADMIN: Loading ckey_whitelist
+[15:00:00] cbk-bjPj ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbk-bjPj ADMIN: Loading jobban_rank
+[15:00:00] cbk-bjPj ADMIN: jobban_keylist was empty
+[15:00:00] cbk-bjPj ADMIN: Loading Banlist
+[15:00:00] cbk-bjPj DEBUG: Rebuilding Master Controller
+[15:00:00] cbk-bjPj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-bjPj ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bjPj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbk-bjPj ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-bjPj ADMIN: SeverePwnage has started the game.
+[15:00:00] cbk-bjPj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bjPj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bjPj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bjPj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-bjPj ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-bjPj GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbk-bjPj DEBUG: Next event of severity Mundane in 17.328 minutes.
+[15:00:00] cbk-bjPj DEBUG: Next event of severity Moderate in 45.444 minutes.
+[15:00:00] cbk-bjPj DEBUG: Next event of severity Major in 82.7117 minutes.
+[15:00:08] cbk-bjPj ADMIN: SeverePwnage/(Roscoe Osterweis) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:10] cbk-bjPj GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[15:00:10] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:10] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:10] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at WARPACT FOB. 
+[15:00:11] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[15:00:11] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:11] cbk-bjPj ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:11] cbk-bjPj ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:21] cbk-bjPj ACCESS: Logout: *no key*/(new player)
+[15:00:21] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:21] cbk-bjPj ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:25] cbk-bjPj GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[15:00:25] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:25] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:25] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at WARPACT FOB. 
+[15:00:26] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[15:00:26] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:26] cbk-bjPj ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:26] cbk-bjPj ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:32] cbk-bjPj ACCESS: Logout: *no key*/(new player)
+[15:00:32] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:32] cbk-bjPj ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:35] cbk-bjPj GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[15:00:35] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:35] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:35] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now lurks among the dead at WARPACT FOB. 
+[15:00:35] cbk-bjPj SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer lurks in the realm of the dead. 
+[15:00:35] cbk-bjPj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:35] cbk-bjPj ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:35] cbk-bjPj ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:42] cbk-bjPj ACCESS: Logout: *no key*/(new player)
+[15:00:42] cbk-bjPj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:42] cbk-bjPj ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:44] cbk-bjPj ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbk-bkfn) 10:41.51
+---------------------
+[10:00:00] cbk-bkfn ADMIN: Loading ckey_whitelist
+[10:00:00] cbk-bkfn ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbk-bkfn ADMIN: Loading jobban_rank
+[10:00:00] cbk-bkfn ADMIN: jobban_keylist was empty
+[10:00:00] cbk-bkfn ADMIN: Loading Banlist
+[10:00:00] cbk-bkfn DEBUG: Rebuilding Master Controller
+[10:00:00] cbk-bkfn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bkfn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbk-bkfn ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbk-bkfn ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] cbk-bkfn ADMIN: SeverePwnage has started the game.
+[10:00:00] cbk-bkfn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bkfn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bkfn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bkfn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbk-bkfn ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbk-bkfn GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbk-bkfn DEBUG: Next event of severity Mundane in 12.44 minutes.
+[10:00:00] cbk-bkfn DEBUG: Next event of severity Moderate in 40.648 minutes.
+[10:00:00] cbk-bkfn DEBUG: Next event of severity Major in 85.1 minutes.
+[10:00:07] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:07] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:07] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:07] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at the outside. 
+[10:00:08] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer skulks in the realm of the dead. 
+[10:00:08] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:08] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:08] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:14] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:14] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:14] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:18] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:18] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:18] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:18] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now stalks among the dead at USMC FOB. 
+[10:00:18] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer creeps in the realm of the dead. 
+[10:00:18] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:18] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:18] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:22] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:22] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:22] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as USMC Fireteam Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:25] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:25] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:25] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:25] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at USMC FOB. 
+[10:00:25] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[10:00:25] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:25] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:25] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:31] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:31] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:31] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as USA Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:32] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:32] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:32] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:32] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at the outside. 
+[10:00:33] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[10:00:33] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:33] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:33] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:00:37] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:37] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:37] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BAF Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:39] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:39] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:39] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:39] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at the outside. 
+[10:00:40] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer lurks in the realm of the dead. 
+[10:00:40] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:40] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:40] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:00:44] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:44] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:44] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:00:46] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:46] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:46] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:46] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now stalks among the dead at the outside. 
+[10:00:47] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer skulks in the realm of the dead. 
+[10:00:47] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:47] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:47] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:00:51] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:51] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:51] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:00:53] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:00:53] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:53] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:53] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at WARPACT FOB. 
+[10:00:54] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:00:54] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:00:54] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:54] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:00:58] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:00:58] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:58] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as FINN Kivarimies. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:01:00] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:00] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:00] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:00] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at the outside. 
+[10:01:01] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer lurks in the realm of the dead. 
+[10:01:01] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:01] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:01] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:01:04] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:04] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:04] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:01:07] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:07] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:07] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:07] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at WARPACT FOB. 
+[10:01:07] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:01:07] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:07] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:07] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:01:17] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:17] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:17] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:01:19] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:19] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:19] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:19] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at the outside. 
+[10:01:20] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer skulks in the realm of the dead. 
+[10:01:20] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:20] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:20] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:01:23] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:23] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:23] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:01:24] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:24] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:24] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:24] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now stalks among the dead at USMC FOB. 
+[10:01:25] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:01:25] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:25] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:25] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:01:28] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:28] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:28] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as USMC Fireteam Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:01:30] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:30] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:30] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:30] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now skulks among the dead at USMC FOB. 
+[10:01:31] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer lurks in the realm of the dead. 
+[10:01:31] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:31] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:31] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:01:35] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:35] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:35] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as USA Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:01:37] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:37] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:37] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:37] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now stalks among the dead at the outside. 
+[10:01:38] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:01:38] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:38] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:38] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:01:50] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:50] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:50] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BAF Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:01:52] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:52] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:52] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:52] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now lurks among the dead at the outside. 
+[10:01:52] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:01:52] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:52] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:52] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:01:56] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:01:56] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:56] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:01:58] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:01:58] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:58] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:01:58] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now lurks among the dead at the outside. 
+[10:01:59] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer skulks in the realm of the dead. 
+[10:01:59] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:01:59] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:59] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:02:03] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:02:03] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:03] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:02:05] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:02:05] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:05] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:05] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now skulks among the dead at WARPACT FOB. 
+[10:02:05] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[10:02:05] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:05] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:05] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:02:09] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:02:09] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:09] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as FINN Kivarimies. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:02:11] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:02:11] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:11] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:11] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now lurks among the dead at the outside. 
+[10:02:12] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[10:02:12] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:12] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:12] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:02:16] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:02:16] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:16] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as CSLA Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:02:18] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:02:18] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:18] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:18] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at WARPACT FOB. 
+[10:02:19] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer creeps in the realm of the dead. 
+[10:02:19] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:19] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:19] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[10:02:22] cbk-bkfn ACCESS: Logout: *no key*/(new player)
+[10:02:22] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:22] cbk-bkfn ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:02:24] cbk-bkfn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[10:02:24] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:24] cbk-bkfn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:02:24] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at WARPACT FOB. 
+[10:02:25] cbk-bkfn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer stalks in the realm of the dead. 
+[10:02:25] cbk-bkfn ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[10:02:25] cbk-bkfn ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:25] cbk-bkfn ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[10:02:26] cbk-bkfn ACCESS: Logout: SeverePwnage/(new player)
+
+
+Starting up. (ID: cbk-blZj) 10:53.00
+---------------------
+[15:00:00] cbk-blZj ADMIN: Loading ckey_whitelist
+[15:00:00] cbk-blZj ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbk-blZj ADMIN: Loading jobban_rank
+[15:00:00] cbk-blZj ADMIN: jobban_keylist was empty
+[15:00:00] cbk-blZj ADMIN: Loading Banlist
+[15:00:00] cbk-blZj DEBUG: Rebuilding Master Controller
+[15:00:00] cbk-blZj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-blZj ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-blZj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbk-blZj ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbk-blZj ADMIN: SeverePwnage has started the game.
+[15:00:00] cbk-blZj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-blZj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-blZj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-blZj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbk-blZj ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbk-blZj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbk-blZj GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbk-blZj DEBUG: Next event of severity Mundane in 12.16 minutes.
+[15:00:00] cbk-blZj DEBUG: Next event of severity Moderate in 44.77 minutes.
+[15:00:00] cbk-blZj DEBUG: Next event of severity Major in 97.2933 minutes.
+[15:00:02] cbk-blZj GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[15:00:02] cbk-blZj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:02] cbk-blZj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:02] cbk-blZj SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now prowls among the dead at the outside. 
+[15:00:06] cbk-blZj ADMIN: SeverePwnage/(Roscoe Osterweis) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:07] cbk-blZj SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer prowls in the realm of the dead. 
+[15:00:07] cbk-blZj ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[15:00:07] cbk-blZj ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:07] cbk-blZj ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:18] cbk-blZj ACCESS: Logout: *no key*/(new player)
+[15:00:18] cbk-blZj ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:18] cbk-blZj ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:19] cbk-blZj ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbk-bm1F) 10:59.33
+---------------------
+[05:00:00] cbk-bm1F ADMIN: Loading ckey_whitelist
+[05:00:00] cbk-bm1F ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbk-bm1F ADMIN: Loading jobban_rank
+[05:00:00] cbk-bm1F ADMIN: jobban_keylist was empty
+[05:00:00] cbk-bm1F ADMIN: Loading Banlist
+[05:00:00] cbk-bm1F DEBUG: Rebuilding Master Controller
+[05:00:00] cbk-bm1F ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bm1F ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbk-bm1F DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbk-bm1F ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbk-bm1F ADMIN: SeverePwnage has started the game.
+[05:00:00] cbk-bm1F DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bm1F DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bm1F DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bm1F DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbk-bm1F ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbk-bm1F ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bm1F GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbk-bm1F DEBUG: Next event of severity Mundane in 12.704 minutes.
+[05:00:00] cbk-bm1F DEBUG: Next event of severity Moderate in 46.362 minutes.
+[05:00:00] cbk-bm1F DEBUG: Next event of severity Major in 83.1483 minutes.
+[05:00:04] cbk-bm1F GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Roscoe Osterweis) has ghosted.
+[05:00:04] cbk-bm1F ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[05:00:04] cbk-bm1F ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:04] cbk-bm1F SAY: (DSAY) SeverePwnage - usr: *no key*/(Roscoe Osterweis) : The ghost of <span class='name'>Roscoe Osterweis</span> now creeps among the dead at USMC FOB. 
+[05:00:07] cbk-bm1F ADMIN: SeverePwnage/(Roscoe Osterweis) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:10] cbk-bm1F SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Roscoe Osterweis) : <span class='name'>Roscoe Osterweis</span> no longer creeps in the realm of the dead. 
+[05:00:10] cbk-bm1F ACCESS: Logout: *no key*/(Roscoe Osterweis)
+[05:00:10] cbk-bm1F ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:10] cbk-bm1F ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:15] cbk-bm1F ACCESS: Logout: *no key*/(new player)
+[05:00:15] cbk-bm1F ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:15] cbk-bm1F ADMIN: SeverePwnage/(Roscoe Osterweis) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:33] cbk-bm1F ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbk-bThC) 14:26.19
+---------------------
+[05:00:00] cbk-bThC ADMIN: Loading ckey_whitelist
+[05:00:00] cbk-bThC ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbk-bThC ADMIN: Loading jobban_rank
+[05:00:00] cbk-bThC ADMIN: jobban_keylist was empty
+[05:00:00] cbk-bThC ADMIN: Loading Banlist
+[05:00:00] cbk-bThC DEBUG: Rebuilding Master Controller
+[05:00:00] cbk-bThC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbk-bThC DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbk-bThC ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbk-bUdm) 14:32.17
+---------------------
+[20:00:00] cbk-bUdm ADMIN: Loading ckey_whitelist
+[20:00:00] cbk-bUdm ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbk-bUdm ADMIN: Loading jobban_rank
+[20:00:00] cbk-bUdm ADMIN: jobban_keylist was empty
+[20:00:00] cbk-bUdm ADMIN: Loading Banlist
+[20:00:00] cbk-bUdm DEBUG: Rebuilding Master Controller
+[20:00:00] cbk-bUdm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bUdm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-bUdm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbk-bUdm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbk-bUdm ADMIN: SeverePwnage has started the game.
+[20:00:00] cbk-bUdm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bUdm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bUdm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bUdm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbk-bUdm ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbk-bUdm ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbk-bUdm GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbk-bUdm DEBUG: Next event of severity Mundane in 15.886 minutes.
+[20:00:00] cbk-bUdm DEBUG: Next event of severity Moderate in 39.21 minutes.
+[20:00:00] cbk-bUdm DEBUG: Next event of severity Major in 85.5583 minutes.
+[20:00:38] cbk-bUdm ADMIN: SeverePwnage/(Roscoe Osterweis) spawned /obj/item/weapon/radioset/prc77 at (6,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:42] cbk-bUdm ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)

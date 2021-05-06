@@ -1,0 +1,11 @@
+
+
+Starting up. (ID: caK-cSan) 20:56.23
+---------------------
+[15:00:00] caK-cSan ADMIN: Loading jobban_rank
+[15:00:00] caK-cSan ADMIN: jobban_keylist was empty
+[15:00:00] caK-cSan ADMIN: Loading Banlist
+[15:00:00] caK-cSan DEBUG: Rebuilding Master Controller
+[15:00:00] caK-cSan ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caK-cSan DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caK-cSan ACCESS: Logout: SeverePwnage/(SeverePwnage)

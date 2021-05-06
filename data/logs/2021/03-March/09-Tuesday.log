@@ -1,0 +1,588 @@
+
+
+Starting up. (ID: caY-a5xd) 09:01.11
+---------------------
+[20:00:00] caY-a5xd ADMIN: Loading jobban_rank
+[20:00:00] caY-a5xd ADMIN: jobban_keylist was empty
+[20:00:00] caY-a5xd ADMIN: Loading Banlist
+[20:00:00] caY-a5xd DEBUG: Rebuilding Master Controller
+[20:00:00] caY-a5xd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caY-a5xd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caY-a5xd ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caY-a5xd ADMIN: SeverePwnage has started the game.
+[20:00:00] caY-a5xd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-a5xd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-a5xd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-a5xd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-a5xd ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caY-a5xd ACCESS: Login: SeverePwnage/(Carter Logue) from localhost-3031256942 || BYOND v513
+[20:00:00] caY-a5xd GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caY-a5xd DEBUG: Next event of severity Mundane in 17.098 minutes.
+[20:00:00] caY-a5xd DEBUG: Next event of severity Moderate in 41.552 minutes.
+[20:00:00] caY-a5xd DEBUG: Next event of severity Major in 99.5183 minutes.
+[20:00:11] caY-a5xd ADMIN: SeverePwnage/(Carter Logue) spawned /obj/item/ammo_magazine/c762x39m at (113,148,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=148;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:40] caY-a5xd ADMIN: SeverePwnage/(Carter Logue) spawned /obj/item/weapon/gun/projectile/automatic/cslarpk at (103,152,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=152;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:47] caY-a5xd ADMIN: SeverePwnage/(Carter Logue) spawned /obj/item/ammo_magazine/c762x39m at (103,152,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=152;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:20] caY-a5xd ACCESS: Logout: SeverePwnage/(Carter Logue)
+
+
+Starting up. (ID: caY-a6bW) 09:05.23
+---------------------
+[15:00:00] caY-a6bW ADMIN: Loading jobban_rank
+[15:00:00] caY-a6bW ADMIN: jobban_keylist was empty
+[15:00:00] caY-a6bW ADMIN: Loading Banlist
+[15:00:00] caY-a6bW DEBUG: Rebuilding Master Controller
+[15:00:00] caY-a6bW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-a6bW ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-a6bW DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caY-a6bW ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-a6bW ADMIN: SeverePwnage has started the game.
+[15:00:00] caY-a6bW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-a6bW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-a6bW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-a6bW DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-a6bW ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caY-a6bW ACCESS: Login: SeverePwnage/(Gabriel Simmons) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-a6bW GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caY-a6bW DEBUG: Next event of severity Mundane in 13.44 minutes.
+[15:00:00] caY-a6bW DEBUG: Next event of severity Moderate in 48.424 minutes.
+[15:00:00] caY-a6bW DEBUG: Next event of severity Major in 96.025 minutes.
+[15:00:08] caY-a6bW ADMIN: SeverePwnage/(Gabriel Simmons) spawned /obj/item/ammo_magazine/c762x39m at (113,149,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=149;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:23] caY-a6bW ADMIN: SeverePwnage/(Gabriel Simmons) spawned /obj/item/weapon/gun/projectile/automatic/cslarpk at (97,148,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=148;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:54] caY-a6bW ACCESS: Logout: SeverePwnage/(Gabriel Simmons)
+
+
+Starting up. (ID: caY-a6AK) 09:07.57
+---------------------
+[05:00:00] caY-a6AK ADMIN: Loading jobban_rank
+[05:00:00] caY-a6AK ADMIN: jobban_keylist was empty
+[05:00:00] caY-a6AK ADMIN: Loading Banlist
+[05:00:00] caY-a6AK DEBUG: Rebuilding Master Controller
+[05:00:00] caY-a6AK ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-a6AK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-a6AK ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-a6AK ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-a6AK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-a6AK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-a6AK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-a6AK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-a6AK ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-a6AK ACCESS: Login: SeverePwnage/(Francisco Weinstein) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-a6AK GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-a6AK DEBUG: Next event of severity Mundane in 15.88 minutes.
+[05:00:00] caY-a6AK DEBUG: Next event of severity Moderate in 47.348 minutes.
+[05:00:00] caY-a6AK DEBUG: Next event of severity Major in 92.7817 minutes.
+[05:00:09] caY-a6AK ADMIN: SeverePwnage/(Francisco Weinstein) spawned /obj/item/ammo_magazine/c762x39b at (112,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:30] caY-a6AK ACCESS: Logout: SeverePwnage/(Francisco Weinstein)
+
+
+Starting up. (ID: caY-bcEP) 09:53.14
+---------------------
+[05:00:00] caY-bcEP ADMIN: Loading jobban_rank
+[05:00:00] caY-bcEP ADMIN: jobban_keylist was empty
+[05:00:00] caY-bcEP ADMIN: Loading Banlist
+[05:00:00] caY-bcEP DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bcEP ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bcEP ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bcEP DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bcEP ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bcEP ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-bcEP DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bcEP DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bcEP DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bcEP DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bcEP ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-bcEP ACCESS: Login: SeverePwnage/(Zayden Anderson) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bcEP GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-bcEP DEBUG: Next event of severity Mundane in 14.344 minutes.
+[05:00:00] caY-bcEP DEBUG: Next event of severity Moderate in 38.402 minutes.
+[05:00:00] caY-bcEP DEBUG: Next event of severity Major in 97.85 minutes.
+[05:00:12] caY-bcEP ADMIN: SeverePwnage/(Zayden Anderson) deleted the steel door at (236,32,1)
+[05:00:17] caY-bcEP GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Zayden Anderson) activated a satchel charge.
+[05:00:17] caY-bcEP ATTACK: Zayden Anderson (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=236;Y=38;Z=1'>JMP</a>)
+[05:00:56] caY-bcEP ACCESS: Logout: SeverePwnage/(Zayden Anderson)
+
+
+Starting up. (ID: caY-bdmw) 09:57.45
+---------------------
+[10:00:00] caY-bdmw ADMIN: Loading jobban_rank
+[10:00:00] caY-bdmw ADMIN: jobban_keylist was empty
+[10:00:00] caY-bdmw ADMIN: Loading Banlist
+[10:00:00] caY-bdmw DEBUG: Rebuilding Master Controller
+[10:00:00] caY-bdmw ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-bdmw DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caY-bdmw ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caY-bdmw ADMIN: SeverePwnage has started the game.
+[10:00:00] caY-bdmw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-bdmw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-bdmw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-bdmw DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-bdmw ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caY-bdmw ACCESS: Login: SeverePwnage/(Griffin Garland) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-bdmw GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caY-bdmw DEBUG: Next event of severity Mundane in 14.428 minutes.
+[10:00:00] caY-bdmw DEBUG: Next event of severity Moderate in 47.998 minutes.
+[10:00:00] caY-bdmw DEBUG: Next event of severity Major in 98.4233 minutes.
+[10:00:12] caY-bdmw ADMIN: SeverePwnage/(Griffin Garland) deleted the steel door at (236,32,1)
+[10:00:25] caY-bdmw GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Griffin Garland) planted a mine.
+[10:00:31] caY-bdmw ACCESS: Logout: SeverePwnage/(Griffin Garland)
+
+
+Starting up. (ID: caY-bfoD) 10:10.46
+---------------------
+[15:00:00] caY-bfoD ADMIN: Loading jobban_rank
+[15:00:00] caY-bfoD ADMIN: jobban_keylist was empty
+[15:00:00] caY-bfoD ADMIN: Loading Banlist
+[15:00:00] caY-bfoD DEBUG: Rebuilding Master Controller
+[15:00:00] caY-bfoD ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bfoD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bfoD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bfoD DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caY-bfoD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bfoD ADMIN: SeverePwnage has started the game.
+[15:00:00] caY-bfoD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bfoD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bfoD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bfoD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bfoD ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caY-bfoD ACCESS: Login: SeverePwnage/(Nolan Simmons) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bfoD GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caY-bfoD DEBUG: Next event of severity Mundane in 13.652 minutes.
+[15:00:00] caY-bfoD DEBUG: Next event of severity Moderate in 51.954 minutes.
+[15:00:00] caY-bfoD DEBUG: Next event of severity Major in 90.4483 minutes.
+[15:00:34] caY-bfoD ACCESS: Logout: SeverePwnage/(Nolan Simmons)
+
+
+Starting up. (ID: caY-bgsK) 10:17.37
+---------------------
+[15:00:00] caY-bgsK ADMIN: Loading jobban_rank
+[15:00:00] caY-bgsK ADMIN: jobban_keylist was empty
+[15:00:00] caY-bgsK ADMIN: Loading Banlist
+[15:00:00] caY-bgsK DEBUG: Rebuilding Master Controller
+[15:00:00] caY-bgsK ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bgsK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caY-bgsK ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bgsK ADMIN: SeverePwnage/(SeverePwnage) toggled OOC. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] caY-bgsK ADMIN: SeverePwnage/(SeverePwnage) toggled OOC. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] caY-bgsK ADMIN: SeverePwnage deadmined themself.
+[15:00:00] caY-bgsK ADMIN: SeverePwnage re-admined themself.
+[15:00:00] caY-bgsK ADMIN: SeverePwnage has started the game.
+[15:00:00] caY-bgsK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bgsK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bgsK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bgsK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bgsK ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caY-bgsK ACCESS: Login: SeverePwnage/(Cash Cook) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bgsK GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caY-bgsK DEBUG: Next event of severity Mundane in 13.918 minutes.
+[15:00:00] caY-bgsK DEBUG: Next event of severity Moderate in 45.372 minutes.
+[15:00:00] caY-bgsK DEBUG: Next event of severity Major in 96.3017 minutes.
+[15:00:05] caY-bgsK ADMIN: SeverePwnage deadmined themself.
+[15:00:14] caY-bgsK ACCESS: Logout: SeverePwnage/(Cash Cook)
+
+
+Starting up. (ID: caY-bhcI) 10:22.22
+---------------------
+[10:00:00] caY-bhcI ADMIN: Loading jobban_rank
+[10:00:00] caY-bhcI ADMIN: jobban_keylist was empty
+[10:00:00] caY-bhcI ADMIN: Loading Banlist
+[10:00:00] caY-bhcI DEBUG: Rebuilding Master Controller
+[10:00:00] caY-bhcI ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-bhcI ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-buLI) 11:49.16
+---------------------
+[15:00:00] caY-buLI ADMIN: Loading jobban_rank
+[15:00:00] caY-buLI ADMIN: jobban_keylist was empty
+[15:00:00] caY-buLI ADMIN: Loading Banlist
+[15:00:00] caY-buLI DEBUG: Rebuilding Master Controller
+[15:00:00] caY-buLI ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-buLI ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caY-bvj5) 11:52.48
+---------------------
+[05:00:00] caY-bvj5 ADMIN: Loading jobban_rank
+[05:00:00] caY-bvj5 ADMIN: jobban_keylist was empty
+[05:00:00] caY-bvj5 ADMIN: Loading Banlist
+[05:00:00] caY-bvj5 DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bvj5 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bvj5 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bvj5 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bvj5 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bvj5 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-bxcG) 12:04.51
+---------------------
+[15:00:00] caY-bxcG ADMIN: Loading jobban_rank
+[15:00:00] caY-bxcG ADMIN: jobban_keylist was empty
+[15:00:00] caY-bxcG ADMIN: Loading Banlist
+[15:00:00] caY-bxcG DEBUG: Rebuilding Master Controller
+[15:00:00] caY-bxcG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bxcG ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-bBoB) 12:31.43
+---------------------
+[10:00:00] caY-bBoB ADMIN: Loading jobban_rank
+[10:00:00] caY-bBoB ADMIN: jobban_keylist was empty
+[10:00:00] caY-bBoB ADMIN: Loading Banlist
+[10:00:00] caY-bBoB DEBUG: Rebuilding Master Controller
+[10:00:00] caY-bBoB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-bBoB ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-bCNr) 12:40.42
+---------------------
+[10:00:00] caY-bCNr ADMIN: Loading jobban_rank
+[10:00:00] caY-bCNr ADMIN: jobban_keylist was empty
+[10:00:00] caY-bCNr ADMIN: Loading Banlist
+[10:00:00] caY-bCNr DEBUG: Rebuilding Master Controller
+[10:00:00] caY-bCNr ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-bCNr ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-bDN8) 12:47.09
+---------------------
+[15:00:00] caY-bDN8 ADMIN: Loading jobban_rank
+[15:00:00] caY-bDN8 ADMIN: jobban_keylist was empty
+[15:00:00] caY-bDN8 ADMIN: Loading Banlist
+[15:00:00] caY-bDN8 DEBUG: Rebuilding Master Controller
+[15:00:00] caY-bDN8 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bDN8 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bDN8 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caY-bDN8 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bDN8 ADMIN: SeverePwnage has started the game.
+[15:00:00] caY-bDN8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bDN8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bDN8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bDN8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bDN8 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caY-bDN8 ACCESS: Login: SeverePwnage/(Fitz Alliman) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bDN8 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caY-bDN8 DEBUG: Next event of severity Mundane in 14.466 minutes.
+[15:00:00] caY-bDN8 DEBUG: Next event of severity Moderate in 42.69 minutes.
+[15:00:00] caY-bDN8 DEBUG: Next event of severity Major in 98.7367 minutes.
+[15:00:31] caY-bDN8 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Fitz Alliman) has ghosted.
+[15:00:31] caY-bDN8 ACCESS: Logout: *no key*/(Fitz Alliman)
+[15:00:31] caY-bDN8 ACCESS: Login: SeverePwnage/(Fitz Alliman) from localhost-3031256942 || BYOND v513
+[15:00:31] caY-bDN8 SAY: (DSAY) SeverePwnage - usr: *no key*/(Fitz Alliman) : The ghost of <span class='name'>Fitz Alliman</span> now stalks among the dead at the area. 
+[15:00:37] caY-bDN8 ADMIN: SeverePwnage/(Fitz Alliman) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:41] caY-bDN8 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Fitz Alliman) : <span class='name'>Fitz Alliman</span> no longer stalks in the realm of the dead. 
+[15:00:41] caY-bDN8 ACCESS: Logout: *no key*/(Fitz Alliman)
+[15:00:41] caY-bDN8 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:41] caY-bDN8 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:45] caY-bDN8 ACCESS: Logout: *no key*/(new player)
+[15:00:45] caY-bDN8 ACCESS: Login: SeverePwnage/(Fitz Alliman) from localhost-3031256942 || BYOND v513
+[15:00:45] caY-bDN8 ADMIN: SeverePwnage/(Fitz Alliman) has joined the round as CSLA Poruchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=227;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:48] caY-bDN8 ADMIN: SeverePwnage/(Fitz Alliman) deleted the steel door at (166,225,1)
+[15:00:50] caY-bDN8 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Fitz Alliman) has ghosted.
+[15:00:50] caY-bDN8 ACCESS: Logout: *no key*/(Fitz Alliman)
+[15:00:50] caY-bDN8 ACCESS: Login: SeverePwnage/(Fitz Alliman) from localhost-3031256942 || BYOND v513
+[15:00:50] caY-bDN8 SAY: (DSAY) SeverePwnage - usr: *no key*/(Fitz Alliman) : The ghost of <span class='name'>Fitz Alliman</span> now stalks among the dead at WARPACT FOB. 
+[15:00:50] caY-bDN8 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Fitz Alliman) : <span class='name'>Fitz Alliman</span> no longer skulks in the realm of the dead. 
+[15:00:50] caY-bDN8 ACCESS: Logout: *no key*/(Fitz Alliman)
+[15:00:50] caY-bDN8 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:50] caY-bDN8 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:55] caY-bDN8 ACCESS: Logout: *no key*/(new player)
+[15:00:55] caY-bDN8 ACCESS: Login: SeverePwnage/(Fitz Alliman) from localhost-3031256942 || BYOND v513
+[15:00:55] caY-bDN8 ADMIN: SeverePwnage/(Fitz Alliman) has joined the round as CSLA Subchetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:01:28] caY-bDN8 ACCESS: Logout: SeverePwnage/(Fitz Alliman)
+
+
+Starting up. (ID: caY-bEpF) 12:51.02
+---------------------
+[20:00:00] caY-bEpF ADMIN: Loading jobban_rank
+[20:00:00] caY-bEpF ADMIN: jobban_keylist was empty
+[20:00:00] caY-bEpF ADMIN: Loading Banlist
+[20:00:00] caY-bEpF DEBUG: Rebuilding Master Controller
+[20:00:00] caY-bEpF ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caY-bEpF ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caY-bEpF DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caY-bEpF GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caY-bEpF DEBUG: Next event of severity Mundane in 17.502 minutes.
+[20:00:00] caY-bEpF DEBUG: Next event of severity Moderate in 40.118 minutes.
+[20:00:00] caY-bEpF DEBUG: Next event of severity Major in 81.0183 minutes.
+[20:00:17] caY-bEpF ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caY-bFFQ) 12:59.07
+---------------------
+[20:00:00] caY-bFFQ ADMIN: Loading jobban_rank
+[20:00:00] caY-bFFQ ADMIN: jobban_keylist was empty
+[20:00:00] caY-bFFQ ADMIN: Loading Banlist
+[20:00:00] caY-bFFQ DEBUG: Rebuilding Master Controller
+[20:00:00] caY-bFFQ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caY-bFFQ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caY-bFFQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caY-bFFQ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caY-bFFQ ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] caY-bFFQ ADMIN: SeverePwnage has started the game.
+[20:00:00] caY-bFFQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-bFFQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-bFFQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-bFFQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caY-bFFQ ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caY-bFFQ ACCESS: Login: SeverePwnage/(Kane Weisgarber) from localhost-3031256942 || BYOND v513
+[20:00:00] caY-bFFQ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caY-bFFQ DEBUG: Next event of severity Mundane in 15.928 minutes.
+[20:00:00] caY-bFFQ DEBUG: Next event of severity Moderate in 42.676 minutes.
+[20:00:00] caY-bFFQ DEBUG: Next event of severity Major in 90.385 minutes.
+[20:01:14] caY-bFFQ GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kane Weisgarber) has ghosted.
+[20:01:14] caY-bFFQ ACCESS: Logout: *no key*/(Kane Weisgarber)
+[20:01:14] caY-bFFQ ACCESS: Login: SeverePwnage/(Kane Weisgarber) from localhost-3031256942 || BYOND v513
+[20:01:14] caY-bFFQ SAY: (DSAY) SeverePwnage - usr: *no key*/(Kane Weisgarber) : The ghost of <span class='name'>Kane Weisgarber</span> now skulks among the dead at the area. 
+[20:01:17] caY-bFFQ SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kane Weisgarber) : <span class='name'>Kane Weisgarber</span> no longer stalks in the realm of the dead. 
+[20:01:17] caY-bFFQ ACCESS: Logout: *no key*/(Kane Weisgarber)
+[20:01:17] caY-bFFQ ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:01:17] caY-bFFQ ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:01:21] caY-bFFQ ACCESS: Logout: *no key*/(new player)
+[20:01:21] caY-bFFQ ACCESS: Login: SeverePwnage/(Kane Weisgarber) from localhost-3031256942 || BYOND v513
+[20:01:21] caY-bFFQ ADMIN: SeverePwnage/(Kane Weisgarber) has joined the round as CSLA Pomocnik Rota Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:01:31] caY-bFFQ ACCESS: Logout: SeverePwnage/(Kane Weisgarber)
+
+
+Starting up. (ID: caY-bGLL) 13:06.08
+---------------------
+[05:00:00] caY-bGLL ADMIN: Loading jobban_rank
+[05:00:00] caY-bGLL ADMIN: jobban_keylist was empty
+[05:00:00] caY-bGLL ADMIN: Loading Banlist
+[05:00:00] caY-bGLL DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bGLL ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bGLL ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bGLL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bGLL ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bGLL ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-bGLL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bGLL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bGLL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bGLL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bGLL ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-bGLL ACCESS: Login: SeverePwnage/(Milo Rathen) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bGLL GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-bGLL DEBUG: Next event of severity Mundane in 14.63 minutes.
+[05:00:00] caY-bGLL DEBUG: Next event of severity Moderate in 49.292 minutes.
+[05:00:00] caY-bGLL DEBUG: Next event of severity Major in 97.8833 minutes.
+[05:00:33] caY-bGLL GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Milo Rathen) has ghosted.
+[05:00:33] caY-bGLL ACCESS: Logout: *no key*/(Milo Rathen)
+[05:00:33] caY-bGLL ACCESS: Login: SeverePwnage/(Milo Rathen) from localhost-3031256942 || BYOND v513
+[05:00:33] caY-bGLL SAY: (DSAY) SeverePwnage - usr: *no key*/(Milo Rathen) : The ghost of <span class='name'>Milo Rathen</span> now creeps among the dead at the area. 
+[05:00:52] caY-bGLL ADMIN: SeverePwnage/(Milo Rathen) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=36;Y=17;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:54] caY-bGLL SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Milo Rathen) : <span class='name'>Milo Rathen</span> no longer creeps in the realm of the dead. 
+[05:00:54] caY-bGLL ACCESS: Logout: *no key*/(Milo Rathen)
+[05:00:54] caY-bGLL ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:54] caY-bGLL ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:01:02] caY-bGLL ACCESS: Logout: *no key*/(new player)
+[05:01:02] caY-bGLL ACCESS: Login: SeverePwnage/(Milo Rathen) from localhost-3031256942 || BYOND v513
+[05:01:02] caY-bGLL ADMIN: SeverePwnage/(Milo Rathen) has joined the round as CSLA Radista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:01:11] caY-bGLL ACCESS: Logout: SeverePwnage/(Milo Rathen)
+
+
+Starting up. (ID: caY-bTwY) 14:27.54
+---------------------
+[05:00:00] caY-bTwY ADMIN: Loading jobban_rank
+[05:00:00] caY-bTwY ADMIN: jobban_keylist was empty
+[05:00:00] caY-bTwY ADMIN: Loading Banlist
+[05:00:00] caY-bTwY DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bTwY ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bTwY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bTwY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bTwY DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bTwY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bTwY ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-bTwY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bTwY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bTwY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bTwY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bTwY ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-bTwY ACCESS: Login: SeverePwnage/(Syd Clarke) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bTwY GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-bTwY DEBUG: Next event of severity Mundane in 12.766 minutes.
+[05:00:00] caY-bTwY DEBUG: Next event of severity Moderate in 41.406 minutes.
+[05:00:00] caY-bTwY DEBUG: Next event of severity Major in 92.8517 minutes.
+[05:00:33] caY-bTwY ADMIN: SeverePwnage/(Syd Clarke) spawned /obj/item/ammo_magazine/c762x54b/tr at (79,283,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=79;Y=283;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:03:32] caY-bTwY ADMIN: SeverePwnage/(Syd Clarke) spawned /obj/item/clothing/head/helmet/coldwar/usmc/pasgt/medic at (79,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=79;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:03:49] caY-bTwY ADMIN: SeverePwnage/(Syd Clarke) spawned /obj/item/weapon/storage/belt/suit/sapper/usa at (74,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:03:51] caY-bTwY ACCESS: Logout: SeverePwnage/(Syd Clarke)
+
+
+Starting up. (ID: caY-bUsS) 14:33.53
+---------------------
+[05:00:00] caY-bUsS ADMIN: Loading jobban_rank
+[05:00:00] caY-bUsS ADMIN: jobban_keylist was empty
+[05:00:00] caY-bUsS ADMIN: Loading Banlist
+[05:00:00] caY-bUsS DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bUsS ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bUsS ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bUsS DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bUsS ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bUsS ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-bUsS DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bUsS DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bUsS DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bUsS DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bUsS ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-bUsS ACCESS: Login: SeverePwnage/(Michael Wolff) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bUsS GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-bUsS DEBUG: Next event of severity Mundane in 12.228 minutes.
+[05:00:00] caY-bUsS DEBUG: Next event of severity Moderate in 39.884 minutes.
+[05:00:00] caY-bUsS DEBUG: Next event of severity Major in 83.2233 minutes.
+[05:03:25] caY-bUsS ADMIN: SeverePwnage/(Michael Wolff) spawned /obj/item/ammo_magazine/c762x54b/tr at (80,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=80;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:04:22] caY-bUsS ACCESS: Logout: SeverePwnage/(Michael Wolff)
+
+
+Starting up. (ID: caY-bVqn) 14:40.02
+---------------------
+[15:00:00] caY-bVqn ADMIN: Loading jobban_rank
+[15:00:00] caY-bVqn ADMIN: jobban_keylist was empty
+[15:00:00] caY-bVqn ADMIN: Loading Banlist
+[15:00:00] caY-bVqn DEBUG: Rebuilding Master Controller
+[15:00:00] caY-bVqn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bVqn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bVqn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caY-bVqn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caY-bVqn ADMIN: SeverePwnage has started the game.
+[15:00:00] caY-bVqn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bVqn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bVqn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bVqn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caY-bVqn ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caY-bVqn ACCESS: Login: SeverePwnage/(Isiah Philips) from localhost-3031256942 || BYOND v513
+[15:00:00] caY-bVqn GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caY-bVqn DEBUG: Next event of severity Mundane in 13.248 minutes.
+[15:00:00] caY-bVqn DEBUG: Next event of severity Moderate in 48.932 minutes.
+[15:00:00] caY-bVqn DEBUG: Next event of severity Major in 96.15 minutes.
+[15:00:30] caY-bVqn ADMIN: SeverePwnage/(Isiah Philips) spawned /obj/item/ammo_magazine/c762x54b at (78,281,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:02:14] caY-bVqn ADMIN: SeverePwnage/(Isiah Philips) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/rpg75 at (76,280,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=76;Y=280;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:02:22] caY-bVqn GAME: Explosion with size (1, 3, 5) in area WARPACT FOB 
+[15:02:27] caY-bVqn ACCESS: Logout: SeverePwnage/(Isiah Philips)
+
+
+Starting up. (ID: caY-bV6N) 14:44.18
+---------------------
+[05:00:00] caY-bV6N ADMIN: Loading jobban_rank
+[05:00:00] caY-bV6N ADMIN: jobban_keylist was empty
+[05:00:00] caY-bV6N ADMIN: Loading Banlist
+[05:00:00] caY-bV6N DEBUG: Rebuilding Master Controller
+[05:00:00] caY-bV6N ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bV6N DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-bV6N ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-bV6N ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-bV6N DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bV6N DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bV6N DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bV6N DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-bV6N ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-bV6N ACCESS: Login: SeverePwnage/(Leonard Holmes) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-bV6N GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-bV6N DEBUG: Next event of severity Mundane in 16.684 minutes.
+[05:00:00] caY-bV6N DEBUG: Next event of severity Moderate in 36.532 minutes.
+[05:00:00] caY-bV6N DEBUG: Next event of severity Major in 85.8967 minutes.
+[05:00:08] caY-bV6N ADMIN: SeverePwnage/(Leonard Holmes) spawned /obj/item/ammo_magazine/c762x54b/tr at (78,280,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=280;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:45] caY-bV6N ACCESS: Logout: SeverePwnage/(Leonard Holmes)
+
+
+Starting up. (ID: caY-cqUA) 18:01.45
+---------------------
+[05:00:00] caY-cqUA ADMIN: Loading jobban_rank
+[05:00:00] caY-cqUA ADMIN: jobban_keylist was empty
+[05:00:00] caY-cqUA ADMIN: Loading Banlist
+[05:00:00] caY-cqUA DEBUG: Rebuilding Master Controller
+[05:00:00] caY-cqUA ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-cqUA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-cqUA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-cqUA DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-cqUA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-cqUA ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-cqUA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-cqUA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-cqUA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-cqUA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-cqUA ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-cqUA ACCESS: Login: SeverePwnage/(Brett Wolfe) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-cqUA GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-cqUA DEBUG: Next event of severity Mundane in 16.406 minutes.
+[05:00:00] caY-cqUA DEBUG: Next event of severity Moderate in 37.216 minutes.
+[05:00:00] caY-cqUA DEBUG: Next event of severity Major in 80.08 minutes.
+[05:00:10] caY-cqUA ADMIN: SeverePwnage/(Brett Wolfe) spawned /obj/item/clothing/under/usmc/woodland/alt/pfc at (111,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=111;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:42] caY-cqUA ADMIN: SeverePwnage/(Brett Wolfe) spawned /obj/item/ammo_magazine/c762x39m/ap at (108,153,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=153;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:52] caY-cqUA ACCESS: Logout: SeverePwnage/(Brett Wolfe)
+
+
+Starting up. (ID: caY-cr2B) 18:08.53
+---------------------
+[10:00:00] caY-cr2B ADMIN: Loading jobban_rank
+[10:00:00] caY-cr2B ADMIN: jobban_keylist was empty
+[10:00:00] caY-cr2B ADMIN: Loading Banlist
+[10:00:00] caY-cr2B DEBUG: Rebuilding Master Controller
+[10:00:00] caY-cr2B ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-cr2B ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caY-cr2B DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caY-cr2B ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caY-cr2B ADMIN: SeverePwnage has started the game.
+[10:00:00] caY-cr2B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-cr2B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-cr2B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-cr2B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caY-cr2B ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caY-cr2B ACCESS: Login: SeverePwnage/(Noah Bode) from localhost-3031256942 || BYOND v513
+[10:00:00] caY-cr2B GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caY-cr2B DEBUG: Next event of severity Mundane in 15.008 minutes.
+[10:00:00] caY-cr2B DEBUG: Next event of severity Moderate in 47.536 minutes.
+[10:00:00] caY-cr2B DEBUG: Next event of severity Major in 91.8017 minutes.
+[10:00:07] caY-cr2B ADMIN: SeverePwnage/(Noah Bode) spawned /obj/item/clothing/under/usmc/woodland/alt/pfc at (113,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:21] caY-cr2B ADMIN: SeverePwnage/(Noah Bode) spawned /obj/item/ammo_magazine/c762x39m/tr at (112,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:11] caY-cr2B ACCESS: Logout: SeverePwnage/(Noah Bode)
+
+
+Starting up. (ID: caY-csQU) 18:14.11
+---------------------
+[05:00:00] caY-csQU ADMIN: Loading jobban_rank
+[05:00:00] caY-csQU ADMIN: jobban_keylist was empty
+[05:00:00] caY-csQU ADMIN: Loading Banlist
+[05:00:00] caY-csQU DEBUG: Rebuilding Master Controller
+[05:00:00] caY-csQU ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-csQU ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-csQU ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-csQU DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-csQU ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-csQU ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-csQU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-csQU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-csQU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-csQU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-csQU ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-csQU ACCESS: Login: SeverePwnage/(Jakob Basmanoff) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-csQU GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-csQU DEBUG: Next event of severity Mundane in 14.466 minutes.
+[05:00:00] caY-csQU DEBUG: Next event of severity Moderate in 39.386 minutes.
+[05:00:00] caY-csQU DEBUG: Next event of severity Major in 90.9117 minutes.
+[05:00:15] caY-csQU ADMIN: SeverePwnage/(Jakob Basmanoff) deleted the steel door at (236,32,1)
+[05:00:37] caY-csQU ACCESS: Logout: SeverePwnage/(Jakob Basmanoff)
+
+
+Starting up. (ID: caY-ctxc) 18:18.33
+---------------------
+[05:00:00] caY-ctxc ADMIN: Loading jobban_rank
+[05:00:00] caY-ctxc ADMIN: jobban_keylist was empty
+[05:00:00] caY-ctxc ADMIN: Loading Banlist
+[05:00:00] caY-ctxc DEBUG: Rebuilding Master Controller
+[05:00:00] caY-ctxc ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-ctxc ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-ctxc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caY-ctxc ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caY-ctxc ADMIN: SeverePwnage has started the game.
+[05:00:00] caY-ctxc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-ctxc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-ctxc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-ctxc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caY-ctxc ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caY-ctxc ACCESS: Login: SeverePwnage/(Cohen Dawkins) from localhost-3031256942 || BYOND v513
+[05:00:00] caY-ctxc GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caY-ctxc DEBUG: Next event of severity Mundane in 17.626 minutes.
+[05:00:00] caY-ctxc DEBUG: Next event of severity Moderate in 52.372 minutes.
+[05:00:00] caY-ctxc DEBUG: Next event of severity Major in 92.3 minutes.
+[05:00:07] caY-ctxc ADMIN: SeverePwnage/(Cohen Dawkins) deleted the steel door at (26,279,1)
+[05:00:16] caY-ctxc ACCESS: Logout: SeverePwnage/(Cohen Dawkins)

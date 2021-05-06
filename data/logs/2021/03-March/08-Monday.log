@@ -1,0 +1,214 @@
+
+
+Starting up. (ID: caX-a7P2) 09:15.57
+---------------------
+[10:00:00] caX-a7P2 ADMIN: Loading jobban_rank
+[10:00:00] caX-a7P2 ADMIN: jobban_keylist was empty
+[10:00:00] caX-a7P2 ADMIN: Loading Banlist
+[10:00:00] caX-a7P2 DEBUG: Rebuilding Master Controller
+[10:00:00] caX-a7P2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caX-a7P2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caX-a7P2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caX-a7P2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caX-a7P2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caX-a7P2 ADMIN: SeverePwnage has started the game.
+[10:00:00] caX-a7P2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-a7P2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-a7P2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-a7P2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-a7P2 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caX-a7P2 ACCESS: Login: SeverePwnage/(Harry Lee) from localhost-3031256942 || BYOND v513
+[10:00:00] caX-a7P2 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caX-a7P2 DEBUG: Next event of severity Mundane in 13.2 minutes.
+[10:00:00] caX-a7P2 DEBUG: Next event of severity Moderate in 42.02 minutes.
+[10:00:00] caX-a7P2 DEBUG: Next event of severity Major in 92.1233 minutes.
+[10:00:40] caX-a7P2 ADMIN: SeverePwnage/(Harry Lee) deleted the steel door at (40,259,1)
+[10:01:06] caX-a7P2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Harry Lee) has ghosted.
+[10:01:06] caX-a7P2 ACCESS: Logout: *no key*/(Harry Lee)
+[10:01:06] caX-a7P2 ACCESS: Login: SeverePwnage/(Harry Lee) from localhost-3031256942 || BYOND v513
+[10:01:06] caX-a7P2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Harry Lee) : The ghost of <span class='name'>Harry Lee</span> now stalks among the dead at the area. 
+[10:01:13] caX-a7P2 ADMIN: SeverePwnage/(Harry Lee) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=24;Y=273;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:18] caX-a7P2 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Harry Lee) : <span class='name'>Harry Lee</span> no longer creeps in the realm of the dead. 
+[10:01:18] caX-a7P2 ACCESS: Logout: *no key*/(Harry Lee)
+[10:01:18] caX-a7P2 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:01:18] caX-a7P2 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:01:22] caX-a7P2 ACCESS: Logout: *no key*/(new player)
+[10:01:22] caX-a7P2 ACCESS: Login: SeverePwnage/(Harry Lee) from localhost-3031256942 || BYOND v513
+[10:01:22] caX-a7P2 ADMIN: SeverePwnage/(Harry Lee) has joined the round as BDW Ingenieurschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=224;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:46] caX-a7P2 ACCESS: Logout: SeverePwnage/(Harry Lee)
+
+
+Starting up. (ID: caX-a0Sl) 09:35.24
+---------------------
+[15:00:00] caX-a0Sl ADMIN: Loading jobban_rank
+[15:00:00] caX-a0Sl ADMIN: jobban_keylist was empty
+[15:00:00] caX-a0Sl ADMIN: Loading Banlist
+[15:00:00] caX-a0Sl DEBUG: Rebuilding Master Controller
+[15:00:00] caX-a0Sl ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-a0Sl DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caX-a0Sl ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caX-a0Sl ADMIN: SeverePwnage has started the game.
+[15:00:00] caX-a0Sl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-a0Sl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-a0Sl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-a0Sl DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-a0Sl ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-a0Sl GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caX-a0Sl DEBUG: Next event of severity Mundane in 17.888 minutes.
+[15:00:00] caX-a0Sl DEBUG: Next event of severity Moderate in 40.488 minutes.
+[15:00:00] caX-a0Sl DEBUG: Next event of severity Major in 94.3033 minutes.
+[15:00:09] caX-a0Sl GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Giovanni Albright) has ghosted.
+[15:00:09] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:09] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:09] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: *no key*/(Giovanni Albright) : The ghost of <span class='name'>Giovanni Albright</span> now lurks among the dead at the area. 
+[15:00:13] caX-a0Sl ADMIN: SeverePwnage/(Giovanni Albright) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=225;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:14] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Giovanni Albright) : <span class='name'>Giovanni Albright</span> no longer lurks in the realm of the dead. 
+[15:00:14] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:14] caX-a0Sl ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:14] caX-a0Sl ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:21] caX-a0Sl ACCESS: Logout: *no key*/(new player)
+[15:00:21] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:21] caX-a0Sl ADMIN: SeverePwnage/(Giovanni Albright) has joined the round as NVA Ingenieur. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=264;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:38] caX-a0Sl GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Giovanni Albright) has ghosted.
+[15:00:38] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:38] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:38] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: *no key*/(Giovanni Albright) : The ghost of <span class='name'>Giovanni Albright</span> now lurks among the dead at the area. 
+[15:00:40] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Giovanni Albright) : <span class='name'>Giovanni Albright</span> no longer prowls in the realm of the dead. 
+[15:00:40] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:40] caX-a0Sl ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:40] caX-a0Sl ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:43] caX-a0Sl ACCESS: Logout: *no key*/(new player)
+[15:00:43] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:43] caX-a0Sl ADMIN: SeverePwnage/(Giovanni Albright) has joined the round as NVA Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=31;Y=278;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:46] caX-a0Sl GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Giovanni Albright) has ghosted.
+[15:00:46] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:46] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:46] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: *no key*/(Giovanni Albright) : The ghost of <span class='name'>Giovanni Albright</span> now lurks among the dead at WARPACT FOB. 
+[15:00:46] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Giovanni Albright) : <span class='name'>Giovanni Albright</span> no longer creeps in the realm of the dead. 
+[15:00:46] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:46] caX-a0Sl ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:46] caX-a0Sl ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:48] caX-a0Sl ACCESS: Logout: *no key*/(new player)
+[15:00:48] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:48] caX-a0Sl ADMIN: SeverePwnage/(Giovanni Albright) has joined the round as NVA Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=280;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:51] caX-a0Sl GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Giovanni Albright) has ghosted.
+[15:00:51] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:51] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:51] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: *no key*/(Giovanni Albright) : The ghost of <span class='name'>Giovanni Albright</span> now prowls among the dead at WARPACT FOB. 
+[15:00:52] caX-a0Sl SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Giovanni Albright) : <span class='name'>Giovanni Albright</span> no longer creeps in the realm of the dead. 
+[15:00:52] caX-a0Sl ACCESS: Logout: *no key*/(Giovanni Albright)
+[15:00:52] caX-a0Sl ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:52] caX-a0Sl ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:56] caX-a0Sl ACCESS: Logout: *no key*/(new player)
+[15:00:56] caX-a0Sl ACCESS: Login: SeverePwnage/(Giovanni Albright) from localhost-3031256942 || BYOND v513
+[15:00:56] caX-a0Sl ADMIN: SeverePwnage/(Giovanni Albright) has joined the round as NVA Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:01:22] caX-a0Sl ACCESS: Logout: SeverePwnage/(Giovanni Albright)
+
+
+Starting up. (ID: caX-bJsi) 13:23.22
+---------------------
+[20:00:00] caX-bJsi ADMIN: Loading jobban_rank
+[20:00:00] caX-bJsi ADMIN: jobban_keylist was empty
+[20:00:00] caX-bJsi ADMIN: Loading Banlist
+[20:00:00] caX-bJsi DEBUG: Rebuilding Master Controller
+[20:00:00] caX-bJsi ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+
+
+Starting up. (ID: caX-bJ1t) 13:26.53
+---------------------
+[10:00:00] caX-bJ1t ADMIN: Loading jobban_rank
+[10:00:00] caX-bJ1t ADMIN: jobban_keylist was empty
+[10:00:00] caX-bJ1t ADMIN: Loading Banlist
+[10:00:00] caX-bJ1t DEBUG: Rebuilding Master Controller
+[10:00:00] caX-bJ1t ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caX-bJ1t ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caX-bJ1t DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caX-bJ1t ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caX-bJ1t ADMIN: SeverePwnage has started the game.
+[10:00:00] caX-bJ1t DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-bJ1t DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-bJ1t DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-bJ1t DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caX-bJ1t ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caX-bJ1t ACCESS: Login: SeverePwnage/(Ashton Taggart) from localhost-3031256942 || BYOND v513
+[10:00:00] caX-bJ1t GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caX-bJ1t DEBUG: Next event of severity Mundane in 12 minutes.
+[10:00:00] caX-bJ1t DEBUG: Next event of severity Moderate in 39.166 minutes.
+[10:00:00] caX-bJ1t DEBUG: Next event of severity Major in 99.6433 minutes.
+[10:01:00] caX-bJ1t ACCESS: Logout: SeverePwnage/(Ashton Taggart)
+
+
+Starting up. (ID: caX-bN6s) 13:53.01
+---------------------
+[20:00:00] caX-bN6s ADMIN: Loading jobban_rank
+[20:00:00] caX-bN6s ADMIN: jobban_keylist was empty
+[20:00:00] caX-bN6s ADMIN: Loading Banlist
+[20:00:00] caX-bN6s DEBUG: Rebuilding Master Controller
+[20:00:00] caX-bN6s ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caX-bN6s ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caX-cerO) 16:41.55
+---------------------
+[15:00:00] caX-cerO ADMIN: Loading jobban_rank
+[15:00:00] caX-cerO ADMIN: jobban_keylist was empty
+[15:00:00] caX-cerO ADMIN: Loading Banlist
+[15:00:00] caX-cerO DEBUG: Rebuilding Master Controller
+[15:00:00] caX-cerO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-cerO DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caX-cerO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caX-cerO ADMIN: SeverePwnage has started the game.
+[15:00:00] caX-cerO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cerO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cerO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cerO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cerO ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caX-cerO ACCESS: Login: SeverePwnage/(Kaleb Stainforth) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-cerO GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caX-cerO DEBUG: Next event of severity Mundane in 15.452 minutes.
+[15:00:00] caX-cerO DEBUG: Next event of severity Moderate in 47.434 minutes.
+[15:00:00] caX-cerO DEBUG: Next event of severity Major in 81.255 minutes.
+[15:01:11] caX-cerO ADMIN: SeverePwnage/(Kaleb Stainforth) Toggled admin jumping to 0. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=153;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:15] caX-cerO ADMIN: SeverePwnage/(Kaleb Stainforth) Toggled admin jumping to 1. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=153;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:24] caX-cerO ADMIN: SeverePwnage/(Kaleb Stainforth) jumped to USMC FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=161;Y=43;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:02:58] caX-cerO ADMIN: SeverePwnage/(Kaleb Stainforth) spawned /obj/item/weapon/gun/projectile/automatic/rifle/vz58 at (160,45,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=160;Y=45;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:03:18] caX-cerO ADMIN: SeverePwnage/(Kaleb Stainforth) spawned /obj/item/weapon/gun/projectile/cz82 at (159,45,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=159;Y=45;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:03:43] caX-cerO ACCESS: Logout: SeverePwnage/(Kaleb Stainforth)
+
+
+Starting up. (ID: caX-cfL7) 16:50.25
+---------------------
+[15:00:00] caX-cfL7 ADMIN: Loading jobban_rank
+[15:00:00] caX-cfL7 ADMIN: jobban_keylist was empty
+[15:00:00] caX-cfL7 ADMIN: Loading Banlist
+[15:00:00] caX-cfL7 DEBUG: Rebuilding Master Controller
+[15:00:00] caX-cfL7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-cfL7 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caX-cfL7 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caX-cfL7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caX-cfL7 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caX-cfL7 ADMIN: SeverePwnage has started the game.
+[15:00:00] caX-cfL7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cfL7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cfL7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cfL7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caX-cfL7 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caX-cfL7 ACCESS: Login: SeverePwnage/(Malcolm Anderson) from localhost-3031256942 || BYOND v513
+[15:00:00] caX-cfL7 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caX-cfL7 DEBUG: Next event of severity Mundane in 14.76 minutes.
+[15:00:00] caX-cfL7 DEBUG: Next event of severity Moderate in 38.262 minutes.
+[15:00:00] caX-cfL7 DEBUG: Next event of severity Major in 98.7367 minutes.
+[15:00:28] caX-cfL7 ADMIN: SeverePwnage/(Malcolm Anderson) jumped to USMC FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=211;Y=5;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:46] caX-cfL7 ADMIN: SeverePwnage/(Malcolm Anderson) spawned /obj/item/weapon/storage/belt/harness/sa at (219,8,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=219;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:37] caX-cfL7 ACCESS: Logout: SeverePwnage/(Malcolm Anderson)
+
+
+Starting up. (ID: caX-dgQP) 23:34.31
+---------------------
+[05:00:00] caX-dgQP ADMIN: Loading jobban_rank
+[05:00:00] caX-dgQP ADMIN: jobban_keylist was empty
+[05:00:00] caX-dgQP ADMIN: Loading Banlist
+[05:00:00] caX-dgQP DEBUG: Rebuilding Master Controller
+[05:00:00] caX-dgQP ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[05:00:00] caX-dgQP ACCESS: Logout: Guest-3031256942/(Guest-3031256942)

@@ -1,0 +1,30 @@
+
+
+Starting up. (ID: cbH-cVgA) 21:16.18
+---------------------
+[05:00:00] cbH-cVgA ADMIN: Loading ckey_whitelist
+[05:00:00] cbH-cVgA ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbH-cVgA ADMIN: Loading jobban_rank
+[05:00:00] cbH-cVgA ADMIN: jobban_keylist was empty
+[05:00:00] cbH-cVgA ADMIN: Loading Banlist
+[05:00:00] cbH-cVgA DEBUG: Rebuilding Master Controller
+[05:00:00] cbH-cVgA ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbH-cVgA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbH-cVgA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbH-cVgA DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbH-cVgA ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbH-cVgA ADMIN: SeverePwnage has started the game.
+[05:00:00] cbH-cVgA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbH-cVgA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbH-cVgA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbH-cVgA DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbH-cVgA ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbH-cVgA ACCESS: Login: SeverePwnage/(Oleg Yakushev) from localhost-3031256942 || BYOND v513
+[05:00:00] cbH-cVgA GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbH-cVgA DEBUG: Next event of severity Mundane in 12.586 minutes.
+[05:00:00] cbH-cVgA DEBUG: Next event of severity Moderate in 39.84 minutes.
+[05:00:00] cbH-cVgA DEBUG: Next event of severity Major in 86.655 minutes.
+[05:00:10] cbH-cVgA ADMIN: SeverePwnage/(Oleg Yakushev) changed Europe's time to 12:31.
+[05:00:26] cbH-cVgA ADMIN: SeverePwnage/(Oleg Yakushev) deleted the steel door at (49,16,1)
+[05:00:50] cbH-cVgA ADMIN: SeverePwnage/(Oleg Yakushev) deleted the steel door at (61,16,1)
+[05:01:09] cbH-cVgA ACCESS: Logout: SeverePwnage/(Oleg Yakushev)

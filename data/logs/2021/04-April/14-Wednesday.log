@@ -1,0 +1,684 @@
+
+
+Starting up. (ID: cby-bIi1) 13:16.03
+---------------------
+[05:00:00] cby-bIi1 ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bIi1 ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bIi1 ADMIN: Loading jobban_rank
+[05:00:00] cby-bIi1 ADMIN: jobban_keylist was empty
+[05:00:00] cby-bIi1 ADMIN: Loading Banlist
+[05:00:00] cby-bIi1 DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bIi1 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bIi1 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bIi1 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bIi1 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bIi1 ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-bIi1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bIi1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bIi1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bIi1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bIi1 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-bIi1 ACCESS: Login: SeverePwnage/(Cade Millhouse) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bIi1 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-bIi1 DEBUG: Next event of severity Mundane in 12.512 minutes.
+[05:00:00] cby-bIi1 DEBUG: Next event of severity Moderate in 46.504 minutes.
+[05:00:00] cby-bIi1 DEBUG: Next event of severity Major in 92.865 minutes.
+[05:00:06] cby-bIi1 ADMIN: SeverePwnage/(Cade Millhouse) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=410;Y=250;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:12] cby-bIi1 ADMIN: SeverePwnage/(Cade Millhouse) spawned /obj/item/weapon/grenade/frag/satchelwp at (410,251,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=410;Y=251;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:23] cby-bIi1 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Cade Millhouse) activated a satchel charge.
+[05:00:23] cby-bIi1 ATTACK: Cade Millhouse (severepwnage) primed an explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=410;Y=249;Z=1'>JMP</a>)
+[05:00:40] cby-bIi1 ACCESS: Logout: SeverePwnage/(Cade Millhouse)
+
+
+Starting up. (ID: cby-bJHF) 13:25.00
+---------------------
+[10:00:00] cby-bJHF ADMIN: Loading ckey_whitelist
+[10:00:00] cby-bJHF ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-bJHF ADMIN: Loading jobban_rank
+[10:00:00] cby-bJHF ADMIN: jobban_keylist was empty
+[10:00:00] cby-bJHF ADMIN: Loading Banlist
+[10:00:00] cby-bJHF DEBUG: Rebuilding Master Controller
+[10:00:00] cby-bJHF ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bJHF ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bJHF DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cby-bJHF ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bJHF ADMIN: SeverePwnage has started the game.
+[10:00:00] cby-bJHF DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bJHF DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bJHF DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bJHF DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bJHF ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cby-bJHF ACCESS: Login: SeverePwnage/(Holden Quinn) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bJHF GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cby-bJHF DEBUG: Next event of severity Mundane in 17.628 minutes.
+[10:00:00] cby-bJHF DEBUG: Next event of severity Moderate in 45.986 minutes.
+[10:00:00] cby-bJHF DEBUG: Next event of severity Major in 90.25 minutes.
+[10:00:09] cby-bJHF ADMIN: SeverePwnage/(Holden Quinn) deleted the steel door at (53,16,1)
+[10:00:25] cby-bJHF GAME: Explosion with size (1, 3, 5) in area large hard floor 
+[10:00:43] cby-bJHF ACCESS: Logout: SeverePwnage/(Holden Quinn)
+
+
+Starting up. (ID: cby-bKvY) 13:30.11
+---------------------
+[15:00:00] cby-bKvY ADMIN: Loading ckey_whitelist
+[15:00:00] cby-bKvY ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cby-bKvY ADMIN: Loading jobban_rank
+[15:00:00] cby-bKvY ADMIN: jobban_keylist was empty
+[15:00:00] cby-bKvY ADMIN: Loading Banlist
+[15:00:00] cby-bKvY DEBUG: Rebuilding Master Controller
+[15:00:00] cby-bKvY ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-bKvY ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bKvY ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bKvY ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bKvY DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cby-bKvY ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bKvY ADMIN: SeverePwnage has started the game.
+[15:00:00] cby-bKvY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bKvY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bKvY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bKvY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bKvY ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cby-bKvY ACCESS: Login: SeverePwnage/(Israel Dugmore) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-bKvY GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cby-bKvY DEBUG: Next event of severity Mundane in 12.776 minutes.
+[15:00:00] cby-bKvY DEBUG: Next event of severity Moderate in 53.884 minutes.
+[15:00:00] cby-bKvY DEBUG: Next event of severity Major in 98.3983 minutes.
+[15:00:16] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=59;Y=19;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:00:19] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) deleted the steel door at (61,16,1)
+[15:02:09] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) spawned /obj/item/device/flashlight/natoflare at (110,20,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=110;Y=20;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:03:52] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) spawned /obj/item/weapon/grenade/frag/satchelnato at (182,66,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=182;Y=66;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:03:56] cby-bKvY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Israel Dugmore) activated a satchel charge.
+[15:03:56] cby-bKvY ATTACK: Israel Dugmore (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=182;Y=73;Z=2'>JMP</a>)
+[15:04:23] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) spawned /obj/item/weapon/welder_tank/large at (174,79,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=174;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:28] cby-bKvY ADMIN: SeverePwnage/(Israel Dugmore) spawned /obj/item/weapon/weldingtool/mini at (172,79,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=172;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:53] cby-bKvY ACCESS: Logout: SeverePwnage/(Israel Dugmore)
+
+
+Starting up. (ID: cby-bMdB) 13:41.07
+---------------------
+[05:00:00] cby-bMdB ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bMdB ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bMdB ADMIN: Loading jobban_rank
+[05:00:00] cby-bMdB ADMIN: jobban_keylist was empty
+[05:00:00] cby-bMdB ADMIN: Loading Banlist
+[05:00:00] cby-bMdB DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bMdB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bMdB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bMdB ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cby-bMDn) 13:43.47
+---------------------
+[15:00:00] cby-bMDn ADMIN: Loading ckey_whitelist
+[15:00:00] cby-bMDn ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cby-bMDn ADMIN: Loading jobban_rank
+[15:00:00] cby-bMDn ADMIN: jobban_keylist was empty
+[15:00:00] cby-bMDn ADMIN: Loading Banlist
+[15:00:00] cby-bMDn DEBUG: Rebuilding Master Controller
+[15:00:00] cby-bMDn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-bMDn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bMDn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bMDn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cby-bMDn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-bMDn ADMIN: SeverePwnage has started the game.
+[15:00:00] cby-bMDn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bMDn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bMDn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bMDn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-bMDn ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cby-bMDn ACCESS: Login: SeverePwnage/(Blake Driggers) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-bMDn GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cby-bMDn DEBUG: Next event of severity Mundane in 16.306 minutes.
+[15:00:00] cby-bMDn DEBUG: Next event of severity Moderate in 46.982 minutes.
+[15:00:00] cby-bMDn DEBUG: Next event of severity Major in 80.5983 minutes.
+[15:00:06] cby-bMDn ADMIN: SeverePwnage/(Blake Driggers) spawned /obj/item/device/flashlight/natoflare at (405,249,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=405;Y=249;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:00:15] cby-bMDn ACCESS: Logout: SeverePwnage/(Blake Driggers)
+
+
+Starting up. (ID: cby-bODv) 13:56.36
+---------------------
+[05:00:00] cby-bODv ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bODv ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bODv ADMIN: Loading jobban_rank
+[05:00:00] cby-bODv ADMIN: jobban_keylist was empty
+[05:00:00] cby-bODv ADMIN: Loading Banlist
+[05:00:00] cby-bODv DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bODv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bODv ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bODv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bODv ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bODv ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-bODv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bODv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bODv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bODv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bODv ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-bODv ACCESS: Login: SeverePwnage/(Paxton Houser) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bODv GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-bODv DEBUG: Next event of severity Mundane in 17.34 minutes.
+[05:00:00] cby-bODv DEBUG: Next event of severity Moderate in 50.534 minutes.
+[05:00:00] cby-bODv DEBUG: Next event of severity Major in 90.1183 minutes.
+[05:00:06] cby-bODv ADMIN: SeverePwnage/(Paxton Houser) spawned /obj/item/weapon/welder_tank/mini at (54,26,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=26;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:10] cby-bODv ADMIN: SeverePwnage/(Paxton Houser) spawned /obj/item/weapon/weldingtool/mini at (51,26,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=51;Y=26;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:19] cby-bODv ADMIN: SeverePwnage/(Paxton Houser) deleted the girder at (50,27,1)
+[05:00:28] cby-bODv ADMIN: SeverePwnage/(Paxton Houser) spawned /turf/simulated/wall/concrete at (57,24,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:37] cby-bODv ADMIN: SeverePwnage/(Paxton Houser) spawned /obj/item/device/flashlight/natoflare at (110,28,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=110;Y=28;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+
+
+Starting up. (ID: cby-bQcL) 14:06.41
+---------------------
+[05:00:00] cby-bQcL ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bQcL ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bQcL ADMIN: Loading jobban_rank
+[05:00:00] cby-bQcL ADMIN: jobban_keylist was empty
+[05:00:00] cby-bQcL ADMIN: Loading Banlist
+[05:00:00] cby-bQcL DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bQcL ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bQcL ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bQcL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bQcL ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bQcL ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-bQcL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bQcL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bQcL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bQcL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bQcL ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-bQcL ACCESS: Login: SeverePwnage/(Solomon Wile) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bQcL GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-bQcL DEBUG: Next event of severity Mundane in 14.996 minutes.
+[05:00:00] cby-bQcL DEBUG: Next event of severity Moderate in 46.462 minutes.
+[05:00:00] cby-bQcL DEBUG: Next event of severity Major in 87.7483 minutes.
+[05:00:03] cby-bQcL ADMIN: SeverePwnage/(Solomon Wile) spawned /obj/item/weapon/weldingtool/mini at (405,249,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=405;Y=249;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:13] cby-bQcL ADMIN: SeverePwnage/(Solomon Wile) deleted the girder at (405,250,1)
+[05:00:20] cby-bQcL ADMIN: SeverePwnage/(Solomon Wile) deleted the concretegrey wall at (407,242,1)
+[05:00:34] cby-bQcL ADMIN: SeverePwnage/(Solomon Wile) deleted the girder at (392,241,1)
+[05:00:34] cby-bQcL ACCESS: Logout: SeverePwnage/(Solomon Wile)
+
+
+Starting up. (ID: cby-bRHz) 14:16.15
+---------------------
+[05:00:00] cby-bRHz ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bRHz ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bRHz ADMIN: Loading jobban_rank
+[05:00:00] cby-bRHz ADMIN: jobban_keylist was empty
+[05:00:00] cby-bRHz ADMIN: Loading Banlist
+[05:00:00] cby-bRHz DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bRHz ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bRHz ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bRHz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bRHz ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bRHz ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-bRHz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bRHz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bRHz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bRHz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bRHz ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-bRHz ACCESS: Login: SeverePwnage/(Khalil Young) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bRHz GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-bRHz DEBUG: Next event of severity Mundane in 14.398 minutes.
+[05:00:00] cby-bRHz DEBUG: Next event of severity Moderate in 47.81 minutes.
+[05:00:00] cby-bRHz DEBUG: Next event of severity Major in 86.9583 minutes.
+[05:00:04] cby-bRHz ADMIN: SeverePwnage/(Khalil Young) spawned /obj/item/weapon/weldingtool/mini at (59,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=59;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:13] cby-bRHz ADMIN: SeverePwnage/(Khalil Young) deleted the girder at (63,34,1)
+[05:00:24] cby-bRHz ADMIN: SeverePwnage/(Khalil Young) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/rpg22 at (59,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=59;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:30] cby-bRHz GAME: Explosion with size (1, 3, 5) in area large hard floor 
+[05:00:49] cby-bRHz ACCESS: Logout: SeverePwnage/(Khalil Young)
+
+
+Starting up. (ID: cby-bTxK) 14:28.02
+---------------------
+[05:00:00] cby-bTxK ADMIN: Loading ckey_whitelist
+[05:00:00] cby-bTxK ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-bTxK ADMIN: Loading jobban_rank
+[05:00:00] cby-bTxK ADMIN: jobban_keylist was empty
+[05:00:00] cby-bTxK ADMIN: Loading Banlist
+[05:00:00] cby-bTxK DEBUG: Rebuilding Master Controller
+[05:00:00] cby-bTxK ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bTxK ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bTxK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-bTxK ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-bTxK ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-bTxK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bTxK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bTxK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bTxK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-bTxK ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-bTxK ACCESS: Login: SeverePwnage/(Holden Wible) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-bTxK GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-bTxK DEBUG: Next event of severity Mundane in 17.314 minutes.
+[05:00:00] cby-bTxK DEBUG: Next event of severity Moderate in 49.75 minutes.
+[05:00:00] cby-bTxK DEBUG: Next event of severity Major in 91.3483 minutes.
+[05:00:06] cby-bTxK ADMIN: SeverePwnage/(Holden Wible) spawned /obj/item/weapon/weldingtool/mini at (58,38,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:15] cby-bTxK ADMIN: SeverePwnage/(Holden Wible) deleted the girder at (57,40,1)
+[05:00:26] cby-bTxK ACCESS: Logout: *no key*/(Holden Wible)
+[05:00:26] cby-bTxK ACCESS: Login: SeverePwnage/(Holden Wible) from localhost-3031256942 || BYOND v513
+[05:00:27] cby-bTxK ADMIN: *no key*/(Holden Wible) used gibself. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=36;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:31] cby-bTxK GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Holden Wible) has ghosted.
+[05:00:31] cby-bTxK ACCESS: Logout: *no key*/(Holden Wible)
+[05:00:31] cby-bTxK ACCESS: Login: SeverePwnage/(Holden Wible) from localhost-3031256942 || BYOND v513
+[05:00:31] cby-bTxK SAY: (DSAY) SeverePwnage - usr: *no key*/(Holden Wible) : The ghost of <span class='name'>Holden Wible</span> now lurks among the dead at the large hard floor. 
+[05:00:34] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wahhh
+[05:00:35] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wahh
+[05:00:36] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wahh
+[05:00:36] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wahhh
+[05:00:38] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wahhh
+[05:00:42] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : ideaaddd ideadd helppp
+[05:00:44] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wah
+[05:00:45] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wah
+[05:00:45] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wah
+[05:00:46] cby-bTxK SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Holden Wible) : wah
+[05:01:01] cby-bTxK ADMIN: SeverePwnage/(Holden Wible) created an admin explosion at the large hard floor. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=40;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:01] cby-bTxK GAME: Explosion with size (1, 2, 3) in area large hard floor 
+[05:01:05] cby-bTxK ACCESS: Logout: SeverePwnage/(Holden Wible)
+
+
+Starting up. (ID: cby-bVrm) 14:40.13
+---------------------
+[10:00:00] cby-bVrm ADMIN: Loading ckey_whitelist
+[10:00:00] cby-bVrm ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-bVrm ADMIN: Loading jobban_rank
+[10:00:00] cby-bVrm ADMIN: jobban_keylist was empty
+[10:00:00] cby-bVrm ADMIN: Loading Banlist
+[10:00:00] cby-bVrm DEBUG: Rebuilding Master Controller
+[10:00:00] cby-bVrm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bVrm ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bVrm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cby-bVrm ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bVrm ADMIN: SeverePwnage has started the game.
+[10:00:00] cby-bVrm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bVrm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bVrm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bVrm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bVrm ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cby-bVrm ACCESS: Login: SeverePwnage/(Salvador Mills) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bVrm GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cby-bVrm DEBUG: Next event of severity Mundane in 15.49 minutes.
+[10:00:00] cby-bVrm DEBUG: Next event of severity Moderate in 47.524 minutes.
+[10:00:00] cby-bVrm DEBUG: Next event of severity Major in 85.6483 minutes.
+[10:00:03] cby-bVrm ADMIN: SeverePwnage/(Salvador Mills) spawned /obj/item/weapon/weldingtool/mini at (60,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=60;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:11] cby-bVrm ADMIN: SeverePwnage/(Salvador Mills) deleted the girder at (63,34,1)
+[10:00:17] cby-bVrm ADMIN: SeverePwnage/(Salvador Mills) spawned /obj/item/weapon/grenade/frag/satchelwp at (61,32,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=32;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:24] cby-bVrm ADMIN: SeverePwnage/(Salvador Mills) changed Europe's time to 12:47.
+[10:00:26] cby-bVrm ADMIN: SeverePwnage/(Salvador Mills) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=30;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:27] cby-bVrm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Salvador Mills) activated a satchel charge.
+[10:00:27] cby-bVrm ATTACK: Salvador Mills (severepwnage) primed an explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=30;Z=1'>JMP</a>)
+[10:01:19] cby-bVrm ACCESS: Logout: SeverePwnage/(Salvador Mills)
+
+
+Starting up. (ID: cby-bWxg) 14:47.13
+---------------------
+[20:00:00] cby-bWxg ADMIN: Loading ckey_whitelist
+[20:00:00] cby-bWxg ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cby-bWxg ADMIN: Loading jobban_rank
+[20:00:00] cby-bWxg ADMIN: jobban_keylist was empty
+[20:00:00] cby-bWxg ADMIN: Loading Banlist
+[20:00:00] cby-bWxg DEBUG: Rebuilding Master Controller
+[20:00:00] cby-bWxg ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-bWxg ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-bWxg DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cby-bWxg ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-bWxg ADMIN: SeverePwnage has started the game.
+[20:00:00] cby-bWxg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-bWxg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-bWxg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-bWxg DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-bWxg ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cby-bWxg ACCESS: Login: SeverePwnage/(James Rifler) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-bWxg GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cby-bWxg DEBUG: Next event of severity Mundane in 13.272 minutes.
+[20:00:00] cby-bWxg DEBUG: Next event of severity Moderate in 51.86 minutes.
+[20:00:00] cby-bWxg DEBUG: Next event of severity Major in 83.0183 minutes.
+[20:00:05] cby-bWxg ADMIN: SeverePwnage/(James Rifler) spawned /obj/item/weapon/weldingtool/mini at (55,38,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:12] cby-bWxg ADMIN: SeverePwnage/(James Rifler) deleted the girder at (54,40,1)
+[20:00:24] cby-bWxg ADMIN: SeverePwnage/(James Rifler) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=60;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:05:36] cby-bWxg ADMIN: SeverePwnage/(James Rifler) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=393;Y=200;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:05:44] cby-bWxg ADMIN: SeverePwnage/(James Rifler) deleted the girder at (393,197,1)
+[20:05:50] cby-bWxg ADMIN: SeverePwnage/(James Rifler) jumped to the small soft floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:05:55] cby-bWxg ADMIN: SeverePwnage/(James Rifler) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(James Rifler)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:06:00] cby-bWxg ACCESS: Logout: SeverePwnage/(James Rifler)
+
+
+Starting up. (ID: cby-bYOV) 15:01.51
+---------------------
+[10:00:00] cby-bYOV ADMIN: Loading ckey_whitelist
+[10:00:00] cby-bYOV ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-bYOV ADMIN: Loading jobban_rank
+[10:00:00] cby-bYOV ADMIN: jobban_keylist was empty
+[10:00:00] cby-bYOV ADMIN: Loading Banlist
+[10:00:00] cby-bYOV DEBUG: Rebuilding Master Controller
+[10:00:00] cby-bYOV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bYOV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bYOV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bYOV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bYOV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cby-bYOV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-bYOV ADMIN: SeverePwnage has started the game.
+[10:00:00] cby-bYOV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bYOV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bYOV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bYOV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-bYOV ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cby-bYOV ACCESS: Login: SeverePwnage/(Fenton Watson) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-bYOV GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cby-bYOV DEBUG: Next event of severity Mundane in 16.558 minutes.
+[10:00:00] cby-bYOV DEBUG: Next event of severity Moderate in 39.53 minutes.
+[10:00:00] cby-bYOV DEBUG: Next event of severity Major in 98.3067 minutes.
+[10:00:16] cby-bYOV ADMIN: SeverePwnage/(Fenton Watson) spawned /obj/item/weapon/weldingtool/mini at (55,38,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:32] cby-bYOV ADMIN: SeverePwnage/(Fenton Watson) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=359;Y=197;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:50] cby-bYOV ACCESS: Logout: SeverePwnage/(Fenton Watson)
+
+
+Starting up. (ID: cby-b1ko) 15:11.30
+---------------------
+[20:00:00] cby-b1ko ADMIN: Loading ckey_whitelist
+[20:00:00] cby-b1ko ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cby-b1ko ADMIN: Loading jobban_rank
+[20:00:00] cby-b1ko ADMIN: jobban_keylist was empty
+[20:00:00] cby-b1ko ADMIN: Loading Banlist
+[20:00:00] cby-b1ko DEBUG: Rebuilding Master Controller
+[20:00:00] cby-b1ko ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b1ko ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b1ko ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b1ko DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cby-b1ko ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b1ko ADMIN: SeverePwnage has started the game.
+[20:00:00] cby-b1ko DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b1ko DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b1ko DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b1ko DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b1ko ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cby-b1ko ACCESS: Login: SeverePwnage/(Steven Lester) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b1ko GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cby-b1ko DEBUG: Next event of severity Mundane in 15.516 minutes.
+[20:00:00] cby-b1ko DEBUG: Next event of severity Moderate in 49.674 minutes.
+[20:00:00] cby-b1ko DEBUG: Next event of severity Major in 91.5467 minutes.
+[20:00:11] cby-b1ko ACCESS: Logout: SeverePwnage/(Steven Lester)
+
+
+Starting up. (ID: cby-b107) 15:16.51
+---------------------
+[15:00:00] cby-b107 ADMIN: Loading ckey_whitelist
+[15:00:00] cby-b107 ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cby-b107 ADMIN: Loading jobban_rank
+[15:00:00] cby-b107 ADMIN: jobban_keylist was empty
+[15:00:00] cby-b107 ADMIN: Loading Banlist
+[15:00:00] cby-b107 DEBUG: Rebuilding Master Controller
+[15:00:00] cby-b107 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-b107 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-b107 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cby-b107 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-b107 ADMIN: SeverePwnage has started the game.
+[15:00:00] cby-b107 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-b107 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-b107 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-b107 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-b107 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cby-b107 ACCESS: Login: SeverePwnage/(Julius Harris) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-b107 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cby-b107 DEBUG: Next event of severity Mundane in 17.662 minutes.
+[15:00:00] cby-b107 DEBUG: Next event of severity Moderate in 50.338 minutes.
+[15:00:00] cby-b107 DEBUG: Next event of severity Major in 90.8617 minutes.
+[15:00:06] cby-b107 ADMIN: SeverePwnage/(Julius Harris) spawned /obj/item/weapon/weldingtool/mini at (60,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=60;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:00:23] cby-b107 ADMIN: SeverePwnage/(Julius Harris) deleted the girder at (59,40,1)
+[15:00:25] cby-b107 ACCESS: Logout: SeverePwnage/(Julius Harris)
+
+
+Starting up. (ID: cby-b2U9) 15:21.46
+---------------------
+[20:00:00] cby-b2U9 ADMIN: Loading ckey_whitelist
+[20:00:00] cby-b2U9 ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cby-b2U9 ADMIN: Loading jobban_rank
+[20:00:00] cby-b2U9 ADMIN: jobban_keylist was empty
+[20:00:00] cby-b2U9 ADMIN: Loading Banlist
+[20:00:00] cby-b2U9 DEBUG: Rebuilding Master Controller
+[20:00:00] cby-b2U9 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b2U9 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b2U9 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b2U9 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cby-b2U9 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b2U9 ADMIN: SeverePwnage has started the game.
+[20:00:00] cby-b2U9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b2U9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b2U9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b2U9 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b2U9 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cby-b2U9 ACCESS: Login: SeverePwnage/(Joey Scherer) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b2U9 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cby-b2U9 DEBUG: Next event of severity Mundane in 14.978 minutes.
+[20:00:00] cby-b2U9 DEBUG: Next event of severity Moderate in 42.972 minutes.
+[20:00:00] cby-b2U9 DEBUG: Next event of severity Major in 98.3583 minutes.
+[20:00:09] cby-b2U9 ADMIN: SeverePwnage/(Joey Scherer) spawned /obj/item/weapon/weldingtool/mini at (58,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:33] cby-b2U9 ADMIN: SeverePwnage/(Joey Scherer) deleted the girder at (57,40,1)
+[20:00:45] cby-b2U9 ACCESS: Logout: SeverePwnage/(Joey Scherer)
+
+
+Starting up. (ID: cby-b4qE) 15:31.23
+---------------------
+[20:00:00] cby-b4qE ADMIN: Loading ckey_whitelist
+[20:00:00] cby-b4qE ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cby-b4qE ADMIN: Loading jobban_rank
+[20:00:00] cby-b4qE ADMIN: jobban_keylist was empty
+[20:00:00] cby-b4qE ADMIN: Loading Banlist
+[20:00:00] cby-b4qE DEBUG: Rebuilding Master Controller
+[20:00:00] cby-b4qE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b4qE ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cby-b4TH) 15:34.23
+---------------------
+[05:00:00] cby-b4TH ADMIN: Loading ckey_whitelist
+[05:00:00] cby-b4TH ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-b4TH ADMIN: Loading jobban_rank
+[05:00:00] cby-b4TH ADMIN: jobban_keylist was empty
+[05:00:00] cby-b4TH ADMIN: Loading Banlist
+[05:00:00] cby-b4TH DEBUG: Rebuilding Master Controller
+[05:00:00] cby-b4TH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-b4TH ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b4TH ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b4TH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-b4TH ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b4TH ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-b4TH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b4TH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b4TH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b4TH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b4TH ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-b4TH ACCESS: Login: SeverePwnage/(Armando Lewis) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-b4TH GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-b4TH DEBUG: Next event of severity Mundane in 13.79 minutes.
+[05:00:00] cby-b4TH DEBUG: Next event of severity Moderate in 52.814 minutes.
+[05:00:00] cby-b4TH DEBUG: Next event of severity Major in 95.3933 minutes.
+[05:00:04] cby-b4TH ADMIN: SeverePwnage/(Armando Lewis) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/rpg22 at (58,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:10] cby-b4TH GAME: Explosion with size (1, 3, 5) in area large hard floor 
+[05:00:18] cby-b4TH ADMIN: SeverePwnage/(Armando Lewis) spawned /obj/item/weapon/weldingtool/mini at (57,37,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:38] cby-b4TH ADMIN: SeverePwnage/(Armando Lewis) spawned /obj/item/weapon/grenade/frag/satchelnato at (61,32,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=32;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:43] cby-b4TH ADMIN: SeverePwnage/(Armando Lewis) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=62;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:00:43] cby-b4TH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Armando Lewis) activated a satchel charge.
+[05:00:43] cby-b4TH ATTACK: Armando Lewis (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=62;Y=34;Z=1'>JMP</a>)
+[05:00:50] cby-b4TH ADMIN: SeverePwnage/(Armando Lewis) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18 at (55,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=55;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:01:11] cby-b4TH ACCESS: Logout: SeverePwnage/(Armando Lewis)
+
+
+Starting up. (ID: cby-b61W) 15:47.57
+---------------------
+[20:00:00] cby-b61W ADMIN: Loading ckey_whitelist
+[20:00:00] cby-b61W ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cby-b61W ADMIN: Loading jobban_rank
+[20:00:00] cby-b61W ADMIN: jobban_keylist was empty
+[20:00:00] cby-b61W ADMIN: Loading Banlist
+[20:00:00] cby-b61W DEBUG: Rebuilding Master Controller
+[20:00:00] cby-b61W ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b61W ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b61W DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cby-b61W ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cby-b61W ADMIN: SeverePwnage has started the game.
+[20:00:00] cby-b61W DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b61W DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b61W DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b61W DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cby-b61W ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cby-b61W ACCESS: Login: SeverePwnage/(Marc Khan) from localhost-3031256942 || BYOND v513
+[20:00:00] cby-b61W GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cby-b61W DEBUG: Next event of severity Mundane in 12.974 minutes.
+[20:00:00] cby-b61W DEBUG: Next event of severity Moderate in 50.062 minutes.
+[20:00:00] cby-b61W DEBUG: Next event of severity Major in 98.93 minutes.
+[20:00:20] cby-b61W ADMIN: SeverePwnage/(Marc Khan) created 1 /obj/machinery/door/unpowered/simple/coldwar/glass/store (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:00:59] cby-b61W ADMIN: SeverePwnage/(Marc Khan) spawned /obj/item/weapon/gun/projectile/cz82 at (57,23,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=57;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:21] cby-b61W ADMIN: SeverePwnage/(Marc Khan) deleted the steel door at (61,16,1)
+[20:01:43] cby-b61W ACCESS: Logout: SeverePwnage/(Marc Khan)
+
+
+Starting up. (ID: cby-b8hn) 15:56.04
+---------------------
+[05:00:00] cby-b8hn ADMIN: Loading ckey_whitelist
+[05:00:00] cby-b8hn ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-b8hn ADMIN: Loading jobban_rank
+[05:00:00] cby-b8hn ADMIN: jobban_keylist was empty
+[05:00:00] cby-b8hn ADMIN: Loading Banlist
+[05:00:00] cby-b8hn DEBUG: Rebuilding Master Controller
+[05:00:00] cby-b8hn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-b8hn ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b8hn ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b8hn ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b8hn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cby-b8hn ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cby-b8hn ADMIN: SeverePwnage has started the game.
+[05:00:00] cby-b8hn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b8hn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b8hn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b8hn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cby-b8hn ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cby-b8hn ACCESS: Login: SeverePwnage/(Willy Lacon) from localhost-3031256942 || BYOND v513
+[05:00:00] cby-b8hn GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cby-b8hn DEBUG: Next event of severity Mundane in 14.08 minutes.
+[05:00:00] cby-b8hn DEBUG: Next event of severity Moderate in 51.732 minutes.
+[05:00:00] cby-b8hn DEBUG: Next event of severity Major in 95.5083 minutes.
+[05:00:31] cby-b8hn GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Willy Lacon) has ghosted.
+[05:00:31] cby-b8hn ACCESS: Logout: *no key*/(Willy Lacon)
+[05:00:31] cby-b8hn ACCESS: Login: SeverePwnage/(Willy Lacon) from localhost-3031256942 || BYOND v513
+[05:00:31] cby-b8hn SAY: (DSAY) SeverePwnage - usr: *no key*/(Willy Lacon) : The ghost of <span class='name'>Willy Lacon</span> now skulks among the dead at the outside. 
+[05:00:33] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : damn
+[05:00:34] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : damn
+[05:00:35] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : damn
+[05:00:36] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : damn
+[05:00:37] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : damn
+[05:00:37] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : okay
+[05:00:38] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : okay
+[05:00:40] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : well
+[05:00:50] cby-b8hn SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Willy Lacon) : cool
+[05:00:53] cby-b8hn ACCESS: Logout: SeverePwnage/(Willy Lacon)
+
+
+Starting up. (ID: cby-b9Ds) 16:04.44
+---------------------
+[10:00:00] cby-b9Ds ADMIN: Loading ckey_whitelist
+[10:00:00] cby-b9Ds ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-b9Ds ADMIN: Loading jobban_rank
+[10:00:00] cby-b9Ds ADMIN: jobban_keylist was empty
+[10:00:00] cby-b9Ds ADMIN: Loading Banlist
+[10:00:00] cby-b9Ds DEBUG: Rebuilding Master Controller
+[10:00:00] cby-b9Ds ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-b9Ds ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-b9Ds ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-b9Ds DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cby-b9Ds ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-b9Ds ADMIN: SeverePwnage has started the game.
+[10:00:00] cby-b9Ds DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-b9Ds DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-b9Ds DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-b9Ds DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cby-b9Ds ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cby-b9Ds ACCESS: Login: SeverePwnage/(Brandon Mcfall) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-b9Ds GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cby-b9Ds DEBUG: Next event of severity Mundane in 15.526 minutes.
+[10:00:00] cby-b9Ds DEBUG: Next event of severity Moderate in 51.822 minutes.
+[10:00:00] cby-b9Ds DEBUG: Next event of severity Major in 83.615 minutes.
+[10:00:16] cby-b9Ds ADMIN: SeverePwnage/(Brandon Mcfall) spawned /obj/item/weapon/weldingtool/mini at (74,19,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=19;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:00:26] cby-b9Ds ADMIN: SeverePwnage/(Brandon Mcfall) deleted the girder at (74,16,1)
+[10:01:25] cby-b9Ds ACCESS: Logout: SeverePwnage/(Brandon Mcfall)
+
+
+Starting up. (ID: cby-cbEF) 16:24.06
+---------------------
+[05:00:00] cby-cbEF ADMIN: Loading ckey_whitelist
+[05:00:00] cby-cbEF ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cby-cbEF ADMIN: Loading jobban_rank
+[05:00:00] cby-cbEF ADMIN: jobban_keylist was empty
+[05:00:00] cby-cbEF ADMIN: Loading Banlist
+[05:00:00] cby-cbEF DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cby-cbUA) 16:25.44
+---------------------
+[10:00:00] cby-cbUA ADMIN: Loading ckey_whitelist
+[10:00:00] cby-cbUA ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-cbUA ADMIN: Loading jobban_rank
+[10:00:00] cby-cbUA ADMIN: jobban_keylist was empty
+[10:00:00] cby-cbUA ADMIN: Loading Banlist
+[10:00:00] cby-cbUA DEBUG: Rebuilding Master Controller
+[10:00:00] cby-cbUA ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-cbUA ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cby-ccEO) 16:30.31
+---------------------
+[15:00:00] cby-ccEO ADMIN: Loading ckey_whitelist
+[15:00:00] cby-ccEO ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cby-ccEO ADMIN: Loading jobban_rank
+[15:00:00] cby-ccEO ADMIN: jobban_keylist was empty
+[15:00:00] cby-ccEO ADMIN: Loading Banlist
+[15:00:00] cby-ccEO DEBUG: Rebuilding Master Controller
+[15:00:00] cby-ccEO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-ccEO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-ccEO ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cby-cc7m) 16:33.21
+---------------------
+[10:00:00] cby-cc7m ADMIN: Loading ckey_whitelist
+[10:00:00] cby-cc7m ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cby-cc7m ADMIN: Loading jobban_rank
+[10:00:00] cby-cc7m ADMIN: jobban_keylist was empty
+[10:00:00] cby-cc7m ADMIN: Loading Banlist
+[10:00:00] cby-cc7m DEBUG: Rebuilding Master Controller
+[10:00:00] cby-cc7m ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cby-cc7m ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cby-cc7m DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cby-cc7m ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cby-cd9c) 16:39.57
+---------------------
+[15:00:00] cby-cd9c ADMIN: Loading ckey_whitelist
+[15:00:00] cby-cd9c ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cby-cd9c ADMIN: Loading jobban_rank
+[15:00:00] cby-cd9c ADMIN: jobban_keylist was empty
+[15:00:00] cby-cd9c ADMIN: Loading Banlist
+[15:00:00] cby-cd9c DEBUG: Rebuilding Master Controller
+[15:00:00] cby-cd9c ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-cd9c DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cby-cd9c ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cby-cd9c ADMIN: SeverePwnage has started the game.
+[15:00:00] cby-cd9c DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-cd9c DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-cd9c DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-cd9c DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cby-cd9c ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cby-cd9c ACCESS: Login: SeverePwnage/(Reed Jerome) from localhost-3031256942 || BYOND v513
+[15:00:00] cby-cd9c GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cby-cd9c DEBUG: Next event of severity Mundane in 15.94 minutes.
+[15:00:00] cby-cd9c DEBUG: Next event of severity Moderate in 36.084 minutes.
+[15:00:00] cby-cd9c DEBUG: Next event of severity Major in 83.9267 minutes.
+[15:00:19] cby-cd9c ACCESS: Logout: SeverePwnage/(Reed Jerome)
+
+
+Starting up. (ID: cby-cVDr) 21:18.40
+---------------------
+[20:00:00] cby-cVDr ADMIN: Loading jobban_rank
+[20:00:00] cby-cVDr ADMIN: jobban_keylist was empty
+[20:00:00] cby-cVDr ADMIN: Loading Banlist
+[20:00:00] cby-cVDr ADMIN: ckey_whitelist: 2 entrie(s).
+[20:00:00] cby-cVDr DEBUG: Rebuilding Master Controller
+[20:00:00] cby-cVDr ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] cby-cVDr ADMIN: SeverePwnage/(SeverePwnage) has a cookie from a banned account! (Matched: severepwnage, 78.165.162.118, 3031256942)
+[20:00:00] cby-cVDr ACCESS: Logout: SeverePwnage/(SeverePwnage)

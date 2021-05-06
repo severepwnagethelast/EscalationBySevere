@@ -1,0 +1,47 @@
+
+
+Starting up. (ID: ca2-a5bD) 08:58.57
+---------------------
+[10:00:00] ca2-a5bD ADMIN: Loading jobban_rank
+[10:00:00] ca2-a5bD ADMIN: jobban_keylist was empty
+[10:00:00] ca2-a5bD ADMIN: Loading Banlist
+[10:00:00] ca2-a5bD DEBUG: Rebuilding Master Controller
+[10:00:00] ca2-a5bD ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca2-a5bD DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca2-a5bD ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] ca2-a5bD ADMIN: SeverePwnage has started the game.
+[10:00:00] ca2-a5bD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca2-a5bD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca2-a5bD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca2-a5bD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca2-a5bD ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] ca2-a5bD ACCESS: Login: SeverePwnage/(Jameson Moon) from localhost-3031256942 || BYOND v513
+[10:00:00] ca2-a5bD GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca2-a5bD DEBUG: Next event of severity Mundane in 12.368 minutes.
+[10:00:00] ca2-a5bD DEBUG: Next event of severity Moderate in 53.31 minutes.
+[10:00:00] ca2-a5bD DEBUG: Next event of severity Major in 86.775 minutes.
+[10:01:00] ca2-a5bD ACCESS: Logout: SeverePwnage/(Jameson Moon)
+
+
+Starting up. (ID: ca2-a9Jd) 09:28.03
+---------------------
+[20:00:00] ca2-a9Jd ADMIN: Loading jobban_rank
+[20:00:00] ca2-a9Jd ADMIN: jobban_keylist was empty
+[20:00:00] ca2-a9Jd ADMIN: Loading Banlist
+[20:00:00] ca2-a9Jd DEBUG: Rebuilding Master Controller
+[20:00:00] ca2-a9Jd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] ca2-a9Jd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca2-a9Jd ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca2-a9Jd ADMIN: SeverePwnage has started the game.
+[20:00:00] ca2-a9Jd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca2-a9Jd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca2-a9Jd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca2-a9Jd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca2-a9Jd ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] ca2-a9Jd ACCESS: Login: SeverePwnage/(Max Powell) from localhost-3031256942 || BYOND v513
+[20:00:00] ca2-a9Jd GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca2-a9Jd DEBUG: Next event of severity Mundane in 16.936 minutes.
+[20:00:00] ca2-a9Jd DEBUG: Next event of severity Moderate in 52.53 minutes.
+[20:00:00] ca2-a9Jd DEBUG: Next event of severity Major in 80.1883 minutes.
+[20:00:10] ca2-a9Jd ADMIN: SeverePwnage/(Max Powell) spawned /obj/item/weapon/storage/belt/holster/heer at (165,225,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=165;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:42] ca2-a9Jd ACCESS: Logout: SeverePwnage/(Max Powell)

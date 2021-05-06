@@ -1,0 +1,297 @@
+
+
+Starting up. (ID: ca8-a3tB) 08:48.00
+---------------------
+[20:00:00] ca8-a3tB ADMIN: Loading jobban_rank
+[20:00:00] ca8-a3tB ADMIN: jobban_keylist was empty
+[20:00:00] ca8-a3tB ADMIN: Loading Banlist
+[20:00:00] ca8-a3tB DEBUG: Rebuilding Master Controller
+[20:00:00] ca8-a3tB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] ca8-a3tB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca8-a3tB ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca8-a3tB ADMIN: SeverePwnage has started the game.
+[20:00:00] ca8-a3tB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-a3tB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-a3tB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-a3tB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-a3tB ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] ca8-a3tB ACCESS: Login: SeverePwnage/(Raymond Osteen) from localhost-3031256942 || BYOND v513
+[20:00:00] ca8-a3tB GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca8-a3tB DEBUG: Next event of severity Mundane in 12.318 minutes.
+[20:00:00] ca8-a3tB DEBUG: Next event of severity Moderate in 36.026 minutes.
+[20:00:00] ca8-a3tB DEBUG: Next event of severity Major in 88.585 minutes.
+[20:00:16] ca8-a3tB ADMIN: SeverePwnage/(Raymond Osteen) deleted the steel door at (18,10,1)
+[20:00:32] ca8-a3tB ACCESS: Logout: SeverePwnage/(Raymond Osteen)
+
+
+Starting up. (ID: ca8-a39S) 08:52.16
+---------------------
+[05:00:00] ca8-a39S ADMIN: Loading jobban_rank
+[05:00:00] ca8-a39S ADMIN: jobban_keylist was empty
+[05:00:00] ca8-a39S ADMIN: Loading Banlist
+[05:00:00] ca8-a39S DEBUG: Rebuilding Master Controller
+[05:00:00] ca8-a39S ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-a39S ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-a39S DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca8-a39S ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-a39S ADMIN: SeverePwnage has started the game.
+[05:00:00] ca8-a39S DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a39S DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a39S DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a39S DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a39S ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] ca8-a39S ACCESS: Login: SeverePwnage/(Diego Faust) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-a39S GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca8-a39S DEBUG: Next event of severity Mundane in 17.77 minutes.
+[05:00:00] ca8-a39S DEBUG: Next event of severity Moderate in 44.206 minutes.
+[05:00:00] ca8-a39S DEBUG: Next event of severity Major in 82.5617 minutes.
+[05:00:12] ca8-a39S ADMIN: SeverePwnage/(Diego Faust) deleted the steel door at (21,10,1)
+[05:00:25] ca8-a39S ACCESS: Logout: SeverePwnage/(Diego Faust)
+
+
+Starting up. (ID: ca8-a4x3) 08:54.52
+---------------------
+[15:00:00] ca8-a4x3 ADMIN: Loading jobban_rank
+[15:00:00] ca8-a4x3 ADMIN: jobban_keylist was empty
+[15:00:00] ca8-a4x3 ADMIN: Loading Banlist
+[15:00:00] ca8-a4x3 DEBUG: Rebuilding Master Controller
+[15:00:00] ca8-a4x3 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca8-a4x3 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca8-a4x3 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca8-a4x3 ADMIN: SeverePwnage has started the game.
+[15:00:00] ca8-a4x3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-a4x3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-a4x3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-a4x3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-a4x3 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] ca8-a4x3 ACCESS: Login: SeverePwnage/(Chip Hynes) from localhost-3031256942 || BYOND v513
+[15:00:00] ca8-a4x3 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca8-a4x3 DEBUG: Next event of severity Mundane in 17.538 minutes.
+[15:00:00] ca8-a4x3 DEBUG: Next event of severity Moderate in 48.682 minutes.
+[15:00:00] ca8-a4x3 DEBUG: Next event of severity Major in 96.0217 minutes.
+[15:00:40] ca8-a4x3 ADMIN: SeverePwnage/(Chip Hynes) deleted the steel door at (18,10,1)
+[15:02:06] ca8-a4x3 ACCESS: Logout: SeverePwnage/(Chip Hynes)
+
+
+Starting up. (ID: ca8-a5Jq) 09:02.27
+---------------------
+[05:00:00] ca8-a5Jq ADMIN: Loading jobban_rank
+[05:00:00] ca8-a5Jq ADMIN: jobban_keylist was empty
+[05:00:00] ca8-a5Jq ADMIN: Loading Banlist
+[05:00:00] ca8-a5Jq DEBUG: Rebuilding Master Controller
+[05:00:00] ca8-a5Jq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-a5Jq ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-a5Jq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca8-a5Jq ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-a5Jq ADMIN: SeverePwnage has started the game.
+[05:00:00] ca8-a5Jq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a5Jq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a5Jq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a5Jq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-a5Jq ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] ca8-a5Jq ACCESS: Login: SeverePwnage/(Jaden Thorley) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-a5Jq GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca8-a5Jq DEBUG: Next event of severity Mundane in 15.544 minutes.
+[05:00:00] ca8-a5Jq DEBUG: Next event of severity Moderate in 36.364 minutes.
+[05:00:00] ca8-a5Jq DEBUG: Next event of severity Major in 95.5333 minutes.
+[05:00:05] ca8-a5Jq ADMIN: SeverePwnage/(Jaden Thorley) deleted the steel door at (18,10,1)
+[05:01:11] ca8-a5Jq ADMIN: SeverePwnage/(Jaden Thorley) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:11] ca8-a5Jq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jaden Thorley) activated a satchel charge.
+[05:01:11] ca8-a5Jq ATTACK: Jaden Thorley (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=10;Z=1'>JMP</a>)
+[05:01:14] ca8-a5Jq ACCESS: Logout: SeverePwnage/(Jaden Thorley)
+
+
+Starting up. (ID: ca8-bAWE) 12:28.49
+---------------------
+[15:00:00] ca8-bAWE ADMIN: Loading jobban_rank
+[15:00:00] ca8-bAWE ADMIN: jobban_keylist was empty
+[15:00:00] ca8-bAWE ADMIN: Loading Banlist
+[15:00:00] ca8-bAWE DEBUG: Rebuilding Master Controller
+[15:00:00] ca8-bAWE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca8-bAWE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca8-bAWE ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca8-bAWE ADMIN: SeverePwnage has started the game.
+[15:00:00] ca8-bAWE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-bAWE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-bAWE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-bAWE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca8-bAWE ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] ca8-bAWE ACCESS: Login: SeverePwnage/(Alexis Hincken) from localhost-3031256942 || BYOND v513
+[15:00:00] ca8-bAWE GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca8-bAWE DEBUG: Next event of severity Mundane in 13.738 minutes.
+[15:00:00] ca8-bAWE DEBUG: Next event of severity Moderate in 46.936 minutes.
+[15:00:00] ca8-bAWE DEBUG: Next event of severity Major in 96.5367 minutes.
+[15:00:14] ca8-bAWE ADMIN: SeverePwnage/(Alexis Hincken) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Alexis Hincken)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:20] ca8-bAWE ACCESS: Logout: SeverePwnage/(Alexis Hincken)
+
+
+Starting up. (ID: ca8-bBE1) 12:33.26
+---------------------
+[10:00:00] ca8-bBE1 ADMIN: Loading jobban_rank
+[10:00:00] ca8-bBE1 ADMIN: jobban_keylist was empty
+[10:00:00] ca8-bBE1 ADMIN: Loading Banlist
+[10:00:00] ca8-bBE1 DEBUG: Rebuilding Master Controller
+[10:00:00] ca8-bBE1 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca8-bBE1 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] ca8-bBE1 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca8-bBE1 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] ca8-bBE1 ADMIN: SeverePwnage has started the game.
+[10:00:00] ca8-bBE1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca8-bBE1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca8-bBE1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca8-bBE1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca8-bBE1 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] ca8-bBE1 ACCESS: Login: SeverePwnage/(Zion Earl) from localhost-3031256942 || BYOND v513
+[10:00:00] ca8-bBE1 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca8-bBE1 DEBUG: Next event of severity Mundane in 15.408 minutes.
+[10:00:00] ca8-bBE1 DEBUG: Next event of severity Moderate in 47.772 minutes.
+[10:00:00] ca8-bBE1 DEBUG: Next event of severity Major in 94.585 minutes.
+[10:00:08] ca8-bBE1 ADMIN: SeverePwnage/(Zion Earl) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Zion Earl)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:16] ca8-bBE1 ACCESS: Logout: SeverePwnage/(Zion Earl)
+
+
+Starting up. (ID: ca8-bCFF) 12:39.53
+---------------------
+[10:00:00] ca8-bCFF ADMIN: Loading jobban_rank
+[10:00:00] ca8-bCFF ADMIN: jobban_keylist was empty
+[10:00:00] ca8-bCFF ADMIN: Loading Banlist
+[10:00:00] ca8-bCFF DEBUG: Rebuilding Master Controller
+[10:00:00] ca8-bCFF ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca8-bCFF ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed.
+[10:00:00] ca8-bCFF ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bCFF DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca8-bCFF ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed.
+[10:00:00] ca8-bCFF ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bCFF ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: ca8-bC8a) 12:42.43
+---------------------
+[20:00:00] ca8-bC8a ADMIN: Loading jobban_rank
+[20:00:00] ca8-bC8a ADMIN: jobban_keylist was empty
+[20:00:00] ca8-bC8a ADMIN: Loading Banlist
+[20:00:00] ca8-bC8a DEBUG: Rebuilding Master Controller
+[20:00:00] ca8-bC8a ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] ca8-bC8a DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca8-bC8a ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca8-bC8a ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed.
+[20:00:00] ca8-bC8a ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] ca8-bC8a ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed.
+[20:00:00] ca8-bC8a ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] ca8-bC8a ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: ca8-bDB8) 12:45.55
+---------------------
+[20:00:00] ca8-bDB8 ADMIN: Loading jobban_rank
+[20:00:00] ca8-bDB8 ADMIN: jobban_keylist was empty
+[20:00:00] ca8-bDB8 ADMIN: Loading Banlist
+[20:00:00] ca8-bDB8 DEBUG: Rebuilding Master Controller
+[20:00:00] ca8-bDB8 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] ca8-bDB8 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca8-bDB8 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca8-bDB8 ADMIN: SeverePwnage has started the game.
+[20:00:00] ca8-bDB8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-bDB8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-bDB8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-bDB8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca8-bDB8 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] ca8-bDB8 ACCESS: Login: SeverePwnage/(Marco White) from localhost-3031256942 || BYOND v513
+[20:00:00] ca8-bDB8 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca8-bDB8 DEBUG: Next event of severity Mundane in 14.418 minutes.
+[20:00:00] ca8-bDB8 DEBUG: Next event of severity Moderate in 46.898 minutes.
+[20:00:00] ca8-bDB8 DEBUG: Next event of severity Major in 91.8683 minutes.
+
+
+Starting up. (ID: ca8-bD1A) 12:48.27
+---------------------
+[05:00:00] ca8-bD1A ADMIN: Loading jobban_rank
+[05:00:00] ca8-bD1A ADMIN: jobban_keylist was empty
+[05:00:00] ca8-bD1A ADMIN: Loading Banlist
+[05:00:00] ca8-bD1A DEBUG: Rebuilding Master Controller
+[05:00:00] ca8-bD1A ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-bD1A ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-bD1A DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca8-bD1A ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca8-bD1A ADMIN: SeverePwnage has started the game.
+[05:00:00] ca8-bD1A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-bD1A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-bD1A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-bD1A DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca8-bD1A ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] ca8-bD1A ACCESS: Login: SeverePwnage/(Zane Mckendrick) from localhost-3031256942 || BYOND v513
+[05:00:00] ca8-bD1A GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca8-bD1A DEBUG: Next event of severity Mundane in 13.142 minutes.
+[05:00:00] ca8-bD1A DEBUG: Next event of severity Moderate in 49.046 minutes.
+[05:00:00] ca8-bD1A DEBUG: Next event of severity Major in 93.1417 minutes.
+[05:00:09] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) deleted the steel door at (28,10,1)
+[05:00:23] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) spawned /obj/item/weapon/grenade/frag/satchelwp at (28,5,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=5;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:28] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=6;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:28] ca8-bD1A GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Zane Mckendrick) activated a satchel charge.
+[05:00:28] ca8-bD1A ATTACK: Zane Mckendrick (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=6;Z=1'>JMP</a>)
+[05:00:29] ca8-bD1A GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Zane Mckendrick) activated a satchel charge.
+[05:00:29] ca8-bD1A ATTACK: Zane Mckendrick (severepwnage) primed an explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=6;Z=1'>JMP</a>)
+[05:00:38] ca8-bD1A GAME: Explosion with size (0, 1, 2) in area USMC FOB 
+[05:00:59] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) jumped to WARPACT FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:09] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) spawned /obj/item/weapon/grenade/frag/satchelwp at (131,205,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:11] ca8-bD1A GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Zane Mckendrick) activated a satchel charge.
+[05:01:11] ca8-bD1A ATTACK: Zane Mckendrick (severepwnage) primed an explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=206;Z=1'>JMP</a>)
+[05:01:15] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) deleted the steel door at (133,200,1)
+[05:01:27] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) has declared NATO Victory (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=206;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:30] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) has declared a draw... (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=206;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:38] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) toggled new connections disallowed.
+[05:01:38] ca8-bD1A ADMIN: SeverePwnage/(Zane Mckendrick) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=206;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:40] ca8-bD1A ACCESS: Logout: SeverePwnage/(Zane Mckendrick)
+
+
+Starting up. (ID: ca8-bE1K) 12:54.52
+---------------------
+[15:00:00] ca8-bE1K ADMIN: Loading jobban_rank
+[15:00:00] ca8-bE1K ADMIN: jobban_keylist was empty
+[15:00:00] ca8-bE1K ADMIN: Loading Banlist
+[15:00:00] ca8-bE1K DEBUG: Rebuilding Master Controller
+[15:00:00] ca8-bE1K DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca8-bE1K ACCESS: Login: Guest-3031256942/(Guest-3031256942) from 127.0.0.1-3031256942 || BYOND v513
+[15:00:00] ca8-bE1K ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+[15:00:00] ca8-bE1K ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[15:00:00] ca8-bE1K ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed.
+[15:00:00] ca8-bE1K ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:00] ca8-bE1K ACCESS: Logout: SeverePwnage/(SeverePwnage)
+[15:00:00] ca8-bE1K ACCESS: Login: SeverePwnage/(SeverePwnage) from 127.0.0.1-3031256942 || BYOND v513
+[15:00:00] ca8-bE1K ACCESS: Failed Login: guest3031256942 - New connections are not allowed
+[15:00:00] ca8-bE1K ADMIN: SeverePwnage/(SeverePwnage) has a cookie from a banned account! (Matched: guest3031256942, 127.0.0.1, 3031256942)
+[15:00:00] ca8-bE1K ACCESS: Logout: SeverePwnage/(SeverePwnage)
+[15:00:00] ca8-bE1K ACCESS: Login: Guest-3031256942/(Guest-3031256942) from 127.0.0.1-3031256942 || BYOND v513
+[15:00:00] ca8-bE1K ACCESS: Failed Login: guest3031256942 - New connections are not allowed
+[15:00:00] ca8-bE1K ADMIN: Guest-3031256942/(Guest-3031256942) has a cookie from a banned account! (Matched: guest3031256942, 127.0.0.1, 3031256942)
+[15:00:00] ca8-bE1K ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: ca8-bGqv) 13:03.57
+---------------------
+[10:00:00] ca8-bGqv ADMIN: Loading jobban_rank
+[10:00:00] ca8-bGqv ADMIN: jobban_keylist was empty
+[10:00:00] ca8-bGqv ADMIN: Loading Banlist
+[10:00:00] ca8-bGqv DEBUG: Rebuilding Master Controller
+[10:00:00] ca8-bGqv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed.
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bGqv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed.
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections allowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed.
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bGqv ADMIN: SeverePwnage/(SeverePwnage) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] ca8-bGqv ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: ca8-bGWM) 13:07.17
+---------------------
+[15:00:00] ca8-bGWM ADMIN: Loading jobban_rank
+[15:00:00] ca8-bGWM ADMIN: jobban_keylist was empty
+[15:00:00] ca8-bGWM ADMIN: Loading Banlist
+[15:00:00] ca8-bGWM DEBUG: Rebuilding Master Controller
+[15:00:00] ca8-bGWM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca8-bGWM ADMIN: SeverePwnage/(SeverePwnage) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] ca8-bGWM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca8-bGWM ACCESS: Logout: SeverePwnage/(SeverePwnage)

@@ -1,0 +1,122 @@
+
+
+Starting up. (ID: cbg-bQDd) 14:09.20
+---------------------
+[15:00:00] cbg-bQDd ADMIN: Loading ckey_whitelist
+[15:00:00] cbg-bQDd ADMIN: ckey_whitelist: 164 entrie(s).
+[15:00:00] cbg-bQDd ADMIN: Loading jobban_rank
+[15:00:00] cbg-bQDd ADMIN: jobban_keylist was empty
+[15:00:00] cbg-bQDd ADMIN: Loading Banlist
+[15:00:00] cbg-bQDd DEBUG: Rebuilding Master Controller
+[15:00:00] cbg-bQDd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbg-bQDd ADMIN: SeverePwnage/(SeverePwnage) has a cookie from a banned account! (Matched: amonguscrewmate, 127.0.0.1, 3031256942)
+[15:00:00] cbg-bQDd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbg-bQDd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbg-bQDd ADMIN: SeverePwnage has started the game.
+[15:00:00] cbg-bQDd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbg-bQDd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbg-bQDd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbg-bQDd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbg-bQDd ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbg-bQDd ACCESS: Login: SeverePwnage/(Dominick Skywalker) from localhost-3031256942 || BYOND v513
+[15:00:00] cbg-bQDd GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbg-bQDd DEBUG: Next event of severity Mundane in 15.456 minutes.
+[15:00:00] cbg-bQDd DEBUG: Next event of severity Moderate in 49.412 minutes.
+[15:00:00] cbg-bQDd DEBUG: Next event of severity Major in 85.5833 minutes.
+[15:00:04] cbg-bQDd ADMIN: SeverePwnage/(Dominick Skywalker) changed Europe's weather to light snow.
+[15:00:10] cbg-bQDd ADMIN: SeverePwnage/(Dominick Skywalker) changed Europe's time to 12:45.
+[15:00:17] cbg-bQDd ADMIN: SeverePwnage/(Dominick Skywalker) changed Europe's weather to snow.
+[15:00:20] cbg-bQDd ADMIN: SeverePwnage/(Dominick Skywalker) changed Europe's weather to blizzard.
+[15:00:27] cbg-bQDd ACCESS: Logout: SeverePwnage/(Dominick Skywalker)
+
+
+Starting up. (ID: cbg-dh6L) 23:42.29
+---------------------
+[10:00:00] cbg-dh6L ADMIN: Loading ckey_whitelist
+[10:00:00] cbg-dh6L ADMIN: ckey_whitelist: 164 entrie(s).
+[10:00:00] cbg-dh6L ADMIN: Loading jobban_rank
+[10:00:00] cbg-dh6L ADMIN: jobban_keylist was empty
+[10:00:00] cbg-dh6L ADMIN: Loading Banlist
+[10:00:00] cbg-dh6L DEBUG: Rebuilding Master Controller
+[10:00:00] cbg-dh6L ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-dh6L DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-dh6L ADMIN: SeverePwnage has started the game.
+[10:00:00] cbg-dh6L DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-dh6L DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-dh6L DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-dh6L DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-dh6L ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbg-dh6L ACCESS: Login: SeverePwnage/(Issac Sealis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbg-dh6L GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbg-dh6L DEBUG: Next event of severity Mundane in 16.628 minutes.
+[10:00:00] cbg-dh6L DEBUG: Next event of severity Moderate in 37.634 minutes.
+[10:00:00] cbg-dh6L DEBUG: Next event of severity Major in 99.6017 minutes.
+[10:00:11] cbg-dh6L ACCESS: Logout: SeverePwnage/(Issac Sealis)
+
+
+Starting up. (ID: cbg-djt6) 23:51.23
+---------------------
+[15:00:00] cbg-djt6 ADMIN: Loading ckey_whitelist
+[15:00:00] cbg-djt6 ADMIN: ckey_whitelist: 164 entrie(s).
+[15:00:00] cbg-djt6 ADMIN: Loading jobban_rank
+[15:00:00] cbg-djt6 ADMIN: jobban_keylist was empty
+[15:00:00] cbg-djt6 ADMIN: Loading Banlist
+[15:00:00] cbg-djt6 DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbg-djGM) 23:52.42
+---------------------
+[10:00:00] cbg-djGM ADMIN: Loading ckey_whitelist
+[10:00:00] cbg-djGM ADMIN: ckey_whitelist: 164 entrie(s).
+[10:00:00] cbg-djGM ADMIN: Loading jobban_rank
+[10:00:00] cbg-djGM ADMIN: jobban_keylist was empty
+[10:00:00] cbg-djGM ADMIN: Loading Banlist
+[10:00:00] cbg-djGM DEBUG: Rebuilding Master Controller
+[10:00:00] cbg-djGM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbg-djGM ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-djGM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbg-djGM ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbg-djGM ADMIN: SeverePwnage has started the game.
+[10:00:00] cbg-djGM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-djGM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-djGM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-djGM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbg-djGM ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbg-djGM ACCESS: Login: SeverePwnage/(Jameson Biery) from localhost-3031256942 || BYOND v513
+[10:00:00] cbg-djGM GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbg-djGM DEBUG: Next event of severity Mundane in 17.174 minutes.
+[10:00:00] cbg-djGM DEBUG: Next event of severity Moderate in 38.96 minutes.
+[10:00:00] cbg-djGM DEBUG: Next event of severity Major in 87.5517 minutes.
+[10:00:27] cbg-djGM ACCESS: Logout: SeverePwnage/(Jameson Biery)
+
+
+Starting up. (ID: cbg-dku4) 23:57.54
+---------------------
+[05:00:00] cbg-dku4 ADMIN: Loading ckey_whitelist
+[05:00:00] cbg-dku4 ADMIN: ckey_whitelist: 164 entrie(s).
+[05:00:00] cbg-dku4 ADMIN: Loading jobban_rank
+[05:00:00] cbg-dku4 ADMIN: jobban_keylist was empty
+[05:00:00] cbg-dku4 ADMIN: Loading Banlist
+[05:00:00] cbg-dku4 DEBUG: Rebuilding Master Controller
+[05:00:00] cbg-dku4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbg-dku4 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbg-dku4 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbg-dku4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbg-dku4 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbg-dku4 ADMIN: SeverePwnage has started the game.
+[05:00:00] cbg-dku4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbg-dku4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbg-dku4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbg-dku4 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbg-dku4 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbg-dku4 ACCESS: Login: SeverePwnage/(Mauricio Weinstein) from localhost-3031256942 || BYOND v513
+[05:00:00] cbg-dku4 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbg-dku4 DEBUG: Next event of severity Mundane in 12.596 minutes.
+[05:00:00] cbg-dku4 DEBUG: Next event of severity Moderate in 44.19 minutes.
+[05:00:00] cbg-dku4 DEBUG: Next event of severity Major in 86.455 minutes.
+[05:00:07] cbg-dku4 ACCESS: Logout: SeverePwnage/(Mauricio Weinstein)

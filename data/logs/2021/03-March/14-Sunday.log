@@ -1,0 +1,693 @@
+
+
+Starting up. (ID: ca4-aVzw) 08:03.46
+---------------------
+[20:00:00] ca4-aVzw ADMIN: Loading jobban_rank
+[20:00:00] ca4-aVzw ADMIN: jobban_keylist was empty
+[20:00:00] ca4-aVzw ADMIN: Loading Banlist
+[20:00:00] ca4-aVzw DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-aVzw ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-aVzw DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-aVzw ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-aVzw ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-aVzw ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-aVzw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-aVzw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-aVzw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-aVzw DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-aVzw ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-aVzw ACCESS: Login: Among us crewmate/(Randal Murray) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-aVzw GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-aVzw DEBUG: Next event of severity Mundane in 15.898 minutes.
+[20:00:00] ca4-aVzw DEBUG: Next event of severity Moderate in 52.352 minutes.
+[20:00:00] ca4-aVzw DEBUG: Next event of severity Major in 97.34 minutes.
+[20:00:10] ca4-aVzw ADMIN: Among us crewmate/(Randal Murray) spawned /obj/item/weapon/storage/belt/holster/hk69 at (225,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=225;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:22] ca4-aVzw OOC: Among us crewmate - usr: Among us crewmate/(Randal Murray) : damn
+[20:00:25] ca4-aVzw ADMIN: Among us crewmate deadmined themself.
+[20:00:31] ca4-aVzw ADMIN: Among us crewmate re-admined themself.
+[20:00:39] ca4-aVzw ADMIN: Among us crewmate/(Randal Murray) toggled OOC. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:44] ca4-aVzw ADMIN: Among us crewmate deadmined themself.
+[20:00:45] ca4-aVzw OOC: Among us crewmate - usr: Among us crewmate/(Randal Murray) : damn
+[20:02:14] ca4-aVzw ACCESS: Logout: Among us crewmate/(Randal Murray)
+
+
+Starting up. (ID: ca4-aWEq) 08:10.41
+---------------------
+[05:00:00] ca4-aWEq ADMIN: Loading jobban_rank
+[05:00:00] ca4-aWEq ADMIN: jobban_keylist was empty
+[05:00:00] ca4-aWEq ADMIN: Loading Banlist
+[05:00:00] ca4-aWEq DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-aWEq ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-aWEq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-aWEq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca4-aWEq ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-aWEq ADMIN: Among us crewmate has started the game.
+[05:00:00] ca4-aWEq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aWEq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aWEq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aWEq DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aWEq ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca4-aWEq ACCESS: Login: Among us crewmate/(Jaxon Sanders) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-aWEq GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca4-aWEq DEBUG: Next event of severity Mundane in 15.846 minutes.
+[05:00:00] ca4-aWEq DEBUG: Next event of severity Moderate in 37.29 minutes.
+[05:00:00] ca4-aWEq DEBUG: Next event of severity Major in 80.4517 minutes.
+[05:00:46] ca4-aWEq ACCESS: Logout: Among us crewmate/(Jaxon Sanders)
+
+
+Starting up. (ID: ca4-aXfu) 08:14.30
+---------------------
+[05:00:00] ca4-aXfu ADMIN: Loading jobban_rank
+[05:00:00] ca4-aXfu ADMIN: jobban_keylist was empty
+[05:00:00] ca4-aXfu ADMIN: Loading Banlist
+[05:00:00] ca4-aXfu DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-aXfu ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-aXfu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca4-aXfu ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-aXfu ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca4-aZyV) 08:29.20
+---------------------
+[15:00:00] ca4-aZyV ADMIN: Loading jobban_rank
+[15:00:00] ca4-aZyV ADMIN: jobban_keylist was empty
+[15:00:00] ca4-aZyV ADMIN: Loading Banlist
+[15:00:00] ca4-aZyV DEBUG: Rebuilding Master Controller
+[15:00:00] ca4-aZyV ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-aZyV ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca4-aZI6) 08:30.23
+---------------------
+[05:00:00] ca4-aZI6 ADMIN: Loading jobban_rank
+[05:00:00] ca4-aZI6 ADMIN: jobban_keylist was empty
+[05:00:00] ca4-aZI6 ADMIN: Loading Banlist
+[05:00:00] ca4-aZI6 DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-aZI6 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-aZI6 ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-aZI6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca4-aZI6 ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-aZI6 ADMIN: Among us crewmate has started the game.
+[05:00:00] ca4-aZI6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aZI6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aZI6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aZI6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-aZI6 ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca4-aZI6 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-aZI6 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca4-aZI6 DEBUG: Next event of severity Mundane in 13.586 minutes.
+[05:00:00] ca4-aZI6 DEBUG: Next event of severity Moderate in 38.086 minutes.
+[05:00:00] ca4-aZI6 DEBUG: Next event of severity Major in 84.9533 minutes.
+[05:00:22] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/mg3 at (19,263,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=263;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:02:22] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/vz59 at (15,264,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=264;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:02:57] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/m60 at (16,265,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=16;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:03:52] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/pkm at (16,263,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=16;Y=263;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:04:21] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/g3a3 at (15,263,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=263;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:04:43] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rpk74 at (15,264,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=264;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:05:12] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/nvarpk at (15,265,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:05:43] ca4-aZI6 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/cslarpk at (15,262,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:05:53] ca4-aZI6 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a22z) 08:45.06
+---------------------
+[15:00:00] ca4-a22z ADMIN: Loading jobban_rank
+[15:00:00] ca4-a22z ADMIN: jobban_keylist was empty
+[15:00:00] ca4-a22z ADMIN: Loading Banlist
+[15:00:00] ca4-a22z DEBUG: Rebuilding Master Controller
+[15:00:00] ca4-a22z ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-a22z ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-a22z DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca4-a22z ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-a22z ADMIN: Among us crewmate has started the game.
+[15:00:00] ca4-a22z DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a22z DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a22z DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a22z DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a22z ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca4-a22z ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-a22z GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca4-a22z DEBUG: Next event of severity Mundane in 13.658 minutes.
+[15:00:00] ca4-a22z DEBUG: Next event of severity Moderate in 44.612 minutes.
+[15:00:00] ca4-a22z DEBUG: Next event of severity Major in 96.8933 minutes.
+[15:00:17] ca4-a22z ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rpk74 at (108,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:44] ca4-a22z ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/nvarpk at (110,152,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=110;Y=152;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:01:36] ca4-a22z ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rpd at (110,149,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=110;Y=149;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+
+
+Starting up. (ID: ca4-a3TQ) 08:50.43
+---------------------
+[10:00:00] ca4-a3TQ ADMIN: Loading jobban_rank
+[10:00:00] ca4-a3TQ ADMIN: jobban_keylist was empty
+[10:00:00] ca4-a3TQ ADMIN: Loading Banlist
+[10:00:00] ca4-a3TQ DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-a3TQ ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-a3TQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a3TQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a3TQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-a3TQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a3TQ ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-a3TQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a3TQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a3TQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a3TQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a3TQ ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-a3TQ ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-a3TQ GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-a3TQ DEBUG: Next event of severity Mundane in 15.626 minutes.
+[10:00:00] ca4-a3TQ DEBUG: Next event of severity Moderate in 37.848 minutes.
+[10:00:00] ca4-a3TQ DEBUG: Next event of severity Major in 99.7083 minutes.
+[10:00:11] ca4-a3TQ ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a4HP) 08:55.52
+---------------------
+[05:00:00] ca4-a4HP ADMIN: Loading jobban_rank
+[05:00:00] ca4-a4HP ADMIN: jobban_keylist was empty
+[05:00:00] ca4-a4HP ADMIN: Loading Banlist
+[05:00:00] ca4-a4HP DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-a4HP ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-a4HP DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca4-a4HP ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-a4HP ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-a4HP ADMIN: Among us crewmate has started the game.
+[05:00:00] ca4-a4HP DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-a4HP DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-a4HP DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-a4HP DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-a4HP ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca4-a4HP ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-a4HP GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca4-a4HP DEBUG: Next event of severity Mundane in 15.024 minutes.
+[05:00:00] ca4-a4HP DEBUG: Next event of severity Moderate in 42.87 minutes.
+[05:00:00] ca4-a4HP DEBUG: Next event of severity Major in 98.515 minutes.
+[05:00:06] ca4-a4HP ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/nvarpk at (76,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=76;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:16] ca4-a4HP ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/cslarpk at (75,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=75;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:18] ca4-a4HP ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a5pI) 09:00.24
+---------------------
+[15:00:00] ca4-a5pI ADMIN: Loading jobban_rank
+[15:00:00] ca4-a5pI ADMIN: jobban_keylist was empty
+[15:00:00] ca4-a5pI ADMIN: Loading Banlist
+[15:00:00] ca4-a5pI DEBUG: Rebuilding Master Controller
+[15:00:00] ca4-a5pI ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-a5pI DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca4-a5pI ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-a5pI ADMIN: Among us crewmate has started the game.
+[15:00:00] ca4-a5pI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a5pI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a5pI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a5pI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-a5pI ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca4-a5pI ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-a5pI GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca4-a5pI DEBUG: Next event of severity Mundane in 13.514 minutes.
+[15:00:00] ca4-a5pI DEBUG: Next event of severity Moderate in 51.924 minutes.
+[15:00:00] ca4-a5pI DEBUG: Next event of severity Major in 87.1283 minutes.
+[15:00:04] ca4-a5pI ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/sarpk at (13,266,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=13;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:17] ca4-a5pI ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/cslarpk at (19,265,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:32] ca4-a5pI ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a6lo) 09:06.22
+---------------------
+[20:00:00] ca4-a6lo ADMIN: Loading jobban_rank
+[20:00:00] ca4-a6lo ADMIN: jobban_keylist was empty
+[20:00:00] ca4-a6lo ADMIN: Loading Banlist
+[20:00:00] ca4-a6lo DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-a6lo ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-a6lo ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a6lo ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a6lo DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-a6lo ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a6lo ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-a6lo DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a6lo DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a6lo DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a6lo DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a6lo ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-a6lo ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-a6lo GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-a6lo DEBUG: Next event of severity Mundane in 17.016 minutes.
+[20:00:00] ca4-a6lo DEBUG: Next event of severity Moderate in 40.742 minutes.
+[20:00:00] ca4-a6lo DEBUG: Next event of severity Major in 99.9167 minutes.
+[20:00:06] ca4-a6lo ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/nvarpk at (79,283,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=79;Y=283;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:37] ca4-a6lo ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a6Yr) 09:10.24
+---------------------
+[10:00:00] ca4-a6Yr ADMIN: Loading jobban_rank
+[10:00:00] ca4-a6Yr ADMIN: jobban_keylist was empty
+[10:00:00] ca4-a6Yr ADMIN: Loading Banlist
+[10:00:00] ca4-a6Yr DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-a6Yr ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-a6Yr ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a6Yr ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a6Yr DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-a6Yr ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-a6Yr ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-a6Yr DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a6Yr DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a6Yr DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a6Yr DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-a6Yr ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-a6Yr ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-a6Yr GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-a6Yr DEBUG: Next event of severity Mundane in 13.89 minutes.
+[10:00:00] ca4-a6Yr DEBUG: Next event of severity Moderate in 45.85 minutes.
+[10:00:00] ca4-a6Yr DEBUG: Next event of severity Major in 87.9283 minutes.
+[10:00:20] ca4-a6Yr ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-a7AL) 09:14.22
+---------------------
+[20:00:00] ca4-a7AL ADMIN: Loading jobban_rank
+[20:00:00] ca4-a7AL ADMIN: jobban_keylist was empty
+[20:00:00] ca4-a7AL ADMIN: Loading Banlist
+[20:00:00] ca4-a7AL DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-a7AL ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-a7AL ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a7AL ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a7AL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-a7AL ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-a7AL ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-a7AL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a7AL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a7AL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a7AL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-a7AL ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-a7AL ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-a7AL GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-a7AL DEBUG: Next event of severity Mundane in 17.5 minutes.
+[20:00:00] ca4-a7AL DEBUG: Next event of severity Moderate in 50.698 minutes.
+[20:00:00] ca4-a7AL DEBUG: Next event of severity Major in 98.37 minutes.
+[20:01:37] ca4-a7AL ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/ammo_magazine/c762x54b at (61,265,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:01:53] ca4-a7AL ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-bdnt) 09:57.51
+---------------------
+[10:00:00] ca4-bdnt ADMIN: Loading jobban_rank
+[10:00:00] ca4-bdnt ADMIN: jobban_keylist was empty
+[10:00:00] ca4-bdnt ADMIN: Loading Banlist
+[10:00:00] ca4-bdnt DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-bdnt ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-bdnt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-bdnt ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bdnt ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-bdnt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bdnt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bdnt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bdnt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bdnt ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-bdnt ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-bdnt GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-bdnt DEBUG: Next event of severity Mundane in 12.51 minutes.
+[10:00:00] ca4-bdnt DEBUG: Next event of severity Moderate in 46.222 minutes.
+[10:00:00] ca4-bdnt DEBUG: Next event of severity Major in 96.175 minutes.
+[10:00:08] ca4-bdnt ADMIN: Among us crewmate/(Jaye Edwards) spawned /mob/living/carbon/human at (24,262,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=24;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:46] ca4-bdnt ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-bd4e) 10:02.09
+---------------------
+[10:00:00] ca4-bd4e ADMIN: Loading jobban_rank
+[10:00:00] ca4-bd4e ADMIN: jobban_keylist was empty
+[10:00:00] ca4-bd4e ADMIN: Loading Banlist
+[10:00:00] ca4-bd4e DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-bd4e ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bd4e DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-bd4e ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-bd4e DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bd4e DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bd4e DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bd4e DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-bd4e ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-bd4e ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-bd4e GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-bd4e DEBUG: Next event of severity Mundane in 12.218 minutes.
+[10:00:00] ca4-bd4e DEBUG: Next event of severity Moderate in 47.588 minutes.
+[10:00:00] ca4-bd4e DEBUG: Next event of severity Major in 86.35 minutes.
+[10:00:11] ca4-bd4e ADMIN: Among us crewmate/(Jaye Edwards) spawned /mob/living/carbon/human at (24,261,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=24;Y=261;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:31] ca4-bd4e DEBUG: Moved - Preston Collins was deleted while still listening to Preston Collins's brain.
+[10:00:31] ca4-bd4e DEBUG: Moved - Preston Collins's brain was deleted while still listening to Preston Collins's head.
+[10:00:47] ca4-bd4e ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-bfgQ) 10:09.58
+---------------------
+[20:00:00] ca4-bfgQ ADMIN: Loading jobban_rank
+[20:00:00] ca4-bfgQ ADMIN: jobban_keylist was empty
+[20:00:00] ca4-bfgQ ADMIN: Loading Banlist
+[20:00:00] ca4-bfgQ DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-bfgQ ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-bfgQ ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bfgQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-bfgQ ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bfgQ ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-bfgQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bfgQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bfgQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bfgQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bfgQ ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-bfgQ ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-bfgQ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-bfgQ DEBUG: Next event of severity Mundane in 15.556 minutes.
+[20:00:00] ca4-bfgQ DEBUG: Next event of severity Moderate in 41.524 minutes.
+[20:00:00] ca4-bfgQ DEBUG: Next event of severity Major in 84.3783 minutes.
+[20:00:09] ca4-bfgQ ADMIN: Among us crewmate/(Jaye Edwards) spawned /mob/living/carbon/human at (24,263,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=24;Y=263;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:00:36] ca4-bfgQ DEBUG: Moved - Ricky Robinson was deleted while still listening to Ricky Robinson's brain.
+[20:00:36] ca4-bfgQ DEBUG: Moved - Ricky Robinson's brain was deleted while still listening to Ricky Robinson's head.
+[20:00:52] ca4-bfgQ ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-bXsL) 14:53.06
+---------------------
+[15:00:00] ca4-bXsL ADMIN: Loading jobban_rank
+[15:00:00] ca4-bXsL ADMIN: jobban_keylist was empty
+[15:00:00] ca4-bXsL ADMIN: Loading Banlist
+[15:00:00] ca4-bXsL DEBUG: Rebuilding Master Controller
+[15:00:00] ca4-bXsL ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-bXsL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca4-bXsL ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-bXsL ADMIN: Among us crewmate has started the game.
+[15:00:00] ca4-bXsL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-bXsL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-bXsL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-bXsL DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-bXsL ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca4-bXsL ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-bXsL GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca4-bXsL DEBUG: Next event of severity Mundane in 17.618 minutes.
+[15:00:00] ca4-bXsL DEBUG: Next event of severity Moderate in 50.812 minutes.
+[15:00:00] ca4-bXsL DEBUG: Next event of severity Major in 97.2683 minutes.
+[15:00:16] ca4-bXsL ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/ammo_magazine/c556x45m at (103,149,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=149;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:35] ca4-bXsL ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a2 at (101,151,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=151;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:40] ca4-bXsL ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/ammo_magazine/c556x45m at (101,151,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=151;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:07] ca4-bXsL ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-bX90) 14:57.28
+---------------------
+[20:00:00] ca4-bX90 ADMIN: Loading jobban_rank
+[20:00:00] ca4-bX90 ADMIN: jobban_keylist was empty
+[20:00:00] ca4-bX90 ADMIN: Loading Banlist
+[20:00:00] ca4-bX90 DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-bX90 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-bX90 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bX90 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bX90 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bX90 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-bX90 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-bX90 ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-bX90 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bX90 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bX90 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bX90 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-bX90 ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-bX90 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-bX90 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-bX90 DEBUG: Next event of severity Mundane in 15.368 minutes.
+[20:00:00] ca4-bX90 DEBUG: Next event of severity Moderate in 44.312 minutes.
+[20:00:00] ca4-bX90 DEBUG: Next event of severity Major in 93.1483 minutes.
+[20:00:04] ca4-bX90 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/ammo_magazine/c556x45m at (112,150,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:23] ca4-bX90 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/machinery/floodlight at (107,144,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=144;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:34] ca4-bX90 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/ak74 at (107,145,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=145;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:43] ca4-bX90 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/ammo_magazine/c762x51m/tr at (107,145,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=145;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:49] ca4-bX90 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/g3ka4 at (108,145,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=145;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:04] ca4-bX90 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-chIo) 17:02.50
+---------------------
+[05:00:00] ca4-chIo ADMIN: Loading jobban_rank
+[05:00:00] ca4-chIo ADMIN: jobban_keylist was empty
+[05:00:00] ca4-chIo ADMIN: Loading Banlist
+[05:00:00] ca4-chIo DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-chIo ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-chIo ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca4-cijo) 17:06.40
+---------------------
+[10:00:00] ca4-cijo ADMIN: Loading jobban_rank
+[10:00:00] ca4-cijo ADMIN: jobban_keylist was empty
+[10:00:00] ca4-cijo ADMIN: Loading Banlist
+[10:00:00] ca4-cijo DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-cijo ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-cijo ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca4-ciDd) 17:08.42
+---------------------
+[10:00:00] ca4-ciDd ADMIN: Loading jobban_rank
+[10:00:00] ca4-ciDd ADMIN: jobban_keylist was empty
+[10:00:00] ca4-ciDd ADMIN: Loading Banlist
+[10:00:00] ca4-ciDd DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-ciDd ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-ciDd ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-ciDd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-ciDd ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-ciDd ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-ciDd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-ciDd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-ciDd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-ciDd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-ciDd ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-ciDd ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-ciDd GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-ciDd DEBUG: Next event of severity Mundane in 16.814 minutes.
+[10:00:00] ca4-ciDd DEBUG: Next event of severity Moderate in 36.624 minutes.
+[10:00:00] ca4-ciDd DEBUG: Next event of severity Major in 80.4317 minutes.
+[10:00:11] ca4-ciDd ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-cnen) 17:38.11
+---------------------
+[10:00:00] ca4-cnen ADMIN: Loading jobban_rank
+[10:00:00] ca4-cnen ADMIN: jobban_keylist was empty
+[10:00:00] ca4-cnen ADMIN: Loading Banlist
+[10:00:00] ca4-cnen DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-cnen ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-cnen DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-cnen ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca4-coNk) 17:48.12
+---------------------
+[10:00:00] ca4-coNk ADMIN: Loading jobban_rank
+[10:00:00] ca4-coNk ADMIN: jobban_keylist was empty
+[10:00:00] ca4-coNk ADMIN: Loading Banlist
+[10:00:00] ca4-coNk DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-coNk ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-coNk ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-coNk ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-coNk DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-coNk ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-coNk ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-coNk DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-coNk DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-coNk DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-coNk DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-coNk ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-coNk ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-coNk GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-coNk DEBUG: Next event of severity Mundane in 17.196 minutes.
+[10:00:00] ca4-coNk DEBUG: Next event of severity Moderate in 49.052 minutes.
+[10:00:00] ca4-coNk DEBUG: Next event of severity Major in 94.7483 minutes.
+[10:00:18] ca4-coNk ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-crct) 18:03.36
+---------------------
+[10:00:00] ca4-crct ADMIN: Loading jobban_rank
+[10:00:00] ca4-crct ADMIN: jobban_keylist was empty
+[10:00:00] ca4-crct ADMIN: Loading Banlist
+[10:00:00] ca4-crct DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-crct ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-crct ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-crct ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-crct DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-crct ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-crct ADMIN: Among us crewmate has started the game.
+[10:00:00] ca4-crct DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-crct DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-crct DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-crct DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca4-crct ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-crct GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca4-crct DEBUG: Next event of severity Mundane in 14.964 minutes.
+[10:00:00] ca4-crct DEBUG: Next event of severity Moderate in 51.578 minutes.
+[10:00:00] ca4-crct DEBUG: Next event of severity Major in 91.0433 minutes.
+[10:01:05] ca4-crct GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:01:05] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:05] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:05] ca4-crct SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:01:10] ca4-crct ADMIN: Among us crewmate/(Jaye Edwards) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:12] ca4-crct SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:01:12] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:12] ca4-crct ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:12] ca4-crct ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:15] ca4-crct ACCESS: Logout: *no key*/(new player)
+[10:01:15] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:15] ca4-crct ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:01:21] ca4-crct GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:01:21] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:21] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:21] ca4-crct SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:01:23] ca4-crct SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:01:23] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:23] ca4-crct ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:23] ca4-crct ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:01:28] ca4-crct ACCESS: Logout: *no key*/(new player)
+[10:01:28] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:28] ca4-crct ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Komandir Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=277;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:38] ca4-crct ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (26,276,1)
+[10:01:47] ca4-crct ADMIN: Among us crewmate/(Jaye Edwards) Among us crewmate/(Jaye Edwards) commited suicide using Makarov PM (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=27;Y=278;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:01:47] ca4-crct GAME: SQL ERROR during death reporting. Failed to connect.
+[10:01:52] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:52] ca4-crct ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:52] ca4-crct SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at WARPACT FOB. 
+[10:01:54] ca4-crct SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:01:54] ca4-crct ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:54] ca4-crct ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:54] ca4-crct ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:02:04] ca4-crct ADMIN: The new player Is accessing the game start menu.
+[10:02:05] ca4-crct ACCESS: Logout: Among us crewmate/(new player)
+
+
+Starting up. (ID: ca4-csFs) 18:13.00
+---------------------
+[15:00:00] ca4-csFs ADMIN: Loading jobban_rank
+[15:00:00] ca4-csFs ADMIN: jobban_keylist was empty
+[15:00:00] ca4-csFs ADMIN: Loading Banlist
+[15:00:00] ca4-csFs DEBUG: Rebuilding Master Controller
+[15:00:00] ca4-csFs ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-csFs ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-csFs DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca4-csFs ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca4-csFs ADMIN: Among us crewmate has started the game.
+[15:00:00] ca4-csFs DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-csFs DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-csFs DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-csFs DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca4-csFs ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca4-csFs ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca4-csFs GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca4-csFs DEBUG: Next event of severity Mundane in 13.714 minutes.
+[15:00:00] ca4-csFs DEBUG: Next event of severity Moderate in 36.136 minutes.
+[15:00:00] ca4-csFs DEBUG: Next event of severity Major in 92.0033 minutes.
+[15:00:10] ca4-csFs GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[15:00:10] ca4-csFs ACCESS: Logout: *no key*/(Jaye Edwards)
+[15:00:10] ca4-csFs ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:10] ca4-csFs SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[15:00:20] ca4-csFs ADMIN: Among us crewmate/(Jaye Edwards) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:21] ca4-csFs SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[15:00:21] ca4-csFs ACCESS: Logout: *no key*/(Jaye Edwards)
+[15:00:21] ca4-csFs ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[15:00:21] ca4-csFs ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[15:00:25] ca4-csFs ACCESS: Logout: *no key*/(new player)
+[15:00:25] ca4-csFs ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:25] ca4-csFs ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as BDH Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:38] ca4-csFs GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[15:00:38] ca4-csFs ACCESS: Logout: *no key*/(Jaye Edwards)
+[15:00:38] ca4-csFs ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:38] ca4-csFs SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[15:00:38] ca4-csFs SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[15:00:38] ca4-csFs ACCESS: Logout: *no key*/(Jaye Edwards)
+[15:00:38] ca4-csFs ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[15:00:38] ca4-csFs ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[15:00:46] ca4-csFs ACCESS: Logout: *no key*/(new player)
+[15:00:46] ca4-csFs ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:46] ca4-csFs ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Podporuchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[15:01:06] ca4-csFs ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-ctgK) 18:16.51
+---------------------
+[20:00:00] ca4-ctgK ADMIN: Loading jobban_rank
+[20:00:00] ca4-ctgK ADMIN: jobban_keylist was empty
+[20:00:00] ca4-ctgK ADMIN: Loading Banlist
+[20:00:00] ca4-ctgK DEBUG: Rebuilding Master Controller
+[20:00:00] ca4-ctgK ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-ctgK ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-ctgK ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-ctgK ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-ctgK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca4-ctgK ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca4-ctgK ADMIN: Among us crewmate has started the game.
+[20:00:00] ca4-ctgK DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-ctgK DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-ctgK DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-ctgK DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca4-ctgK ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca4-ctgK ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca4-ctgK GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca4-ctgK DEBUG: Next event of severity Mundane in 12.528 minutes.
+[20:00:00] ca4-ctgK DEBUG: Next event of severity Moderate in 45.048 minutes.
+[20:00:00] ca4-ctgK DEBUG: Next event of severity Major in 88.1317 minutes.
+[20:00:26] ca4-ctgK ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-ctRd) 18:20.38
+---------------------
+[05:00:00] ca4-ctRd ADMIN: Loading jobban_rank
+[05:00:00] ca4-ctRd ADMIN: jobban_keylist was empty
+[05:00:00] ca4-ctRd ADMIN: Loading Banlist
+[05:00:00] ca4-ctRd DEBUG: Rebuilding Master Controller
+[05:00:00] ca4-ctRd ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-ctRd ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-ctRd ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-ctRd ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-ctRd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca4-ctRd ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca4-ctRd ADMIN: Among us crewmate has started the game.
+[05:00:00] ca4-ctRd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-ctRd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-ctRd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-ctRd DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca4-ctRd ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca4-ctRd ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca4-ctRd GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca4-ctRd DEBUG: Next event of severity Mundane in 17.398 minutes.
+[05:00:00] ca4-ctRd DEBUG: Next event of severity Moderate in 40.534 minutes.
+[05:00:00] ca4-ctRd DEBUG: Next event of severity Major in 85.6883 minutes.
+[05:00:12] ca4-ctRd ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca4-cuDc) 18:25.35
+---------------------
+[10:00:00] ca4-cuDc ADMIN: Loading jobban_rank
+[10:00:00] ca4-cuDc ADMIN: jobban_keylist was empty
+[10:00:00] ca4-cuDc ADMIN: Loading Banlist
+[10:00:00] ca4-cuDc DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-cuDc ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-cuDc ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-cuDc ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-cuDc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-cuDc ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-cuDc ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca4-dhDZ) 23:39.36
+---------------------
+[10:00:00] ca4-dhDZ ADMIN: Loading jobban_rank
+[10:00:00] ca4-dhDZ ADMIN: jobban_keylist was empty
+[10:00:00] ca4-dhDZ ADMIN: Loading Banlist
+[10:00:00] ca4-dhDZ DEBUG: Rebuilding Master Controller
+[10:00:00] ca4-dhDZ ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca4-dhDZ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-dhDZ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca4-dhDZ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-dhDZ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-dhDZ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca4-dhDZ ACCESS: Logout: Among us crewmate/(Among us crewmate)

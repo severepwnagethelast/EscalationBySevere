@@ -1,0 +1,817 @@
+
+
+Starting up. (ID: caM-byJm) 12:14.38
+---------------------
+[20:00:00] caM-byJm ADMIN: Loading jobban_rank
+[20:00:00] caM-byJm ADMIN: jobban_keylist was empty
+[20:00:00] caM-byJm ADMIN: Loading Banlist
+[20:00:00] caM-byJm DEBUG: Rebuilding Master Controller
+[20:00:00] caM-byJm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-byJm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-byJm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-byJm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-byJm ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-byJm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-byJm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-byJm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-byJm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-byJm ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-byJm ACCESS: Login: SeverePwnage/(Linton Miller) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-byJm GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-byJm DEBUG: Next event of severity Mundane in 17.38 minutes.
+[20:00:00] caM-byJm DEBUG: Next event of severity Moderate in 36.138 minutes.
+[20:00:00] caM-byJm DEBUG: Next event of severity Major in 87.5017 minutes.
+[20:00:08] caM-byJm ADMIN: SeverePwnage/(Linton Miller) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a2 at (71,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:11] caM-byJm ADMIN: SeverePwnage/(Linton Miller) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1 at (71,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:13] caM-byJm ADMIN: SeverePwnage/(Linton Miller) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1gl at (71,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:15] caM-byJm ADMIN: SeverePwnage/(Linton Miller) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a2gl at (71,290,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:36] caM-byJm ADMIN: SeverePwnage/(Linton Miller) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a2gl at (71,289,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+
+
+Starting up. (ID: caM-bz97) 12:23.42
+---------------------
+[05:00:00] caM-bz97 ADMIN: Loading jobban_rank
+[05:00:00] caM-bz97 ADMIN: jobban_keylist was empty
+[05:00:00] caM-bz97 ADMIN: Loading Banlist
+[05:00:00] caM-bz97 DEBUG: Rebuilding Master Controller
+[05:00:00] caM-bz97 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bz97 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caM-bz97 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caM-bz97 ADMIN: SeverePwnage has started the game.
+[05:00:00] caM-bz97 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bz97 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bz97 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bz97 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bz97 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caM-bz97 ACCESS: Login: SeverePwnage/(Henderson Wilo) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bz97 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caM-bz97 DEBUG: Next event of severity Mundane in 13.084 minutes.
+[05:00:00] caM-bz97 DEBUG: Next event of severity Moderate in 53.68 minutes.
+[05:00:00] caM-bz97 DEBUG: Next event of severity Major in 91.05 minutes.
+[05:00:35] caM-bz97 ACCESS: Logout: SeverePwnage/(Henderson Wilo)
+
+
+Starting up. (ID: caM-bAyq) 12:26.19
+---------------------
+[20:00:00] caM-bAyq ADMIN: Loading jobban_rank
+[20:00:00] caM-bAyq ADMIN: jobban_keylist was empty
+[20:00:00] caM-bAyq ADMIN: Loading Banlist
+[20:00:00] caM-bAyq DEBUG: Rebuilding Master Controller
+[20:00:00] caM-bAyq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bAyq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-bAyq ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bAyq ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-bAyq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bAyq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bAyq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bAyq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bAyq ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-bAyq ACCESS: Login: SeverePwnage/(Hugo Nicholas) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bAyq GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-bAyq DEBUG: Next event of severity Mundane in 15.058 minutes.
+[20:00:00] caM-bAyq DEBUG: Next event of severity Moderate in 41.19 minutes.
+[20:00:00] caM-bAyq DEBUG: Next event of severity Major in 99.355 minutes.
+[20:00:37] caM-bAyq ACCESS: Logout: SeverePwnage/(Hugo Nicholas)
+
+
+Starting up. (ID: caM-bF4P) 13:01.36
+---------------------
+[20:00:00] caM-bF4P ADMIN: Loading jobban_rank
+[20:00:00] caM-bF4P ADMIN: jobban_keylist was empty
+[20:00:00] caM-bF4P ADMIN: Loading Banlist
+[20:00:00] caM-bF4P DEBUG: Rebuilding Master Controller
+[20:00:00] caM-bF4P ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bF4P DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-bF4P ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bF4P ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-bF4P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bF4P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bF4P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bF4P DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bF4P ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-bF4P ACCESS: Login: SeverePwnage/(Alex Sutton) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bF4P GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-bF4P DEBUG: Next event of severity Mundane in 16.374 minutes.
+[20:00:00] caM-bF4P DEBUG: Next event of severity Moderate in 38.346 minutes.
+[20:00:00] caM-bF4P DEBUG: Next event of severity Major in 93.935 minutes.
+[20:00:45] caM-bF4P ACCESS: Logout: SeverePwnage/(Alex Sutton)
+
+
+Starting up. (ID: caM-bGZV) 13:07.36
+---------------------
+[20:00:00] caM-bGZV ADMIN: Loading jobban_rank
+[20:00:00] caM-bGZV ADMIN: jobban_keylist was empty
+[20:00:00] caM-bGZV ADMIN: Loading Banlist
+[20:00:00] caM-bGZV DEBUG: Rebuilding Master Controller
+[20:00:00] caM-bGZV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bGZV ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bGZV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-bGZV ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bGZV ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-bGZV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bGZV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bGZV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bGZV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bGZV ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-bGZV ACCESS: Login: SeverePwnage/(Maximilian Davies) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bGZV GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-bGZV DEBUG: Next event of severity Mundane in 14.622 minutes.
+[20:00:00] caM-bGZV DEBUG: Next event of severity Moderate in 47.406 minutes.
+[20:00:00] caM-bGZV DEBUG: Next event of severity Major in 89.4317 minutes.
+[20:00:18] caM-bGZV ADMIN: SeverePwnage/(Maximilian Davies) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a2gl at (91,278,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=278;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:26] caM-bGZV ADMIN: SeverePwnage/(Maximilian Davies) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1gl at (90,278,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=90;Y=278;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:44] caM-bGZV ADMIN: SeverePwnage/(Maximilian Davies) spawned /obj/item/weapon/gun/projectile/automatic/rpk74 at (99,278,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=278;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:53] caM-bGZV ADMIN: SeverePwnage/(Maximilian Davies) spawned /obj/item/weapon/gun/projectile/automatic/nvarpk at (98,279,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=98;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:16] caM-bGZV ACCESS: Logout: SeverePwnage/(Maximilian Davies)
+
+
+Starting up. (ID: caM-bMtX) 13:42.44
+---------------------
+[10:00:00] caM-bMtX ADMIN: Loading jobban_rank
+[10:00:00] caM-bMtX ADMIN: jobban_keylist was empty
+[10:00:00] caM-bMtX ADMIN: Loading Banlist
+[10:00:00] caM-bMtX DEBUG: Rebuilding Master Controller
+[10:00:00] caM-bMtX ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-bMtX ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-bMtX DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caM-bMtX ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-bMtX ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-bMtX ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:00] caM-bMtX ADMIN: SeverePwnage has started the game.
+[10:00:00] caM-bMtX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-bMtX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-bMtX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-bMtX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-bMtX ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-bMtX GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caM-bMtX DEBUG: Next event of severity Mundane in 12.92 minutes.
+[10:00:00] caM-bMtX DEBUG: Next event of severity Moderate in 42.898 minutes.
+[10:00:00] caM-bMtX DEBUG: Next event of severity Major in 88.4883 minutes.
+[10:00:24] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:00:24] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:24] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:24] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now prowls among the dead at USMC FOB. 
+[10:00:25] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer skulks in the realm of the dead. 
+[10:00:25] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:25] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:25] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:27] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:00:27] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:27] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=285;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:36] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:00:36] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:36] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:36] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now skulks among the dead at USMC FOB. 
+[10:00:38] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer prowls in the realm of the dead. 
+[10:00:38] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:38] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:38] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:40] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:00:40] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:40] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:46] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:00:46] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:46] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:00:46] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now stalks among the dead at USMC FOB. 
+[10:00:47] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer prowls in the realm of the dead. 
+[10:00:47] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:00:47] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:47] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:02:16] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:02:16] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:02:16] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=271;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:02:31] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:02:31] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:02:31] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:02:31] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now creeps among the dead at the area. 
+[10:02:33] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer prowls in the realm of the dead. 
+[10:02:33] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:02:33] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:02:33] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:03:15] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:03:15] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:15] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=272;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:03:19] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:03:19] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:19] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:19] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now stalks among the dead at USMC FOB. 
+[10:03:20] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer prowls in the realm of the dead. 
+[10:03:20] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:20] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:20] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:03:23] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:03:23] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:23] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=298;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:03:35] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:03:35] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:35] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:35] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now creeps among the dead at USMC FOB. 
+[10:03:36] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer creeps in the realm of the dead. 
+[10:03:36] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:36] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:36] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:03:40] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:03:40] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:40] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=297;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:03:45] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:03:45] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:45] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:45] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now stalks among the dead at USMC FOB. 
+[10:03:46] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer stalks in the realm of the dead. 
+[10:03:46] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:03:46] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:03:46] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:51] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:03:51] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:03:51] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:04:00] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:04:00] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:00] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:00] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now lurks among the dead at USMC FOB. 
+[10:04:01] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer skulks in the realm of the dead. 
+[10:04:01] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:01] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:01] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:04:07] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:04:07] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:07] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=295;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:04:13] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:04:13] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:13] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:13] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now prowls among the dead at USMC FOB. 
+[10:04:13] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer stalks in the realm of the dead. 
+[10:04:13] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:13] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:13] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:04:27] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:04:27] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:27] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as NVA HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:04:38] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:04:38] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:38] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:38] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now creeps among the dead at the area. 
+[10:04:39] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer stalks in the realm of the dead. 
+[10:04:39] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:39] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:39] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:04:42] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:04:42] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:42] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as NVA HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:04:47] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:04:47] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:47] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:47] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now skulks among the dead at the area. 
+[10:04:49] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer skulks in the realm of the dead. 
+[10:04:49] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:49] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:49] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:04:52] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:04:52] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:52] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as NVA HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:04:57] caM-bMtX GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Bryant Garratt) has ghosted.
+[10:04:57] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:57] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:04:57] caM-bMtX SAY: (DSAY) SeverePwnage - usr: *no key*/(Bryant Garratt) : The ghost of <span class='name'>Bryant Garratt</span> now lurks among the dead at the area. 
+[10:04:58] caM-bMtX SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Bryant Garratt) : <span class='name'>Bryant Garratt</span> no longer lurks in the realm of the dead. 
+[10:04:58] caM-bMtX ACCESS: Logout: *no key*/(Bryant Garratt)
+[10:04:58] caM-bMtX ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:04:58] caM-bMtX ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:05:06] caM-bMtX ACCESS: Logout: *no key*/(new player)
+[10:05:06] caM-bMtX ACCESS: Login: SeverePwnage/(Bryant Garratt) from localhost-3031256942 || BYOND v513
+[10:05:06] caM-bMtX ADMIN: SeverePwnage/(Bryant Garratt) has joined the round as NVA Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:06:22] caM-bMtX ACCESS: Logout: SeverePwnage/(Bryant Garratt)
+
+
+Starting up. (ID: caM-bPv7) 14:02.11
+---------------------
+[05:00:00] caM-bPv7 ADMIN: Loading jobban_rank
+[05:00:00] caM-bPv7 ADMIN: jobban_keylist was empty
+[05:00:00] caM-bPv7 ADMIN: Loading Banlist
+[05:00:00] caM-bPv7 DEBUG: Rebuilding Master Controller
+[05:00:00] caM-bPv7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bPv7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caM-bPv7 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caM-bPv7 ADMIN: SeverePwnage has started the game.
+[05:00:00] caM-bPv7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bPv7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bPv7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bPv7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bPv7 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bPv7 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caM-bPv7 DEBUG: Next event of severity Mundane in 15.438 minutes.
+[05:00:00] caM-bPv7 DEBUG: Next event of severity Moderate in 45.79 minutes.
+[05:00:00] caM-bPv7 DEBUG: Next event of severity Major in 86.9883 minutes.
+[05:00:14] caM-bPv7 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Abraham Foster) has ghosted.
+[05:00:14] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:14] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:14] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: *no key*/(Abraham Foster) : The ghost of <span class='name'>Abraham Foster</span> now lurks among the dead at the area. 
+[05:00:18] caM-bPv7 ADMIN: SeverePwnage/(Abraham Foster) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=82;Y=139;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:19] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Abraham Foster) : <span class='name'>Abraham Foster</span> no longer skulks in the realm of the dead. 
+[05:00:19] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:19] caM-bPv7 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:19] caM-bPv7 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:00:23] caM-bPv7 ACCESS: Logout: *no key*/(new player)
+[05:00:23] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:23] caM-bPv7 ADMIN: SeverePwnage/(Abraham Foster) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=36;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:30] caM-bPv7 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Abraham Foster) has ghosted.
+[05:00:30] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:30] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:30] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: *no key*/(Abraham Foster) : The ghost of <span class='name'>Abraham Foster</span> now stalks among the dead at WARPACT FOB. 
+[05:00:30] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Abraham Foster) : <span class='name'>Abraham Foster</span> no longer stalks in the realm of the dead. 
+[05:00:30] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:30] caM-bPv7 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:30] caM-bPv7 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[05:00:34] caM-bPv7 ACCESS: Logout: *no key*/(new player)
+[05:00:34] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:34] caM-bPv7 ADMIN: SeverePwnage/(Abraham Foster) has joined the round as BDW Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[05:00:43] caM-bPv7 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Abraham Foster) has ghosted.
+[05:00:43] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:43] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:43] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: *no key*/(Abraham Foster) : The ghost of <span class='name'>Abraham Foster</span> now stalks among the dead at the area. 
+[05:00:43] caM-bPv7 SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Abraham Foster) : <span class='name'>Abraham Foster</span> no longer prowls in the realm of the dead. 
+[05:00:43] caM-bPv7 ACCESS: Logout: *no key*/(Abraham Foster)
+[05:00:43] caM-bPv7 ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:43] caM-bPv7 ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[05:00:49] caM-bPv7 ACCESS: Logout: *no key*/(new player)
+[05:00:49] caM-bPv7 ACCESS: Login: SeverePwnage/(Abraham Foster) from localhost-3031256942 || BYOND v513
+[05:00:49] caM-bPv7 ADMIN: SeverePwnage/(Abraham Foster) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=270;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[05:01:04] caM-bPv7 ACCESS: Logout: SeverePwnage/(Abraham Foster)
+
+
+Starting up. (ID: caM-bYMm) 15:01.31
+---------------------
+[20:00:00] caM-bYMm ADMIN: Loading jobban_rank
+[20:00:00] caM-bYMm ADMIN: jobban_keylist was empty
+[20:00:00] caM-bYMm ADMIN: Loading Banlist
+[20:00:00] caM-bYMm DEBUG: Rebuilding Master Controller
+[20:00:00] caM-bYMm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bYMm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bYMm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bYMm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-bYMm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-bYMm ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-bYMm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bYMm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bYMm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bYMm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-bYMm ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-bYMm GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-bYMm DEBUG: Next event of severity Mundane in 16.08 minutes.
+[20:00:00] caM-bYMm DEBUG: Next event of severity Moderate in 37.342 minutes.
+[20:00:00] caM-bYMm DEBUG: Next event of severity Major in 86.925 minutes.
+[20:00:04] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=271;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:00:08] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:08] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:08] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:08] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now creeps among the dead at USMC FOB. 
+[20:00:09] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer prowls in the realm of the dead. 
+[20:00:09] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:09] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:09] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:13] caM-bYMm ACCESS: Logout: *no key*/(new player)
+[20:00:13] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:13] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=99;Y=270;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:16] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:16] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:16] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:16] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now stalks among the dead at USMC FOB. 
+[20:00:17] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer creeps in the realm of the dead. 
+[20:00:17] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:17] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:17] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[20:00:21] caM-bYMm ACCESS: Logout: *no key*/(new player)
+[20:00:21] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:21] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=36;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:23] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:23] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:23] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:23] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now creeps among the dead at WARPACT FOB. 
+[20:00:24] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer lurks in the realm of the dead. 
+[20:00:24] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:24] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:24] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[20:00:33] caM-bYMm ACCESS: Logout: *no key*/(new player)
+[20:00:33] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:33] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) has joined the round as NVA Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[20:00:34] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:34] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:34] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:34] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now stalks among the dead at WARPACT FOB. 
+[20:00:35] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer stalks in the realm of the dead. 
+[20:00:35] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:35] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:35] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[20:00:38] caM-bYMm ACCESS: Logout: *no key*/(new player)
+[20:00:38] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:38] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) has joined the round as NVA HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[20:00:42] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:42] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:42] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:42] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now skulks among the dead at the area. 
+[20:00:43] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer creeps in the realm of the dead. 
+[20:00:43] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:43] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:43] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[20:00:46] caM-bYMm ACCESS: Logout: *no key*/(new player)
+[20:00:46] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:46] caM-bYMm ADMIN: SeverePwnage/(Jay Hook) has joined the round as NVA HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[20:00:49] caM-bYMm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jay Hook) has ghosted.
+[20:00:49] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:49] caM-bYMm ACCESS: Login: SeverePwnage/(Jay Hook) from localhost-3031256942 || BYOND v513
+[20:00:49] caM-bYMm SAY: (DSAY) SeverePwnage - usr: *no key*/(Jay Hook) : The ghost of <span class='name'>Jay Hook</span> now prowls among the dead at the area. 
+[20:00:50] caM-bYMm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jay Hook) : <span class='name'>Jay Hook</span> no longer creeps in the realm of the dead. 
+[20:00:50] caM-bYMm ACCESS: Logout: *no key*/(Jay Hook)
+[20:00:50] caM-bYMm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:50] caM-bYMm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[20:00:56] caM-bYMm ACCESS: Logout: SeverePwnage/(new player)
+
+
+Starting up. (ID: caM-bZLH) 15:07.52
+---------------------
+[05:00:00] caM-bZLH ADMIN: Loading jobban_rank
+[05:00:00] caM-bZLH ADMIN: jobban_keylist was empty
+[05:00:00] caM-bZLH ADMIN: Loading Banlist
+[05:00:00] caM-bZLH DEBUG: Rebuilding Master Controller
+[05:00:00] caM-bZLH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bZLH ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caM-bZLH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caM-bZLH ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caM-bZLH ADMIN: SeverePwnage has started the game.
+[05:00:00] caM-bZLH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bZLH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bZLH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bZLH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caM-bZLH ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:00] caM-bZLH GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caM-bZLH DEBUG: Next event of severity Mundane in 14.628 minutes.
+[05:00:00] caM-bZLH DEBUG: Next event of severity Moderate in 49.498 minutes.
+[05:00:00] caM-bZLH DEBUG: Next event of severity Major in 93.39 minutes.
+[05:00:05] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=71;Y=294;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:07] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:00:07] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:07] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:07] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now stalks among the dead at USMC FOB. 
+[05:00:08] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer lurks in the realm of the dead. 
+[05:00:08] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:08] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:08] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:11] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:00:11] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:11] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as BDW HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:15] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:00:15] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:15] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:15] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now lurks among the dead at USMC FOB. 
+[05:00:16] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer prowls in the realm of the dead. 
+[05:00:16] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:16] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:16] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:00:22] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:00:22] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:22] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as BDW HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:30] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:00:30] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:30] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:30] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now creeps among the dead at USMC FOB. 
+[05:00:31] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer lurks in the realm of the dead. 
+[05:00:31] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:31] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:31] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:00:35] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:00:35] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:35] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:00:37] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:00:37] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:37] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:37] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now prowls among the dead at USMC FOB. 
+[05:00:37] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer prowls in the realm of the dead. 
+[05:00:37] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:00:37] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:37] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[05:00:40] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:00:40] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:00:40] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=295;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:01:13] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:13] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:13] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:13] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now prowls among the dead at USMC FOB. 
+[05:01:14] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer creeps in the realm of the dead. 
+[05:01:14] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:14] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:14] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[05:01:28] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:01:28] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:28] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[05:01:30] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:30] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:30] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:30] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now lurks among the dead at WARPACT FOB. 
+[05:01:31] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer prowls in the realm of the dead. 
+[05:01:31] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:31] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:31] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:01:34] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:01:34] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:34] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[05:01:36] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:36] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:36] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:36] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now lurks among the dead at WARPACT FOB. 
+[05:01:36] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer creeps in the realm of the dead. 
+[05:01:36] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:36] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:36] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:01:41] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:01:41] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:41] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=18;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:01:43] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:43] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:43] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:43] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now skulks among the dead at WARPACT FOB. 
+[05:01:44] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer lurks in the realm of the dead. 
+[05:01:44] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:44] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:44] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[05:01:47] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:01:47] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:47] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=17;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:01:50] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:50] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:50] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:50] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now prowls among the dead at WARPACT FOB. 
+[05:01:51] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer prowls in the realm of the dead. 
+[05:01:51] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:51] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:51] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[05:01:55] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:01:55] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:55] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[05:01:58] caM-bZLH GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jayden Archibald) has ghosted.
+[05:01:58] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:58] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:01:58] caM-bZLH SAY: (DSAY) SeverePwnage - usr: *no key*/(Jayden Archibald) : The ghost of <span class='name'>Jayden Archibald</span> now lurks among the dead at WARPACT FOB. 
+[05:01:59] caM-bZLH SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jayden Archibald) : <span class='name'>Jayden Archibald</span> no longer creeps in the realm of the dead. 
+[05:01:59] caM-bZLH ACCESS: Logout: *no key*/(Jayden Archibald)
+[05:01:59] caM-bZLH ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:59] caM-bZLH ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[05:02:02] caM-bZLH ACCESS: Logout: *no key*/(new player)
+[05:02:02] caM-bZLH ACCESS: Login: SeverePwnage/(Jayden Archibald) from localhost-3031256942 || BYOND v513
+[05:02:02] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) has joined the round as NVA Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=44;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[05:02:04] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) deleted the concrete wall at (143,45,1)
+[05:02:09] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) deleted the concrete wall at (136,45,1)
+[05:02:16] caM-bZLH ADMIN: SeverePwnage/(Jayden Archibald) deleted the steel door at (133,42,1)
+[05:03:11] caM-bZLH ACCESS: Logout: SeverePwnage/(Jayden Archibald)
+
+
+Starting up. (ID: caM-b4HZ) 15:33.06
+---------------------
+[20:00:00] caM-b4HZ ADMIN: Loading jobban_rank
+[20:00:00] caM-b4HZ ADMIN: jobban_keylist was empty
+[20:00:00] caM-b4HZ ADMIN: Loading Banlist
+[20:00:00] caM-b4HZ DEBUG: Rebuilding Master Controller
+[20:00:00] caM-b4HZ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-b4HZ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-b4HZ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-b4HZ ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-b4HZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-b4HZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-b4HZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-b4HZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-b4HZ ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-b4HZ ACCESS: Login: SeverePwnage/(Emmanuel Clewett) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-b4HZ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-b4HZ DEBUG: Next event of severity Mundane in 15.23 minutes.
+[20:00:00] caM-b4HZ DEBUG: Next event of severity Moderate in 45.756 minutes.
+[20:00:00] caM-b4HZ DEBUG: Next event of severity Major in 96.4917 minutes.
+[20:00:08] caM-b4HZ ADMIN: SeverePwnage/(Emmanuel Clewett) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:11] caM-b4HZ GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Emmanuel Clewett) has ghosted.
+[20:00:11] caM-b4HZ ACCESS: Logout: *no key*/(Emmanuel Clewett)
+[20:00:11] caM-b4HZ ACCESS: Login: SeverePwnage/(Emmanuel Clewett) from localhost-3031256942 || BYOND v513
+[20:00:11] caM-b4HZ SAY: (DSAY) SeverePwnage - usr: *no key*/(Emmanuel Clewett) : The ghost of <span class='name'>Emmanuel Clewett</span> now stalks among the dead at USMC FOB. 
+[20:00:12] caM-b4HZ SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Emmanuel Clewett) : <span class='name'>Emmanuel Clewett</span> no longer prowls in the realm of the dead. 
+[20:00:12] caM-b4HZ ACCESS: Logout: *no key*/(Emmanuel Clewett)
+[20:00:12] caM-b4HZ ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:12] caM-b4HZ ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:00:17] caM-b4HZ ACCESS: Logout: *no key*/(new player)
+[20:00:17] caM-b4HZ ACCESS: Login: SeverePwnage/(Emmanuel Clewett) from localhost-3031256942 || BYOND v513
+[20:00:17] caM-b4HZ ADMIN: SeverePwnage/(Emmanuel Clewett) has joined the round as BDW HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=296;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:22] caM-b4HZ GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Emmanuel Clewett) has ghosted.
+[20:00:22] caM-b4HZ ACCESS: Logout: *no key*/(Emmanuel Clewett)
+[20:00:22] caM-b4HZ ACCESS: Login: SeverePwnage/(Emmanuel Clewett) from localhost-3031256942 || BYOND v513
+[20:00:22] caM-b4HZ SAY: (DSAY) SeverePwnage - usr: *no key*/(Emmanuel Clewett) : The ghost of <span class='name'>Emmanuel Clewett</span> now skulks among the dead at USMC FOB. 
+[20:00:22] caM-b4HZ SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Emmanuel Clewett) : <span class='name'>Emmanuel Clewett</span> no longer lurks in the realm of the dead. 
+[20:00:22] caM-b4HZ ACCESS: Logout: *no key*/(Emmanuel Clewett)
+[20:00:22] caM-b4HZ ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:22] caM-b4HZ ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[20:00:25] caM-b4HZ ACCESS: Logout: *no key*/(new player)
+[20:00:25] caM-b4HZ ACCESS: Login: SeverePwnage/(Emmanuel Clewett) from localhost-3031256942 || BYOND v513
+[20:00:25] caM-b4HZ ADMIN: SeverePwnage/(Emmanuel Clewett) has joined the round as NVA Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[20:00:26] caM-b4HZ ACCESS: Logout: SeverePwnage/(Emmanuel Clewett)
+
+
+Starting up. (ID: caM-b5c2) 15:36.18
+---------------------
+[10:00:00] caM-b5c2 ADMIN: Loading jobban_rank
+[10:00:00] caM-b5c2 ADMIN: jobban_keylist was empty
+[10:00:00] caM-b5c2 ADMIN: Loading Banlist
+[10:00:00] caM-b5c2 DEBUG: Rebuilding Master Controller
+[10:00:00] caM-b5c2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-b5c2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-b5c2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caM-b5c2 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-b5c2 ADMIN: SeverePwnage has started the game.
+[10:00:00] caM-b5c2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5c2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5c2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5c2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5c2 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caM-b5c2 ACCESS: Login: SeverePwnage/(Drew Hussain) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-b5c2 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caM-b5c2 DEBUG: Next event of severity Mundane in 12.848 minutes.
+[10:00:00] caM-b5c2 DEBUG: Next event of severity Moderate in 45.184 minutes.
+[10:00:00] caM-b5c2 DEBUG: Next event of severity Major in 80.2867 minutes.
+[10:00:06] caM-b5c2 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Drew Hussain) has ghosted.
+[10:00:06] caM-b5c2 ACCESS: Logout: *no key*/(Drew Hussain)
+[10:00:06] caM-b5c2 ACCESS: Login: SeverePwnage/(Drew Hussain) from localhost-3031256942 || BYOND v513
+[10:00:06] caM-b5c2 SAY: (DSAY) SeverePwnage - usr: *no key*/(Drew Hussain) : The ghost of <span class='name'>Drew Hussain</span> now creeps among the dead at USMC FOB. 
+
+
+Starting up. (ID: caM-b5zX) 15:38.41
+---------------------
+[10:00:00] caM-b5zX ADMIN: Loading jobban_rank
+[10:00:00] caM-b5zX ADMIN: jobban_keylist was empty
+[10:00:00] caM-b5zX ADMIN: Loading Banlist
+[10:00:00] caM-b5zX DEBUG: Rebuilding Master Controller
+[10:00:00] caM-b5zX ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-b5zX ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-b5zX DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caM-b5zX ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-b5zX ADMIN: SeverePwnage has started the game.
+[10:00:00] caM-b5zX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5zX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5zX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5zX DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-b5zX ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caM-b5zX ACCESS: Login: SeverePwnage/(Jadon Nickolson) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-b5zX GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caM-b5zX DEBUG: Next event of severity Mundane in 14.84 minutes.
+[10:00:00] caM-b5zX DEBUG: Next event of severity Moderate in 48.65 minutes.
+[10:00:00] caM-b5zX DEBUG: Next event of severity Major in 84.7733 minutes.
+[10:00:19] caM-b5zX ADMIN: SeverePwnage/(Jadon Nickolson) SeverePwnage/(Jadon Nickolson) commited suicide using P1 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:19] caM-b5zX GAME: SQL ERROR during death reporting. Failed to connect.
+[10:00:24] caM-b5zX ACCESS: Logout: *no key*/(Jadon Nickolson)
+[10:00:24] caM-b5zX ACCESS: Login: SeverePwnage/(Jadon Nickolson) from localhost-3031256942 || BYOND v513
+[10:00:50] caM-b5zX ACCESS: Logout: SeverePwnage/(Jadon Nickolson)
+
+
+Starting up. (ID: caM-cmDc) 17:34.20
+---------------------
+[20:00:00] caM-cmDc ADMIN: Loading jobban_rank
+[20:00:00] caM-cmDc ADMIN: jobban_keylist was empty
+[20:00:00] caM-cmDc ADMIN: Loading Banlist
+[20:00:00] caM-cmDc DEBUG: Rebuilding Master Controller
+[20:00:00] caM-cmDc ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-cmDc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-cmDc ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-cmDc ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-cmDc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cmDc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cmDc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cmDc DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cmDc ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-cmDc ACCESS: Login: SeverePwnage/(Guillermo Costello) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-cmDc GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-cmDc DEBUG: Next event of severity Mundane in 16.674 minutes.
+[20:00:00] caM-cmDc DEBUG: Next event of severity Moderate in 40.182 minutes.
+[20:00:00] caM-cmDc DEBUG: Next event of severity Major in 82.8733 minutes.
+[20:01:54] caM-cmDc ACCESS: Logout: SeverePwnage/(Guillermo Costello)
+
+
+Starting up. (ID: caM-cwVD) 18:40.18
+---------------------
+[15:00:00] caM-cwVD ADMIN: Loading jobban_rank
+[15:00:00] caM-cwVD ADMIN: jobban_keylist was empty
+[15:00:00] caM-cwVD ADMIN: Loading Banlist
+[15:00:00] caM-cwVD DEBUG: Rebuilding Master Controller
+[15:00:00] caM-cwVD ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caM-cwVD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caM-cwVD DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caM-cwVD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caM-cwVD ADMIN: SeverePwnage has started the game.
+[15:00:00] caM-cwVD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cwVD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cwVD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cwVD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cwVD ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caM-cwVD ACCESS: Login: SeverePwnage/(Elias Knapp) from localhost-3031256942 || BYOND v513
+[15:00:00] caM-cwVD GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caM-cwVD DEBUG: Next event of severity Mundane in 12.97 minutes.
+[15:00:00] caM-cwVD DEBUG: Next event of severity Moderate in 36.944 minutes.
+[15:00:00] caM-cwVD DEBUG: Next event of severity Major in 88.5083 minutes.
+[15:00:50] caM-cwVD ADMIN: SeverePwnage/(Elias Knapp) deleted the steel door at (87,288,1)
+[15:01:49] caM-cwVD ADMIN: SeverePwnage/(Elias Knapp) deleted the steel door at (81,288,1)
+[15:03:00] caM-cwVD ACCESS: Logout: SeverePwnage/(Elias Knapp)
+
+
+Starting up. (ID: caM-cASb) 19:05.35
+---------------------
+[20:00:00] caM-cASb ADMIN: Loading jobban_rank
+[20:00:00] caM-cASb ADMIN: jobban_keylist was empty
+[20:00:00] caM-cASb ADMIN: Loading Banlist
+[20:00:00] caM-cASb DEBUG: Rebuilding Master Controller
+[20:00:00] caM-cASb ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-cASb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-cASb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-cASb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-cASb DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caM-cASb ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caM-cASb ADMIN: SeverePwnage has started the game.
+[20:00:00] caM-cASb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cASb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cASb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cASb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caM-cASb ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caM-cASb ACCESS: Login: SeverePwnage/(Brenden Dugmore) from localhost-3031256942 || BYOND v513
+[20:00:00] caM-cASb GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caM-cASb DEBUG: Next event of severity Mundane in 12.602 minutes.
+[20:00:00] caM-cASb DEBUG: Next event of severity Moderate in 36.95 minutes.
+[20:00:00] caM-cASb DEBUG: Next event of severity Major in 83.515 minutes.
+[20:00:26] caM-cASb ADMIN: SeverePwnage/(Brenden Dugmore) deleted the steel door at (133,42,1)
+[20:01:01] caM-cASb ACCESS: Logout: SeverePwnage/(Brenden Dugmore)
+
+
+Starting up. (ID: caM-cFWz) 19:38.04
+---------------------
+[10:00:00] caM-cFWz ADMIN: Loading jobban_rank
+[10:00:00] caM-cFWz ADMIN: jobban_keylist was empty
+[10:00:00] caM-cFWz ADMIN: Loading Banlist
+[10:00:00] caM-cFWz DEBUG: Rebuilding Master Controller
+[10:00:00] caM-cFWz ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-cFWz ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-cFWz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caM-cFWz ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-cFWz ADMIN: SeverePwnage has started the game.
+[10:00:00] caM-cFWz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cFWz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cFWz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cFWz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cFWz ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caM-cFWz ACCESS: Login: SeverePwnage/(Everett Nehling) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-cFWz GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caM-cFWz DEBUG: Next event of severity Mundane in 14.186 minutes.
+[10:00:00] caM-cFWz DEBUG: Next event of severity Moderate in 44.604 minutes.
+[10:00:00] caM-cFWz DEBUG: Next event of severity Major in 89.2333 minutes.
+[10:02:58] caM-cFWz ACCESS: Logout: SeverePwnage/(Everett Nehling)
+
+
+Starting up. (ID: caM-cGFq) 19:42.42
+---------------------
+[15:00:00] caM-cGFq ADMIN: Loading jobban_rank
+[15:00:00] caM-cGFq ADMIN: jobban_keylist was empty
+[15:00:00] caM-cGFq ADMIN: Loading Banlist
+[15:00:00] caM-cGFq DEBUG: Rebuilding Master Controller
+[15:00:00] caM-cGFq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caM-cGFq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caM-cGFq ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caM-cGFq ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caM-cGFq ADMIN: SeverePwnage has started the game.
+[15:00:00] caM-cGFq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cGFq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cGFq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cGFq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caM-cGFq ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caM-cGFq ACCESS: Login: SeverePwnage/(Eric Petrov) from localhost-3031256942 || BYOND v513
+[15:00:00] caM-cGFq GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caM-cGFq DEBUG: Next event of severity Mundane in 16.574 minutes.
+[15:00:00] caM-cGFq DEBUG: Next event of severity Moderate in 49.884 minutes.
+[15:00:00] caM-cGFq DEBUG: Next event of severity Major in 94.45 minutes.
+[15:04:01] caM-cGFq ACCESS: Logout: SeverePwnage/(Eric Petrov)
+
+
+Starting up. (ID: caM-cHyL) 19:48.25
+---------------------
+[10:00:00] caM-cHyL ADMIN: Loading jobban_rank
+[10:00:00] caM-cHyL ADMIN: jobban_keylist was empty
+[10:00:00] caM-cHyL ADMIN: Loading Banlist
+[10:00:00] caM-cHyL DEBUG: Rebuilding Master Controller
+[10:00:00] caM-cHyL ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-cHyL ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-cHyL ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-cHyL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caM-cHyL ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caM-cHyL ADMIN: SeverePwnage has started the game.
+[10:00:00] caM-cHyL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cHyL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cHyL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cHyL DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caM-cHyL ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caM-cHyL ACCESS: Login: SeverePwnage/(Eddie Jenner) from localhost-3031256942 || BYOND v513
+[10:00:00] caM-cHyL GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caM-cHyL DEBUG: Next event of severity Mundane in 12.64 minutes.
+[10:00:00] caM-cHyL DEBUG: Next event of severity Moderate in 44 minutes.
+[10:00:00] caM-cHyL DEBUG: Next event of severity Major in 98.095 minutes.
+[10:01:02] caM-cHyL ACCESS: Logout: SeverePwnage/(Eddie Jenner)

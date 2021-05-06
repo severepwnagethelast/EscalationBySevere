@@ -1,0 +1,137 @@
+
+
+Starting up. (ID: caZ-a1SE) 08:37.46
+---------------------
+[05:00:00] caZ-a1SE ADMIN: Loading jobban_rank
+[05:00:00] caZ-a1SE ADMIN: jobban_keylist was empty
+[05:00:00] caZ-a1SE ADMIN: Loading Banlist
+[05:00:00] caZ-a1SE DEBUG: Rebuilding Master Controller
+[05:00:00] caZ-a1SE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caZ-a1SE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caZ-a1SE ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caZ-a1SE ADMIN: SeverePwnage has started the game.
+[05:00:00] caZ-a1SE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caZ-a1SE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caZ-a1SE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caZ-a1SE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caZ-a1SE ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caZ-a1SE ACCESS: Login: SeverePwnage/(Zachary Murray) from localhost-3031256942 || BYOND v513
+[05:00:00] caZ-a1SE GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caZ-a1SE DEBUG: Next event of severity Mundane in 14.812 minutes.
+[05:00:00] caZ-a1SE DEBUG: Next event of severity Moderate in 41.2 minutes.
+[05:00:00] caZ-a1SE DEBUG: Next event of severity Major in 95.575 minutes.
+[05:00:09] caZ-a1SE ADMIN: SeverePwnage/(Zachary Murray) deleted the steel door at (32,259,1)
+[05:00:14] caZ-a1SE ADMIN: SeverePwnage/(Zachary Murray) deleted the steel door at (40,259,1)
+[05:01:31] caZ-a1SE ACCESS: Logout: SeverePwnage/(Zachary Murray)
+
+
+Starting up. (ID: caZ-a2GH) 08:42.57
+---------------------
+[15:00:00] caZ-a2GH ADMIN: Loading jobban_rank
+[15:00:00] caZ-a2GH ADMIN: jobban_keylist was empty
+[15:00:00] caZ-a2GH ADMIN: Loading Banlist
+[15:00:00] caZ-a2GH DEBUG: Rebuilding Master Controller
+[15:00:00] caZ-a2GH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caZ-a2GH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caZ-a2GH ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caZ-a2GH ADMIN: SeverePwnage has started the game.
+[15:00:00] caZ-a2GH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caZ-a2GH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caZ-a2GH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caZ-a2GH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caZ-a2GH ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caZ-a2GH ACCESS: Login: SeverePwnage/(Ian Knapp) from localhost-3031256942 || BYOND v513
+[15:00:00] caZ-a2GH GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caZ-a2GH DEBUG: Next event of severity Mundane in 12.324 minutes.
+[15:00:00] caZ-a2GH DEBUG: Next event of severity Moderate in 48.558 minutes.
+[15:00:00] caZ-a2GH DEBUG: Next event of severity Major in 83.3917 minutes.
+[15:00:10] caZ-a2GH ADMIN: SeverePwnage/(Ian Knapp) deleted the steel door at (32,259,1)
+[15:00:12] caZ-a2GH ADMIN: SeverePwnage/(Ian Knapp) deleted the steel door at (40,259,1)
+[15:04:18] caZ-a2GH ACCESS: Logout: SeverePwnage/(Ian Knapp)
+
+
+Starting up. (ID: caZ-a4xh) 08:54.47
+---------------------
+[10:00:00] caZ-a4xh ADMIN: Loading jobban_rank
+[10:00:00] caZ-a4xh ADMIN: jobban_keylist was empty
+[10:00:00] caZ-a4xh ADMIN: Loading Banlist
+[10:00:00] caZ-a4xh DEBUG: Rebuilding Master Controller
+[10:00:00] caZ-a4xh ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caZ-a4xh ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caZ-a4xh DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caZ-a4xh ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caZ-a4xh ADMIN: SeverePwnage has started the game.
+[10:00:00] caZ-a4xh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-a4xh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-a4xh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-a4xh DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-a4xh ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caZ-a4xh ACCESS: Login: SeverePwnage/(Malcolm Roberts) from localhost-3031256942 || BYOND v513
+[10:00:00] caZ-a4xh GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caZ-a4xh DEBUG: Next event of severity Mundane in 14.082 minutes.
+[10:00:00] caZ-a4xh DEBUG: Next event of severity Moderate in 48.102 minutes.
+[10:00:00] caZ-a4xh DEBUG: Next event of severity Major in 90.8367 minutes.
+[10:00:08] caZ-a4xh ADMIN: SeverePwnage/(Malcolm Roberts) deleted the steel door at (40,259,1)
+[10:00:51] caZ-a4xh ACCESS: Logout: SeverePwnage/(Malcolm Roberts)
+
+
+Starting up. (ID: caZ-a5VG) 09:03.43
+---------------------
+[20:00:00] caZ-a5VG ADMIN: Loading jobban_rank
+[20:00:00] caZ-a5VG ADMIN: jobban_keylist was empty
+[20:00:00] caZ-a5VG ADMIN: Loading Banlist
+[20:00:00] caZ-a5VG DEBUG: Rebuilding Master Controller
+[20:00:00] caZ-a5VG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caZ-a5VG DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caZ-a5VG ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caZ-a5VG ADMIN: SeverePwnage has started the game.
+[20:00:00] caZ-a5VG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caZ-a5VG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caZ-a5VG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caZ-a5VG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caZ-a5VG ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caZ-a5VG ACCESS: Login: SeverePwnage/(Keaton Dean) from localhost-3031256942 || BYOND v513
+[20:00:00] caZ-a5VG GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caZ-a5VG DEBUG: Next event of severity Mundane in 12.06 minutes.
+[20:00:00] caZ-a5VG DEBUG: Next event of severity Moderate in 51.296 minutes.
+[20:00:00] caZ-a5VG DEBUG: Next event of severity Major in 81.6767 minutes.
+[20:00:08] caZ-a5VG ADMIN: MOD: SeverePwnage/(Keaton Dean) : 
+[20:00:14] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/weapon/gun/projectile/automatic/rifle/l96 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:19] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/weapon/gun/projectile/rifle/boltaction/tkiv (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:24] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/weapon/gun/projectile/rifle/boltaction/m40a1 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=229;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:36] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/weapon/gun/projectile/automatic/rifle/svd (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:47] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/projectile/bullet/rifle/a762x53/tr (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=25;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:53] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/ammo_magazine/box/clip/t762x53/tr (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=229;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:00] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/ammo_magazine/c762x51s (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:03] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/ammo_magazine/c762x51l (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=231;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:20] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) created 1 /obj/item/ammo_magazine/box/clip/t762x51/tr (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=232;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:02:07] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) spawned /obj/item/weapon/gun/projectile/automatic/rifle/l96 at (232,22,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=232;Y=22;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:02:16] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) spawned /obj/item/ammo_magazine/c762x51l/ap at (231,22,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=231;Y=22;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:03:03] caZ-a5VG ADMIN: SeverePwnage/(Keaton Dean) spawned /obj/item/ammo_casing/a762x53/ap at (231,25,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=231;Y=25;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:03:22] caZ-a5VG ACCESS: Logout: SeverePwnage/(Keaton Dean)
+
+
+Starting up. (ID: caZ-bgFu) 10:18.55
+---------------------
+[10:00:00] caZ-bgFu ADMIN: Loading jobban_rank
+[10:00:00] caZ-bgFu ADMIN: jobban_keylist was empty
+[10:00:00] caZ-bgFu ADMIN: Loading Banlist
+[10:00:00] caZ-bgFu DEBUG: Rebuilding Master Controller
+[10:00:00] caZ-bgFu ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caZ-bgFu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caZ-bgFu ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caZ-bgFu ADMIN: SeverePwnage has started the game.
+[10:00:00] caZ-bgFu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-bgFu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-bgFu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-bgFu DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caZ-bgFu ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caZ-bgFu ACCESS: Login: SeverePwnage/(Jadon Sommer) from localhost-3031256942 || BYOND v513
+[10:00:00] caZ-bgFu GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caZ-bgFu DEBUG: Next event of severity Mundane in 17.152 minutes.
+[10:00:00] caZ-bgFu DEBUG: Next event of severity Moderate in 48.236 minutes.
+[10:00:00] caZ-bgFu DEBUG: Next event of severity Major in 85.29 minutes.
+[10:00:21] caZ-bgFu ADMIN: SeverePwnage/(Jadon Sommer) spawned /obj/item/clothing/head/fieldcap/csla at (113,149,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=149;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:28] caZ-bgFu ADMIN: SeverePwnage/(Jadon Sommer) spawned /obj/item/clothing/head/csla/officer at (112,149,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=149;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:47] caZ-bgFu ADMIN: SeverePwnage/(Jadon Sommer) spawned /obj/item/clothing/head/garcap/csla at (113,148,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=148;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:50] caZ-bgFu ACCESS: Logout: SeverePwnage/(Jadon Sommer)

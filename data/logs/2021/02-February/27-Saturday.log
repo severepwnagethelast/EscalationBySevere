@@ -1,0 +1,52 @@
+
+
+Starting up. (ID: caO-bCjo) 12:37.36
+---------------------
+[15:00:00] caO-bCjo ADMIN: Loading jobban_rank
+[15:00:00] caO-bCjo ADMIN: jobban_keylist was empty
+[15:00:00] caO-bCjo ADMIN: Loading Banlist
+[15:00:00] caO-bCjo DEBUG: Rebuilding Master Controller
+[15:00:00] caO-bCjo ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caO-bCjo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCjo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCjo DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caO-bCjo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCjo ADMIN: SeverePwnage has started the game.
+[15:00:00] caO-bCjo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCjo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCjo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCjo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCjo ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caO-bCjo ACCESS: Login: SeverePwnage/(Janel Scherer) from localhost-3031256942 || BYOND v513
+[15:00:00] caO-bCjo GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caO-bCjo DEBUG: Next event of severity Mundane in 17.086 minutes.
+[15:00:00] caO-bCjo DEBUG: Next event of severity Moderate in 38.918 minutes.
+[15:00:00] caO-bCjo DEBUG: Next event of severity Major in 85.5333 minutes.
+[15:00:07] caO-bCjo ADMIN: SeverePwnage/(Janel Scherer) initiated a game ending. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+
+
+Starting up. (ID: caO-bCWn) 12:41.37
+---------------------
+[15:00:00] caO-bCWn ADMIN: Loading jobban_rank
+[15:00:00] caO-bCWn ADMIN: jobban_keylist was empty
+[15:00:00] caO-bCWn ADMIN: Loading Banlist
+[15:00:00] caO-bCWn DEBUG: Rebuilding Master Controller
+[15:00:00] caO-bCWn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caO-bCWn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCWn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCWn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caO-bCWn ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caO-bCWn ADMIN: SeverePwnage has started the game.
+[15:00:00] caO-bCWn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCWn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCWn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCWn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caO-bCWn ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caO-bCWn ACCESS: Login: SeverePwnage/(Darin Watson) from localhost-3031256942 || BYOND v513
+[15:00:00] caO-bCWn GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caO-bCWn DEBUG: Next event of severity Mundane in 12.424 minutes.
+[15:00:00] caO-bCWn DEBUG: Next event of severity Moderate in 51.168 minutes.
+[15:00:00] caO-bCWn DEBUG: Next event of severity Major in 93.5767 minutes.
+[15:00:21] caO-bCWn ADMIN: SeverePwnage/(Darin Watson) has declared a draw... (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=33;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:26] caO-bCWn ADMIN: SeverePwnage/(Darin Watson) spawned /obj/item/device/cassette/nato at (131,30,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=30;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:43] caO-bCWn ACCESS: Logout: SeverePwnage/(Darin Watson)

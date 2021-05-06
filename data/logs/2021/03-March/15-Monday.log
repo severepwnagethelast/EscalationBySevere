@@ -1,0 +1,1224 @@
+
+
+Starting up. (ID: ca5-a1aV) 08:33.16
+---------------------
+[10:00:00] ca5-a1aV ADMIN: Loading jobban_rank
+[10:00:00] ca5-a1aV ADMIN: jobban_keylist was empty
+[10:00:00] ca5-a1aV ADMIN: Loading Banlist
+[10:00:00] ca5-a1aV DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-a1aV ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-a1aV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-a1aV ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-a1aV ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-a1aV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-a1aV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-a1aV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-a1aV DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-a1aV ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-a1aV GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-a1aV DEBUG: Next event of severity Mundane in 12.766 minutes.
+[10:00:00] ca5-a1aV DEBUG: Next event of severity Moderate in 50.806 minutes.
+[10:00:00] ca5-a1aV DEBUG: Next event of severity Major in 87.8683 minutes.
+[10:00:22] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:00:22] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:00:22] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:22] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at WARPACT FOB. 
+[10:00:25] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:25] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:00:25] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:00:25] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:00:25] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:00:29] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:00:29] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:29] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Zamestitel Komandira Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:44] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:00:44] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:00:44] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:44] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at WARPACT FOB. 
+[10:00:44] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:00:44] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:00:44] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:00:44] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[10:00:49] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:00:49] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:49] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Vzvodny Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[10:01:32] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:01:32] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:32] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:32] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:01:35] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:01:35] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:35] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:35] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[10:01:45] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:01:45] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:45] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Pomoshnik Vzvodnogo Pulemetchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[10:01:57] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:01:57] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:01:57] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:01:57] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:01:57] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:01:57] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:01:57] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[10:02:09] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:02:09] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:09] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Shtabnoi Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=163;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:02:27] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:02:27] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:27] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:27] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at WARPACT FOB. 
+[10:02:27] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:02:27] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:27] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:27] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:02:29] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:02:29] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:29] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Polevoi Medik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[10:02:36] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:02:36] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:36] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:36] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at WARPACT FOB. 
+[10:02:36] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:02:36] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:36] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:36] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:02:39] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:02:39] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:39] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Polevoi Vrach. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:02:43] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:02:43] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:43] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:43] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at WARPACT FOB. 
+[10:02:44] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:02:44] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:44] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:44] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:02:47] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:02:47] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:47] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Snaiper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[10:02:51] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:02:51] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:51] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:51] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:02:51] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:02:51] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:02:51] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:02:51] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:02:57] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:02:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:02:57] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Komandir Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:16] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '9' to '15' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:32] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '15' to '5' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:36] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '5' to '6' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:38] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '6' to '7' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:39] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '7' to '15' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:41] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '15' to '10' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:43] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '10' to '8' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:45] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) modified URAL's layer from '8' to '9' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=225;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[10:03:59] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:03:59] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:03:59] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:03:59] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:03:59] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:03:59] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:03:59] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:03:59] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:04:04] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:04] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:04] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Zamestitel Komandira Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[10:04:07] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:07] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:04:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:04:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:07] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:07] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:04:11] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:11] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:11] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[10:04:16] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:16] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:16] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:16] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:04:16] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:04:16] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:16] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:16] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:04:19] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:19] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:19] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Strelok-Granatometchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=141;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[10:04:22] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:22] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:22] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:22] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:04:23] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:04:23] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:23] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:23] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:04:26] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:26] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:26] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Pomoshnik Granatometchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[10:04:28] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:28] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:28] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:28] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:04:29] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:04:29] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:29] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:29] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:04:31] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:31] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:31] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[10:04:40] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:40] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:40] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:40] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:04:40] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:04:40] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:40] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:40] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:04:43] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:43] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:43] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=135;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[10:04:45] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:45] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:45] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:45] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:04:49] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:04:49] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:49] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:49] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:04:53] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:04:53] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:53] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Boevoi Medik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[10:04:57] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:04:57] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:04:57] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:04:58] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:04:58] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:04:58] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:04:58] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:05:03] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:05:03] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:03] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA Saper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[10:05:07] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:05:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:07] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:05:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:05:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:07] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:07] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:05:25] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:05:25] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:25] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA OTV Komandir. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[10:05:31] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:05:31] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:31] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:31] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:05:32] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:05:32] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:32] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:32] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[10:05:35] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:05:35] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:35] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA OTV Zaryazhaiuschiy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[10:05:39] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:05:39] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:39] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:39] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:05:39] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:05:39] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:39] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:39] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[10:05:43] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:05:43] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:43] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as SA OTV Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[10:05:46] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:05:46] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:46] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:46] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:05:46] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:05:46] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:05:46] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:05:46] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[10:05:50] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:05:50] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:05:50] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Poruchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[10:06:13] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (166,225,1)
+[10:06:38] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:06:38] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:06:38] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:06:38] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:06:38] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:06:38] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:06:38] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:06:38] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[10:06:41] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:06:41] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:06:41] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Podporuchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[10:06:56] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:06:56] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:06:56] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:06:56] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:06:56] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:06:56] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:06:56] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:06:56] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[10:07:01] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:07:01] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:01] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Druzhstvo Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[10:07:07] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:07:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:07] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:07:09] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:07:09] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:09] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:07:09] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[10:07:11] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:07:11] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:11] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Pomocnik Druzhstvo Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[10:07:22] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:07:22] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:22] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:22] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:07:23] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:07:23] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:23] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:07:23] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[10:07:29] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:07:29] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:29] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Druzhstvo Radista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=163;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[10:07:38] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:07:38] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:38] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:38] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:07:38] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:07:38] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:38] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:07:38] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[10:07:45] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:07:45] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:45] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Sanitar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[10:07:49] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:07:49] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:49] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:49] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at WARPACT FOB. 
+[10:07:50] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:07:50] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:50] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:07:50] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[10:07:53] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:07:53] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:53] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Chirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[10:07:57] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:07:57] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:07:57] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at WARPACT FOB. 
+[10:07:58] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:07:58] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:07:58] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:07:58] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[10:08:08] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:08:08] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:08] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Nadstrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[10:08:12] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:08:12] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:12] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:12] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:08:12] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:08:12] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:12] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:08:12] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[10:08:15] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:08:15] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:15] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Chetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[10:08:20] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:08:20] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:20] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:20] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:08:21] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:08:21] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:21] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:08:21] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[10:08:25] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:08:25] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:25] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Subchetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[10:08:44] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:08:44] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:44] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:44] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:08:45] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:08:45] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:45] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:08:45] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[10:08:48] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:08:48] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:48] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Radista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[10:08:53] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:08:53] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:53] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:53] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:08:54] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:08:54] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:08:54] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:08:54] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[10:08:57] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:08:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:08:57] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Pancerovnik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[10:09:01] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:09:01] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:01] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:01] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:09:02] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:09:02] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:02] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:09:02] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[10:09:07] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:09:07] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:07] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Pomocnik Pancerovnika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[10:09:11] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:09:11] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:11] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:11] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:09:12] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:09:12] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:12] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:09:12] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[10:09:18] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:09:18] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:18] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[10:09:24] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:09:24] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:24] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:24] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:09:26] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer stalks in the realm of the dead. 
+[10:09:26] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:26] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:09:26] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[10:09:29] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:09:29] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:29] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[10:09:43] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:09:43] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:43] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:43] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:09:44] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:09:44] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:44] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:09:44] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[10:09:48] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:09:48] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:48] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Sanitarstrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[10:09:52] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:09:52] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:52] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:52] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:09:53] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:09:53] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:09:53] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:09:53] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[10:09:58] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:09:58] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:09:58] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Zenista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[10:10:00] ca5-a1aV GAME: SQL ERROR during population polling. Failed to connect.
+[10:10:03] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:10:03] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:03] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:03] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:10:04] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:10:04] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:04] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:10:04] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[10:10:08] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:10:08] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:08] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Tezke Zbrane Chetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[10:10:12] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:10:12] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:12] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:12] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at the area. 
+[10:10:13] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:10:13] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:13] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:10:13] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[10:10:17] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:10:17] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:17] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Tezke Zbrane Cheta Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[10:10:19] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:10:19] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:19] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:19] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:10:21] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:10:21] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:21] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:10:21] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[10:10:25] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:10:25] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:25] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as CSLA Tezke Zbrane Cheta Nakladac. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[10:10:28] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:10:28] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:28] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:28] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:10:33] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:10:33] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:33] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:10:33] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[10:10:45] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:10:45] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:45] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[10:10:59] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:10:59] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:10:59] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:10:59] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at the area. 
+[10:11:00] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:11:00] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:00] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:11:00] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[10:11:04] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:11:04] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:04] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Platoon Leader Deputy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=42;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[10:11:08] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:11:08] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:08] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:08] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:11:09] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:11:09] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:09] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:11:09] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[10:11:13] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:11:13] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:13] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Radiotelephone Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[10:11:18] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:11:18] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:18] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:18] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:11:19] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:11:19] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:19] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:11:19] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[10:11:22] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:11:22] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:22] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Field Medic. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=35;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[10:11:34] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:11:34] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:34] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:34] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at USMC FOB. 
+[10:11:35] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:11:35] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:35] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:11:35] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[10:11:38] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:11:38] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:38] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Field Surgeon. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[10:11:57] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:11:57] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:57] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:11:57] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:11:58] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:11:58] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:11:58] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:11:58] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005f]'>MOB</a>)
+[10:12:02] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:12:02] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:02] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[10:12:09] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:12:09] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:09] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:09] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at USMC FOB. 
+[10:12:10] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:12:10] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:10] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:12:10] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000061]'>MOB</a>)
+[10:12:15] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:12:15] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:15] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Squad Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005f]'>MOB</a>)
+[10:12:18] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:12:18] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:18] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:18] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now creeps among the dead at USMC FOB. 
+[10:12:19] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:12:19] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:19] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:12:19] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000063]'>MOB</a>)
+[10:12:22] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:12:22] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:22] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000061]'>MOB</a>)
+[10:12:26] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:12:26] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:26] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:26] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at USMC FOB. 
+[10:12:26] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:12:26] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:26] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:12:26] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)
+[10:12:31] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:12:31] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:31] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000063]'>MOB</a>)
+[10:12:37] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:12:37] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:37] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:37] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at USMC FOB. 
+[10:12:39] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:12:39] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:12:39] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:12:39] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000067]'>MOB</a>)
+[10:12:43] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:12:43] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:12:43] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Machinegunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)
+[10:13:07] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:13:07] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:07] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:07] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at the area. 
+[10:13:08] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:13:08] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:08] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:13:08] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)
+[10:13:13] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:13:13] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:13] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000067]'>MOB</a>)
+[10:13:20] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:13:20] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:20] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:20] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now skulks among the dead at USMC FOB. 
+[10:13:21] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:13:21] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:21] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:13:21] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006b]'>MOB</a>)
+[10:13:25] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:13:25] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:25] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)
+[10:13:29] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:13:29] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:29] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:29] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now lurks among the dead at the area. 
+[10:13:32] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:13:32] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:32] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:13:32] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006d]'>MOB</a>)
+[10:13:35] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:13:35] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:35] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Fireteam Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006b]'>MOB</a>)
+[10:13:39] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:13:39] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:39] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:39] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at the area. 
+[10:13:42] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:13:42] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:42] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:13:42] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006f]'>MOB</a>)
+[10:13:46] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:13:46] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:46] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Corpsman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006d]'>MOB</a>)
+[10:13:53] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:13:53] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:53] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:53] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:13:54] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer creeps in the realm of the dead. 
+[10:13:54] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:13:54] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:13:54] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000071]'>MOB</a>)
+[10:13:59] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:13:59] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:13:59] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC Sapper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006f]'>MOB</a>)
+[10:14:04] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:14:04] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:04] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:04] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:14:06] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:14:06] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:06] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:14:06] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000073]'>MOB</a>)
+[10:14:11] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:14:11] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:11] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000071]'>MOB</a>)
+[10:14:15] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:14:15] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:15] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:15] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:14:17] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:14:17] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:17] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:14:17] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[10:14:21] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:14:21] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:21] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000073]'>MOB</a>)
+[10:14:34] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:14:34] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:34] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:34] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:14:35] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:14:35] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:35] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:14:35] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000077]'>MOB</a>)
+[10:14:39] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:14:39] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:39] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[10:14:45] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:14:45] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:45] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:45] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at USMC FOB. 
+[10:14:46] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer skulks in the realm of the dead. 
+[10:14:46] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:46] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:14:46] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000079]'>MOB</a>)
+[10:14:50] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:14:50] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:50] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC AT Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=22;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000077]'>MOB</a>)
+[10:14:54] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:14:54] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:54] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:14:54] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now prowls among the dead at USMC FOB. 
+[10:14:58] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer lurks in the realm of the dead. 
+[10:14:58] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:14:58] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:14:58] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007b]'>MOB</a>)
+[10:15:02] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:15:02] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:15:02] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC AT Gunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000079]'>MOB</a>)
+[10:15:06] ca5-a1aV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) has ghosted.
+[10:15:06] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:15:06] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:15:06] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: *no key*/(Jaye Edwards) : The ghost of <span class='name'>Jaye Edwards</span> now stalks among the dead at USMC FOB. 
+[10:15:08] ca5-a1aV SAY: (DSAY) Among us crewmate - usr: Among us crewmate/(Jaye Edwards) : <span class='name'>Jaye Edwards</span> no longer prowls in the realm of the dead. 
+[10:15:08] ca5-a1aV ACCESS: Logout: *no key*/(Jaye Edwards)
+[10:15:08] ca5-a1aV ACCESS: Login: Among us crewmate/(new player) from localhost-3195767659 || BYOND v513
+[10:15:08] ca5-a1aV ADMIN: Among us crewmate/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007d]'>MOB</a>)
+[10:15:13] ca5-a1aV ACCESS: Logout: *no key*/(new player)
+[10:15:13] ca5-a1aV ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:15:13] ca5-a1aV ADMIN: Among us crewmate/(Jaye Edwards) has joined the round as USMC AT Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007b]'>MOB</a>)
+[10:15:19] ca5-a1aV ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-a5Xu) 09:03.54
+---------------------
+[20:00:00] ca5-a5Xu ADMIN: Loading jobban_rank
+[20:00:00] ca5-a5Xu ADMIN: jobban_keylist was empty
+[20:00:00] ca5-a5Xu ADMIN: Loading Banlist
+[20:00:00] ca5-a5Xu DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-a5Xu ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-a5Xu DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-a5Xu ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-a5Xu ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-a5Xu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-a5Xu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-a5Xu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-a5Xu DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-a5Xu ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-a5Xu ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-a5Xu GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-a5Xu DEBUG: Next event of severity Mundane in 14.872 minutes.
+[20:00:00] ca5-a5Xu DEBUG: Next event of severity Moderate in 40.422 minutes.
+[20:00:00] ca5-a5Xu DEBUG: Next event of severity Major in 89.6483 minutes.
+[20:00:19] ca5-a5Xu ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bu7q) 11:51.25
+---------------------
+[10:00:00] ca5-bu7q ADMIN: Loading jobban_rank
+[10:00:00] ca5-bu7q ADMIN: jobban_keylist was empty
+[10:00:00] ca5-bu7q ADMIN: Loading Banlist
+[10:00:00] ca5-bu7q DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-bu7q ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-bu7q DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-bu7q ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca5-bCV3) 12:41.35
+---------------------
+[15:00:00] ca5-bCV3 ADMIN: Loading jobban_rank
+[15:00:00] ca5-bCV3 ADMIN: jobban_keylist was empty
+[15:00:00] ca5-bCV3 ADMIN: Loading Banlist
+[15:00:00] ca5-bCV3 DEBUG: Rebuilding Master Controller
+[15:00:00] ca5-bCV3 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bCV3 ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bCV3 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca5-bCV3 ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bCV3 ADMIN: Among us crewmate has started the game.
+[15:00:00] ca5-bCV3 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bCV3 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bCV3 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bCV3 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bCV3 ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca5-bCV3 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bCV3 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca5-bCV3 DEBUG: Next event of severity Mundane in 14.57 minutes.
+[15:00:00] ca5-bCV3 DEBUG: Next event of severity Moderate in 38.338 minutes.
+[15:00:00] ca5-bCV3 DEBUG: Next event of severity Major in 87.66 minutes.
+[15:00:04] ca5-bCV3 ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (33,33,1)
+[15:00:13] ca5-bCV3 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/clothing/under/csla/vz60/svobodnik at (32,27,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=32;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:50] ca5-bCV3 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bDuy) 12:45.10
+---------------------
+[20:00:00] ca5-bDuy ADMIN: Loading jobban_rank
+[20:00:00] ca5-bDuy ADMIN: jobban_keylist was empty
+[20:00:00] ca5-bDuy ADMIN: Loading Banlist
+[20:00:00] ca5-bDuy DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-bDuy ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bDuy DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-bDuy ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bDuy ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-bDuy DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bDuy DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bDuy DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bDuy DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bDuy ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-bDuy ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bDuy GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-bDuy DEBUG: Next event of severity Mundane in 15.336 minutes.
+[20:00:00] ca5-bDuy DEBUG: Next event of severity Moderate in 46.166 minutes.
+[20:00:00] ca5-bDuy DEBUG: Next event of severity Major in 90.1517 minutes.
+[20:00:13] ca5-bDuy ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (36,36,1)
+[20:00:17] ca5-bDuy ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bD4E) 12:48.47
+---------------------
+[20:00:00] ca5-bD4E ADMIN: Loading jobban_rank
+[20:00:00] ca5-bD4E ADMIN: jobban_keylist was empty
+[20:00:00] ca5-bD4E ADMIN: Loading Banlist
+[20:00:00] ca5-bD4E DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-bD4E ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bD4E DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-bD4E ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bD4E ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-bD4E DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bD4E DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bD4E DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bD4E DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bD4E ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-bD4E ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bD4E GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-bD4E DEBUG: Next event of severity Mundane in 15.474 minutes.
+[20:00:00] ca5-bD4E DEBUG: Next event of severity Moderate in 40.482 minutes.
+[20:00:00] ca5-bD4E DEBUG: Next event of severity Major in 92.695 minutes.
+[20:00:11] ca5-bD4E ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (36,36,1)
+[20:00:18] ca5-bD4E ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (33,33,1)
+[20:01:29] ca5-bD4E ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/glock17 at (30,35,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=30;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:01:38] ca5-bD4E ATTACK: Among us crewmate/(Jaye Edwards) has punched Among us crewmate/(Jaye Edwards) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=29;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:01:44] ca5-bD4E ADMIN: Among us crewmate/(Jaye Edwards) Among us crewmate/(Jaye Edwards) commited suicide using Glock 17 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=29;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:01:44] ca5-bD4E GAME: SQL ERROR during death reporting. Failed to connect.
+[20:01:48] ca5-bD4E ACCESS: Logout: *no key*/(Jaye Edwards)
+[20:01:48] ca5-bD4E ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:01:49] ca5-bD4E ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bJbh) 13:21.36
+---------------------
+[20:00:00] ca5-bJbh ADMIN: Loading jobban_rank
+[20:00:00] ca5-bJbh ADMIN: jobban_keylist was empty
+[20:00:00] ca5-bJbh ADMIN: Loading Banlist
+[20:00:00] ca5-bJbh DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-bJbh ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bJbh ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bJbh DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-bJbh ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bJbh ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-bJbh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bJbh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bJbh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bJbh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bJbh ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-bJbh ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bJbh GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-bJbh DEBUG: Next event of severity Mundane in 14.048 minutes.
+[20:00:00] ca5-bJbh DEBUG: Next event of severity Moderate in 53.288 minutes.
+[20:00:00] ca5-bJbh DEBUG: Next event of severity Major in 83.9983 minutes.
+[20:00:07] ca5-bJbh ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bJz6) 13:24.10
+---------------------
+[15:00:00] ca5-bJz6 ADMIN: Loading jobban_rank
+[15:00:00] ca5-bJz6 ADMIN: jobban_keylist was empty
+[15:00:00] ca5-bJz6 ADMIN: Loading Banlist
+[15:00:00] ca5-bJz6 DEBUG: Rebuilding Master Controller
+[15:00:00] ca5-bJz6 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bJz6 ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bJz6 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca5-bJz6 ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bJz6 ADMIN: Among us crewmate has started the game.
+[15:00:00] ca5-bJz6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bJz6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bJz6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bJz6 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bJz6 ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca5-bJz6 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bJz6 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca5-bJz6 DEBUG: Next event of severity Mundane in 17.73 minutes.
+[15:00:00] ca5-bJz6 DEBUG: Next event of severity Moderate in 51.218 minutes.
+[15:00:00] ca5-bJz6 DEBUG: Next event of severity Major in 93.37 minutes.
+[15:00:12] ca5-bJz6 ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[15:01:08] ca5-bJz6 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bKdN) 13:28.16
+---------------------
+[15:00:00] ca5-bKdN ADMIN: Loading jobban_rank
+[15:00:00] ca5-bKdN ADMIN: jobban_keylist was empty
+[15:00:00] ca5-bKdN ADMIN: Loading Banlist
+[15:00:00] ca5-bKdN DEBUG: Rebuilding Master Controller
+[15:00:00] ca5-bKdN ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bKdN ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bKdN DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca5-bKdN ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca5-bKdN ADMIN: Among us crewmate has started the game.
+[15:00:00] ca5-bKdN DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bKdN DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bKdN DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bKdN DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca5-bKdN ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca5-bKdN ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[15:00:00] ca5-bKdN GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca5-bKdN DEBUG: Next event of severity Mundane in 17.118 minutes.
+[15:00:00] ca5-bKdN DEBUG: Next event of severity Moderate in 52.018 minutes.
+[15:00:00] ca5-bKdN DEBUG: Next event of severity Major in 94.7133 minutes.
+[15:00:19] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[15:01:11] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) jumped to WARPACT FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=193;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:26] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (130,194,1)
+[15:01:40] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/auga1gl at (139,196,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=196;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:42] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/launcher/grenade/underslung/m203 at (139,196,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=139;Y=196;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:59] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) jumped to USMC FOB (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:02:20] ca5-bKdN GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards) used a grenade (40x46mm 'M381 HE' grenade shell).
+[15:02:50] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/glock17 at (18,19,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=19;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:03:02] ca5-bKdN ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1 at (19,16,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:03:15] ca5-bKdN ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bLdI) 13:34.41
+---------------------
+[10:00:00] ca5-bLdI ADMIN: Loading jobban_rank
+[10:00:00] ca5-bLdI ADMIN: jobban_keylist was empty
+[10:00:00] ca5-bLdI ADMIN: Loading Banlist
+[10:00:00] ca5-bLdI DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-bLdI ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-bLdI DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-bLdI ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-bLdI ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-bLdI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-bLdI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-bLdI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-bLdI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-bLdI ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-bLdI ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-bLdI GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-bLdI DEBUG: Next event of severity Mundane in 15.434 minutes.
+[10:00:00] ca5-bLdI DEBUG: Next event of severity Moderate in 51.258 minutes.
+[10:00:00] ca5-bLdI DEBUG: Next event of severity Major in 88.545 minutes.
+[10:00:06] ca5-bLdI ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[10:00:20] ca5-bLdI ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/g3a3 at (19,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:40] ca5-bLdI ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-bLY9) 13:39.34
+---------------------
+[20:00:00] ca5-bLY9 ADMIN: Loading jobban_rank
+[20:00:00] ca5-bLY9 ADMIN: jobban_keylist was empty
+[20:00:00] ca5-bLY9 ADMIN: Loading Banlist
+[20:00:00] ca5-bLY9 DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-bLY9 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bLY9 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bLY9 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bLY9 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-bLY9 ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-bLY9 ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-bLY9 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bLY9 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bLY9 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bLY9 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-bLY9 ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-bLY9 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-bLY9 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-bLY9 DEBUG: Next event of severity Mundane in 16.624 minutes.
+[20:00:00] ca5-bLY9 DEBUG: Next event of severity Moderate in 36.882 minutes.
+[20:00:00] ca5-bLY9 DEBUG: Next event of severity Major in 99.305 minutes.
+[20:00:11] ca5-bLY9 ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[20:00:26] ca5-bLY9 ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/m16a1 at (18,10,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:36] ca5-bLY9 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-b2di) 15:17.09
+---------------------
+[10:00:00] ca5-b2di ADMIN: Loading jobban_rank
+[10:00:00] ca5-b2di ADMIN: jobban_keylist was empty
+[10:00:00] ca5-b2di ADMIN: Loading Banlist
+[10:00:00] ca5-b2di DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-b2di ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b2di DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-b2di ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b2di ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-b2di DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b2di DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b2di DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b2di DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b2di ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-b2di ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b2di GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-b2di DEBUG: Next event of severity Mundane in 13.398 minutes.
+[10:00:00] ca5-b2di DEBUG: Next event of severity Moderate in 45.562 minutes.
+[10:00:00] ca5-b2di DEBUG: Next event of severity Major in 87.05 minutes.
+[10:00:11] ca5-b2di ADMIN: Among us crewmate/(Jaye Edwards) deleted the sand at (18,11,1)
+[10:00:13] ca5-b2di ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[10:00:39] ca5-b2di ADMIN: Among us crewmate/(Jaye Edwards) deleted BDH field pack at (0,0,0)
+[10:01:15] ca5-b2di ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-b3Zl) 15:28.30
+---------------------
+[10:00:00] ca5-b3Zl ADMIN: Loading jobban_rank
+[10:00:00] ca5-b3Zl ADMIN: jobban_keylist was empty
+[10:00:00] ca5-b3Zl ADMIN: Loading Banlist
+[10:00:00] ca5-b3Zl DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-b3Zl ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b3Zl ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b3Zl DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-b3Zl ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b3Zl ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-b3Zl DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b3Zl DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b3Zl DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b3Zl DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b3Zl ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-b3Zl ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b3Zl GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-b3Zl DEBUG: Next event of severity Mundane in 17.458 minutes.
+[10:00:00] ca5-b3Zl DEBUG: Next event of severity Moderate in 50.758 minutes.
+[10:00:00] ca5-b3Zl DEBUG: Next event of severity Major in 90.8817 minutes.
+[10:00:37] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (18,10,1)
+[10:01:01] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/auga1 at (18,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:01:21] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) deleted BDH field pack at (0,0,0)
+[10:01:34] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/gun/projectile/automatic/rifle/ssg58 at (17,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:02:14] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/storage/belt/suit/ammo/heer/sniper at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:02:17] ca5-b3Zl ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/storage/belt/suit/ammo/heer/sniper at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:02:47] ca5-b3Zl ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-b6BI) 15:45.19
+---------------------
+[05:00:00] ca5-b6BI ADMIN: Loading jobban_rank
+[05:00:00] ca5-b6BI ADMIN: jobban_keylist was empty
+[05:00:00] ca5-b6BI ADMIN: Loading Banlist
+[05:00:00] ca5-b6BI DEBUG: Rebuilding Master Controller
+[05:00:00] ca5-b6BI ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-b6BI DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca5-b6BI ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-b6BI ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-b6BI ADMIN: Among us crewmate has started the game.
+[05:00:00] ca5-b6BI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b6BI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b6BI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b6BI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b6BI ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca5-b6BI ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-b6BI GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca5-b6BI DEBUG: Next event of severity Mundane in 12.22 minutes.
+[05:00:00] ca5-b6BI DEBUG: Next event of severity Moderate in 50.238 minutes.
+[05:00:00] ca5-b6BI DEBUG: Next event of severity Major in 80.3483 minutes.
+[05:00:30] ca5-b6BI ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-b7Kt) 15:52.36
+---------------------
+[05:00:00] ca5-b7Kt ADMIN: Loading jobban_rank
+[05:00:00] ca5-b7Kt ADMIN: jobban_keylist was empty
+[05:00:00] ca5-b7Kt ADMIN: Loading Banlist
+[05:00:00] ca5-b7Kt DEBUG: Rebuilding Master Controller
+[05:00:00] ca5-b7Kt ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-b7Kt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca5-b7Kt ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-b7Kt ADMIN: Among us crewmate has started the game.
+[05:00:00] ca5-b7Kt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b7Kt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b7Kt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b7Kt DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-b7Kt ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca5-b7Kt ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-b7Kt GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca5-b7Kt DEBUG: Next event of severity Mundane in 14.162 minutes.
+[05:00:00] ca5-b7Kt DEBUG: Next event of severity Moderate in 39.266 minutes.
+[05:00:00] ca5-b7Kt DEBUG: Next event of severity Major in 99.4717 minutes.
+[05:00:05] ca5-b7Kt ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-b8hQ) 15:56.03
+---------------------
+[10:00:00] ca5-b8hQ ADMIN: Loading jobban_rank
+[10:00:00] ca5-b8hQ ADMIN: jobban_keylist was empty
+[10:00:00] ca5-b8hQ ADMIN: Loading Banlist
+[10:00:00] ca5-b8hQ DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-b8hQ ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b8hQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-b8hQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b8hQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b8hQ ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-b8hQ ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-b8hQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b8hQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b8hQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b8hQ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-b8hQ ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-b8hQ ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-b8hQ GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-b8hQ DEBUG: Next event of severity Mundane in 17.046 minutes.
+[10:00:00] ca5-b8hQ DEBUG: Next event of severity Moderate in 46.57 minutes.
+[10:00:00] ca5-b8hQ DEBUG: Next event of severity Major in 87.1517 minutes.
+[10:00:32] ca5-b8hQ ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/storage/firstaid/ifak/nato at (128,204,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=204;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:49] ca5-b8hQ ATTACK: Among us crewmate/(Jaye Edwards) used the morphine syrette to inject /datum/reagent/morphine (10) (5u transferred) into Among us crewmate/(Jaye Edwards) (INTENT: HELP) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=204;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:56] ca5-b8hQ ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-cc0L) 16:33.39
+---------------------
+[20:00:00] ca5-cc0L ADMIN: Loading jobban_rank
+[20:00:00] ca5-cc0L ADMIN: jobban_keylist was empty
+[20:00:00] ca5-cc0L ADMIN: Loading Banlist
+[20:00:00] ca5-cc0L DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-cc0L ACCESS: Login: Guest-3195767659/(Guest-3195767659) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-cc0L DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-cc0L ACCESS: Logout: Guest-3195767659/(Guest-3195767659)
+
+
+Starting up. (ID: ca5-cdCa) 16:36.35
+---------------------
+[10:00:00] ca5-cdCa ADMIN: Loading jobban_rank
+[10:00:00] ca5-cdCa ADMIN: jobban_keylist was empty
+[10:00:00] ca5-cdCa ADMIN: Loading Banlist
+[10:00:00] ca5-cdCa DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-cdCa ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-cdCa DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-cdCa ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-cdCa ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-cdCa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-cdCa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-cdCa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-cdCa DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-cdCa ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-cdCa ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-cdCa GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-cdCa DEBUG: Next event of severity Mundane in 17.416 minutes.
+[10:00:00] ca5-cdCa DEBUG: Next event of severity Moderate in 46.564 minutes.
+[10:00:00] ca5-cdCa DEBUG: Next event of severity Major in 81.615 minutes.
+[10:00:19] ca5-cdCa EMOTE: Jaye Edwards/Among us crewmate : <B>Jaye Edwards</B> yeah.
+[10:00:25] ca5-cdCa EMOTE: Jaye Edwards/Among us crewmate : <B>Jaye Edwards</B> screams in pain and falls on the ground!
+[10:00:29] ca5-cdCa EMOTE: Jaye Edwards/Among us crewmate : <B>Jaye Edwards</B> screams in pain and falls on the ground!
+[10:00:35] ca5-cdCa ADMIN: Among us crewmate/(Jaye Edwards) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Jaye Edwards)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=35;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:52] ca5-cdCa ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (36,36,1)
+[10:01:21] ca5-cdCa ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/pill_pack/fentanyl at (35,34,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=35;Y=34;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:32] ca5-cdCa ADMIN: Among us crewmate/(Jaye Edwards) deleted the steel door at (33,33,1)
+[10:01:37] ca5-cdCa ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/item/weapon/pill_pack/fentanyl at (31,33,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=31;Y=33;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:04:32] ca5-cdCa ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-chjI) 17:00.19
+---------------------
+[05:00:00] ca5-chjI ADMIN: Loading jobban_rank
+[05:00:00] ca5-chjI ADMIN: jobban_keylist was empty
+[05:00:00] ca5-chjI ADMIN: Loading Banlist
+[05:00:00] ca5-chjI DEBUG: Rebuilding Master Controller
+[05:00:00] ca5-chjI ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-chjI ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-chjI DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca5-chjI ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-chjI ADMIN: Among us crewmate has started the game.
+[05:00:00] ca5-chjI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-chjI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-chjI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-chjI DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca5-chjI ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca5-chjI ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-chjI GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca5-chjI DEBUG: Next event of severity Mundane in 13.046 minutes.
+[05:00:00] ca5-chjI DEBUG: Next event of severity Moderate in 37.364 minutes.
+[05:00:00] ca5-chjI DEBUG: Next event of severity Major in 99.9433 minutes.
+[05:00:29] ca5-chjI ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/structure/reagent_dispensers/watertank at (29,14,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=29;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:34] ca5-chjI ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-ci52) 17:11.36
+---------------------
+[10:00:00] ca5-ci52 ADMIN: Loading jobban_rank
+[10:00:00] ca5-ci52 ADMIN: jobban_keylist was empty
+[10:00:00] ca5-ci52 ADMIN: Loading Banlist
+[10:00:00] ca5-ci52 DEBUG: Rebuilding Master Controller
+[10:00:00] ca5-ci52 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-ci52 ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-ci52 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca5-ci52 ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca5-ci52 ADMIN: Among us crewmate has started the game.
+[10:00:00] ca5-ci52 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-ci52 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-ci52 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-ci52 DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca5-ci52 ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca5-ci52 ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[10:00:00] ca5-ci52 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca5-ci52 DEBUG: Next event of severity Mundane in 14.316 minutes.
+[10:00:00] ca5-ci52 DEBUG: Next event of severity Moderate in 53.636 minutes.
+[10:00:00] ca5-ci52 DEBUG: Next event of severity Major in 91.3067 minutes.
+[10:00:11] ca5-ci52 ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-cjtl) 17:14.07
+---------------------
+[05:00:00] ca5-cjtl ADMIN: Loading jobban_rank
+[05:00:00] ca5-cjtl ADMIN: jobban_keylist was empty
+[05:00:00] ca5-cjtl ADMIN: Loading Banlist
+[05:00:00] ca5-cjtl DEBUG: Rebuilding Master Controller
+[05:00:00] ca5-cjtl ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[05:00:00] ca5-cjtl ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-cjtl ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-cjtl ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca5-cjtl DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: ca5-cjKp) 17:15.52
+---------------------
+[20:00:00] ca5-cjKp ADMIN: Loading jobban_rank
+[20:00:00] ca5-cjKp ADMIN: jobban_keylist was empty
+[20:00:00] ca5-cjKp ADMIN: Loading Banlist
+[20:00:00] ca5-cjKp DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-cjKp ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-cjKp DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-cjKp ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-cjKp ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-cjKp DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-cjKp DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-cjKp DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-cjKp DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-cjKp ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-cjKp ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-cjKp GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-cjKp DEBUG: Next event of severity Mundane in 15.854 minutes.
+[20:00:00] ca5-cjKp DEBUG: Next event of severity Moderate in 46.702 minutes.
+[20:00:00] ca5-cjKp DEBUG: Next event of severity Major in 88.9217 minutes.
+[20:00:19] ca5-cjKp ADMIN: Among us crewmate/(Jaye Edwards) spawned /obj/structure/reagent_dispensers/watertank at (25,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[20:00:37] ca5-cjKp ACCESS: Logout: Among us crewmate/(Jaye Edwards)
+
+
+Starting up. (ID: ca5-ck1S) 17:23.59
+---------------------
+[20:00:00] ca5-ck1S ADMIN: Loading jobban_rank
+[20:00:00] ca5-ck1S ADMIN: jobban_keylist was empty
+[20:00:00] ca5-ck1S ADMIN: Loading Banlist
+[20:00:00] ca5-ck1S DEBUG: Rebuilding Master Controller
+[20:00:00] ca5-ck1S ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-ck1S DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca5-ck1S ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca5-ck1S ADMIN: Among us crewmate has started the game.
+[20:00:00] ca5-ck1S DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-ck1S DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-ck1S DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-ck1S DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca5-ck1S ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca5-ck1S ACCESS: Login: Among us crewmate/(Jaye Edwards) from localhost-3195767659 || BYOND v513
+[20:00:00] ca5-ck1S GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca5-ck1S DEBUG: Next event of severity Mundane in 12.534 minutes.
+[20:00:00] ca5-ck1S DEBUG: Next event of severity Moderate in 39.26 minutes.
+[20:00:00] ca5-ck1S DEBUG: Next event of severity Major in 92.8517 minutes.
+[20:00:16] ca5-ck1S ACCESS: Logout: Among us crewmate/(Jaye Edwards)

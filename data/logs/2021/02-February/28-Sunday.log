@@ -1,0 +1,1092 @@
+
+
+Starting up. (ID: caP-bgNL) 10:19.46
+---------------------
+[15:00:00] caP-bgNL ADMIN: Loading jobban_rank
+[15:00:00] caP-bgNL ADMIN: jobban_keylist was empty
+[15:00:00] caP-bgNL ADMIN: Loading Banlist
+[15:00:00] caP-bgNL DEBUG: Rebuilding Master Controller
+[15:00:00] caP-bgNL ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-bgNL DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: caP-bg2j) 10:21.10
+---------------------
+[15:00:00] caP-bg2j ADMIN: Loading jobban_rank
+[15:00:00] caP-bg2j ADMIN: jobban_keylist was empty
+[15:00:00] caP-bg2j ADMIN: Loading Banlist
+[15:00:00] caP-bg2j DEBUG: Rebuilding Master Controller
+[15:00:00] caP-bg2j ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-bg2j ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-bg2j ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-bg2j DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: caP-bhDr) 10:25.06
+---------------------
+[20:00:00] caP-bhDr ADMIN: Loading jobban_rank
+[20:00:00] caP-bhDr ADMIN: jobban_keylist was empty
+[20:00:00] caP-bhDr ADMIN: Loading Banlist
+[20:00:00] caP-bhDr DEBUG: Rebuilding Master Controller
+[20:00:00] caP-bhDr ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caP-bhDr DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caP-bhDr ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caP-bhDr ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] caP-bhDr ADMIN: SeverePwnage has started the game.
+[20:00:00] caP-bhDr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caP-bhDr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caP-bhDr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caP-bhDr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caP-bhDr ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:00] caP-bhDr GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caP-bhDr DEBUG: Next event of severity Mundane in 12.382 minutes.
+[20:00:00] caP-bhDr DEBUG: Next event of severity Moderate in 53.654 minutes.
+[20:00:00] caP-bhDr DEBUG: Next event of severity Major in 98.4883 minutes.
+[20:00:08] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:08] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:08] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:08] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:00:09] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:00:09] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:09] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:09] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:11] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:00:11] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:11] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:16] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:16] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:16] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:16] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:00:16] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:00:16] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:16] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:16] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[20:00:18] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:00:18] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:18] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[20:00:20] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:20] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:20] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:20] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:00:21] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:00:21] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:21] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:21] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[20:00:23] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:00:23] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:23] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[20:00:25] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:25] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:25] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:25] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:00:26] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:00:26] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:26] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:26] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[20:00:28] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:00:28] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:28] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=195;Y=4;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000a]'>MOB</a>)
+[20:00:30] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:30] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:30] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:30] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:00:30] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:00:30] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:30] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:30] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[20:00:32] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:00:32] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:32] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000c]'>MOB</a>)
+[20:00:59] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:00:59] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:59] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:00:59] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at USMC FOB. 
+[20:00:59] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer skulks in the realm of the dead. 
+[20:00:59] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:00:59] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:00:59] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[20:01:03] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:01:03] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:01:03] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000e]'>MOB</a>)
+[20:01:26] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) deleted the steel door at (236,32,1)
+[20:01:52] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:01:52] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:01:52] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:01:52] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at USMC FOB. 
+[20:01:53] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:01:53] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:01:53] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:01:53] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[20:01:56] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:01:56] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:01:56] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=224;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000010]'>MOB</a>)
+[20:01:57] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:01:57] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:01:57] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:01:57] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now creeps among the dead at USMC FOB. 
+[20:02:00] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:02:00] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:00] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:00] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[20:02:05] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:05] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:05] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Squad Radio Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000012]'>MOB</a>)
+[20:02:07] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:07] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:07] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:07] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:02:08] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:02:08] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:08] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:08] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000016]'>MOB</a>)
+[20:02:11] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:11] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:11] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000014]'>MOB</a>)
+[20:02:12] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:12] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:12] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:12] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:02:13] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:02:13] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:13] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:13] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000018]'>MOB</a>)
+[20:02:17] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:17] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:17] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000016]'>MOB</a>)
+[20:02:18] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:18] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:18] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:18] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at USMC FOB. 
+[20:02:19] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:02:19] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:19] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:19] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001a]'>MOB</a>)
+[20:02:23] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:23] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:23] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000018]'>MOB</a>)
+[20:02:29] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:29] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:29] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:29] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at the area. 
+[20:02:30] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:02:30] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:30] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:30] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001c]'>MOB</a>)
+[20:02:33] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:33] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:33] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=229;Y=5;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001a]'>MOB</a>)
+[20:02:35] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:35] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:35] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:35] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at USMC FOB. 
+[20:02:35] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer skulks in the realm of the dead. 
+[20:02:35] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:35] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:35] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001e]'>MOB</a>)
+[20:02:38] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:38] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:38] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=224;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001c]'>MOB</a>)
+[20:02:40] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:40] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:40] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:40] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at USMC FOB. 
+[20:02:40] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:02:40] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:40] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:40] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000020]'>MOB</a>)
+[20:02:45] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:45] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:45] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001e]'>MOB</a>)
+[20:02:46] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:46] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:46] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:46] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now stalks among the dead at the area. 
+[20:02:47] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:02:47] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:47] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:47] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000022]'>MOB</a>)
+[20:02:51] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:51] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:51] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000020]'>MOB</a>)
+[20:02:53] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:02:53] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:53] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:53] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at the area. 
+[20:02:53] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:02:53] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:02:53] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:02:53] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000024]'>MOB</a>)
+[20:02:59] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:02:59] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:02:59] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=68;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000022]'>MOB</a>)
+[20:03:00] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:00] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:00] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:00] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now stalks among the dead at WARPACT FOB. 
+[20:03:01] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:03:01] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:01] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:01] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000026]'>MOB</a>)
+[20:03:03] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:03] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:03] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=66;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000024]'>MOB</a>)
+[20:03:04] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:04] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:04] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:04] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at WARPACT FOB. 
+[20:03:04] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:03:04] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:04] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:04] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000028]'>MOB</a>)
+[20:03:06] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:06] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:06] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Zug Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000026]'>MOB</a>)
+[20:03:07] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:07] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:07] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:07] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at WARPACT FOB. 
+[20:03:08] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:03:08] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:08] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:08] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002a]'>MOB</a>)
+[20:03:10] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:10] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:10] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Zug Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=45;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000028]'>MOB</a>)
+[20:03:11] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:11] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:11] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:11] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at WARPACT FOB. 
+[20:03:11] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:03:11] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:11] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:11] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002c]'>MOB</a>)
+[20:03:14] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:14] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:14] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=67;Y=277;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002a]'>MOB</a>)
+[20:03:15] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:15] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:15] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:15] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at WARPACT FOB. 
+[20:03:15] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:03:15] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:15] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:15] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[20:03:18] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:18] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:18] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=93;Y=249;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002c]'>MOB</a>)
+[20:03:20] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:03:20] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:20] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:20] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now creeps among the dead at WARPACT FOB. 
+[20:03:21] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:03:21] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:03:21] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:03:21] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000030]'>MOB</a>)
+[20:03:29] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:03:29] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:03:29] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=89;Y=245;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[20:04:18] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:04:18] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:04:18] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:04:18] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at the area. 
+[20:04:19] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:04:19] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:04:19] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:04:19] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000032]'>MOB</a>)
+[20:04:23] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:04:23] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:04:23] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000030]'>MOB</a>)
+[20:05:00] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) deleted the steel door at (64,259,1)
+[20:05:05] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) deleted the steel door at (66,254,1)
+[20:05:24] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:05:24] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:24] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:24] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at the area. 
+[20:05:29] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:05:29] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:29] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:05:29] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[20:05:33] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:05:33] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:33] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=50;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000032]'>MOB</a>)
+[20:05:34] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:05:34] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:34] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:34] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now stalks among the dead at WARPACT FOB. 
+[20:05:35] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:05:35] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:35] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:05:35] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[20:05:39] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:05:39] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:39] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=51;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[20:05:40] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:05:40] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:40] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:40] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at WARPACT FOB. 
+[20:05:41] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:05:41] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:41] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:05:41] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000038]'>MOB</a>)
+[20:05:43] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:05:43] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:43] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Funke. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=50;Y=260;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[20:05:44] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:05:44] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:44] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:44] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at WARPACT FOB. 
+[20:05:45] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer creeps in the realm of the dead. 
+[20:05:45] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:45] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:05:45] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003a]'>MOB</a>)
+[20:05:51] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:05:51] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:51] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Panzerabwehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=259;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000038]'>MOB</a>)
+[20:05:53] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:05:53] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:53] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:53] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now prowls among the dead at WARPACT FOB. 
+[20:05:53] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer lurks in the realm of the dead. 
+[20:05:53] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:05:53] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:05:53] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003c]'>MOB</a>)
+[20:05:56] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:05:56] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:05:56] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Panzerabwerschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003a]'>MOB</a>)
+[20:06:03] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:03] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:03] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:03] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now stalks among the dead at the area. 
+[20:06:03] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:06:03] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:03] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:03] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003e]'>MOB</a>)
+[20:06:06] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:06] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:06] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=45;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003c]'>MOB</a>)
+[20:06:08] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:08] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:08] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:08] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now stalks among the dead at WARPACT FOB. 
+[20:06:08] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer stalks in the realm of the dead. 
+[20:06:08] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:08] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:08] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000040]'>MOB</a>)
+[20:06:12] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:12] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:12] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=50;Y=261;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003e]'>MOB</a>)
+[20:06:13] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:13] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:13] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:13] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now creeps among the dead at WARPACT FOB. 
+[20:06:13] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:06:13] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:13] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:13] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000042]'>MOB</a>)
+[20:06:20] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:20] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:20] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=48;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000040]'>MOB</a>)
+[20:06:22] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:22] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:22] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:22] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at WARPACT FOB. 
+[20:06:22] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer stalks in the realm of the dead. 
+[20:06:22] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:22] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:22] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000044]'>MOB</a>)
+[20:06:29] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:29] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:29] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=48;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000042]'>MOB</a>)
+[20:06:31] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:31] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:31] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:31] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at WARPACT FOB. 
+[20:06:31] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer stalks in the realm of the dead. 
+[20:06:31] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:31] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:31] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000046]'>MOB</a>)
+[20:06:35] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:35] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:35] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=46;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000044]'>MOB</a>)
+[20:06:37] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:37] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:37] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:37] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now skulks among the dead at WARPACT FOB. 
+[20:06:37] caP-bhDr SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Tamsin Foster) : <span class='name'>Tamsin Foster</span> no longer prowls in the realm of the dead. 
+[20:06:37] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:37] caP-bhDr ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[20:06:37] caP-bhDr ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000048]'>MOB</a>)
+[20:06:41] caP-bhDr ACCESS: Logout: *no key*/(new player)
+[20:06:41] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:41] caP-bhDr ADMIN: SeverePwnage/(Tamsin Foster) has joined the round as NVA Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=47;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000046]'>MOB</a>)
+[20:06:43] caP-bhDr GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Tamsin Foster) has ghosted.
+[20:06:43] caP-bhDr ACCESS: Logout: *no key*/(Tamsin Foster)
+[20:06:43] caP-bhDr ACCESS: Login: SeverePwnage/(Tamsin Foster) from localhost-3031256942 || BYOND v513
+[20:06:43] caP-bhDr SAY: (DSAY) SeverePwnage - usr: *no key*/(Tamsin Foster) : The ghost of <span class='name'>Tamsin Foster</span> now lurks among the dead at WARPACT FOB. 
+[20:09:19] caP-bhDr ACCESS: Logout: SeverePwnage/(Tamsin Foster)
+
+
+Starting up. (ID: caP-bD2r) 12:48.33
+---------------------
+[15:00:00] caP-bD2r ADMIN: Loading jobban_rank
+[15:00:00] caP-bD2r ADMIN: jobban_keylist was empty
+[15:00:00] caP-bD2r ADMIN: Loading Banlist
+[15:00:00] caP-bD2r DEBUG: Rebuilding Master Controller
+[15:00:00] caP-bD2r ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-bD2r ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-bD2r DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caP-bD2r ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caP-bD2r ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] caP-bD2r ADMIN: SeverePwnage has started the game.
+[15:00:00] caP-bD2r DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-bD2r DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-bD2r DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-bD2r DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caP-bD2r ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:00] caP-bD2r GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caP-bD2r DEBUG: Next event of severity Mundane in 14.348 minutes.
+[15:00:00] caP-bD2r DEBUG: Next event of severity Moderate in 43.326 minutes.
+[15:00:00] caP-bD2r DEBUG: Next event of severity Major in 81.6083 minutes.
+[15:00:02] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:02] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:02] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:02] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at USMC FOB. 
+[15:00:02] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:00:02] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:02] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:02] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:06] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:06] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:06] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:07] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:07] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:07] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:07] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:00:08] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:00:08] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:08] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:08] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:12] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:12] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:12] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:24] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:24] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:24] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:24] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at the area. 
+[15:00:25] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:00:25] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:25] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:25] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:27] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:27] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:27] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:30] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:30] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:30] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:30] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now prowls among the dead at USMC FOB. 
+[15:00:31] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:00:31] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:31] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:31] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:34] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:34] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:34] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:36] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:36] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:36] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:36] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at USMC FOB. 
+[15:00:37] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:00:37] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:37] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:37] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:00:40] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:40] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:40] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW Panzerfaustschutze Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:41] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:41] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:41] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:41] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:00:42] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:00:42] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:42] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:42] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:00:48] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:48] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:48] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:00:53] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:53] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:53] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:53] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at the area. 
+[15:00:54] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:00:54] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:54] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:54] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:00:58] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:00:58] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:58] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as NVA Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:00:59] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:00:59] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:00:59] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:00:59] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:01:00] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:01:00] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:00] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:00] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:03] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:03] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:03] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as NVA Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:01:04] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:01:04] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:04] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:04] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now prowls among the dead at WARPACT FOB. 
+[15:01:05] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:01:05] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:05] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:05] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:01:08] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:08] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:08] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as NVA Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=16;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:09] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:01:09] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:09] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:09] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now prowls among the dead at WARPACT FOB. 
+[15:01:10] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:01:10] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:10] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:10] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:01:16] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:16] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:16] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Komandir Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:01:17] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:01:17] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:17] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:17] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:01:18] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:01:18] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:18] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:18] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:01:35] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:35] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:35] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Zamestitel Komandira Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:01:45] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:01:45] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:45] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:45] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at WARPACT FOB. 
+[15:01:46] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:01:46] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:46] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:46] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:01:52] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:52] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:52] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Vzvodny Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:01:54] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:01:54] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:54] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:54] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:01:55] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:01:55] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:01:55] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:55] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:01:59] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:01:59] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:01:59] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Pomoshnik Vzvodnogo Pulemetchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:02:05] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:05] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:05] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:05] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at the area. 
+[15:02:05] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:02:05] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:05] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:05] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:02:09] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:09] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:09] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Shtabnoi Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=277;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:02:10] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:10] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:10] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:10] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at WARPACT FOB. 
+[15:02:11] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:02:11] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:11] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:11] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:02:16] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:16] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:16] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Polevoi Medik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=249;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:02:19] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:19] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:19] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:19] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at WARPACT FOB. 
+[15:02:19] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:02:19] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:19] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:19] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:02:23] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:23] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:23] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Polevoi Vrach. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:02:24] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:24] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:24] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:24] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:02:25] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:02:25] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:25] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:25] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:02:28] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:28] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:28] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Snaiper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:02:30] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:30] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:30] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:30] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at WARPACT FOB. 
+[15:02:31] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:02:31] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:31] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:31] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:02:36] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:36] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:36] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Komandir Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:02:47] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:47] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:47] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:47] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at WARPACT FOB. 
+[15:02:48] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:02:48] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:48] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:48] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:02:52] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:52] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:52] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Zamestitel Komandira Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=280;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:02:53] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:02:53] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:53] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:53] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at WARPACT FOB. 
+[15:02:54] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:02:54] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:02:54] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:54] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:02:58] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:02:58] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:02:58] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=285;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:03:00] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:00] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:00] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:00] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:03:01] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:03:01] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:01] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:01] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:03:05] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:05] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:05] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Strelok-Granatometchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=82;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:03:07] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:07] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:07] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:07] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at WARPACT FOB. 
+[15:03:08] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:03:08] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:08] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:08] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:03:13] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:13] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:13] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Pomoshnik Granatometchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=285;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:03:15] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:15] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:15] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:15] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now prowls among the dead at WARPACT FOB. 
+[15:03:16] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:03:16] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:16] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:16] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:03:24] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:24] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:24] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:03:25] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:25] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:25] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:25] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at WARPACT FOB. 
+[15:03:26] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:03:26] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:26] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:26] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:03:29] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:29] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:29] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA OTV Komandir. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=82;Y=283;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:03:31] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:31] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:31] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:31] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at WARPACT FOB. 
+[15:03:31] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer stalks in the realm of the dead. 
+[15:03:31] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:31] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:31] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:03:37] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:37] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:37] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA OTV Zaryazhaiuschiy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=82;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:03:39] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:03:39] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:39] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:39] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now prowls among the dead at WARPACT FOB. 
+[15:03:39] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:03:39] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:03:39] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:39] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:03:45] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:03:45] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:03:45] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as SA OTV Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=82;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:04:59] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:04:59] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:04:59] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:04:59] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at the area. 
+[15:05:48] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : ghost
+[15:05:53] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:05:53] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:05:53] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:53] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:05:55] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:05:55] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:05:55] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=194;Y=40;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:05:57] caP-bD2r OOC: SeverePwnage - usr: SeverePwnage/(Manuel Hall) : ghost
+[15:06:04] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:04] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:04] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:04] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at USMC FOB. 
+[15:06:04] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:06:04] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:04] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:04] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:06:08] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:06:08] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:08] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Platoon Leader Deputy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=192;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:06:10] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:10] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:10] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:10] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:06:10] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:06:10] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:10] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:10] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:06:14] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:06:14] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:14] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Radiotelephone Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=193;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:06:15] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:15] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:15] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:15] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:06:16] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:06:16] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:16] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:16] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:06:18] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:06:18] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:18] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Field Medic. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:06:23] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:23] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:23] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:23] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:06:25] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:06:25] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:25] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:25] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:06:28] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:06:28] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:28] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Field Surgeon. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=193;Y=4;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:06:39] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:39] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:39] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:39] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:06:40] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:06:40] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:40] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:40] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:06:44] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:06:44] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:44] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=222;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:06:46] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:06:46] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:46] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:06:46] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:06:47] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:06:47] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:06:47] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:47] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:07:05] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:05] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:05] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Squad Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=222;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:07:08] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:08] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:08] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:08] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:07:09] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:07:09] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:09] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:09] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:07:19] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:19] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:19] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=220;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:07:21] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:21] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:21] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:21] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at USMC FOB. 
+[15:07:22] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:07:22] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:22] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:22] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:07:25] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:25] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:25] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Fireteam Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=218;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:07:26] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:26] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:26] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:26] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:07:27] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer creeps in the realm of the dead. 
+[15:07:27] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:27] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:27] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:07:29] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:29] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:29] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Fireteam Machinegunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=220;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:07:31] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:31] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:31] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:31] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at USMC FOB. 
+[15:07:32] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:07:32] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:32] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:32] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:07:35] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:35] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:35] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=218;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:07:37] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:37] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:37] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:37] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at USMC FOB. 
+[15:07:38] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:07:38] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:38] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:38] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:07:47] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:47] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:47] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=218;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:07:49] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:49] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:49] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:49] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now stalks among the dead at USMC FOB. 
+[15:07:50] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer skulks in the realm of the dead. 
+[15:07:50] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:50] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:50] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:07:54] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:07:54] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:54] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=220;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:07:55] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:07:55] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:55] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:07:55] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at USMC FOB. 
+[15:07:56] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:07:56] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:07:56] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:56] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:08:00] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:08:00] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:00] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=219;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:08:01] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:08:01] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:01] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:01] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:08:02] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:08:02] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:02] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:02] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[15:08:05] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:08:05] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:05] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA AT Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=219;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:08:06] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:08:06] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:06] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:06] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now creeps among the dead at USMC FOB. 
+[15:08:07] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer lurks in the realm of the dead. 
+[15:08:07] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:07] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:07] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[15:08:10] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:08:10] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:10] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA AT Gunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=219;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[15:08:12] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:08:12] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:12] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:12] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now lurks among the dead at USMC FOB. 
+[15:08:13] caP-bD2r SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Hall) : <span class='name'>Manuel Hall</span> no longer prowls in the realm of the dead. 
+[15:08:13] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:13] caP-bD2r ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:13] caP-bD2r ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[15:08:16] caP-bD2r ACCESS: Logout: *no key*/(new player)
+[15:08:16] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:16] caP-bD2r ADMIN: SeverePwnage/(Manuel Hall) has joined the round as USA AT Asistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=219;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[15:08:42] caP-bD2r GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Hall) has ghosted.
+[15:08:42] caP-bD2r ACCESS: Logout: *no key*/(Manuel Hall)
+[15:08:42] caP-bD2r ACCESS: Login: SeverePwnage/(Manuel Hall) from localhost-3031256942 || BYOND v513
+[15:08:42] caP-bD2r SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Hall) : The ghost of <span class='name'>Manuel Hall</span> now skulks among the dead at the area. 
+[15:10:00] caP-bD2r GAME: SQL ERROR during population polling. Failed to connect.
+[15:11:46] caP-bD2r ACCESS: Logout: SeverePwnage/(Manuel Hall)
+
+
+Starting up. (ID: caP-bKl4) 13:29.07
+---------------------
+[10:00:00] caP-bKl4 ADMIN: Loading jobban_rank
+[10:00:00] caP-bKl4 ADMIN: jobban_keylist was empty
+[10:00:00] caP-bKl4 ADMIN: Loading Banlist
+[10:00:00] caP-bKl4 DEBUG: Rebuilding Master Controller
+[10:00:00] caP-bKl4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caP-bKl4 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caP-bKl4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+
+
+Starting up. (ID: caP-bKCY) 13:30.51
+---------------------
+[10:00:00] caP-bKCY ADMIN: Loading jobban_rank
+[10:00:00] caP-bKCY ADMIN: jobban_keylist was empty
+[10:00:00] caP-bKCY ADMIN: Loading Banlist
+[10:00:00] caP-bKCY DEBUG: Rebuilding Master Controller
+[10:00:00] caP-bKCY ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caP-bKCY DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caP-bKCY ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caP-bKCY ADMIN: SeverePwnage has started the game.
+[10:00:00] caP-bKCY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-bKCY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-bKCY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-bKCY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-bKCY ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:00] caP-bKCY GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caP-bKCY DEBUG: Next event of severity Mundane in 13.526 minutes.
+[10:00:00] caP-bKCY DEBUG: Next event of severity Moderate in 36.938 minutes.
+[10:00:00] caP-bKCY DEBUG: Next event of severity Major in 92.005 minutes.
+[10:00:02] caP-bKCY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Vinny Ackerley) has ghosted.
+[10:00:02] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:02] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:02] caP-bKCY SAY: (DSAY) SeverePwnage - usr: *no key*/(Vinny Ackerley) : The ghost of <span class='name'>Vinny Ackerley</span> now skulks among the dead at USMC FOB. 
+[10:00:09] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:10] caP-bKCY SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Vinny Ackerley) : <span class='name'>Vinny Ackerley</span> no longer creeps in the realm of the dead. 
+[10:00:10] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:10] caP-bKCY ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:10] caP-bKCY ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:15] caP-bKCY ACCESS: Logout: *no key*/(new player)
+[10:00:15] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:15] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[10:00:17] caP-bKCY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Vinny Ackerley) has ghosted.
+[10:00:17] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:17] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:17] caP-bKCY SAY: (DSAY) SeverePwnage - usr: *no key*/(Vinny Ackerley) : The ghost of <span class='name'>Vinny Ackerley</span> now skulks among the dead at USMC FOB. 
+[10:00:17] caP-bKCY SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Vinny Ackerley) : <span class='name'>Vinny Ackerley</span> no longer skulks in the realm of the dead. 
+[10:00:17] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:17] caP-bKCY ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:17] caP-bKCY ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:22] caP-bKCY ACCESS: Logout: *no key*/(new player)
+[10:00:22] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:22] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) has joined the round as SA Zamestitel Komandira Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=45;Y=256;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[10:00:24] caP-bKCY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Vinny Ackerley) has ghosted.
+[10:00:24] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:24] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:24] caP-bKCY SAY: (DSAY) SeverePwnage - usr: *no key*/(Vinny Ackerley) : The ghost of <span class='name'>Vinny Ackerley</span> now skulks among the dead at WARPACT FOB. 
+[10:00:25] caP-bKCY SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Vinny Ackerley) : <span class='name'>Vinny Ackerley</span> no longer creeps in the realm of the dead. 
+[10:00:25] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:25] caP-bKCY ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:25] caP-bKCY ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:31] caP-bKCY ACCESS: Logout: *no key*/(new player)
+[10:00:31] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:31] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) has joined the round as SA Pomoshnik Vzvodnogo Pulemetchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[10:00:33] caP-bKCY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Vinny Ackerley) has ghosted.
+[10:00:33] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:33] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:33] caP-bKCY SAY: (DSAY) SeverePwnage - usr: *no key*/(Vinny Ackerley) : The ghost of <span class='name'>Vinny Ackerley</span> now lurks among the dead at WARPACT FOB. 
+[10:00:34] caP-bKCY SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Vinny Ackerley) : <span class='name'>Vinny Ackerley</span> no longer creeps in the realm of the dead. 
+[10:00:34] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:34] caP-bKCY ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:34] caP-bKCY ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:00:40] caP-bKCY ACCESS: Logout: *no key*/(new player)
+[10:00:40] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:40] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) has joined the round as SA Komandir Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=76;Y=284;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[10:00:42] caP-bKCY GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Vinny Ackerley) has ghosted.
+[10:00:42] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:42] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:42] caP-bKCY SAY: (DSAY) SeverePwnage - usr: *no key*/(Vinny Ackerley) : The ghost of <span class='name'>Vinny Ackerley</span> now stalks among the dead at WARPACT FOB. 
+[10:00:42] caP-bKCY SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Vinny Ackerley) : <span class='name'>Vinny Ackerley</span> no longer stalks in the realm of the dead. 
+[10:00:42] caP-bKCY ACCESS: Logout: *no key*/(Vinny Ackerley)
+[10:00:42] caP-bKCY ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[10:00:42] caP-bKCY ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[10:00:47] caP-bKCY ACCESS: Logout: *no key*/(new player)
+[10:00:47] caP-bKCY ACCESS: Login: SeverePwnage/(Vinny Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:47] caP-bKCY ADMIN: SeverePwnage/(Vinny Ackerley) has joined the round as SA Zamestitel Komandira Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[10:01:12] caP-bKCY ACCESS: Logout: SeverePwnage/(Vinny Ackerley)
+
+
+Starting up. (ID: caP-bMus) 13:42.47
+---------------------
+[05:00:00] caP-bMus ADMIN: Loading jobban_rank
+[05:00:00] caP-bMus ADMIN: jobban_keylist was empty
+[05:00:00] caP-bMus ADMIN: Loading Banlist
+[05:00:00] caP-bMus DEBUG: Rebuilding Master Controller
+[05:00:00] caP-bMus ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-bMus DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caP-bMus ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caP-bMus ADMIN: SeverePwnage has started the game.
+[05:00:00] caP-bMus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-bMus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-bMus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-bMus DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caP-bMus ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caP-bMus ACCESS: Login: SeverePwnage/(Chad Stone) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-bMus GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caP-bMus DEBUG: Next event of severity Mundane in 15.316 minutes.
+[05:00:00] caP-bMus DEBUG: Next event of severity Moderate in 50.228 minutes.
+[05:00:00] caP-bMus DEBUG: Next event of severity Major in 93.9517 minutes.
+[05:00:35] caP-bMus ACCESS: Logout: SeverePwnage/(Chad Stone)
+
+
+Starting up. (ID: caP-b2rV) 15:18.38
+---------------------
+[05:00:00] caP-b2rV ADMIN: Loading jobban_rank
+[05:00:00] caP-b2rV ADMIN: jobban_keylist was empty
+[05:00:00] caP-b2rV ADMIN: Loading Banlist
+[05:00:00] caP-b2rV DEBUG: Rebuilding Master Controller
+[05:00:00] caP-b2rV ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-b2rV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caP-b2rV ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caP-b2OM) 15:20.59
+---------------------
+[10:00:00] caP-b2OM ADMIN: Loading jobban_rank
+[10:00:00] caP-b2OM ADMIN: jobban_keylist was empty
+[10:00:00] caP-b2OM ADMIN: Loading Banlist
+[10:00:00] caP-b2OM DEBUG: Rebuilding Master Controller
+[10:00:00] caP-b2OM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caP-b2OM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caP-b2OM ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caP-b2OM ADMIN: SeverePwnage has started the game.
+[10:00:00] caP-b2OM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-b2OM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-b2OM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-b2OM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caP-b2OM ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caP-b2OM ACCESS: Login: SeverePwnage/(Drake Logue) from localhost-3031256942 || BYOND v513
+[10:00:00] caP-b2OM GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caP-b2OM DEBUG: Next event of severity Mundane in 13.432 minutes.
+[10:00:00] caP-b2OM DEBUG: Next event of severity Moderate in 47.21 minutes.
+[10:00:00] caP-b2OM DEBUG: Next event of severity Major in 81.0317 minutes.
+[10:00:48] caP-b2OM ADMIN: SeverePwnage/(Drake Logue) spawned /mob/living/carbon/human at (36,274,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=36;Y=274;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:03] caP-b2OM ADMIN: SeverePwnage/(Drake Logue) spawned /obj/item/ammo_magazine/c762x39m at (34,273,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=273;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:18] caP-b2OM ADMIN: SeverePwnage/(Drake Logue) spawned /obj/item/ammo_magazine/c545x39m at (34,273,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=273;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:30] caP-b2OM ACCESS: Logout: SeverePwnage/(Drake Logue)
+
+
+Starting up. (ID: caP-b6F0) 15:45.44
+---------------------
+[05:00:00] caP-b6F0 ADMIN: Loading jobban_rank
+[05:00:00] caP-b6F0 ADMIN: jobban_keylist was empty
+[05:00:00] caP-b6F0 ADMIN: Loading Banlist
+[05:00:00] caP-b6F0 DEBUG: Rebuilding Master Controller
+[05:00:00] caP-b6F0 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caP-b6F0 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.

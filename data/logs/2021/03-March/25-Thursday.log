@@ -1,0 +1,56 @@
+
+
+Starting up. (ID: cbe-b0Yb) 16:13.14
+---------------------
+[20:00:00] cbe-b0Yb ADMIN: Loading ckey_whitelist
+[20:00:00] cbe-b0Yb ADMIN: ckey_whitelist: 370 entrie(s).
+[20:00:00] cbe-b0Yb ADMIN: Loading jobban_rank
+[20:00:00] cbe-b0Yb ADMIN: jobban_keylist was empty
+[20:00:00] cbe-b0Yb ADMIN: Loading Banlist
+[20:00:00] cbe-b0Yb DEBUG: Rebuilding Master Controller
+[20:00:00] cbe-b0Yb ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbe-b0Yb ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbe-cajt) 16:15.25
+---------------------
+[20:00:00] cbe-cajt ADMIN: Loading ckey_whitelist
+[20:00:00] cbe-cajt ADMIN: ckey_whitelist: 370 entrie(s).
+[20:00:00] cbe-cajt ADMIN: Loading jobban_rank
+[20:00:00] cbe-cajt ADMIN: jobban_keylist was empty
+[20:00:00] cbe-cajt ADMIN: Loading Banlist
+[20:00:00] cbe-cajt DEBUG: Rebuilding Master Controller
+[20:00:00] cbe-cajt ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbe-cajt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbe-cajt ADMIN: Loading ckey_whitelist
+[20:00:00] cbe-cajt ADMIN: ckey_whitelist: 370 entrie(s).
+[20:00:00] cbe-cajt ADMIN: SeverePwnage/(SeverePwnage) SeverePwnage/(SeverePwnage) has reloaded the ckey whitelist. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] cbe-cajt ADMIN: SeverePwnage/(SeverePwnage) disabled the ckey whitelist.
+[20:00:00] cbe-cajt ADMIN: Loading ckey_whitelist
+[20:00:00] cbe-cajt ADMIN: ckey_whitelist: 370 entrie(s).
+[20:00:00] cbe-cajt ADMIN: SeverePwnage/(SeverePwnage) enabled the ckey whitelist.
+[20:00:00] cbe-cajt ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbe-cfWG) 16:51.30
+---------------------
+[10:00:00] cbe-cfWG ADMIN: Loading ckey_whitelist
+[10:00:00] cbe-cfWG ADMIN: ckey_whitelist: 388 entrie(s).
+[10:00:00] cbe-cfWG ADMIN: Loading jobban_rank
+[10:00:00] cbe-cfWG ADMIN: jobban_keylist was empty
+[10:00:00] cbe-cfWG ADMIN: Loading Banlist
+[10:00:00] cbe-cfWG DEBUG: Rebuilding Master Controller
+[10:00:00] cbe-cfWG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbe-cfWG ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbe-chg9) 17:00.02
+---------------------
+[15:00:00] cbe-chg9 ADMIN: Loading ckey_whitelist
+[15:00:00] cbe-chg9 ADMIN: ckey_whitelist: 248 entrie(s).
+[15:00:00] cbe-chg9 ADMIN: Loading jobban_rank
+[15:00:00] cbe-chg9 ADMIN: jobban_keylist was empty
+[15:00:00] cbe-chg9 ADMIN: Loading Banlist
+[15:00:00] cbe-chg9 DEBUG: Rebuilding Master Controller
+[15:00:00] cbe-chg9 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbe-chg9 ACCESS: Logout: SeverePwnage/(SeverePwnage)

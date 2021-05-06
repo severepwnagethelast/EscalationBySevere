@@ -1,0 +1,122 @@
+
+
+Starting up. (ID: ca3-bkC2) 10:44.18
+---------------------
+[20:00:00] ca3-bkC2 ADMIN: Loading jobban_rank
+[20:00:00] ca3-bkC2 ADMIN: jobban_keylist was empty
+[20:00:00] ca3-bkC2 ADMIN: Loading Banlist
+[20:00:00] ca3-bkC2 DEBUG: Rebuilding Master Controller
+[20:00:00] ca3-bkC2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] ca3-bkC2 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca3-bkC2 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca3-bkC2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca3-bkC2 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] ca3-bkC2 ADMIN: SeverePwnage has started the game.
+[20:00:00] ca3-bkC2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca3-bkC2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca3-bkC2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca3-bkC2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] ca3-bkC2 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] ca3-bkC2 ACCESS: Login: SeverePwnage/(Zack Warren) from localhost-3031256942 || BYOND v513
+[20:00:00] ca3-bkC2 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca3-bkC2 DEBUG: Next event of severity Mundane in 16.124 minutes.
+[20:00:00] ca3-bkC2 DEBUG: Next event of severity Moderate in 48.418 minutes.
+[20:00:00] ca3-bkC2 DEBUG: Next event of severity Major in 90.295 minutes.
+[20:00:09] ca3-bkC2 ADMIN: SeverePwnage/(Zack Warren) deleted the steel door at (18,10,1)
+[20:00:16] ca3-bkC2 ADMIN: SeverePwnage/(Zack Warren) deleted the steel door at (21,10,1)
+[20:00:19] ca3-bkC2 ADMIN: SeverePwnage/(Zack Warren) spawned /obj/item/weapon/gun/projectile/automatic/mg3/mg74 at (21,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:33] ca3-bkC2 ACCESS: Logout: SeverePwnage/(Zack Warren)
+
+
+Starting up. (ID: ca3-blUv) 10:52.32
+---------------------
+[10:00:00] ca3-blUv ADMIN: Loading jobban_rank
+[10:00:00] ca3-blUv ADMIN: jobban_keylist was empty
+[10:00:00] ca3-blUv ADMIN: Loading Banlist
+[10:00:00] ca3-blUv DEBUG: Rebuilding Master Controller
+[10:00:00] ca3-blUv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca3-blUv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca3-blUv ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] ca3-blUv ADMIN: SeverePwnage has started the game.
+[10:00:00] ca3-blUv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca3-blUv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca3-blUv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca3-blUv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca3-blUv ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] ca3-blUv ACCESS: Login: SeverePwnage/(Lawrence Cypret) from localhost-3031256942 || BYOND v513
+[10:00:00] ca3-blUv GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca3-blUv DEBUG: Next event of severity Mundane in 15.028 minutes.
+[10:00:00] ca3-blUv DEBUG: Next event of severity Moderate in 43.556 minutes.
+[10:00:00] ca3-blUv DEBUG: Next event of severity Major in 95.025 minutes.
+[10:00:10] ca3-blUv ADMIN: SeverePwnage/(Lawrence Cypret) deleted the steel door at (32,259,1)
+[10:00:24] ca3-blUv ADMIN: SeverePwnage/(Lawrence Cypret) deleted the steel door at (38,254,1)
+[10:00:34] ca3-blUv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Lawrence Cypret) used a grenade (40x103mm 'VOG-25' grenade shell).
+[10:00:42] ca3-blUv GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Lawrence Cypret) used a grenade (40x103mm 'VOG-25' grenade shell).
+[10:01:05] ca3-blUv GAME: Explosion with size (1, 3, 5) in area WARPACT FOB 
+[10:01:06] ca3-blUv ACCESS: Logout: SeverePwnage/(Lawrence Cypret)
+
+
+Starting up. (ID: ca3-brbj) 11:26.17
+---------------------
+[05:00:00] ca3-brbj ADMIN: Loading jobban_rank
+[05:00:00] ca3-brbj ADMIN: jobban_keylist was empty
+[05:00:00] ca3-brbj ADMIN: Loading Banlist
+[05:00:00] ca3-brbj DEBUG: Rebuilding Master Controller
+[05:00:00] ca3-brbj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] ca3-brbj ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca3-brbj ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca3-brbj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca3-brbj ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca3-brbj ADMIN: SeverePwnage has started the game.
+[05:00:00] ca3-brbj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca3-brbj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca3-brbj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca3-brbj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca3-brbj ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] ca3-brbj ACCESS: Login: SeverePwnage/(Tristan Poley) from localhost-3031256942 || BYOND v513
+[05:00:00] ca3-brbj GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca3-brbj DEBUG: Next event of severity Mundane in 12.54 minutes.
+[05:00:00] ca3-brbj DEBUG: Next event of severity Moderate in 53.578 minutes.
+[05:00:00] ca3-brbj DEBUG: Next event of severity Major in 99.3517 minutes.
+[05:00:13] ca3-brbj ADMIN: SeverePwnage/(Tristan Poley) spawned /obj/item/weapon/gun/projectile/automatic/mg3/mg74 at (226,7,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:39] ca3-brbj ADMIN: SeverePwnage/(Tristan Poley) spawned /obj/item/weapon/storage/belt/suit/ammo/csla/vz59 at (232,30,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=232;Y=30;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:44] ca3-brbj ACCESS: Logout: SeverePwnage/(Tristan Poley)
+
+
+Starting up. (ID: ca3-brZK) 11:31.29
+---------------------
+[15:00:00] ca3-brZK ADMIN: Loading jobban_rank
+[15:00:00] ca3-brZK ADMIN: jobban_keylist was empty
+[15:00:00] ca3-brZK ADMIN: Loading Banlist
+[15:00:00] ca3-brZK DEBUG: Rebuilding Master Controller
+[15:00:00] ca3-brZK ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca3-brZK ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca3-brZK ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca3-brZK DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca3-brZK ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca3-brZK ADMIN: SeverePwnage has started the game.
+[15:00:00] ca3-brZK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca3-brZK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca3-brZK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca3-brZK DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca3-brZK ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] ca3-brZK ACCESS: Login: SeverePwnage/(Lincoln Davis) from localhost-3031256942 || BYOND v513
+[15:00:00] ca3-brZK GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca3-brZK DEBUG: Next event of severity Mundane in 15.912 minutes.
+[15:00:00] ca3-brZK DEBUG: Next event of severity Moderate in 44.88 minutes.
+[15:00:00] ca3-brZK DEBUG: Next event of severity Major in 81.2517 minutes.
+[15:00:05] ca3-brZK ADMIN: SeverePwnage/(Lincoln Davis) spawned /obj/item/weapon/gun/projectile/automatic/mg74 at (227,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:32] ca3-brZK ADMIN: SeverePwnage/(Lincoln Davis) deleted the steel door at (236,32,1)
+[15:01:11] ca3-brZK ADMIN: SeverePwnage/(Lincoln Davis) spawned /obj/item/weapon/storage/belt/holster/heer at (229,24,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=229;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:01:41] ca3-brZK ACCESS: Logout: SeverePwnage/(Lincoln Davis)
+
+
+Starting up. (ID: ca3-bZKi) 15:07.43
+---------------------
+[05:00:00] ca3-bZKi ADMIN: Loading jobban_rank
+[05:00:00] ca3-bZKi ADMIN: jobban_keylist was empty
+[05:00:00] ca3-bZKi ADMIN: Loading Banlist
+[05:00:00] ca3-bZKi DEBUG: Rebuilding Master Controller
+[05:00:00] ca3-bZKi ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[05:00:00] ca3-bZKi DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca3-bZKi ACCESS: Logout: Guest-3031256942/(Guest-3031256942)

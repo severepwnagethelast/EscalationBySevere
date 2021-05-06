@@ -1,0 +1,540 @@
+
+
+Starting up. (ID: caJ-a1xG) 08:35.36
+---------------------
+[10:00:00] caJ-a1xG ADMIN: Loading jobban_rank
+[10:00:00] caJ-a1xG ADMIN: jobban_keylist was empty
+[10:00:00] caJ-a1xG ADMIN: Loading Banlist
+[10:00:00] caJ-a1xG DEBUG: Rebuilding Master Controller
+[10:00:00] caJ-a1xG ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[10:00:00] caJ-a1xG DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caJ-a1xG ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caJ-a4aE) 08:52.26
+---------------------
+[20:00:00] caJ-a4aE ADMIN: Loading jobban_rank
+[20:00:00] caJ-a4aE ADMIN: jobban_keylist was empty
+[20:00:00] caJ-a4aE ADMIN: Loading Banlist
+[20:00:00] caJ-a4aE DEBUG: Rebuilding Master Controller
+[20:00:00] caJ-a4aE ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[20:00:00] caJ-a4aE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caJ-a4aE ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caJ-a4sM) 08:54.19
+---------------------
+[05:00:00] caJ-a4sM ADMIN: Loading jobban_rank
+[05:00:00] caJ-a4sM ADMIN: jobban_keylist was empty
+[05:00:00] caJ-a4sM ADMIN: Loading Banlist
+[05:00:00] caJ-a4sM DEBUG: Rebuilding Master Controller
+[05:00:00] caJ-a4sM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-a4sM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caJ-a4sM ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-a4sM ADMIN: SeverePwnage has started the game.
+[05:00:00] caJ-a4sM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a4sM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a4sM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a4sM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a4sM ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-a4sM GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caJ-a4sM DEBUG: Next event of severity Mundane in 15.51 minutes.
+[05:00:00] caJ-a4sM DEBUG: Next event of severity Moderate in 48.858 minutes.
+[05:00:00] caJ-a4sM DEBUG: Next event of severity Major in 89.4 minutes.
+[05:01:16] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) deleted the steel door at (87,288,1)
+[05:01:42] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) deleted the steel door at (81,288,1)
+[05:02:09] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=284;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:02:13] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:02:13] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:13] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:13] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:02:14] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer skulks in the realm of the dead. 
+[05:02:14] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:14] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:02:14] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:02:19] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:02:19] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:19] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=292;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:02:22] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:02:22] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:22] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:22] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now stalks among the dead at USMC FOB. 
+[05:02:23] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:02:23] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:23] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:02:23] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:02:32] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:02:32] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:32] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=65;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:02:34] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:02:34] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:34] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:34] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now creeps among the dead at USMC FOB. 
+[05:02:35] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:02:35] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:35] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:02:35] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:02:39] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:02:39] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:39] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:02:49] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:02:49] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:49] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:02:49] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now creeps among the dead at the area. 
+[05:02:51] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer lurks in the realm of the dead. 
+[05:02:51] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:02:51] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:02:51] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[05:03:01] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:03:01] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:01] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA AT Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:03:09] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:03:09] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:09] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:09] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now lurks among the dead at USMC FOB. 
+[05:03:10] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:03:10] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:10] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:03:10] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[05:03:13] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:03:13] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:13] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA AT Gunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[05:03:21] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:03:21] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:21] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:21] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now skulks among the dead at USMC FOB. 
+[05:03:21] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer skulks in the realm of the dead. 
+[05:03:21] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:21] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:03:21] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:03:26] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:03:26] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:26] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as USA AT Asistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[05:03:29] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:03:29] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:29] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:29] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now creeps among the dead at USMC FOB. 
+[05:03:30] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:03:30] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:03:30] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:03:30] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:03:41] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:03:41] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:03:41] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as NVA Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:03:50] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) spawned /obj/item/weapon/gun/projectile/rifle/boltaction/m40a1 at (118,23,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=23;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:04:17] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) spawned /obj/item/weapon/mine/claymore at (122,27,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:04:32] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) spawned /obj/item/weapon/mine/claymore at (115,27,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[05:05:01] caJ-a4sM GAME: Explosion with size (0, 1, 2) in area area 
+[05:05:24] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:05:24] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:05:24] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:05:24] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now stalks among the dead at the area. 
+[05:05:25] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:05:25] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:05:25] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:05:25] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[05:05:55] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:05:55] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:05:55] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as SA Komandir Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=92;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:06:45] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:06:50] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'GRD-50' grenade shell).
+[05:06:56] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'GRD-50' grenade shell).
+[05:07:02] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:07:07] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:07:08] caJ-a4sM EMOTE: Kevin Sullivan/SeverePwnage : <B>Kevin Sullivan</B> screams in pain and falls on the ground!
+[05:07:11] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=86;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:07:17] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) used a grenade (40x103mm 'VOG-25' grenade shell).
+[05:07:18] caJ-a4sM EMOTE: Kevin Sullivan/SeverePwnage : <B>Kevin Sullivan</B> drops what they were holding in their right hand!
+[05:07:34] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=86;Y=26;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[05:09:36] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) deleted the steel door at (133,42,1)
+[05:10:00] caJ-a4sM GAME: SQL ERROR during population polling. Failed to connect.
+[05:10:17] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) deleted the steel door at (127,42,1)
+[05:11:32] caJ-a4sM GAME: Explosion with size (0, 1, 2) in area area 
+[05:11:58] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:11:58] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:11:58] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:11:58] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now skulks among the dead at WARPACT FOB. 
+[05:11:59] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer skulks in the realm of the dead. 
+[05:11:59] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:11:59] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:11:59] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[05:12:02] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:12:02] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:02] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[05:12:33] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:12:33] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:33] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:33] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now lurks among the dead at USMC FOB. 
+[05:12:34] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:12:34] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:34] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:12:34] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[05:12:37] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:12:37] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:37] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=285;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[05:12:41] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:12:41] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:41] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:41] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now skulks among the dead at USMC FOB. 
+[05:12:42] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer prowls in the realm of the dead. 
+[05:12:42] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:42] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:12:42] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[05:12:45] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:12:45] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:45] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=298;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[05:12:51] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:12:51] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:51] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:51] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:12:53] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:12:53] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:12:53] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:12:53] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[05:12:56] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:12:56] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:12:56] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=269;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[05:13:05] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:13:05] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:05] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:05] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:13:05] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:13:05] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:05] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:13:05] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[05:13:09] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:13:09] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:09] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=272;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[05:13:13] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:13:13] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:13] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:13] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now lurks among the dead at USMC FOB. 
+[05:13:14] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:13:14] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:14] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:13:14] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[05:13:18] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:13:18] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:18] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=70;Y=298;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[05:13:30] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:13:30] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:30] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:30] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now lurks among the dead at USMC FOB. 
+[05:13:31] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer prowls in the realm of the dead. 
+[05:13:31] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:31] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:13:31] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[05:13:42] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:13:42] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:42] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=297;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[05:13:46] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:13:46] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:46] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:46] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now lurks among the dead at USMC FOB. 
+[05:13:47] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer stalks in the realm of the dead. 
+[05:13:47] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:47] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:13:47] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[05:13:52] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:13:52] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:52] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=294;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[05:13:56] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:13:56] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:56] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:13:56] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now skulks among the dead at USMC FOB. 
+[05:13:57] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:13:57] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:13:57] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:13:57] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[05:14:02] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:14:02] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:02] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Squad Radio Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[05:14:05] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:14:05] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:05] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:05] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now creeps among the dead at USMC FOB. 
+[05:14:06] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:14:06] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:06] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:14:06] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[05:14:09] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:14:09] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:09] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[05:14:14] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:14:14] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:14] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:14] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now stalks among the dead at USMC FOB. 
+[05:14:16] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer skulks in the realm of the dead. 
+[05:14:16] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:16] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:14:16] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[05:14:20] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:14:20] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:20] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[05:14:22] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:14:22] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:22] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:22] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:14:22] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer lurks in the realm of the dead. 
+[05:14:22] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:22] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:14:22] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[05:14:26] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:14:26] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:26] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=297;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[05:14:45] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:14:45] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:45] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:45] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:14:46] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer skulks in the realm of the dead. 
+[05:14:46] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:46] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:14:46] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[05:14:51] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:14:51] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:51] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=298;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[05:14:56] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:14:56] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:56] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:14:56] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:14:57] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer lurks in the realm of the dead. 
+[05:14:57] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:14:57] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:14:57] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[05:15:01] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:15:01] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:01] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW HWS Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=69;Y=297;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[05:15:05] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:15:05] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:05] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:05] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now prowls among the dead at USMC FOB. 
+[05:15:07] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer prowls in the realm of the dead. 
+[05:15:07] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:07] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:15:07] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[05:15:11] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:15:11] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:11] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW HWS Loader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[05:15:15] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:15:15] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:15] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:15] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now skulks among the dead at USMC FOB. 
+[05:15:15] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer creeps in the realm of the dead. 
+[05:15:15] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:15] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:15:15] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[05:15:20] caJ-a4sM ACCESS: Logout: *no key*/(new player)
+[05:15:20] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:20] caJ-a4sM ADMIN: SeverePwnage/(Kevin Sullivan) has joined the round as BDW HWS Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=289;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[05:15:24] caJ-a4sM GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Kevin Sullivan) has ghosted.
+[05:15:24] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:24] caJ-a4sM ACCESS: Login: SeverePwnage/(Kevin Sullivan) from localhost-3031256942 || BYOND v513
+[05:15:24] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: *no key*/(Kevin Sullivan) : The ghost of <span class='name'>Kevin Sullivan</span> now stalks among the dead at USMC FOB. 
+[05:15:25] caJ-a4sM SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Kevin Sullivan) : <span class='name'>Kevin Sullivan</span> no longer lurks in the realm of the dead. 
+[05:15:25] caJ-a4sM ACCESS: Logout: *no key*/(Kevin Sullivan)
+[05:15:25] caJ-a4sM ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:15:25] caJ-a4sM ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[05:15:35] caJ-a4sM ACCESS: Logout: SeverePwnage/(new player)
+
+
+Starting up. (ID: caJ-a7zC) 09:14.14
+---------------------
+[05:00:00] caJ-a7zC ADMIN: Loading jobban_rank
+[05:00:00] caJ-a7zC ADMIN: jobban_keylist was empty
+[05:00:00] caJ-a7zC ADMIN: Loading Banlist
+[05:00:00] caJ-a7zC DEBUG: Rebuilding Master Controller
+[05:00:00] caJ-a7zC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-a7zC DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caJ-a7zC ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caJ-a8ho) 09:18.46
+---------------------
+[05:00:00] caJ-a8ho ADMIN: Loading jobban_rank
+[05:00:00] caJ-a8ho ADMIN: jobban_keylist was empty
+[05:00:00] caJ-a8ho ADMIN: Loading Banlist
+[05:00:00] caJ-a8ho DEBUG: Rebuilding Master Controller
+[05:00:00] caJ-a8ho ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-a8ho ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-a8ho DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caJ-a8ho ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-a8ho ADMIN: SeverePwnage has started the game.
+[05:00:00] caJ-a8ho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a8ho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a8ho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a8ho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-a8ho ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-a8ho GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caJ-a8ho DEBUG: Next event of severity Mundane in 16.758 minutes.
+[05:00:00] caJ-a8ho DEBUG: Next event of severity Moderate in 45.114 minutes.
+[05:00:00] caJ-a8ho DEBUG: Next event of severity Major in 94.1 minutes.
+[05:00:40] caJ-a8ho GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Carr) has ghosted.
+[05:00:40] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:00:40] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:00:40] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Carr) : The ghost of <span class='name'>Manuel Carr</span> now prowls among the dead at USMC FOB. 
+[05:00:45] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=66;Y=290;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:47] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Carr) : <span class='name'>Manuel Carr</span> no longer stalks in the realm of the dead. 
+[05:00:47] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:00:47] caJ-a8ho ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:00:47] caJ-a8ho ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:00:51] caJ-a8ho ACCESS: Logout: *no key*/(new player)
+[05:00:51] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:00:51] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=288;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:01:00] caJ-a8ho GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Carr) has ghosted.
+[05:01:00] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:00] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:00] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Carr) : The ghost of <span class='name'>Manuel Carr</span> now stalks among the dead at USMC FOB. 
+[05:01:01] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Carr) : <span class='name'>Manuel Carr</span> no longer skulks in the realm of the dead. 
+[05:01:01] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:01] caJ-a8ho ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:01] caJ-a8ho ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:01:06] caJ-a8ho ACCESS: Logout: *no key*/(new player)
+[05:01:06] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:06] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[05:01:15] caJ-a8ho GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Carr) has ghosted.
+[05:01:15] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:15] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:15] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Carr) : The ghost of <span class='name'>Manuel Carr</span> now skulks among the dead at the area. 
+[05:01:16] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Carr) : <span class='name'>Manuel Carr</span> no longer creeps in the realm of the dead. 
+[05:01:16] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:16] caJ-a8ho ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:16] caJ-a8ho ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:01:20] caJ-a8ho ACCESS: Logout: *no key*/(new player)
+[05:01:20] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:20] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) has joined the round as BDW Panzerfaustschutze Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[05:01:33] caJ-a8ho GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Manuel Carr) has ghosted.
+[05:01:33] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:33] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:33] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: *no key*/(Manuel Carr) : The ghost of <span class='name'>Manuel Carr</span> now creeps among the dead at the area. 
+[05:01:34] caJ-a8ho SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Manuel Carr) : <span class='name'>Manuel Carr</span> no longer creeps in the realm of the dead. 
+[05:01:34] caJ-a8ho ACCESS: Logout: *no key*/(Manuel Carr)
+[05:01:34] caJ-a8ho ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[05:01:34] caJ-a8ho ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[05:01:39] caJ-a8ho ACCESS: Logout: *no key*/(new player)
+[05:01:39] caJ-a8ho ACCESS: Login: SeverePwnage/(Manuel Carr) from localhost-3031256942 || BYOND v513
+[05:01:39] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) has joined the round as USA Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=95;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:01:45] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) spawned /obj/item/weapon/grenade/frag/satchelnato at (95,293,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=95;Y=293;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:01:59] caJ-a8ho ATTACK: Manuel Carr (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=292;Z=1'>JMP</a>)
+[05:02:16] caJ-a8ho ADMIN: SeverePwnage/(Manuel Carr) spawned /obj/item/weapon/mine/claymore at (98,282,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=98;Y=282;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[05:02:54] caJ-a8ho ACCESS: Logout: SeverePwnage/(Manuel Carr)
+
+
+Starting up. (ID: caJ-bg0s) 10:22.02
+---------------------
+[05:00:00] caJ-bg0s ADMIN: Loading jobban_rank
+[05:00:00] caJ-bg0s ADMIN: jobban_keylist was empty
+[05:00:00] caJ-bg0s ADMIN: Loading Banlist
+[05:00:00] caJ-bg0s DEBUG: Rebuilding Master Controller
+[05:00:00] caJ-bg0s ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-bg0s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-bg0s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-bg0s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-bg0s DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caJ-bg0s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caJ-bg0s ADMIN: SeverePwnage has started the game.
+[05:00:00] caJ-bg0s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-bg0s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-bg0s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-bg0s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caJ-bg0s ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caJ-bg0s ACCESS: Login: SeverePwnage/(Kolton Keener) from localhost-3031256942 || BYOND v513
+[05:00:00] caJ-bg0s GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caJ-bg0s DEBUG: Next event of severity Mundane in 13.082 minutes.
+[05:00:00] caJ-bg0s DEBUG: Next event of severity Moderate in 38.452 minutes.
+[05:00:00] caJ-bg0s DEBUG: Next event of severity Major in 84.2867 minutes.
+[05:00:22] caJ-bg0s ACCESS: Logout: SeverePwnage/(Kolton Keener)
+
+
+Starting up. (ID: caJ-bive) 10:30.40
+---------------------
+[15:00:00] caJ-bive ADMIN: Loading jobban_rank
+[15:00:00] caJ-bive ADMIN: jobban_keylist was empty
+[15:00:00] caJ-bive ADMIN: Loading Banlist
+[15:00:00] caJ-bive DEBUG: Rebuilding Master Controller
+[15:00:00] caJ-bive ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caJ-bive OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : ick ock
+[15:00:00] caJ-bive DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caJ-bive ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caJ-bive OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : 19 dollar
+[15:00:00] caJ-bive ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caJ-biLc) 10:32.19
+---------------------
+[15:00:00] caJ-biLc ADMIN: Loading jobban_rank
+[15:00:00] caJ-biLc ADMIN: jobban_keylist was empty
+[15:00:00] caJ-biLc ADMIN: Loading Banlist
+[15:00:00] caJ-biLc DEBUG: Rebuilding Master Controller
+[15:00:00] caJ-biLc ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caJ-biLc OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : 19 dollar
+[15:00:00] caJ-biLc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caJ-biLc OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : fortnite
+[15:00:00] caJ-biLc ADMIN: SeverePwnage/(SeverePwnage) toggled OOC. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] caJ-biLc OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : card
+[15:00:00] caJ-biLc ADMIN: SeverePwnage/(SeverePwnage) toggled OOC. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] caJ-biLc OOC: SeverePwnage - usr: SeverePwnage/(SeverePwnage) : 19 dollar
+[15:00:00] caJ-biLc ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caJ-bwaj) 11:58.13
+---------------------
+[15:00:00] caJ-bwaj ADMIN: Loading jobban_rank
+[15:00:00] caJ-bwaj ADMIN: jobban_keylist was empty
+[15:00:00] caJ-bwaj ADMIN: Loading Banlist
+[15:00:00] caJ-bwaj DEBUG: Rebuilding Master Controller
+[15:00:00] caJ-bwaj ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caJ-bwaj DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caJ-bwaj ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caJ-bwaj ADMIN: SeverePwnage has started the game.
+[15:00:00] caJ-bwaj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caJ-bwaj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caJ-bwaj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caJ-bwaj DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caJ-bwaj ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caJ-bwaj ACCESS: Login: SeverePwnage/(Byron Sandys) from localhost-3031256942 || BYOND v513
+[15:00:00] caJ-bwaj GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caJ-bwaj DEBUG: Next event of severity Mundane in 13.71 minutes.
+[15:00:00] caJ-bwaj DEBUG: Next event of severity Moderate in 53.26 minutes.
+[15:00:00] caJ-bwaj DEBUG: Next event of severity Major in 95.6833 minutes.
+[15:00:09] caJ-bwaj ACCESS: Logout: SeverePwnage/(Byron Sandys)
+
+
+Starting up. (ID: caJ-bwyA) 12:00.43
+---------------------
+[20:00:00] caJ-bwyA ADMIN: Loading jobban_rank
+[20:00:00] caJ-bwyA ADMIN: jobban_keylist was empty
+[20:00:00] caJ-bwyA ADMIN: Loading Banlist
+[20:00:00] caJ-bwyA DEBUG: Rebuilding Master Controller
+[20:00:00] caJ-bwyA ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caJ-bwyA ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caJ-bwyA DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caJ-bwyA ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caJ-bwyA ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caJ-bZKa) 15:07.42
+---------------------
+[20:00:00] caJ-bZKa ADMIN: Loading jobban_rank
+[20:00:00] caJ-bZKa ADMIN: jobban_keylist was empty
+[20:00:00] caJ-bZKa ADMIN: Loading Banlist
+[20:00:00] caJ-bZKa DEBUG: Rebuilding Master Controller
+[20:00:00] caJ-bZKa ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caJ-bZKa ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caJ-bZKa DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caJ-bZKa ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caJ-bZKa ADMIN: SeverePwnage has started the game.
+[20:00:00] caJ-bZKa DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caJ-bZKa DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caJ-bZKa DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caJ-bZKa DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caJ-bZKa ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caJ-bZKa ACCESS: Login: SeverePwnage/(Byron Schofield) from localhost-3031256942 || BYOND v513
+[20:00:00] caJ-bZKa GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caJ-bZKa DEBUG: Next event of severity Mundane in 14.68 minutes.
+[20:00:00] caJ-bZKa DEBUG: Next event of severity Moderate in 49.404 minutes.
+[20:00:00] caJ-bZKa DEBUG: Next event of severity Major in 99.98 minutes.
+[20:00:26] caJ-bZKa ADMIN: SeverePwnage/(Byron Schofield) spawned /obj/item/clothing/shoes/soviet/hitop at (104,32,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=104;Y=32;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:45] caJ-bZKa ADMIN: SeverePwnage/(Byron Schofield) deleted the steel door at (131,42,1)
+[20:02:39] caJ-bZKa ACCESS: Logout: SeverePwnage/(Byron Schofield)

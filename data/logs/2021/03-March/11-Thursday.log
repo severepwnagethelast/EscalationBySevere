@@ -1,0 +1,873 @@
+
+
+Starting up. (ID: ca1-bqsq) 11:21.38
+---------------------
+[15:00:00] ca1-bqsq ADMIN: Loading jobban_rank
+[15:00:00] ca1-bqsq ADMIN: jobban_keylist was empty
+[15:00:00] ca1-bqsq ADMIN: Loading Banlist
+[15:00:00] ca1-bqsq DEBUG: Rebuilding Master Controller
+[15:00:00] ca1-bqsq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca1-bqsq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca1-bqsq ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] ca1-bqsq ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] ca1-bqsq ADMIN: SeverePwnage has started the game.
+[15:00:00] ca1-bqsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca1-bqsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca1-bqsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca1-bqsq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] ca1-bqsq ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:00] ca1-bqsq GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca1-bqsq DEBUG: Next event of severity Mundane in 14.788 minutes.
+[15:00:00] ca1-bqsq DEBUG: Next event of severity Moderate in 47.66 minutes.
+[15:00:00] ca1-bqsq DEBUG: Next event of severity Major in 80.4083 minutes.
+[15:00:09] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:09] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:09] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:09] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:00:10] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:00:10] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:10] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:10] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[15:00:12] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:12] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:12] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=42;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:15] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:15] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:15] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:15] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at the area. 
+[15:00:15] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:00:15] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:15] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:15] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[15:00:19] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:19] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:19] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:23] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:23] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:23] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:23] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:00:34] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:00:34] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:34] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:34] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:36] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:36] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:36] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000008]'>MOB</a>)
+[15:00:41] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:41] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:41] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:41] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:00:42] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:00:42] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:42] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:42] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:43] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:43] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:43] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=36;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:46] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:46] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:46] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:46] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:00:47] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:00:47] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:47] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:47] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:00:49] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:49] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:51] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:51] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:51] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:51] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at USMC FOB. 
+[15:00:51] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:00:51] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:51] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:51] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:00:54] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:54] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:00:56] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:00:56] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:56] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:56] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:00:56] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:00:56] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:00:56] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:56] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:00:59] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:00:59] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:00:59] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:01:00] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:00] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:00] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:00] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:01:01] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:01:01] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:01] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:01] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:03] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:03] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:03] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Squad Radio Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:01:04] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:04] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:04] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:04] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:01:05] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:01:05] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:05] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:05] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:01:09] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:09] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:09] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:10] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:10] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:10] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:10] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:01:10] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:01:10] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:10] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:10] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:01:13] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:13] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:13] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:01:14] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:14] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:14] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:14] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:01:15] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:01:15] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:15] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:15] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:01:18] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:18] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:18] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:01:19] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:19] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:19] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:19] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:01:19] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:01:19] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:19] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:19] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:01:22] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:22] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:22] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:01:23] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:23] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:23] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:23] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:01:23] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:01:23] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:23] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:23] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:01:29] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:29] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:29] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:01:30] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:30] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:30] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:30] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:01:31] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:01:31] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:31] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:31] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:01:37] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:37] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:37] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Ingenieurschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:01:38] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:38] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:38] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:38] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:01:39] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:01:39] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:39] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:39] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:01:42] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:42] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:42] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:01:43] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:43] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:43] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:43] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:01:44] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:01:44] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:44] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:44] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:01:49] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:49] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:01:50] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:50] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:01:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:01:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:50] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:50] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:01:53] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:53] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:53] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:01:54] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:54] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:54] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:01:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:01:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:55] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:55] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:01:58] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:01:58] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:58] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:01:58] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:01:58] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:58] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:01:58] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:01:59] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:01:59] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:01:59] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:59] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:02:03] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:03] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:03] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=8;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:02:04] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:04] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:04] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:04] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:02:04] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:02:04] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:04] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:04] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:02:07] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:07] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:07] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as BDW Panzerfaustschutze Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:02:09] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:09] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:09] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:09] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at USMC FOB. 
+[15:02:09] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:02:09] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:09] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:09] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:02:12] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:12] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:12] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Platoon Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:02:16] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:16] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:02:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:02:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:16] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:16] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:02:19] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:19] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:19] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Platoon Leader Deputy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=42;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:02:20] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:20] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:20] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:20] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:02:20] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:02:20] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:20] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:20] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:02:22] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:22] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:22] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Radiotelephone Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=41;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:02:39] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:39] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:39] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:39] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at the area. 
+[15:02:40] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:02:40] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:40] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:40] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:02:43] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:02:43] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:43] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Field Medic. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=35;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:02:51] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:02:51] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:51] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:02:51] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:02:52] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:02:52] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:02:52] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:52] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:03:01] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:01] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:01] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Field Surgeon. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=34;Y=38;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:03:04] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:04] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:04] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:04] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:03:04] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:03:04] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:04] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:04] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:03:06] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:06] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:06] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Designated Marksman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:03:11] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:11] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:11] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:11] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:03:12] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:03:12] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:12] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:12] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:03:15] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:15] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:15] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Squad Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=9;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:03:17] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:17] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:17] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:17] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at USMC FOB. 
+[15:03:18] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:03:18] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:18] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:18] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:03:21] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:21] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:21] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:03:26] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:26] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:26] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:26] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at USMC FOB. 
+[15:03:27] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:03:27] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:27] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:27] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:03:30] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:30] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:30] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Fireteam Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:03:33] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:33] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:33] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:33] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:03:33] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:03:33] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:33] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:33] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:03:37] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:37] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:37] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Fireteam Machinegunner. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=27;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:03:40] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:40] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:40] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:40] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:03:40] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:03:40] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:40] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:40] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:03:44] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:44] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:44] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Corpsman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=4;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:03:45] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:45] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:45] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:45] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at USMC FOB. 
+[15:03:46] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:03:46] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:46] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:46] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:03:50] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:50] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:50] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Sapper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=7;Y=20;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:03:54] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:03:54] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:54] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at USMC FOB. 
+[15:03:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:03:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:03:55] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:55] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:03:59] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:03:59] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:03:59] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Poruchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=227;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:04:06] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:04:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:06] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at WARPACT FOB. 
+[15:04:07] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:04:07] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:07] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:07] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:04:11] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:04:11] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:11] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Podporuchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:04:24] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:04:24] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:24] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:24] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:04:25] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:04:25] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:25] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:25] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:04:27] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:04:27] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:27] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Druzhstvo Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:04:35] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:04:35] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:35] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:35] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:04:44] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:04:44] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:44] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:44] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:04:48] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:04:48] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:48] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Pomocnik Druzhstvo Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:04:56] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:04:56] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:56] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:04:56] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:04:56] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:04:56] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:04:56] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:56] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:05:00] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:05:00] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:00] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Druzhstvo Radista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:05:06] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:05:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:06] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:05:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:05:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:06] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:06] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:05:08] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:05:08] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:08] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Sanitar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:05:16] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:05:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:16] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at WARPACT FOB. 
+[15:05:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:05:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:16] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:16] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:05:20] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:05:20] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:20] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Chirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:05:26] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) deleted the steel door at (129,202,1)
+[15:05:35] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:05:35] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:35] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:35] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at WARPACT FOB. 
+[15:05:35] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:05:35] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:35] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:35] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:05:38] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:05:38] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:38] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Nadstrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:05:49] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:05:49] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:49] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:05:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:05:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:50] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:50] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[15:05:52] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:05:52] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:52] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Chetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:05:57] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:05:57] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:57] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:05:57] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:05:57] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:05:57] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:05:57] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:57] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[15:06:00] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:00] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:00] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Subchetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[15:06:06] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:06] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:06:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:06:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:06] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:06] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[15:06:09] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:09] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:09] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Radista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[15:06:11] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:11] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:11] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:11] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:06:12] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:06:12] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:12] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:12] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[15:06:15] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:15] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:15] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Pancerovnik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[15:06:16] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:16] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:06:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:06:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:16] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:16] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005f]'>MOB</a>)
+[15:06:20] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:20] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:20] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Pomocnik Pancerovnika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[15:06:22] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:22] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:22] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:22] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:06:22] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:06:22] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:22] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:22] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000061]'>MOB</a>)
+[15:06:25] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:25] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:25] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005f]'>MOB</a>)
+[15:06:26] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:26] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:26] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:26] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:06:27] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:06:27] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:27] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:27] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000063]'>MOB</a>)
+[15:06:31] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:31] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:31] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Delostrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000061]'>MOB</a>)
+[15:06:32] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:32] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:32] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:32] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:06:32] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:06:32] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:32] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:32] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)
+[15:06:37] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:37] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:37] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Sanitarstrelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000063]'>MOB</a>)
+[15:06:38] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:38] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:38] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:38] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:06:38] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:06:38] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:38] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:38] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000067]'>MOB</a>)
+[15:06:42] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:42] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:42] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Zenista. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=220;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)
+[15:06:46] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:46] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:46] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:46] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at the area. 
+[15:06:47] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:06:47] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:47] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:47] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)
+[15:06:50] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:50] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:50] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Tezke Zbrane Subchetar. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000067]'>MOB</a>)
+[15:06:52] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:06:52] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:52] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:52] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at the area. 
+[15:06:53] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:06:53] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:06:53] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:53] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006b]'>MOB</a>)
+[15:06:55] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:06:55] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:06:55] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Tezke Zbrane Subchetar Strelec. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)
+[15:07:27] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:07:27] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:27] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:27] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:07:28] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:07:28] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:28] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:28] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006d]'>MOB</a>)
+[15:07:33] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:07:33] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:33] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as CSLA Tezke Zbrane Subchetar Nakladac. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006b]'>MOB</a>)
+[15:07:46] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:07:46] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:46] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:46] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:07:47] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:07:47] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:47] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:47] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006f]'>MOB</a>)
+[15:07:49] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:07:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:49] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Komandir Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=167;Y=222;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006d]'>MOB</a>)
+[15:07:54] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:07:54] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:54] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at WARPACT FOB. 
+[15:07:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:07:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:55] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:55] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000071]'>MOB</a>)
+[15:07:57] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:07:57] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:57] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Zamestitel Komandira Vzvoda. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=162;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006f]'>MOB</a>)
+[15:07:59] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:07:59] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:07:59] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:07:59] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at WARPACT FOB. 
+[15:08:02] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:08:02] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:02] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:02] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000073]'>MOB</a>)
+[15:08:05] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:05] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:05] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Vzvodny Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000071]'>MOB</a>)
+[15:08:18] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:18] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:18] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:18] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:08:18] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:08:18] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:18] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:18] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[15:08:21] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:21] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:21] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Pomoshnik Vzvodnogo Pulemetchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000073]'>MOB</a>)
+[15:08:26] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:26] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:26] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:26] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:08:29] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:08:29] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:29] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:29] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000077]'>MOB</a>)
+[15:08:31] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:31] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:31] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Shtabnoi Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=163;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[15:08:35] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:35] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:35] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:35] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at WARPACT FOB. 
+[15:08:35] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:08:35] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:35] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:35] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000079]'>MOB</a>)
+[15:08:38] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:38] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:38] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Polevoi Medik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000077]'>MOB</a>)
+[15:08:40] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:40] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:40] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:40] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at WARPACT FOB. 
+[15:08:41] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:08:41] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:41] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:41] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007b]'>MOB</a>)
+[15:08:43] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:43] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:43] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Polevoi Vrach. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=205;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000079]'>MOB</a>)
+[15:08:44] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:44] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:44] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:44] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at WARPACT FOB. 
+[15:08:44] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer creeps in the realm of the dead. 
+[15:08:44] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:44] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:44] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007d]'>MOB</a>)
+[15:08:49] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:49] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Snaiper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=144;Y=218;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007b]'>MOB</a>)
+[15:08:50] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:50] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:08:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:08:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:50] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:50] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007f]'>MOB</a>)
+[15:08:53] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:53] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:53] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Komandir Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007d]'>MOB</a>)
+[15:08:54] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:54] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:54] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now prowls among the dead at the area. 
+[15:08:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:08:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:55] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:08:55] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000081]'>MOB</a>)
+[15:08:58] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:08:58] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:58] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Zamestitel Komandira Otdeleniya. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=226;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300007f]'>MOB</a>)
+[15:08:59] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:08:59] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:08:59] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:08:59] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:09:00] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:09:00] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:00] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:00] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000083]'>MOB</a>)
+[15:09:04] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:04] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:04] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Radiotelefonist. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=140;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000081]'>MOB</a>)
+[15:09:06] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:06] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now stalks among the dead at the area. 
+[15:09:06] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:09:06] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:06] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:06] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000085]'>MOB</a>)
+[15:09:10] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:10] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:10] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Strelok-Granatometchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=224;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000083]'>MOB</a>)
+[15:09:11] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:11] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:11] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:11] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:09:11] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:09:11] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:11] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:11] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000087]'>MOB</a>)
+[15:09:16] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:16] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:16] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Pomoshnik Granatometchika. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000085]'>MOB</a>)
+[15:09:16] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:16] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:16] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:16] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:09:17] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:09:17] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:17] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:17] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000089]'>MOB</a>)
+[15:09:20] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:20] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:20] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Pulemetchik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000087]'>MOB</a>)
+[15:09:21] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:21] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:21] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:21] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:09:21] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:09:21] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:21] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:21] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008b]'>MOB</a>)
+[15:09:24] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:24] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:24] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Strelok. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=141;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000089]'>MOB</a>)
+[15:09:25] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:25] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:25] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:25] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:09:26] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:09:26] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:26] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:26] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008d]'>MOB</a>)
+[15:09:29] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:29] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:29] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Boevoi Medik. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008b]'>MOB</a>)
+[15:09:36] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:36] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:36] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:36] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:09:36] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer skulks in the realm of the dead. 
+[15:09:36] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:36] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:36] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008f]'>MOB</a>)
+[15:09:40] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:40] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:40] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA Saper. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008d]'>MOB</a>)
+[15:09:45] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:45] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:45] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:45] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now skulks among the dead at the area. 
+[15:09:45] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer prowls in the realm of the dead. 
+[15:09:45] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:45] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:45] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000091]'>MOB</a>)
+[15:09:49] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:49] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:49] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA OTV Komandir. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=223;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008f]'>MOB</a>)
+[15:09:50] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:50] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:09:50] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer stalks in the realm of the dead. 
+[15:09:50] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:50] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:50] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000093]'>MOB</a>)
+[15:09:54] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:54] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:54] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA OTV Zaryazhaiuschiy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=148;Y=221;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000091]'>MOB</a>)
+[15:09:55] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:09:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:55] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:09:55] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:09:55] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:09:55] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:09:55] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)
+[15:09:59] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:09:59] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:09:59] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as SA OTV Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000093]'>MOB</a>)
+[15:10:00] ca1-bqsq GAME: SQL ERROR during population polling. Failed to connect.
+[15:10:10] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:10:10] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:10:10] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:10:10] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now creeps among the dead at the area. 
+[15:11:47] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:11:47] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:11:47] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:11:47] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000097]'>MOB</a>)
+[15:11:52] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:11:52] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:11:52] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Rifleman. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=100;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)
+[15:12:02] ca1-bqsq GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jeffrey Mcintosh) has ghosted.
+[15:12:02] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:12:02] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:12:02] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: *no key*/(Jeffrey Mcintosh) : The ghost of <span class='name'>Jeffrey Mcintosh</span> now lurks among the dead at the area. 
+[15:12:02] ca1-bqsq SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Jeffrey Mcintosh) : <span class='name'>Jeffrey Mcintosh</span> no longer lurks in the realm of the dead. 
+[15:12:02] ca1-bqsq ACCESS: Logout: *no key*/(Jeffrey Mcintosh)
+[15:12:02] ca1-bqsq ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:12:02] ca1-bqsq ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000099]'>MOB</a>)
+[15:12:07] ca1-bqsq ACCESS: Logout: *no key*/(new player)
+[15:12:07] ca1-bqsq ACCESS: Login: SeverePwnage/(Jeffrey Mcintosh) from localhost-3031256942 || BYOND v513
+[15:12:07] ca1-bqsq ADMIN: SeverePwnage/(Jeffrey Mcintosh) has joined the round as USMC Fireteam Leader. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=10;Y=24;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000097]'>MOB</a>)
+[15:12:22] ca1-bqsq ACCESS: Logout: SeverePwnage/(Jeffrey Mcintosh)
+
+
+Starting up. (ID: ca1-bucC) 11:45.37
+---------------------
+[15:00:00] ca1-bucC ADMIN: Loading jobban_rank
+[15:00:00] ca1-bucC ADMIN: jobban_keylist was empty
+[15:00:00] ca1-bucC ADMIN: Loading Banlist
+[15:00:00] ca1-bucC DEBUG: Rebuilding Master Controller
+[15:00:00] ca1-bucC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] ca1-bucC ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: ca1-ckqH) 17:20.14
+---------------------
+[10:00:00] ca1-ckqH ADMIN: Loading jobban_rank
+[10:00:00] ca1-ckqH ADMIN: jobban_keylist was empty
+[10:00:00] ca1-ckqH ADMIN: Loading Banlist
+[10:00:00] ca1-ckqH DEBUG: Rebuilding Master Controller
+[10:00:00] ca1-ckqH ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] ca1-ckqH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca1-ckqH ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] ca1-ckqH ADMIN: SeverePwnage has started the game.
+[10:00:00] ca1-ckqH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca1-ckqH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca1-ckqH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca1-ckqH DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] ca1-ckqH ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] ca1-ckqH ACCESS: Login: SeverePwnage/(Wyatt Clark) from localhost-3031256942 || BYOND v513
+[10:00:00] ca1-ckqH GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca1-ckqH DEBUG: Next event of severity Mundane in 13.838 minutes.
+[10:00:00] ca1-ckqH DEBUG: Next event of severity Moderate in 47.142 minutes.
+[10:00:00] ca1-ckqH DEBUG: Next event of severity Major in 82.7033 minutes.
+[10:00:20] ca1-ckqH ACCESS: Logout: SeverePwnage/(Wyatt Clark)

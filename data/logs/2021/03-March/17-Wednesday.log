@@ -1,0 +1,252 @@
+
+
+Starting up. (ID: ca7-bYrh) 14:59.20
+---------------------
+[10:00:00] ca7-bYrh ADMIN: Loading jobban_rank
+[10:00:00] ca7-bYrh ADMIN: jobban_keylist was empty
+[10:00:00] ca7-bYrh ADMIN: Loading Banlist
+[10:00:00] ca7-bYrh DEBUG: Rebuilding Master Controller
+[10:00:00] ca7-bYrh ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[10:00:00] ca7-bYrh ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca7-bYrh ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca7-bYrh DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] ca7-bYrh ADMIN: Among us crewmate Is accessing the game start menu.
+[10:00:00] ca7-bYrh ADMIN: Among us crewmate has started the game.
+[10:00:00] ca7-bYrh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca7-bYrh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca7-bYrh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca7-bYrh DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[10:00:00] ca7-bYrh ACCESS: Logout: *no key*/(Among us crewmate)
+[10:00:00] ca7-bYrh ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3031256942 || BYOND v513
+[10:00:00] ca7-bYrh GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] ca7-bYrh DEBUG: Next event of severity Mundane in 15.536 minutes.
+[10:00:00] ca7-bYrh DEBUG: Next event of severity Moderate in 36.988 minutes.
+[10:00:00] ca7-bYrh DEBUG: Next event of severity Major in 82.065 minutes.
+[10:00:14] ca7-bYrh ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (25,10,1)
+[10:00:18] ca7-bYrh GAME: *null* activated a satchel charge.
+[10:00:32] ca7-bYrh ADMIN: Among us crewmate/(Fabian Raede) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:36] ca7-bYrh GAME: *null* activated a satchel charge.
+[10:00:37] ca7-bYrh GAME: *null* activated a satchel charge.
+[10:00:38] ca7-bYrh GAME: *null* activated a satchel charge.
+[10:00:38] ca7-bYrh GAME: *null* activated a satchel charge.
+[10:00:41] ca7-bYrh ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca7-bYSc) 15:02.07
+---------------------
+[20:00:00] ca7-bYSc ADMIN: Loading jobban_rank
+[20:00:00] ca7-bYSc ADMIN: jobban_keylist was empty
+[20:00:00] ca7-bYSc ADMIN: Loading Banlist
+[20:00:00] ca7-bYSc DEBUG: Rebuilding Master Controller
+[20:00:00] ca7-bYSc ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[20:00:00] ca7-bYSc ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca7-bYSc DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca7-bYSc ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca7-bYSc ADMIN: Among us crewmate has started the game.
+[20:00:00] ca7-bYSc DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bYSc DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bYSc DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bYSc DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bYSc ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca7-bYSc ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3031256942 || BYOND v513
+[20:00:00] ca7-bYSc GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca7-bYSc DEBUG: Next event of severity Mundane in 14.32 minutes.
+[20:00:00] ca7-bYSc DEBUG: Next event of severity Moderate in 39.364 minutes.
+[20:00:00] ca7-bYSc DEBUG: Next event of severity Major in 96.3717 minutes.
+[20:00:14] ca7-bYSc ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/grenade/frag/satchelnato at (113,95,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=95;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:23] ca7-bYSc ADMIN: Among us crewmate/(Fabian Raede) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=95;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:24] ca7-bYSc GAME: *null* activated a satchel charge.
+[20:00:31] ca7-bYSc ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca7-bZdT) 15:04.22
+---------------------
+[15:00:00] ca7-bZdT ADMIN: Loading jobban_rank
+[15:00:00] ca7-bZdT ADMIN: jobban_keylist was empty
+[15:00:00] ca7-bZdT ADMIN: Loading Banlist
+[15:00:00] ca7-bZdT DEBUG: Rebuilding Master Controller
+[15:00:00] ca7-bZdT ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[15:00:00] ca7-bZdT DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca7-bZdT ADMIN: Among us crewmate Is accessing the game start menu.
+[15:00:00] ca7-bZdT ADMIN: Among us crewmate has started the game.
+[15:00:00] ca7-bZdT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca7-bZdT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca7-bZdT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca7-bZdT DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[15:00:00] ca7-bZdT ACCESS: Logout: *no key*/(Among us crewmate)
+[15:00:00] ca7-bZdT ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3031256942 || BYOND v513
+[15:00:00] ca7-bZdT GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] ca7-bZdT DEBUG: Next event of severity Mundane in 14.158 minutes.
+[15:00:00] ca7-bZdT DEBUG: Next event of severity Moderate in 47.064 minutes.
+[15:00:00] ca7-bZdT DEBUG: Next event of severity Major in 86.085 minutes.
+[15:00:08] ca7-bZdT ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[15:00:15] ca7-bZdT ADMIN: Among us crewmate/(Fabian Raede) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:17] ca7-bZdT GAME: *null* activated a satchel charge.
+[15:00:17] ca7-bZdT ATTACK: Fabian Raede (amonguscrewmate) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>JMP</a>)
+[15:00:29] ca7-bZdT ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca7-bZIZ) 15:07.35
+---------------------
+[20:00:00] ca7-bZIZ ADMIN: Loading jobban_rank
+[20:00:00] ca7-bZIZ ADMIN: jobban_keylist was empty
+[20:00:00] ca7-bZIZ ADMIN: Loading Banlist
+[20:00:00] ca7-bZIZ DEBUG: Rebuilding Master Controller
+[20:00:00] ca7-bZIZ ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[20:00:00] ca7-bZIZ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca7-bZIZ ADMIN: Among us crewmate Is accessing the game start menu.
+[20:00:00] ca7-bZIZ ADMIN: Among us crewmate has started the game.
+[20:00:00] ca7-bZIZ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bZIZ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bZIZ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bZIZ DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[20:00:00] ca7-bZIZ ACCESS: Logout: *no key*/(Among us crewmate)
+[20:00:00] ca7-bZIZ ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3031256942 || BYOND v513
+[20:00:00] ca7-bZIZ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] ca7-bZIZ DEBUG: Next event of severity Mundane in 17.806 minutes.
+[20:00:00] ca7-bZIZ DEBUG: Next event of severity Moderate in 36.81 minutes.
+[20:00:00] ca7-bZIZ DEBUG: Next event of severity Major in 83.4717 minutes.
+[20:00:05] ca7-bZIZ ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[20:00:28] ca7-bZIZ ADMIN: Among us crewmate/(Fabian Raede) spawned /obj/item/weapon/grenade/frag/satchelwp at (18,6,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=6;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:35] ca7-bZIZ ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca7-bZ8j) 15:10.05
+---------------------
+[05:00:00] ca7-bZ8j ADMIN: Loading jobban_rank
+[05:00:00] ca7-bZ8j ADMIN: jobban_keylist was empty
+[05:00:00] ca7-bZ8j ADMIN: Loading Banlist
+[05:00:00] ca7-bZ8j DEBUG: Rebuilding Master Controller
+[05:00:00] ca7-bZ8j ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-bZ8j DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca7-bZ8j ADMIN: Among us crewmate Is accessing the game start menu.
+[05:00:00] ca7-bZ8j ADMIN: Among us crewmate has started the game.
+[05:00:00] ca7-bZ8j DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-bZ8j DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-bZ8j DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-bZ8j DEBUG: Among us crewmate has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-bZ8j ACCESS: Logout: *no key*/(Among us crewmate)
+[05:00:00] ca7-bZ8j ACCESS: Login: Among us crewmate/(Fabian Raede) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-bZ8j GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca7-bZ8j DEBUG: Next event of severity Mundane in 13.724 minutes.
+[05:00:00] ca7-bZ8j DEBUG: Next event of severity Moderate in 53.78 minutes.
+[05:00:00] ca7-bZ8j DEBUG: Next event of severity Major in 84.72 minutes.
+[05:00:07] ca7-bZ8j ADMIN: Among us crewmate/(Fabian Raede) deleted the steel door at (18,10,1)
+[05:00:18] ca7-bZ8j ADMIN: Among us crewmate/(Fabian Raede) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[05:00:19] ca7-bZ8j GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Among us crewmate</a>/(Fabian Raede) activated a satchel charge.
+[05:00:19] ca7-bZ8j ATTACK: Fabian Raede (amonguscrewmate) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=11;Z=1'>JMP</a>)
+[05:00:31] ca7-bZ8j ACCESS: Logout: Among us crewmate/(Fabian Raede)
+
+
+Starting up. (ID: ca7-b3Hz) 15:26.39
+---------------------
+[15:00:00] ca7-b3Hz ADMIN: Loading jobban_rank
+[15:00:00] ca7-b3Hz ADMIN: jobban_keylist was empty
+[15:00:00] ca7-b3Hz ADMIN: Loading Banlist
+[15:00:00] ca7-b3Hz DEBUG: Rebuilding Master Controller
+[15:00:00] ca7-b3Hz ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[15:00:00] ca7-b3Hz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca7-b3Hz ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca7-b4n5) 15:31.02
+---------------------
+[15:00:00] ca7-b4n5 ADMIN: Loading jobban_rank
+[15:00:00] ca7-b4n5 ADMIN: jobban_keylist was empty
+[15:00:00] ca7-b4n5 ADMIN: Loading Banlist
+[15:00:00] ca7-b4n5 DEBUG: Rebuilding Master Controller
+[15:00:00] ca7-b4n5 ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[15:00:00] ca7-b4n5 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca7-b4n5 ADMIN: Among us crewmate/(Among us crewmate) toggled new connections disallowed.
+[15:00:00] ca7-b4n5 ADMIN: Among us crewmate/(Among us crewmate) toggled new connections establishing disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] ca7-b4n5 ADMIN: Among us crewmate/(Among us crewmate) toggled new connections allowed.
+[15:00:00] ca7-b4n5 ADMIN: Among us crewmate/(Among us crewmate) toggled new connections establishing allowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] ca7-b4n5 ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca7-b4QH) 15:34.00
+---------------------
+[05:00:00] ca7-b4QH ADMIN: Loading jobban_rank
+[05:00:00] ca7-b4QH ADMIN: jobban_keylist was empty
+[05:00:00] ca7-b4QH ADMIN: Loading Banlist
+[05:00:00] ca7-b4QH DEBUG: Rebuilding Master Controller
+[05:00:00] ca7-b4QH ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-b4QH DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca7-b4QH ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca7-b5uv) 15:38.07
+---------------------
+[05:00:00] ca7-b5uv ADMIN: Loading jobban_rank
+[05:00:00] ca7-b5uv ADMIN: jobban_keylist was empty
+[05:00:00] ca7-b5uv ADMIN: Loading Banlist
+[05:00:00] ca7-b5uv DEBUG: Rebuilding Master Controller
+[05:00:00] ca7-b5uv ACCESS: Login: Among us crewmate/(Among us crewmate) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-b5uv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca7-b5uv ADMIN: Among us crewmate/(Among us crewmate) toggled new connections disallowed.
+[05:00:00] ca7-b5uv ADMIN: Among us crewmate/(Among us crewmate) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[05:00:00] ca7-b5uv ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca7-b5Qf) 15:40.22
+---------------------
+[20:00:00] ca7-b5Qf ADMIN: Loading jobban_rank
+[20:00:00] ca7-b5Qf ADMIN: jobban_keylist was empty
+[20:00:00] ca7-b5Qf ADMIN: Loading Banlist
+[20:00:00] ca7-b5Qf DEBUG: Rebuilding Master Controller
+[20:00:00] ca7-b5Qf ACCESS: Login: Among us crewmate/(Among us crewmate) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] ca7-b5Qf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] ca7-b5Qf ADMIN: Among us crewmate/(Among us crewmate) toggled new connections disallowed.
+[20:00:00] ca7-b5Qf ADMIN: Among us crewmate/(Among us crewmate) toggled new connections disallowed. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[20:00:00] ca7-b5Qf ACCESS: Logout: Among us crewmate/(Among us crewmate)
+[20:00:00] ca7-b5Qf ACCESS: Login: Among us crewmate/(Among us crewmate) from 127.0.0.1-3031256942 || BYOND v513
+[20:00:00] ca7-b5Qf ACCESS: Logout: Among us crewmate/(Among us crewmate)
+
+
+Starting up. (ID: ca7-cynw) 18:49.36
+---------------------
+[10:00:00] ca7-cynw ADMIN: Loading jobban_rank
+[10:00:00] ca7-cynw ADMIN: jobban_keylist was empty
+[10:00:00] ca7-cynw ADMIN: Loading Banlist
+[10:00:00] ca7-cynw DEBUG: Rebuilding Master Controller
+[10:00:00] ca7-cynw ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[10:00:00] ca7-cynw ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: ca7-cyyQ) 18:50.46
+---------------------
+[15:00:00] ca7-cyyQ ADMIN: Loading jobban_rank
+[15:00:00] ca7-cyyQ ADMIN: jobban_keylist was empty
+[15:00:00] ca7-cyyQ ADMIN: Loading Banlist
+[15:00:00] ca7-cyyQ DEBUG: Rebuilding Master Controller
+[15:00:00] ca7-cyyQ ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[15:00:00] ca7-cyyQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] ca7-cyyQ ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: ca7-cyRO) 18:52.44
+---------------------
+[05:00:00] ca7-cyRO ADMIN: Loading jobban_rank
+[05:00:00] ca7-cyRO ADMIN: jobban_keylist was empty
+[05:00:00] ca7-cyRO ADMIN: Loading Banlist
+[05:00:00] ca7-cyRO DEBUG: Rebuilding Master Controller
+[05:00:00] ca7-cyRO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-cyRO ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca7-cyRO ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca7-cyRO DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] ca7-cyRO ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] ca7-cyRO ADMIN: SeverePwnage has started the game.
+[05:00:00] ca7-cyRO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-cyRO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-cyRO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-cyRO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] ca7-cyRO ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] ca7-cyRO ACCESS: Login: SeverePwnage/(Angel Werner) from localhost-3031256942 || BYOND v513
+[05:00:00] ca7-cyRO GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] ca7-cyRO DEBUG: Next event of severity Mundane in 16.028 minutes.
+[05:00:00] ca7-cyRO DEBUG: Next event of severity Moderate in 49.038 minutes.
+[05:00:00] ca7-cyRO DEBUG: Next event of severity Major in 91.3983 minutes.
+[05:00:04] ca7-cyRO ADMIN: SeverePwnage/(Angel Werner) spawned /obj/item/clothing/head/usmc/cavhat at (37,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:01:02] ca7-cyRO ADMIN: SeverePwnage/(Angel Werner) deleted the steel door at (25,10,1)
+[05:01:12] ca7-cyRO ADMIN: SeverePwnage/(Angel Werner) deleted the steel door at (21,10,1)
+[05:01:17] ca7-cyRO ACCESS: Logout: SeverePwnage/(Angel Werner)

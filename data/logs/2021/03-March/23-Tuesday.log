@@ -1,0 +1,631 @@
+
+
+Starting up. (ID: cbc-a406) 08:58.48
+---------------------
+[05:00:00] cbc-a406 ADMIN: Loading jobban_rank
+[05:00:00] cbc-a406 ADMIN: jobban_keylist was empty
+[05:00:00] cbc-a406 ADMIN: Loading Banlist
+[05:00:00] cbc-a406 DEBUG: Rebuilding Master Controller
+[05:00:00] cbc-a406 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a406 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbc-a406 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbc-a406 ADMIN: SeverePwnage has started the game.
+[05:00:00] cbc-a406 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a406 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a406 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a406 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a406 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbc-a406 ACCESS: Login: SeverePwnage/(Cesar Adams) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a406 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbc-a406 DEBUG: Next event of severity Mundane in 16.364 minutes.
+[05:00:00] cbc-a406 DEBUG: Next event of severity Moderate in 47.334 minutes.
+[05:00:00] cbc-a406 DEBUG: Next event of severity Major in 99.5333 minutes.
+[05:00:09] cbc-a406 ADMIN: SeverePwnage/(Cesar Adams) changed Europe's time to 12:36.
+[05:00:38] cbc-a406 ACCESS: Logout: SeverePwnage/(Cesar Adams)
+
+
+Starting up. (ID: cbc-a5Ki) 09:02.32
+---------------------
+[05:00:00] cbc-a5Ki ADMIN: Loading jobban_rank
+[05:00:00] cbc-a5Ki ADMIN: jobban_keylist was empty
+[05:00:00] cbc-a5Ki ADMIN: Loading Banlist
+[05:00:00] cbc-a5Ki DEBUG: Rebuilding Master Controller
+[05:00:00] cbc-a5Ki ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a5Ki DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbc-a5Ki ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbc-a5Ki ADMIN: SeverePwnage has started the game.
+[05:00:00] cbc-a5Ki DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a5Ki DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a5Ki DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a5Ki DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a5Ki ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbc-a5Ki ACCESS: Login: SeverePwnage/(Gerardo Haynes) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a5Ki GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbc-a5Ki DEBUG: Next event of severity Mundane in 12.34 minutes.
+[05:00:00] cbc-a5Ki DEBUG: Next event of severity Moderate in 40.028 minutes.
+[05:00:00] cbc-a5Ki DEBUG: Next event of severity Major in 95.1167 minutes.
+[05:00:11] cbc-a5Ki ACCESS: Logout: SeverePwnage/(Gerardo Haynes)
+
+
+Starting up. (ID: cbc-a6g5) 09:05.56
+---------------------
+[20:00:00] cbc-a6g5 ADMIN: Loading jobban_rank
+[20:00:00] cbc-a6g5 ADMIN: jobban_keylist was empty
+[20:00:00] cbc-a6g5 ADMIN: Loading Banlist
+[20:00:00] cbc-a6g5 DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-a6g5 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a6g5 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-a6g5 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-a6g5 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-a6g5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a6g5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a6g5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a6g5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a6g5 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-a6g5 ACCESS: Login: SeverePwnage/(Rocco Foster) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a6g5 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-a6g5 DEBUG: Next event of severity Mundane in 17.862 minutes.
+[20:00:00] cbc-a6g5 DEBUG: Next event of severity Moderate in 46.156 minutes.
+[20:00:00] cbc-a6g5 DEBUG: Next event of severity Major in 81.8967 minutes.
+[20:00:24] cbc-a6g5 ACCESS: Logout: SeverePwnage/(Rocco Foster)
+
+
+Starting up. (ID: cbc-a6FG) 09:08.28
+---------------------
+[10:00:00] cbc-a6FG ADMIN: Loading jobban_rank
+[10:00:00] cbc-a6FG ADMIN: jobban_keylist was empty
+[10:00:00] cbc-a6FG ADMIN: Loading Banlist
+[10:00:00] cbc-a6FG DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-a6FG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-a6FG ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-a6FG DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-a6FG ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-a6FG ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-a6FG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-a6FG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-a6FG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-a6FG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-a6FG ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-a6FG ACCESS: Login: SeverePwnage/(Leo Echard) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-a6FG GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-a6FG DEBUG: Next event of severity Mundane in 17.534 minutes.
+[10:00:00] cbc-a6FG DEBUG: Next event of severity Moderate in 45.94 minutes.
+[10:00:00] cbc-a6FG DEBUG: Next event of severity Major in 93.335 minutes.
+[10:00:12] cbc-a6FG ADMIN: SeverePwnage/(Leo Echard) changed Europe's time to 12:39.
+[10:00:36] cbc-a6FG ACCESS: Logout: SeverePwnage/(Leo Echard)
+
+
+Starting up. (ID: cbc-a7e2) 09:12.07
+---------------------
+[15:00:00] cbc-a7e2 ADMIN: Loading jobban_rank
+[15:00:00] cbc-a7e2 ADMIN: jobban_keylist was empty
+[15:00:00] cbc-a7e2 ADMIN: Loading Banlist
+[15:00:00] cbc-a7e2 DEBUG: Rebuilding Master Controller
+[15:00:00] cbc-a7e2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-a7e2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbc-a7e2 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-a7e2 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbc-a7e2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-a7e2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-a7e2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-a7e2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-a7e2 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbc-a7e2 ACCESS: Login: SeverePwnage/(William Gregory) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-a7e2 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbc-a7e2 DEBUG: Next event of severity Mundane in 15.228 minutes.
+[15:00:00] cbc-a7e2 DEBUG: Next event of severity Moderate in 43.672 minutes.
+[15:00:00] cbc-a7e2 DEBUG: Next event of severity Major in 98.2567 minutes.
+[15:00:30] cbc-a7e2 ACCESS: Logout: SeverePwnage/(William Gregory)
+
+
+Starting up. (ID: cbc-a7RZ) 09:16.09
+---------------------
+[20:00:00] cbc-a7RZ ADMIN: Loading jobban_rank
+[20:00:00] cbc-a7RZ ADMIN: jobban_keylist was empty
+[20:00:00] cbc-a7RZ ADMIN: Loading Banlist
+[20:00:00] cbc-a7RZ DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-a7RZ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a7RZ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-a7RZ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-a7RZ ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-a7RZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a7RZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a7RZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a7RZ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a7RZ ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-a7RZ ACCESS: Login: SeverePwnage/(Willy Sommer) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a7RZ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-a7RZ DEBUG: Next event of severity Mundane in 15.302 minutes.
+[20:00:00] cbc-a7RZ DEBUG: Next event of severity Moderate in 53.644 minutes.
+[20:00:00] cbc-a7RZ DEBUG: Next event of severity Major in 84.4933 minutes.
+[20:00:23] cbc-a7RZ ADMIN: SeverePwnage/(Willy Sommer) changed Europe's time to 12:00.
+[20:00:50] cbc-a7RZ ACCESS: Logout: SeverePwnage/(Willy Sommer)
+
+
+Starting up. (ID: cbc-a8nx) 09:19.24
+---------------------
+[05:00:00] cbc-a8nx ADMIN: Loading jobban_rank
+[05:00:00] cbc-a8nx ADMIN: jobban_keylist was empty
+[05:00:00] cbc-a8nx ADMIN: Loading Banlist
+[05:00:00] cbc-a8nx DEBUG: Rebuilding Master Controller
+[05:00:00] cbc-a8nx ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a8nx DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbc-a8nx ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbc-a8nx ADMIN: SeverePwnage has started the game.
+[05:00:00] cbc-a8nx DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a8nx DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a8nx DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a8nx DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-a8nx ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbc-a8nx ACCESS: Login: SeverePwnage/(William Cooper) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-a8nx GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbc-a8nx DEBUG: Next event of severity Mundane in 14.282 minutes.
+[05:00:00] cbc-a8nx DEBUG: Next event of severity Moderate in 43.21 minutes.
+[05:00:00] cbc-a8nx DEBUG: Next event of severity Major in 88.7333 minutes.
+[05:00:26] cbc-a8nx ACCESS: Logout: SeverePwnage/(William Cooper)
+
+
+Starting up. (ID: cbc-a8VN) 09:22.57
+---------------------
+[20:00:00] cbc-a8VN ADMIN: Loading jobban_rank
+[20:00:00] cbc-a8VN ADMIN: jobban_keylist was empty
+[20:00:00] cbc-a8VN ADMIN: Loading Banlist
+[20:00:00] cbc-a8VN DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-a8VN ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a8VN DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-a8VN ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-a8VN ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-a8VN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a8VN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a8VN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a8VN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-a8VN ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-a8VN ACCESS: Login: SeverePwnage/(Gordon Mary) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-a8VN GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-a8VN DEBUG: Next event of severity Mundane in 15.286 minutes.
+[20:00:00] cbc-a8VN DEBUG: Next event of severity Moderate in 43.166 minutes.
+[20:00:00] cbc-a8VN DEBUG: Next event of severity Major in 80.2267 minutes.
+[20:00:17] cbc-a8VN ADMIN: SeverePwnage/(Gordon Mary) changed Europe's time to 12:55.
+[20:00:39] cbc-a8VN ACCESS: Logout: SeverePwnage/(Gordon Mary)
+
+
+Starting up. (ID: cbc-bbVK) 09:48.34
+---------------------
+[10:00:00] cbc-bbVK ADMIN: Loading jobban_rank
+[10:00:00] cbc-bbVK ADMIN: jobban_keylist was empty
+[10:00:00] cbc-bbVK ADMIN: Loading Banlist
+[10:00:00] cbc-bbVK DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbc-bb8J) 09:49.49
+---------------------
+[20:00:00] cbc-bb8J ADMIN: Loading jobban_rank
+[20:00:00] cbc-bb8J ADMIN: jobban_keylist was empty
+[20:00:00] cbc-bb8J ADMIN: Loading Banlist
+[20:00:00] cbc-bb8J DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-bb8J ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-bb8J DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-bb8J ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-bb8J ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-bb8J DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-bb8J DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-bb8J DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-bb8J DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-bb8J ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-bb8J ACCESS: Login: SeverePwnage/(Willy Neely) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-bb8J GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-bb8J DEBUG: Next event of severity Mundane in 14.26 minutes.
+[20:00:00] cbc-bb8J DEBUG: Next event of severity Moderate in 49.478 minutes.
+[20:00:00] cbc-bb8J DEBUG: Next event of severity Major in 80.8833 minutes.
+[20:00:24] cbc-bb8J ADMIN: SeverePwnage/(Willy Neely) spawned /obj/item/ammo_magazine/c762x51m at (18,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:52] cbc-bb8J ADMIN: SeverePwnage/(Willy Neely) spawned /obj/item/ammo_magazine/c762x51s at (27,16,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=27;Y=16;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:02] cbc-bb8J ACCESS: Logout: SeverePwnage/(Willy Neely)
+
+
+Starting up. (ID: cbc-bcIn) 09:53.35
+---------------------
+[20:00:00] cbc-bcIn ADMIN: Loading jobban_rank
+[20:00:00] cbc-bcIn ADMIN: jobban_keylist was empty
+[20:00:00] cbc-bcIn ADMIN: Loading Banlist
+[20:00:00] cbc-bcIn DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-bcIn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-bcIn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-bcIn ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbc-bHh3) 13:09.28
+---------------------
+[15:00:00] cbc-bHh3 ADMIN: Loading jobban_rank
+[15:00:00] cbc-bHh3 ADMIN: jobban_keylist was empty
+[15:00:00] cbc-bHh3 ADMIN: Loading Banlist
+[15:00:00] cbc-bHh3 DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbc-bYJm) 15:01.13
+---------------------
+[20:00:00] cbc-bYJm ADMIN: Loading jobban_rank
+[20:00:00] cbc-bYJm ADMIN: jobban_keylist was empty
+[20:00:00] cbc-bYJm ADMIN: Loading Banlist
+[20:00:00] cbc-bYJm DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-bYJm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-bYJm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-bYJm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-bYJm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-bYJm ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-bYJm ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbc-b1Cb) 15:13.17
+---------------------
+[05:00:00] cbc-b1Cb ADMIN: Loading jobban_rank
+[05:00:00] cbc-b1Cb ADMIN: jobban_keylist was empty
+[05:00:00] cbc-b1Cb ADMIN: Loading Banlist
+[05:00:00] cbc-b1Cb DEBUG: Rebuilding Master Controller
+[05:00:00] cbc-b1Cb ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-b1Cb ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbc-b1Cb DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbc-b1Cb ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbc-b1Cb ADMIN: SeverePwnage has started the game.
+[05:00:00] cbc-b1Cb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-b1Cb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-b1Cb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-b1Cb DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbc-b1Cb ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbc-b1Cb ACCESS: Login: SeverePwnage/(Richard Fuchs) from localhost-3031256942 || BYOND v513
+[05:00:00] cbc-b1Cb GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbc-b1Cb DEBUG: Next event of severity Mundane in 12.44 minutes.
+[05:00:00] cbc-b1Cb DEBUG: Next event of severity Moderate in 39.782 minutes.
+[05:00:00] cbc-b1Cb DEBUG: Next event of severity Major in 99.5617 minutes.
+[05:00:11] cbc-b1Cb ADMIN: SeverePwnage/(Richard Fuchs) spawned /obj/item/stack/hedgehog_rods at (133,214,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=214;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:13] cbc-b1Cb ACCESS: Logout: SeverePwnage/(Richard Fuchs)
+
+
+Starting up. (ID: cbc-b1ZQ) 15:15.44
+---------------------
+[20:00:00] cbc-b1ZQ ADMIN: Loading jobban_rank
+[20:00:00] cbc-b1ZQ ADMIN: jobban_keylist was empty
+[20:00:00] cbc-b1ZQ ADMIN: Loading Banlist
+[20:00:00] cbc-b1ZQ DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-b1ZQ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b1ZQ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b1ZQ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b1ZQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-b1ZQ ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b1ZQ ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-b1ZQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b1ZQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b1ZQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b1ZQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b1ZQ ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-b1ZQ ACCESS: Login: SeverePwnage/(Cayden Sommer) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b1ZQ GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-b1ZQ DEBUG: Next event of severity Mundane in 17.642 minutes.
+[20:00:00] cbc-b1ZQ DEBUG: Next event of severity Moderate in 43.848 minutes.
+[20:00:00] cbc-b1ZQ DEBUG: Next event of severity Major in 89.8067 minutes.
+[20:00:08] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) spawned /obj/item/stack/hedgehog_rods at (127,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=127;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:24] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) changed Europe's time to 12:42.
+[20:00:38] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) deleted Tank trap at (143,192,1)
+[20:00:39] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) deleted Tank trap at (143,192,1)
+[20:01:46] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) spawned /obj/item/stack/hedgehog_rods at (142,194,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=142;Y=194;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:02:00] cbc-b1ZQ ADMIN: SeverePwnage/(Cayden Sommer) spawned /obj/structure/hedgehog at (143,191,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=143;Y=191;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:03:09] cbc-b1ZQ ACCESS: Logout: SeverePwnage/(Cayden Sommer)
+
+
+Starting up. (ID: cbc-b25R) 15:22.40
+---------------------
+[15:00:00] cbc-b25R ADMIN: Loading jobban_rank
+[15:00:00] cbc-b25R ADMIN: jobban_keylist was empty
+[15:00:00] cbc-b25R ADMIN: Loading Banlist
+[15:00:00] cbc-b25R DEBUG: Rebuilding Master Controller
+[15:00:00] cbc-b25R ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b25R ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b25R DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbc-b25R ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b25R ADMIN: SeverePwnage has started the game.
+[15:00:00] cbc-b25R DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b25R DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b25R DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b25R DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b25R ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbc-b25R ACCESS: Login: SeverePwnage/(Holden Sidower) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b25R GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbc-b25R DEBUG: Next event of severity Mundane in 16.342 minutes.
+[15:00:00] cbc-b25R DEBUG: Next event of severity Moderate in 36.294 minutes.
+[15:00:00] cbc-b25R DEBUG: Next event of severity Major in 86.38 minutes.
+[15:00:17] cbc-b25R ADMIN: SeverePwnage/(Holden Sidower) spawned /obj/structure/hedgehog at (18,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:24] cbc-b25R ADMIN: SeverePwnage/(Holden Sidower) spawned /obj/item/weapon/wrench at (18,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:45] cbc-b25R ACCESS: Logout: SeverePwnage/(Holden Sidower)
+
+
+Starting up. (ID: cbc-b3Dz) 15:26.15
+---------------------
+[10:00:00] cbc-b3Dz ADMIN: Loading jobban_rank
+[10:00:00] cbc-b3Dz ADMIN: jobban_keylist was empty
+[10:00:00] cbc-b3Dz ADMIN: Loading Banlist
+[10:00:00] cbc-b3Dz DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-b3Dz ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b3Dz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-b3Dz ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbc-b3Vz) 15:28.06
+---------------------
+[10:00:00] cbc-b3Vz ADMIN: Loading jobban_rank
+[10:00:00] cbc-b3Vz ADMIN: jobban_keylist was empty
+[10:00:00] cbc-b3Vz ADMIN: Loading Banlist
+[10:00:00] cbc-b3Vz DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-b3Vz ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b3Vz ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b3Vz ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b3Vz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-b3Vz ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b3Vz ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-b3Vz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b3Vz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b3Vz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b3Vz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b3Vz ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-b3Vz ACCESS: Login: SeverePwnage/(Oliver Leech) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b3Vz GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-b3Vz DEBUG: Next event of severity Mundane in 12.434 minutes.
+[10:00:00] cbc-b3Vz DEBUG: Next event of severity Moderate in 38.176 minutes.
+[10:00:00] cbc-b3Vz DEBUG: Next event of severity Major in 89.3517 minutes.
+[10:00:09] cbc-b3Vz ADMIN: SeverePwnage/(Oliver Leech) spawned /obj/item/stack/hedgehog_rods at (128,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:21] cbc-b3Vz ADMIN: SeverePwnage/(Oliver Leech) spawned /obj/item/weapon/wrench at (126,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:39] cbc-b3Vz ATTACK: SeverePwnage/(Oliver Leech) threw a wrench at SeverePwnage/(Oliver Leech) (INTENT: HELP) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=127;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:43] cbc-b3Vz ACCESS: Logout: SeverePwnage/(Oliver Leech)
+
+
+Starting up. (ID: cbc-b4wD) 15:31.56
+---------------------
+[15:00:00] cbc-b4wD ADMIN: Loading jobban_rank
+[15:00:00] cbc-b4wD ADMIN: jobban_keylist was empty
+[15:00:00] cbc-b4wD ADMIN: Loading Banlist
+[15:00:00] cbc-b4wD DEBUG: Rebuilding Master Controller
+[15:00:00] cbc-b4wD ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b4wD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b4wD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b4wD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b4wD DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbc-b4wD ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b4wD ADMIN: SeverePwnage has started the game.
+[15:00:00] cbc-b4wD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b4wD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b4wD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b4wD DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b4wD ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbc-b4wD ACCESS: Login: SeverePwnage/(Alvin Robinson) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b4wD GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbc-b4wD DEBUG: Next event of severity Mundane in 13.072 minutes.
+[15:00:00] cbc-b4wD DEBUG: Next event of severity Moderate in 49.222 minutes.
+[15:00:00] cbc-b4wD DEBUG: Next event of severity Major in 95.6967 minutes.
+[15:00:10] cbc-b4wD ADMIN: SeverePwnage/(Alvin Robinson) spawned /obj/structure/hedgehog at (20,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:13] cbc-b4wD ACCESS: Logout: SeverePwnage/(Alvin Robinson)
+
+
+Starting up. (ID: cbc-b4Pp) 15:33.53
+---------------------
+[10:00:00] cbc-b4Pp ADMIN: Loading jobban_rank
+[10:00:00] cbc-b4Pp ADMIN: jobban_keylist was empty
+[10:00:00] cbc-b4Pp ADMIN: Loading Banlist
+[10:00:00] cbc-b4Pp DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-b4Pp ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b4Pp DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-b4Pp ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b4Pp ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-b4Pp DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b4Pp DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b4Pp DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b4Pp DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b4Pp ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-b4Pp ACCESS: Login: SeverePwnage/(Gunner Margaret) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b4Pp GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-b4Pp DEBUG: Next event of severity Mundane in 16.288 minutes.
+[10:00:00] cbc-b4Pp DEBUG: Next event of severity Moderate in 44.026 minutes.
+[10:00:00] cbc-b4Pp DEBUG: Next event of severity Major in 80.5567 minutes.
+[10:00:09] cbc-b4Pp ADMIN: SeverePwnage/(Gunner Margaret) spawned /obj/structure/hedgehog at (6,10,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=6;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:14] cbc-b4Pp ACCESS: Logout: SeverePwnage/(Gunner Margaret)
+
+
+Starting up. (ID: cbc-b5a3) 15:36.07
+---------------------
+[15:00:00] cbc-b5a3 ADMIN: Loading jobban_rank
+[15:00:00] cbc-b5a3 ADMIN: jobban_keylist was empty
+[15:00:00] cbc-b5a3 ADMIN: Loading Banlist
+[15:00:00] cbc-b5a3 DEBUG: Rebuilding Master Controller
+[15:00:00] cbc-b5a3 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b5a3 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b5a3 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbc-b5a3 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b5a3 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbc-b5a3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b5a3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b5a3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b5a3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b5a3 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbc-b5a3 ACCESS: Login: SeverePwnage/(Isaac Anderson) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b5a3 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbc-b5a3 DEBUG: Next event of severity Mundane in 13.572 minutes.
+[15:00:00] cbc-b5a3 DEBUG: Next event of severity Moderate in 50.87 minutes.
+[15:00:00] cbc-b5a3 DEBUG: Next event of severity Major in 98.8667 minutes.
+[15:00:06] cbc-b5a3 ADMIN: SeverePwnage/(Isaac Anderson) spawned /obj/structure/hedgehog at (126,217,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=217;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:21] cbc-b5a3 ADMIN: SeverePwnage/(Isaac Anderson) spawned /obj/structure/sandbag at (130,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:48] cbc-b5a3 ADMIN: SeverePwnage/(Isaac Anderson) spawned /obj/item/stack/hedgehog_rods at (126,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:58] cbc-b5a3 ACCESS: Logout: SeverePwnage/(Isaac Anderson)
+
+
+Starting up. (ID: cbc-b6uM) 15:44.33
+---------------------
+[15:00:00] cbc-b6uM ADMIN: Loading jobban_rank
+[15:00:00] cbc-b6uM ADMIN: jobban_keylist was empty
+[15:00:00] cbc-b6uM ADMIN: Loading Banlist
+[15:00:00] cbc-b6uM DEBUG: Rebuilding Master Controller
+[15:00:00] cbc-b6uM ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b6uM ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b6uM ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b6uM DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbc-b6uM ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbc-b6uM ADMIN: SeverePwnage has started the game.
+[15:00:00] cbc-b6uM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b6uM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b6uM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b6uM DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbc-b6uM ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbc-b6uM ACCESS: Login: SeverePwnage/(Braiden Lombardi) from localhost-3031256942 || BYOND v513
+[15:00:00] cbc-b6uM GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbc-b6uM DEBUG: Next event of severity Mundane in 15.084 minutes.
+[15:00:00] cbc-b6uM DEBUG: Next event of severity Moderate in 49.584 minutes.
+[15:00:00] cbc-b6uM DEBUG: Next event of severity Major in 81.2183 minutes.
+[15:00:09] cbc-b6uM ADMIN: SeverePwnage/(Braiden Lombardi) spawned /obj/item/weapon/sandbag/full at (126,216,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=126;Y=216;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:24] cbc-b6uM ADMIN: SeverePwnage/(Braiden Lombardi) spawned /obj/structure/hedgehog at (136,209,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=209;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:34] cbc-b6uM ACCESS: Logout: SeverePwnage/(Braiden Lombardi)
+
+
+Starting up. (ID: cbc-b7B0) 15:51.43
+---------------------
+[20:00:00] cbc-b7B0 ADMIN: Loading jobban_rank
+[20:00:00] cbc-b7B0 ADMIN: jobban_keylist was empty
+[20:00:00] cbc-b7B0 ADMIN: Loading Banlist
+[20:00:00] cbc-b7B0 DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-b7B0 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b7B0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b7B0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b7B0 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-b7B0 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b7B0 ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-b7B0 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b7B0 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b7B0 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b7B0 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b7B0 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-b7B0 ACCESS: Login: SeverePwnage/(Camryn Powell) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b7B0 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-b7B0 DEBUG: Next event of severity Mundane in 17.524 minutes.
+[20:00:00] cbc-b7B0 DEBUG: Next event of severity Moderate in 36.626 minutes.
+[20:00:00] cbc-b7B0 DEBUG: Next event of severity Major in 92.6267 minutes.
+[20:00:06] cbc-b7B0 ADMIN: SeverePwnage/(Camryn Powell) spawned /obj/item/stack/hedgehog_rods at (5,8,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=5;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:37] cbc-b7B0 ADMIN: SeverePwnage/(Camryn Powell) spawned /obj/item/ammo_magazine/c762x51m at (13,14,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=13;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:00:59] cbc-b7B0 ADMIN: SeverePwnage/(Camryn Powell) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/m72 at (14,15,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=14;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:13] cbc-b7B0 ADMIN: SeverePwnage/(Camryn Powell) deleted the steel door at (18,10,1)
+[20:01:19] cbc-b7B0 ATTACK: Camryn Powell (severepwnage) primed HDGr. 78 grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=11;Z=1'>JMP</a>)
+[20:01:28] cbc-b7B0 ACCESS: Logout: SeverePwnage/(Camryn Powell)
+
+
+Starting up. (ID: cbc-b8DV) 15:58.19
+---------------------
+[10:00:00] cbc-b8DV ADMIN: Loading jobban_rank
+[10:00:00] cbc-b8DV ADMIN: jobban_keylist was empty
+[10:00:00] cbc-b8DV ADMIN: Loading Banlist
+[10:00:00] cbc-b8DV DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-b8DV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b8DV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-b8DV ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-b8DV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b8DV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b8DV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b8DV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-b8DV ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-b8DV ACCESS: Login: SeverePwnage/(Anderson Randolph) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-b8DV GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-b8DV DEBUG: Next event of severity Mundane in 12.694 minutes.
+[10:00:00] cbc-b8DV DEBUG: Next event of severity Moderate in 49.724 minutes.
+[10:00:00] cbc-b8DV DEBUG: Next event of severity Major in 98.835 minutes.
+[10:00:06] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/structure/hedgehog at (122,216,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=216;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:18] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/structure/brustwehr at (125,217,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=217;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:38] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/grenade/frag/ugl/vog25 at (131,217,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=217;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:48] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/gun/projectile/automatic/rifle/mpikmgl at (131,217,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=217;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:57] cbc-b8DV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Anderson Randolph) used a grenade (40x103mm 'VOG-25' grenade shell).
+[10:01:12] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/sandbag/full at (125,217,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=217;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:30] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/grenade/frag/ugl/vog25 at (129,216,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=216;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:33] cbc-b8DV GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Anderson Randolph) used a grenade (40x103mm 'VOG-25' grenade shell).
+[10:01:46] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/grenade/frag/sirpalem41 at (128,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:49] cbc-b8DV ATTACK: Anderson Randolph (severepwnage) primed Sirpalekasikranaatti M41 (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=215;Z=1'>JMP</a>)
+[10:03:06] cbc-b8DV ADMIN: SeverePwnage/(Anderson Randolph) spawned /obj/item/weapon/gun/launcher/oneuse/rpg18/m72 at (133,215,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=215;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:03:13] cbc-b8DV GAME: Explosion with size (1, 3, 5) in area road 
+[10:03:15] cbc-b8DV ACCESS: Logout: SeverePwnage/(Anderson Randolph)
+
+
+Starting up. (ID: cbc-b0ii) 16:08.54
+---------------------
+[20:00:00] cbc-b0ii ADMIN: Loading jobban_rank
+[20:00:00] cbc-b0ii ADMIN: jobban_keylist was empty
+[20:00:00] cbc-b0ii ADMIN: Loading Banlist
+[20:00:00] cbc-b0ii DEBUG: Rebuilding Master Controller
+[20:00:00] cbc-b0ii ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b0ii ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b0ii DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbc-b0ii ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbc-b0ii ADMIN: SeverePwnage has started the game.
+[20:00:00] cbc-b0ii DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b0ii DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b0ii DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b0ii DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbc-b0ii ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbc-b0ii ACCESS: Login: SeverePwnage/(Nicholas Allen) from localhost-3031256942 || BYOND v513
+[20:00:00] cbc-b0ii GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbc-b0ii DEBUG: Next event of severity Mundane in 13.332 minutes.
+[20:00:00] cbc-b0ii DEBUG: Next event of severity Moderate in 53.99 minutes.
+[20:00:00] cbc-b0ii DEBUG: Next event of severity Major in 85.11 minutes.
+[20:01:13] cbc-b0ii ADMIN: SeverePwnage/(Nicholas Allen) spawned /obj/item/weapon/storage/belt/holster/berettam9 at (19,13,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:01:23] cbc-b0ii ACCESS: Logout: SeverePwnage/(Nicholas Allen)
+
+
+Starting up. (ID: cbc-caho) 16:15.12
+---------------------
+[10:00:00] cbc-caho ADMIN: Loading jobban_rank
+[10:00:00] cbc-caho ADMIN: jobban_keylist was empty
+[10:00:00] cbc-caho ADMIN: Loading Banlist
+[10:00:00] cbc-caho DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-caho ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-caho DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-caho ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-caho ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-caho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-caho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-caho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-caho DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-caho ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-caho ACCESS: Login: SeverePwnage/(Connor Losey) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-caho GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-caho DEBUG: Next event of severity Mundane in 17.728 minutes.
+[10:00:00] cbc-caho DEBUG: Next event of severity Moderate in 53.656 minutes.
+[10:00:00] cbc-caho DEBUG: Next event of severity Major in 94.0517 minutes.
+[10:00:32] cbc-caho GAME: Explosion with size (0, 0, 0) in area forest 
+[10:00:38] cbc-caho ADMIN: SeverePwnage/(Connor Losey) spawned /obj/machinery/deployable/brustwehr_cade at (28,15,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:09] cbc-caho ACCESS: Logout: SeverePwnage/(Connor Losey)
+
+
+Starting up. (ID: cbc-cemB) 16:41.23
+---------------------
+[10:00:00] cbc-cemB ADMIN: Loading jobban_rank
+[10:00:00] cbc-cemB ADMIN: jobban_keylist was empty
+[10:00:00] cbc-cemB ADMIN: Loading Banlist
+[10:00:00] cbc-cemB DEBUG: Rebuilding Master Controller
+[10:00:00] cbc-cemB ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-cemB DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbc-cemB ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbc-cemB ADMIN: SeverePwnage has started the game.
+[10:00:00] cbc-cemB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-cemB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-cemB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-cemB DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbc-cemB ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbc-cemB ACCESS: Login: SeverePwnage/(Patton Catherina) from localhost-3031256942 || BYOND v513
+[10:00:00] cbc-cemB GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbc-cemB DEBUG: Next event of severity Mundane in 13.68 minutes.
+[10:00:00] cbc-cemB DEBUG: Next event of severity Moderate in 44.882 minutes.
+[10:00:00] cbc-cemB DEBUG: Next event of severity Major in 88.455 minutes.
+[10:00:08] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) deleted Austria flag at (19,10,1)
+[10:00:10] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) deleted the steel door at (18,10,1)
+[10:00:19] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) deleted the sandbag at (18,15,1)
+[10:00:20] cbc-cemB ATTACK: Patton Catherina (severepwnage) primed HDGr. 78 grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=15;Z=1'>JMP</a>)
+[10:00:32] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) spawned /obj/structure/window_framesteel at (18,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:45] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) spawned /obj/structure/window/basic at (18,12,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=12;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:00:59] cbc-cemB ADMIN: SeverePwnage/(Patton Catherina) jumped to the large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=195;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:03] cbc-cemB ATTACK: Patton Catherina (severepwnage) primed HDGr. 78 grenade (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=54;Y=193;Z=1'>JMP</a>)
+[10:01:09] cbc-cemB ACCESS: Logout: SeverePwnage/(Patton Catherina)

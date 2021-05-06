@@ -1,0 +1,154 @@
+
+
+Starting up. (ID: cbx-bnY3) 11:05.52
+---------------------
+[10:00:00] cbx-bnY3 ADMIN: Loading ckey_whitelist
+[10:00:00] cbx-bnY3 ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbx-bnY3 ADMIN: Loading jobban_rank
+[10:00:00] cbx-bnY3 ADMIN: jobban_keylist was empty
+[10:00:00] cbx-bnY3 ADMIN: Loading Banlist
+[10:00:00] cbx-bnY3 DEBUG: Rebuilding Master Controller
+[10:00:00] cbx-bnY3 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbx-bnY3 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbx-bnY3 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbx-bnY3 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbx-bnY3 ADMIN: SeverePwnage has started the game.
+[10:00:00] cbx-bnY3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbx-bnY3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbx-bnY3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbx-bnY3 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbx-bnY3 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbx-bnY3 ACCESS: Login: SeverePwnage/(Holden Mens) from localhost-3031256942 || BYOND v513
+[10:00:00] cbx-bnY3 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbx-bnY3 DEBUG: Next event of severity Mundane in 13.584 minutes.
+[10:00:00] cbx-bnY3 DEBUG: Next event of severity Moderate in 37.748 minutes.
+[10:00:00] cbx-bnY3 DEBUG: Next event of severity Major in 85.2983 minutes.
+[10:00:05] cbx-bnY3 ACCESS: Logout: *no key*/(Holden Mens)
+[10:00:05] cbx-bnY3 ACCESS: Login: SeverePwnage/(Holden Mens) from localhost-3031256942 || BYOND v513
+[10:00:30] cbx-bnY3 ACCESS: Logout: SeverePwnage/(Holden Mens)
+
+
+Starting up. (ID: cbx-butm) 11:47.25
+---------------------
+[15:00:00] cbx-butm ADMIN: Loading ckey_whitelist
+[15:00:00] cbx-butm ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbx-butm ADMIN: Loading jobban_rank
+[15:00:00] cbx-butm ADMIN: jobban_keylist was empty
+[15:00:00] cbx-butm ADMIN: Loading Banlist
+[15:00:00] cbx-butm DEBUG: Rebuilding Master Controller
+[15:00:00] cbx-butm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbx-butm ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbx-butm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbx-butm ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbx-butm ADMIN: SeverePwnage has started the game.
+[15:00:00] cbx-butm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-butm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-butm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-butm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-butm ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbx-butm ACCESS: Login: SeverePwnage/(Edward Joghs) from localhost-3031256942 || BYOND v513
+[15:00:00] cbx-butm GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbx-butm DEBUG: Next event of severity Mundane in 16.07 minutes.
+[15:00:00] cbx-butm DEBUG: Next event of severity Moderate in 36.47 minutes.
+[15:00:00] cbx-butm DEBUG: Next event of severity Major in 98.895 minutes.
+[15:00:10] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) changed Europe's time to 12:36.
+[15:00:35] cbx-butm ACCESS: Logout: *no key*/(Edward Joghs)
+[15:00:35] cbx-butm ACCESS: Login: SeverePwnage/(Edward Joghs) from localhost-3031256942 || BYOND v513
+[15:00:42] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to 181,57,1 in the large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=180;Y=56;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[15:00:44] cbx-butm ACCESS: Logout: *no key*/(Edward Joghs)
+[15:00:44] cbx-butm ACCESS: Login: SeverePwnage/(Edward Joghs) from localhost-3031256942 || BYOND v513
+[15:01:03] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the underground (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=283;Y=172;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:01:08] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the bunker (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=182;Y=116;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:01:23] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) spawned /obj/item/device/flashlight/natoflare at (182,114,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=182;Y=114;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:03:28] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the very large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=148;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:22] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the large soft floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=173;Y=177;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:27] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=319;Y=97;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:38] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=417;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:41] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the large soft floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=151;Y=118;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:04:45] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) jumped to the large soft floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=191;Y=202;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[15:06:33] cbx-butm ADMIN: SeverePwnage/(Edward Joghs) deleted the concretered wall at (398,171,1)
+[15:07:19] cbx-butm ACCESS: Logout: SeverePwnage/(Edward Joghs)
+
+
+Starting up. (ID: cbx-bxde) 12:04.58
+---------------------
+[20:00:00] cbx-bxde ADMIN: Loading ckey_whitelist
+[20:00:00] cbx-bxde ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbx-bxde ADMIN: Loading jobban_rank
+[20:00:00] cbx-bxde ADMIN: jobban_keylist was empty
+[20:00:00] cbx-bxde ADMIN: Loading Banlist
+[20:00:00] cbx-bxde DEBUG: Rebuilding Master Controller
+[20:00:00] cbx-bxde ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbx-bxde ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbx-bxde DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbx-bxde ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbx-bxde ADMIN: SeverePwnage has started the game.
+[20:00:00] cbx-bxde DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bxde DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bxde DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bxde DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bxde ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbx-bxde ACCESS: Login: SeverePwnage/(Loreto Tilton) from localhost-3031256942 || BYOND v513
+[20:00:00] cbx-bxde GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbx-bxde DEBUG: Next event of severity Mundane in 17.602 minutes.
+[20:00:00] cbx-bxde DEBUG: Next event of severity Moderate in 52.446 minutes.
+[20:00:00] cbx-bxde DEBUG: Next event of severity Major in 96.47 minutes.
+[20:00:49] cbx-bxde ADMIN: SeverePwnage/(Loreto Tilton) deleted the window at (171,51,1)
+[20:00:51] cbx-bxde ADMIN: SeverePwnage/(Loreto Tilton) deleted the barricade at (171,51,1)
+[20:01:14] cbx-bxde ACCESS: Logout: SeverePwnage/(Loreto Tilton)
+
+
+Starting up. (ID: cbx-bzkf) 12:18.30
+---------------------
+[15:00:00] cbx-bzkf ADMIN: Loading ckey_whitelist
+[15:00:00] cbx-bzkf ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbx-bzkf ADMIN: Loading jobban_rank
+[15:00:00] cbx-bzkf ADMIN: jobban_keylist was empty
+[15:00:00] cbx-bzkf ADMIN: Loading Banlist
+[15:00:00] cbx-bzkf DEBUG: Rebuilding Master Controller
+[15:00:00] cbx-bzkf ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbx-bzkf ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbx-bzkf ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbx-bzkf DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbx-bzkf ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbx-bzkf ADMIN: SeverePwnage has started the game.
+[15:00:00] cbx-bzkf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-bzkf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-bzkf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-bzkf DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbx-bzkf ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbx-bzkf ACCESS: Login: SeverePwnage/(Hudson Carmichael) from localhost-3031256942 || BYOND v513
+[15:00:00] cbx-bzkf GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbx-bzkf DEBUG: Next event of severity Mundane in 13.756 minutes.
+[15:00:00] cbx-bzkf DEBUG: Next event of severity Moderate in 37.648 minutes.
+[15:00:00] cbx-bzkf DEBUG: Next event of severity Major in 96.7433 minutes.
+[15:02:26] cbx-bzkf ACCESS: Logout: SeverePwnage/(Hudson Carmichael)
+
+
+Starting up. (ID: cbx-bAbV) 12:24.03
+---------------------
+[20:00:00] cbx-bAbV ADMIN: Loading ckey_whitelist
+[20:00:00] cbx-bAbV ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbx-bAbV ADMIN: Loading jobban_rank
+[20:00:00] cbx-bAbV ADMIN: jobban_keylist was empty
+[20:00:00] cbx-bAbV ADMIN: Loading Banlist
+[20:00:00] cbx-bAbV DEBUG: Rebuilding Master Controller
+[20:00:00] cbx-bAbV ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbx-bAbV ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbx-bAbV ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbx-bAbV DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbx-bAbV ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbx-bAbV ADMIN: SeverePwnage has started the game.
+[20:00:00] cbx-bAbV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bAbV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bAbV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bAbV DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbx-bAbV ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbx-bAbV ACCESS: Login: SeverePwnage/(Johan Sauter) from localhost-3031256942 || BYOND v513
+[20:00:00] cbx-bAbV GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbx-bAbV DEBUG: Next event of severity Mundane in 17.858 minutes.
+[20:00:00] cbx-bAbV DEBUG: Next event of severity Moderate in 37.004 minutes.
+[20:00:00] cbx-bAbV DEBUG: Next event of severity Major in 93.3883 minutes.
+[20:00:14] cbx-bAbV ADMIN: SeverePwnage/(Johan Sauter) changed Europe's time to 12:52.
+[20:01:20] cbx-bAbV ADMIN: SeverePwnage/(Johan Sauter) jumped to the very large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=77;Y=141;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[20:01:38] cbx-bAbV ACCESS: Logout: SeverePwnage/(Johan Sauter)

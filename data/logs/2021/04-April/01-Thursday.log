@@ -1,0 +1,619 @@
+
+
+Starting up. (ID: cbl-bFlG) 12:57.04
+---------------------
+[05:00:00] cbl-bFlG ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-bFlG ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-bFlG ADMIN: Loading jobban_rank
+[05:00:00] cbl-bFlG ADMIN: jobban_keylist was empty
+[05:00:00] cbl-bFlG ADMIN: Loading Banlist
+[05:00:00] cbl-bFlG DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbl-bFxt) 12:58.16
+---------------------
+[10:00:00] cbl-bFxt ADMIN: Loading ckey_whitelist
+[10:00:00] cbl-bFxt ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbl-bFxt ADMIN: Loading jobban_rank
+[10:00:00] cbl-bFxt ADMIN: jobban_keylist was empty
+[10:00:00] cbl-bFxt ADMIN: Loading Banlist
+[10:00:00] cbl-bFxt DEBUG: Rebuilding Master Controller
+[10:00:00] cbl-bFxt ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bFxt ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bFxt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbl-bFxt ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bFxt ADMIN: SeverePwnage has started the game.
+[10:00:00] cbl-bFxt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bFxt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bFxt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bFxt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bFxt ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbl-bFxt ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bFxt GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbl-bFxt DEBUG: Next event of severity Mundane in 17.576 minutes.
+[10:00:00] cbl-bFxt DEBUG: Next event of severity Moderate in 47.374 minutes.
+[10:00:00] cbl-bFxt DEBUG: Next event of severity Major in 91.7083 minutes.
+[10:00:27] cbl-bFxt GAME: Explosion with size (0, 0, 0) in area forest 
+[10:01:47] cbl-bFxt ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bGgn) 13:02.55
+---------------------
+[10:00:00] cbl-bGgn ADMIN: Loading ckey_whitelist
+[10:00:00] cbl-bGgn ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbl-bGgn ADMIN: Loading jobban_rank
+[10:00:00] cbl-bGgn ADMIN: jobban_keylist was empty
+[10:00:00] cbl-bGgn ADMIN: Loading Banlist
+[10:00:00] cbl-bGgn DEBUG: Rebuilding Master Controller
+[10:00:00] cbl-bGgn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bGgn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbl-bGgn ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bGgn ADMIN: SeverePwnage has started the game.
+[10:00:00] cbl-bGgn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bGgn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bGgn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bGgn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bGgn ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbl-bGgn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bGgn GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbl-bGgn DEBUG: Next event of severity Mundane in 12.916 minutes.
+[10:00:00] cbl-bGgn DEBUG: Next event of severity Moderate in 51.154 minutes.
+[10:00:00] cbl-bGgn DEBUG: Next event of severity Major in 83.9117 minutes.
+[10:00:34] cbl-bGgn ADMIN: SeverePwnage/(Roscoe Osterweis) deleted the steel door at (21,10,1)
+[10:00:45] cbl-bGgn ADMIN: SeverePwnage/(Roscoe Osterweis) spawned /obj/structure/table/bench/steel at (28,15,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=28;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:51] cbl-bGgn ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bHBd) 13:11.28
+---------------------
+[15:00:00] cbl-bHBd ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bHBd ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bHBd ADMIN: Loading jobban_rank
+[15:00:00] cbl-bHBd ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bHBd ADMIN: Loading Banlist
+[15:00:00] cbl-bHBd DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bHBd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bHBd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bHBd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bHBd DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bHBd ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bHBd ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bHBd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bHBd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bHBd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bHBd DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bHBd ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bHBd ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bHBd GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bHBd DEBUG: Next event of severity Mundane in 16.348 minutes.
+[15:00:00] cbl-bHBd DEBUG: Next event of severity Moderate in 43.296 minutes.
+[15:00:00] cbl-bHBd DEBUG: Next event of severity Major in 88.48 minutes.
+[15:00:22] cbl-bHBd ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bIdi) 13:15.24
+---------------------
+[15:00:00] cbl-bIdi ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bIdi ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bIdi ADMIN: Loading jobban_rank
+[15:00:00] cbl-bIdi ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bIdi ADMIN: Loading Banlist
+[15:00:00] cbl-bIdi DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bIdi ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bIdi ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIdi ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIdi ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIdi DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bIdi ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIdi ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bIdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIdi DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIdi ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bIdi ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bIdi GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bIdi DEBUG: Next event of severity Mundane in 16.118 minutes.
+[15:00:00] cbl-bIdi DEBUG: Next event of severity Moderate in 43.854 minutes.
+[15:00:00] cbl-bIdi DEBUG: Next event of severity Major in 83.0083 minutes.
+[15:00:03] cbl-bIdi ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bIFo) 13:18.18
+---------------------
+[15:00:00] cbl-bIFo ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bIFo ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bIFo ADMIN: Loading jobban_rank
+[15:00:00] cbl-bIFo ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bIFo ADMIN: Loading Banlist
+[15:00:00] cbl-bIFo DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bIFo ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bIFo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIFo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIFo DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bIFo ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bIFo ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bIFo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIFo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIFo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIFo DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bIFo ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bIFo ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bIFo GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bIFo DEBUG: Next event of severity Mundane in 14.11 minutes.
+[15:00:00] cbl-bIFo DEBUG: Next event of severity Moderate in 46.588 minutes.
+[15:00:00] cbl-bIFo DEBUG: Next event of severity Major in 83.06 minutes.
+[15:00:10] cbl-bIFo ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bI5j) 13:20.53
+---------------------
+[15:00:00] cbl-bI5j ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bI5j ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bI5j ADMIN: Loading jobban_rank
+[15:00:00] cbl-bI5j ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bI5j ADMIN: Loading Banlist
+[15:00:00] cbl-bI5j DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bI5j ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bI5j ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bI5j ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bI5j DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bI5j ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bI5j ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bI5j DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bI5j DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bI5j DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bI5j DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bI5j ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bI5j ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bI5j GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bI5j DEBUG: Next event of severity Mundane in 15.408 minutes.
+[15:00:00] cbl-bI5j DEBUG: Next event of severity Moderate in 47.55 minutes.
+[15:00:00] cbl-bI5j DEBUG: Next event of severity Major in 83.6067 minutes.
+[15:00:25] cbl-bI5j ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bJ94) 13:27.47
+---------------------
+[15:00:00] cbl-bJ94 ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bJ94 ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bJ94 ADMIN: Loading jobban_rank
+[15:00:00] cbl-bJ94 ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bJ94 ADMIN: Loading Banlist
+[15:00:00] cbl-bJ94 DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bJ94 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bJ94 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bJ94 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bJ94 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bJ94 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bJ94 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bJ94 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bJ94 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bJ94 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bJ94 ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bJ94 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bJ94 DEBUG: Next event of severity Mundane in 16.318 minutes.
+[15:00:00] cbl-bJ94 DEBUG: Next event of severity Moderate in 53.754 minutes.
+[15:00:00] cbl-bJ94 DEBUG: Next event of severity Major in 86.92 minutes.
+[15:00:11] cbl-bJ94 ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bKv3) 13:30.09
+---------------------
+[20:00:00] cbl-bKv3 ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bKv3 ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bKv3 ADMIN: Loading jobban_rank
+[20:00:00] cbl-bKv3 ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bKv3 ADMIN: Loading Banlist
+[20:00:00] cbl-bKv3 DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bKv3 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bKv3 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bKv3 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbl-bKJO) 13:31.34
+---------------------
+[10:00:00] cbl-bKJO ADMIN: Loading ckey_whitelist
+[10:00:00] cbl-bKJO ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbl-bKJO ADMIN: Loading jobban_rank
+[10:00:00] cbl-bKJO ADMIN: jobban_keylist was empty
+[10:00:00] cbl-bKJO ADMIN: Loading Banlist
+[10:00:00] cbl-bKJO DEBUG: Rebuilding Master Controller
+[10:00:00] cbl-bKJO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bKJO DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbl-bKJO ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bKJO ADMIN: SeverePwnage has started the game.
+[10:00:00] cbl-bKJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bKJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bKJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bKJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bKJO ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbl-bKJO ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bKJO GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbl-bKJO DEBUG: Next event of severity Mundane in 15.6 minutes.
+[10:00:00] cbl-bKJO DEBUG: Next event of severity Moderate in 39.7 minutes.
+[10:00:00] cbl-bKJO DEBUG: Next event of severity Major in 89.425 minutes.
+[10:00:14] cbl-bKJO ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bLrq) 13:36.04
+---------------------
+[20:00:00] cbl-bLrq ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bLrq ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bLrq ADMIN: Loading jobban_rank
+[20:00:00] cbl-bLrq ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bLrq ADMIN: Loading Banlist
+[20:00:00] cbl-bLrq DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bLrq ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bLrq ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bLrq ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bLrq DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bLrq ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bLrq ADMIN: SeverePwnage has started the game.
+[20:00:00] cbl-bLrq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bLrq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bLrq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bLrq DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bLrq ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbl-bLrq ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bLrq GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbl-bLrq DEBUG: Next event of severity Mundane in 15.058 minutes.
+[20:00:00] cbl-bLrq DEBUG: Next event of severity Moderate in 50.64 minutes.
+[20:00:00] cbl-bLrq DEBUG: Next event of severity Major in 85.53 minutes.
+[20:00:16] cbl-bLrq ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bLRy) 13:38.47
+---------------------
+[15:00:00] cbl-bLRy ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bLRy ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bLRy ADMIN: Loading jobban_rank
+[15:00:00] cbl-bLRy ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bLRy ADMIN: Loading Banlist
+[15:00:00] cbl-bLRy DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bLRy ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bLRy DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bLRy ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bLRy ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bLRy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bLRy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bLRy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bLRy DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bLRy ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bLRy ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bLRy GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bLRy DEBUG: Next event of severity Mundane in 13.59 minutes.
+[15:00:00] cbl-bLRy DEBUG: Next event of severity Moderate in 41.736 minutes.
+[15:00:00] cbl-bLRy DEBUG: Next event of severity Major in 99.985 minutes.
+[15:00:08] cbl-bLRy ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bMsr) 13:42.35
+---------------------
+[05:00:00] cbl-bMsr ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-bMsr ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-bMsr ADMIN: Loading jobban_rank
+[05:00:00] cbl-bMsr ADMIN: jobban_keylist was empty
+[05:00:00] cbl-bMsr ADMIN: Loading Banlist
+[05:00:00] cbl-bMsr DEBUG: Rebuilding Master Controller
+[05:00:00] cbl-bMsr ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bMsr ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bMsr DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbl-bMsr ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bMsr ADMIN: SeverePwnage has started the game.
+[05:00:00] cbl-bMsr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bMsr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bMsr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bMsr DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bMsr ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbl-bMsr ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bMsr GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbl-bMsr DEBUG: Next event of severity Mundane in 15.804 minutes.
+[05:00:00] cbl-bMsr DEBUG: Next event of severity Moderate in 44.076 minutes.
+[05:00:00] cbl-bMsr DEBUG: Next event of severity Major in 93.1483 minutes.
+[05:00:12] cbl-bMsr ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bNi7) 13:48.02
+---------------------
+[15:00:00] cbl-bNi7 ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bNi7 ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bNi7 ADMIN: Loading jobban_rank
+[15:00:00] cbl-bNi7 ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bNi7 ADMIN: Loading Banlist
+[15:00:00] cbl-bNi7 DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bNi7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bNi7 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bNi7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bNi7 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bNi7 ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bNi7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bNi7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bNi7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bNi7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bNi7 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bNi7 ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bNi7 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bNi7 DEBUG: Next event of severity Mundane in 16.752 minutes.
+[15:00:00] cbl-bNi7 DEBUG: Next event of severity Moderate in 45.942 minutes.
+[15:00:00] cbl-bNi7 DEBUG: Next event of severity Major in 91.76 minutes.
+[15:00:14] cbl-bNi7 ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bN3s) 13:52.43
+---------------------
+[20:00:00] cbl-bN3s ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bN3s ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bN3s ADMIN: Loading jobban_rank
+[20:00:00] cbl-bN3s ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bN3s ADMIN: Loading Banlist
+[20:00:00] cbl-bN3s DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bN3s ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bN3s ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bN3s ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bN3s DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bN3s ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bN3s ADMIN: SeverePwnage has started the game.
+[20:00:00] cbl-bN3s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bN3s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bN3s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bN3s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bN3s ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbl-bN3s ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bN3s GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbl-bN3s DEBUG: Next event of severity Mundane in 16.816 minutes.
+[20:00:00] cbl-bN3s DEBUG: Next event of severity Moderate in 37.36 minutes.
+[20:00:00] cbl-bN3s DEBUG: Next event of severity Major in 90.2267 minutes.
+[20:00:16] cbl-bN3s ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bOJt) 13:57.09
+---------------------
+[20:00:00] cbl-bOJt ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bOJt ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bOJt ADMIN: Loading jobban_rank
+[20:00:00] cbl-bOJt ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bOJt ADMIN: Loading Banlist
+[20:00:00] cbl-bOJt DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bOJt ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bOJt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bOJt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bOJt DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bOJt ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bOJt ADMIN: SeverePwnage has started the game.
+[20:00:00] cbl-bOJt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bOJt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bOJt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bOJt DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bOJt ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbl-bOJt ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bOJt GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbl-bOJt DEBUG: Next event of severity Mundane in 16.632 minutes.
+[20:00:00] cbl-bOJt DEBUG: Next event of severity Moderate in 48.742 minutes.
+[20:00:00] cbl-bOJt DEBUG: Next event of severity Major in 84.0933 minutes.
+[20:00:13] cbl-bOJt ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bPcz) 14:00.10
+---------------------
+[05:00:00] cbl-bPcz ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-bPcz ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-bPcz ADMIN: Loading jobban_rank
+[05:00:00] cbl-bPcz ADMIN: jobban_keylist was empty
+[05:00:00] cbl-bPcz ADMIN: Loading Banlist
+[05:00:00] cbl-bPcz DEBUG: Rebuilding Master Controller
+[05:00:00] cbl-bPcz ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bPcz ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPcz ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPcz DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbl-bPcz ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPcz ADMIN: SeverePwnage has started the game.
+[05:00:00] cbl-bPcz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPcz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPcz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPcz DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPcz ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbl-bPcz ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bPcz GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbl-bPcz DEBUG: Next event of severity Mundane in 15.176 minutes.
+[05:00:00] cbl-bPcz DEBUG: Next event of severity Moderate in 46.048 minutes.
+[05:00:00] cbl-bPcz DEBUG: Next event of severity Major in 84.94 minutes.
+[05:00:07] cbl-bPcz ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bPyY) 14:02.29
+---------------------
+[05:00:00] cbl-bPyY ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-bPyY ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-bPyY ADMIN: Loading jobban_rank
+[05:00:00] cbl-bPyY ADMIN: jobban_keylist was empty
+[05:00:00] cbl-bPyY ADMIN: Loading Banlist
+[05:00:00] cbl-bPyY DEBUG: Rebuilding Master Controller
+[05:00:00] cbl-bPyY ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bPyY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPyY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPyY DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbl-bPyY ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bPyY ADMIN: SeverePwnage has started the game.
+[05:00:00] cbl-bPyY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPyY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPyY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPyY DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bPyY ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbl-bPyY ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bPyY GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbl-bPyY DEBUG: Next event of severity Mundane in 15.84 minutes.
+[05:00:00] cbl-bPyY DEBUG: Next event of severity Moderate in 48.678 minutes.
+[05:00:00] cbl-bPyY DEBUG: Next event of severity Major in 82.7433 minutes.
+[05:00:31] cbl-bPyY ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bP0q) 14:06.15
+---------------------
+[10:00:00] cbl-bP0q ADMIN: Loading ckey_whitelist
+[10:00:00] cbl-bP0q ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbl-bP0q ADMIN: Loading jobban_rank
+[10:00:00] cbl-bP0q ADMIN: jobban_keylist was empty
+[10:00:00] cbl-bP0q ADMIN: Loading Banlist
+[10:00:00] cbl-bP0q DEBUG: Rebuilding Master Controller
+[10:00:00] cbl-bP0q ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bP0q ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bP0q DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbl-bP0q ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbl-bP0q ADMIN: SeverePwnage has started the game.
+[10:00:00] cbl-bP0q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bP0q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bP0q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bP0q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbl-bP0q ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbl-bP0q ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[10:00:00] cbl-bP0q GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbl-bP0q DEBUG: Next event of severity Mundane in 15.31 minutes.
+[10:00:00] cbl-bP0q DEBUG: Next event of severity Moderate in 51.328 minutes.
+[10:00:00] cbl-bP0q DEBUG: Next event of severity Major in 97.1917 minutes.
+[10:00:10] cbl-bP0q ADMIN: SeverePwnage/(Roscoe Osterweis) spawned /mob/living/carbon/human/dummy/mannequin at (37,11,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000003]'>MOB</a>)
+[10:00:48] cbl-bP0q ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bUEn) 14:35.04
+---------------------
+[20:00:00] cbl-bUEn ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bUEn ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bUEn ADMIN: Loading jobban_rank
+[20:00:00] cbl-bUEn ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bUEn ADMIN: Loading Banlist
+[20:00:00] cbl-bUEn DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bUEn ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bUEn DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bUEn ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bUEn ADMIN: SeverePwnage has started the game.
+[20:00:00] cbl-bUEn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bUEn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bUEn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bUEn DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bUEn ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbl-bUEn ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bUEn GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbl-bUEn DEBUG: Next event of severity Mundane in 14.358 minutes.
+[20:00:00] cbl-bUEn DEBUG: Next event of severity Moderate in 38.244 minutes.
+[20:00:00] cbl-bUEn DEBUG: Next event of severity Major in 87.575 minutes.
+[20:01:11] cbl-bUEn ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bXJO) 14:54.52
+---------------------
+[15:00:00] cbl-bXJO ADMIN: Loading ckey_whitelist
+[15:00:00] cbl-bXJO ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbl-bXJO ADMIN: Loading jobban_rank
+[15:00:00] cbl-bXJO ADMIN: jobban_keylist was empty
+[15:00:00] cbl-bXJO ADMIN: Loading Banlist
+[15:00:00] cbl-bXJO DEBUG: Rebuilding Master Controller
+[15:00:00] cbl-bXJO ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bXJO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bXJO DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbl-bXJO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bXJO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bXJO ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbl-bXJO ADMIN: SeverePwnage has started the game.
+[15:00:00] cbl-bXJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bXJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bXJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bXJO DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbl-bXJO ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbl-bXJO ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[15:00:00] cbl-bXJO GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbl-bXJO DEBUG: Next event of severity Mundane in 17.474 minutes.
+[15:00:00] cbl-bXJO DEBUG: Next event of severity Moderate in 49.39 minutes.
+[15:00:00] cbl-bXJO DEBUG: Next event of severity Major in 99.8117 minutes.
+[15:01:38] cbl-bXJO ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bYAG) 15:00.19
+---------------------
+[20:00:00] cbl-bYAG ADMIN: Loading ckey_whitelist
+[20:00:00] cbl-bYAG ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbl-bYAG ADMIN: Loading jobban_rank
+[20:00:00] cbl-bYAG ADMIN: jobban_keylist was empty
+[20:00:00] cbl-bYAG ADMIN: Loading Banlist
+[20:00:00] cbl-bYAG DEBUG: Rebuilding Master Controller
+[20:00:00] cbl-bYAG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bYAG ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bYAG DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbl-bYAG ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbl-bYAG ADMIN: SeverePwnage has started the game.
+[20:00:00] cbl-bYAG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bYAG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bYAG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bYAG DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbl-bYAG ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbl-bYAG ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[20:00:00] cbl-bYAG GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbl-bYAG DEBUG: Next event of severity Mundane in 17.284 minutes.
+[20:00:00] cbl-bYAG DEBUG: Next event of severity Moderate in 39.12 minutes.
+[20:00:00] cbl-bYAG DEBUG: Next event of severity Major in 88.915 minutes.
+[20:00:15] cbl-bYAG ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-bY6b) 15:03.29
+---------------------
+[05:00:00] cbl-bY6b ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-bY6b ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-bY6b ADMIN: Loading jobban_rank
+[05:00:00] cbl-bY6b ADMIN: jobban_keylist was empty
+[05:00:00] cbl-bY6b ADMIN: Loading Banlist
+[05:00:00] cbl-bY6b DEBUG: Rebuilding Master Controller
+[05:00:00] cbl-bY6b ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bY6b ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bY6b ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bY6b DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbl-bY6b ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-bY6b ADMIN: SeverePwnage has started the game.
+[05:00:00] cbl-bY6b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bY6b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bY6b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bY6b DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-bY6b ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbl-bY6b ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-bY6b GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbl-bY6b DEBUG: Next event of severity Mundane in 13.416 minutes.
+[05:00:00] cbl-bY6b DEBUG: Next event of severity Moderate in 46.944 minutes.
+[05:00:00] cbl-bY6b DEBUG: Next event of severity Major in 86.7633 minutes.
+[05:00:08] cbl-bY6b ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)
+
+
+Starting up. (ID: cbl-c4Pa) 22:11.04
+---------------------
+[05:00:00] cbl-c4Pa ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-c4Pa ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-c4Pa ADMIN: Loading jobban_rank
+[05:00:00] cbl-c4Pa ADMIN: jobban_keylist was empty
+[05:00:00] cbl-c4Pa ADMIN: Loading Banlist
+[05:00:00] cbl-c4Pa DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbl-c47o) 22:12.51
+---------------------
+[05:00:00] cbl-c47o ADMIN: Loading ckey_whitelist
+[05:00:00] cbl-c47o ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbl-c47o ADMIN: Loading jobban_rank
+[05:00:00] cbl-c47o ADMIN: jobban_keylist was empty
+[05:00:00] cbl-c47o ADMIN: Loading Banlist
+[05:00:00] cbl-c47o DEBUG: Rebuilding Master Controller
+[05:00:00] cbl-c47o ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-c47o DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbl-c47o ADMIN: SeverePwnage deadmined themself.
+[05:00:00] cbl-c47o ADMIN: SeverePwnage re-admined themself.
+[05:00:00] cbl-c47o ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbl-c47o ADMIN: SeverePwnage has started the game.
+[05:00:00] cbl-c47o DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-c47o DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-c47o DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-c47o DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbl-c47o ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbl-c47o ACCESS: Login: SeverePwnage/(Roscoe Osterweis) from localhost-3031256942 || BYOND v513
+[05:00:00] cbl-c47o GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbl-c47o DEBUG: Next event of severity Mundane in 15.17 minutes.
+[05:00:00] cbl-c47o DEBUG: Next event of severity Moderate in 49.3 minutes.
+[05:00:00] cbl-c47o DEBUG: Next event of severity Major in 95.9583 minutes.
+[05:00:17] cbl-c47o ADMIN: SeverePwnage deadmined themself.
+[05:02:36] cbl-c47o ACCESS: Logout: SeverePwnage/(Roscoe Osterweis)

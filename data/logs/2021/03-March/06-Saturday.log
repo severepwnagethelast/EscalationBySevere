@@ -1,0 +1,476 @@
+
+
+Starting up. (ID: caV-a0cm) 09:31.04
+---------------------
+[15:00:00] caV-a0cm ADMIN: Loading jobban_rank
+[15:00:00] caV-a0cm ADMIN: jobban_keylist was empty
+[15:00:00] caV-a0cm ADMIN: Loading Banlist
+[15:00:00] caV-a0cm DEBUG: Rebuilding Master Controller
+[15:00:00] caV-a0cm ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caV-a0cm ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caV-a0cm DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caV-a0cm ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caV-a0cm ADMIN: SeverePwnage has started the game.
+[15:00:00] caV-a0cm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caV-a0cm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caV-a0cm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caV-a0cm DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caV-a0cm ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:00] caV-a0cm GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caV-a0cm DEBUG: Next event of severity Mundane in 12.676 minutes.
+[15:00:00] caV-a0cm DEBUG: Next event of severity Moderate in 51.404 minutes.
+[15:00:00] caV-a0cm DEBUG: Next event of severity Major in 85.6633 minutes.
+[15:00:14] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=39;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:16] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:00:16] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:16] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:16] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at USMC FOB. 
+[15:00:18] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:00:18] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:18] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:18] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:39] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:00:39] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:39] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=37;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:43] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:00:43] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:43] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:43] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at USMC FOB. 
+[15:00:43] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:00:43] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:43] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:43] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:45] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:00:45] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:45] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=35;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000007]'>MOB</a>)
+[15:00:49] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:00:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:49] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at USMC FOB. 
+[15:00:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:00:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:49] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:49] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:00:51] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:00:51] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:51] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=196;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000009]'>MOB</a>)
+[15:00:56] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:00:56] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:56] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:56] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at USMC FOB. 
+[15:00:56] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:00:56] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:00:56] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:56] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:00:58] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:00:58] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:00:58] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=193;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000b]'>MOB</a>)
+[15:01:11] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:11] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:11] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:11] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at USMC FOB. 
+[15:01:11] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:01:11] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:11] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:11] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:01:13] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:13] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:13] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=7;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000d]'>MOB</a>)
+[15:01:15] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:15] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:15] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:15] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at USMC FOB. 
+[15:01:16] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:01:16] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:16] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:16] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:01:18] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:18] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:18] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300000f]'>MOB</a>)
+[15:01:20] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:20] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:20] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:20] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at USMC FOB. 
+[15:01:20] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:01:20] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:20] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:20] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:01:23] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:23] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:23] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000011]'>MOB</a>)
+[15:01:25] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:25] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:25] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:25] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at USMC FOB. 
+[15:01:25] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer creeps in the realm of the dead. 
+[15:01:25] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:25] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:25] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:28] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:28] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:28] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Squad Radio Operator. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000013]'>MOB</a>)
+[15:01:42] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:42] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:42] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:42] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at USMC FOB. 
+[15:01:42] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:01:42] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:42] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:42] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:01:47] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:47] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:47] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=11;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000015]'>MOB</a>)
+[15:01:49] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:01:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:49] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at USMC FOB. 
+[15:01:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:01:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:01:49] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:01:49] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:01:51] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:01:51] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:01:51] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000017]'>MOB</a>)
+[15:02:06] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:02:06] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:06] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:06] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at USMC FOB. 
+[15:02:06] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:02:06] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:06] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:06] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:02:10] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:02:10] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:10] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Grenadier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000019]'>MOB</a>)
+[15:02:20] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:02:20] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:20] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:20] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at USMC FOB. 
+[15:02:20] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer creeps in the realm of the dead. 
+[15:02:20] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:20] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:20] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:02:23] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:02:23] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:23] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=224;Y=3;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001b]'>MOB</a>)
+[15:02:26] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:02:26] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:26] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:26] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at USMC FOB. 
+[15:02:26] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:02:26] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:26] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:26] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:02:29] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:02:29] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:29] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=195;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001d]'>MOB</a>)
+[15:02:40] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:02:40] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:40] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:40] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at USMC FOB. 
+[15:02:40] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:02:40] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:40] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:40] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:02:45] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:02:45] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:45] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300001f]'>MOB</a>)
+[15:02:58] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:02:58] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:58] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:02:58] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at USMC FOB. 
+[15:02:59] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:02:59] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:02:59] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:02:59] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:03:05] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:03:05] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:05] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=230;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000021]'>MOB</a>)
+[15:03:07] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:03:07] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:07] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:07] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at USMC FOB. 
+[15:03:08] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:03:08] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:08] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:08] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:03:10] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:03:10] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:10] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Zugfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=37;Y=281;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000023]'>MOB</a>)
+[15:03:25] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:03:25] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:25] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:25] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at WARPACT FOB. 
+[15:03:25] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:03:25] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:25] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:25] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:03:28] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:03:28] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:28] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Zugfuhrerassistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=35;Y=279;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000025]'>MOB</a>)
+[15:03:33] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:03:33] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:33] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:33] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at WARPACT FOB. 
+[15:03:33] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:03:33] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:33] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:33] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:03:36] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:03:36] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:36] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Zug Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=12;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000027]'>MOB</a>)
+[15:03:45] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:03:45] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:45] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:45] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at WARPACT FOB. 
+[15:03:45] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:03:45] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:03:45] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:03:45] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:03:47] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:03:47] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:03:47] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Zug Machinengewehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=14;Y=266;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[15:04:00] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:00] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:00] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:00] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at WARPACT FOB. 
+[15:04:01] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:04:01] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:01] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:01] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:04:03] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:03] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:03] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Funktelefonbetreiber. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=36;Y=277;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002b]'>MOB</a>)
+[15:04:07] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:07] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:07] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:07] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at WARPACT FOB. 
+[15:04:08] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:04:08] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:08] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:08] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:04:10] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:10] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:10] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Sanitater. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=258;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002d]'>MOB</a>)
+[15:04:16] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:16] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:16] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:16] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at WARPACT FOB. 
+[15:04:16] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:04:16] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:16] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:16] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:04:18] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:18] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:18] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Feldchirurg. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=245;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002f]'>MOB</a>)
+[15:04:24] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:24] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:24] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:24] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at WARPACT FOB. 
+[15:04:24] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:04:24] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:24] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:24] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:04:26] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:26] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:26] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Scharfschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=12;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[15:04:31] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:31] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:31] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:31] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at WARPACT FOB. 
+[15:04:32] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:04:32] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:32] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:32] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:04:36] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:36] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:36] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[15:04:42] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:42] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:42] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:42] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at WARPACT FOB. 
+[15:04:42] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:04:42] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:42] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:42] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:04:49] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:49] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:49] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Gruppenfuhrer Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=18;Y=267;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[15:04:53] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:04:53] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:53] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:53] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at WARPACT FOB. 
+[15:04:53] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:04:53] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:04:53] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:04:53] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:04:56] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:04:56] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:04:56] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Funke. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=260;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000037]'>MOB</a>)
+[15:05:00] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:00] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:00] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:00] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at WARPACT FOB. 
+[15:05:00] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:05:00] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:00] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:00] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:05:04] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:04] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:04] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Panzerabwehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=14;Y=259;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000039]'>MOB</a>)
+[15:05:07] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:07] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:07] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:07] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at WARPACT FOB. 
+[15:05:07] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:05:07] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:07] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:07] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:05:10] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:10] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:10] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Panzerabwehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=14;Y=261;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003b]'>MOB</a>)
+[15:05:13] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:13] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:13] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:13] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at WARPACT FOB. 
+[15:05:13] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:05:13] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:13] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:13] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:05:18] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:18] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:18] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Panzerabwehrschutze Stellvertretender. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=13;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003d]'>MOB</a>)
+[15:05:20] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:20] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:20] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:20] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at WARPACT FOB. 
+[15:05:21] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:05:21] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:21] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:21] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:05:24] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:24] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:24] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Machinengewehrschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=14;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300003f]'>MOB</a>)
+[15:05:28] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:28] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:28] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:28] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at WARPACT FOB. 
+[15:05:29] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:05:29] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:29] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:29] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:05:32] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:32] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:32] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Schutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=19;Y=265;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000041]'>MOB</a>)
+[15:05:40] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:40] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:40] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:40] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at WARPACT FOB. 
+[15:05:40] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer skulks in the realm of the dead. 
+[15:05:40] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:40] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:40] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:05:48] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:48] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:48] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Sanitaterschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=56;Y=257;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000043]'>MOB</a>)
+[15:05:51] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:51] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:51] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:51] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at WARPACT FOB. 
+[15:05:51] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer creeps in the realm of the dead. 
+[15:05:51] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:51] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:51] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:05:55] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:05:55] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:55] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=17;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000045]'>MOB</a>)
+[15:05:58] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:05:58] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:58] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:05:58] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at WARPACT FOB. 
+[15:05:58] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:05:58] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:05:58] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:05:58] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:06:04] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:06:04] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:04] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000047]'>MOB</a>)
+[15:06:11] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:06:11] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:11] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:11] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at the area. 
+[15:06:11] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer creeps in the realm of the dead. 
+[15:06:11] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:11] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:11] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:06:30] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:06:30] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:30] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as NVA Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=16;Y=262;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000049]'>MOB</a>)
+[15:06:41] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:06:41] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:41] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:41] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at WARPACT FOB. 
+[15:06:41] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:06:41] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:41] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:41] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:06:47] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:06:47] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:47] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Schwere Waffen Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=228;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004b]'>MOB</a>)
+[15:06:49] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:06:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:49] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now lurks among the dead at USMC FOB. 
+[15:06:49] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:06:49] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:49] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:49] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:06:52] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:06:52] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:52] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Schwere Waffen Gruppe Kanonier. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=226;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004d]'>MOB</a>)
+[15:06:53] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:06:53] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:53] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:53] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now prowls among the dead at USMC FOB. 
+[15:06:53] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:06:53] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:53] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:53] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:06:55] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:06:55] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:55] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Schwere Waffen Gruppe Ladeschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=15;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300004f]'>MOB</a>)
+[15:06:57] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:06:57] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:57] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:06:57] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now stalks among the dead at USMC FOB. 
+[15:06:57] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer lurks in the realm of the dead. 
+[15:06:57] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:06:57] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:06:57] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:07:12] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:07:12] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:07:12] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW AT Gruppenfuhrer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000051]'>MOB</a>)
+[15:07:31] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:07:31] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:07:31] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:07:31] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now creeps among the dead at the area. 
+[15:07:34] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer prowls in the realm of the dead. 
+[15:07:34] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:07:34] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:34] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:07:37] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:07:37] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:07:37] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Panzerfaustschutze. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=227;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[15:07:39] caV-a0cm GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Malik Durstine) has ghosted.
+[15:07:39] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:07:39] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:07:39] caV-a0cm SAY: (DSAY) SeverePwnage - usr: *no key*/(Malik Durstine) : The ghost of <span class='name'>Malik Durstine</span> now skulks among the dead at USMC FOB. 
+[15:07:39] caV-a0cm SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Malik Durstine) : <span class='name'>Malik Durstine</span> no longer stalks in the realm of the dead. 
+[15:07:39] caV-a0cm ACCESS: Logout: *no key*/(Malik Durstine)
+[15:07:39] caV-a0cm ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:07:39] caV-a0cm ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000057]'>MOB</a>)
+[15:07:42] caV-a0cm ACCESS: Logout: *no key*/(new player)
+[15:07:42] caV-a0cm ACCESS: Login: SeverePwnage/(Malik Durstine) from localhost-3031256942 || BYOND v513
+[15:07:42] caV-a0cm ADMIN: SeverePwnage/(Malik Durstine) has joined the round as BDW Panzerfaustschutze Assistant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=150;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000055]'>MOB</a>)
+[15:08:09] caV-a0cm ACCESS: Logout: SeverePwnage/(Malik Durstine)

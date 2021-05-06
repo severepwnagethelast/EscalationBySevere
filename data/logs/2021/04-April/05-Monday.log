@@ -1,0 +1,327 @@
+
+
+Starting up. (ID: cbo-dlKD) 00:05.55
+---------------------
+[15:00:00] cbo-dlKD ADMIN: Loading ckey_whitelist
+[15:00:00] cbo-dlKD ADMIN: ckey_whitelist: 165 entrie(s).
+[15:00:00] cbo-dlKD ADMIN: Loading jobban_rank
+[15:00:00] cbo-dlKD ADMIN: jobban_keylist was empty
+[15:00:00] cbo-dlKD ADMIN: Loading Banlist
+[15:00:00] cbo-dlKD DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbo-dma7) 00:08.39
+---------------------
+[05:00:00] cbo-dma7 ADMIN: Loading ckey_whitelist
+[05:00:00] cbo-dma7 ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbo-dma7 ADMIN: Loading jobban_rank
+[05:00:00] cbo-dma7 ADMIN: jobban_keylist was empty
+[05:00:00] cbo-dma7 ADMIN: Loading Banlist
+[05:00:00] cbo-dma7 DEBUG: Rebuilding Master Controller
+[05:00:00] cbo-dma7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbo-dma7 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbo-dma7 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbo-dma7 ADMIN: SeverePwnage has started the game.
+[05:00:00] cbo-dma7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbo-dma7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbo-dma7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbo-dma7 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbo-dma7 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbo-dma7 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbo-dma7 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbo-dma7 DEBUG: Next event of severity Mundane in 14.586 minutes.
+[05:00:00] cbo-dma7 DEBUG: Next event of severity Moderate in 45.396 minutes.
+[05:00:00] cbo-dma7 DEBUG: Next event of severity Major in 83.4383 minutes.
+[05:00:08] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the steel door at (18,10,1)
+[05:00:38] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) has set forth the end of the world. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=21;Y=4;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:50] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to the large hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=64;Y=186;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:54] cbo-dma7 GAME: Explosion with size (1, 2, 3) in area large hard floor 
+[05:01:08] cbo-dma7 GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) activated a satchel charge.
+[05:01:08] cbo-dma7 ATTACK: Artyom Chynorjy (severepwnage) primed C4 explosive satchel (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=185;Z=1'>JMP</a>)
+[05:01:41] cbo-dma7 GAME: Explosion with size (1, 2, 3) in area large hard floor 
+[05:02:00] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=33;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:02:09] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) jumped to the medium hard floor (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=166;Y=130;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:02:13] cbo-dma7 ADMIN: SeverePwnage/(Artyom Chynorjy) deleted the window at (168,130,1)
+[05:02:17] cbo-dma7 GAME: Explosion with size (1, 2, 3) in area medium hard floor 
+[05:02:24] cbo-dma7 ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-a2q4) 08:41.20
+---------------------
+[15:00:00] cbp-a2q4 ADMIN: Loading ckey_whitelist
+[15:00:00] cbp-a2q4 ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbp-a2q4 ADMIN: Loading jobban_rank
+[15:00:00] cbp-a2q4 ADMIN: jobban_keylist was empty
+[15:00:00] cbp-a2q4 ADMIN: Loading Banlist
+[15:00:00] cbp-a2q4 DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbp-bkYk) 10:46.31
+---------------------
+[05:00:00] cbp-bkYk ADMIN: Loading ckey_whitelist
+[05:00:00] cbp-bkYk ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbp-bkYk ADMIN: Loading jobban_rank
+[05:00:00] cbp-bkYk ADMIN: jobban_keylist was empty
+[05:00:00] cbp-bkYk ADMIN: Loading Banlist
+[05:00:00] cbp-bkYk DEBUG: Rebuilding Master Controller
+[05:00:00] cbp-bkYk ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-bkYk ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-bkYk ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbp-blre) 10:49.31
+---------------------
+[15:00:00] cbp-blre ADMIN: Loading ckey_whitelist
+[15:00:00] cbp-blre ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbp-blre ADMIN: Loading jobban_rank
+[15:00:00] cbp-blre ADMIN: jobban_keylist was empty
+[15:00:00] cbp-blre ADMIN: Loading Banlist
+[15:00:00] cbp-blre DEBUG: Rebuilding Master Controller
+[15:00:00] cbp-blre ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-blre ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbp-blre DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbp-blre ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbp-blre ADMIN: SeverePwnage/(SeverePwnage) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[15:00:00] cbp-blre ADMIN: SeverePwnage has started the game.
+[15:00:00] cbp-blre DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-blre DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-blre DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-blre DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-blre ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbp-blre ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-blre GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbp-blre DEBUG: Next event of severity Mundane in 13.552 minutes.
+[15:00:00] cbp-blre DEBUG: Next event of severity Moderate in 38.594 minutes.
+[15:00:00] cbp-blre DEBUG: Next event of severity Major in 96.8 minutes.
+[15:00:33] cbp-blre GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Artyom Chynorjy) has ghosted.
+[15:00:33] cbp-blre ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:33] cbp-blre ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:33] cbp-blre SAY: (DSAY) SeverePwnage - usr: *no key*/(Artyom Chynorjy) : The ghost of <span class='name'>Artyom Chynorjy</span> now creeps among the dead at the small hard floor. 
+[15:00:33] cbp-blre SAY: (DSAY) SeverePwnage - usr: SeverePwnage/(Artyom Chynorjy) : <span class='name'>Artyom Chynorjy</span> no longer stalks in the realm of the dead. 
+[15:00:33] cbp-blre ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:33] cbp-blre ACCESS: Login: SeverePwnage/(new player) from localhost-3031256942 || BYOND v513
+[15:00:33] cbp-blre ADMIN: SeverePwnage/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000006]'>MOB</a>)
+[15:00:43] cbp-blre ACCESS: Logout: *no key*/(new player)
+[15:00:43] cbp-blre ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+
+
+Starting up. (ID: cbp-bpIG) 11:16.56
+---------------------
+[10:00:00] cbp-bpIG ADMIN: Loading ckey_whitelist
+[10:00:00] cbp-bpIG ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbp-bpIG ADMIN: Loading jobban_rank
+[10:00:00] cbp-bpIG ADMIN: jobban_keylist was empty
+[10:00:00] cbp-bpIG ADMIN: Loading Banlist
+[10:00:00] cbp-bpIG DEBUG: Rebuilding Master Controller
+[10:00:00] cbp-bpIG ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbp-bpIG ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbp-bvrC) 11:53.37
+---------------------
+[05:00:00] cbp-bvrC ADMIN: Loading ckey_whitelist
+[05:00:00] cbp-bvrC ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbp-bvrC ADMIN: Loading jobban_rank
+[05:00:00] cbp-bvrC ADMIN: jobban_keylist was empty
+[05:00:00] cbp-bvrC ADMIN: Loading Banlist
+[05:00:00] cbp-bvrC DEBUG: Rebuilding Master Controller
+[05:00:00] cbp-bvrC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-bvrC ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-bvrC ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-bvrC ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbp-bCX0) 12:41.50
+---------------------
+[10:00:00] cbp-bCX0 ADMIN: Loading ckey_whitelist
+[10:00:00] cbp-bCX0 ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbp-bCX0 ADMIN: Loading jobban_rank
+[10:00:00] cbp-bCX0 ADMIN: jobban_keylist was empty
+[10:00:00] cbp-bCX0 ADMIN: Loading Banlist
+[10:00:00] cbp-bCX0 DEBUG: Rebuilding Master Controller
+[10:00:00] cbp-bCX0 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbp-bCX0 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbp-cRC6) 20:52.56
+---------------------
+[20:00:00] cbp-cRC6 ADMIN: Loading ckey_whitelist
+[20:00:00] cbp-cRC6 ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbp-cRC6 ADMIN: Loading jobban_rank
+[20:00:00] cbp-cRC6 ADMIN: jobban_keylist was empty
+[20:00:00] cbp-cRC6 ADMIN: Loading Banlist
+[20:00:00] cbp-cRC6 DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: cbp-cRNU) 20:54.04
+---------------------
+[05:00:00] cbp-cRNU ADMIN: Loading ckey_whitelist
+[05:00:00] cbp-cRNU ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbp-cRNU ADMIN: Loading jobban_rank
+[05:00:00] cbp-cRNU ADMIN: jobban_keylist was empty
+[05:00:00] cbp-cRNU ADMIN: Loading Banlist
+[05:00:00] cbp-cRNU DEBUG: Rebuilding Master Controller
+[05:00:00] cbp-cRNU ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cRNU DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbp-cRNU ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cRNU ADMIN: SeverePwnage has started the game.
+[05:00:00] cbp-cRNU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cRNU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cRNU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cRNU DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cRNU ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbp-cRNU ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cRNU GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbp-cRNU DEBUG: Next event of severity Mundane in 13.644 minutes.
+[05:00:00] cbp-cRNU DEBUG: Next event of severity Moderate in 36.472 minutes.
+[05:00:00] cbp-cRNU DEBUG: Next event of severity Major in 88.2167 minutes.
+[05:00:02] cbp-cRNU ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 12:58.
+[05:00:04] cbp-cRNU ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:04] cbp-cRNU ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:01:12] cbp-cRNU ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-cSHk) 20:59.47
+---------------------
+[15:00:00] cbp-cSHk ADMIN: Loading ckey_whitelist
+[15:00:00] cbp-cSHk ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbp-cSHk ADMIN: Loading jobban_rank
+[15:00:00] cbp-cSHk ADMIN: jobban_keylist was empty
+[15:00:00] cbp-cSHk ADMIN: Loading Banlist
+[15:00:00] cbp-cSHk DEBUG: Rebuilding Master Controller
+[15:00:00] cbp-cSHk ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-cSHk DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbp-cSHk ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbp-cSHk ADMIN: SeverePwnage has started the game.
+[15:00:00] cbp-cSHk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cSHk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cSHk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cSHk DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cSHk ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbp-cSHk ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-cSHk GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbp-cSHk DEBUG: Next event of severity Mundane in 12.91 minutes.
+[15:00:00] cbp-cSHk DEBUG: Next event of severity Moderate in 38.28 minutes.
+[15:00:00] cbp-cSHk DEBUG: Next event of severity Major in 83.4433 minutes.
+[15:00:04] cbp-cSHk ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 10:54.
+[15:00:06] cbp-cSHk ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:06] cbp-cSHk ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:51] cbp-cSHk ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-cVNC) 21:19.39
+---------------------
+[20:00:00] cbp-cVNC ADMIN: Loading ckey_whitelist
+[20:00:00] cbp-cVNC ADMIN: ckey_whitelist: 4 entrie(s).
+[20:00:00] cbp-cVNC ADMIN: Loading jobban_rank
+[20:00:00] cbp-cVNC ADMIN: jobban_keylist was empty
+[20:00:00] cbp-cVNC ADMIN: Loading Banlist
+[20:00:00] cbp-cVNC DEBUG: Rebuilding Master Controller
+[20:00:00] cbp-cVNC ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbp-cVNC DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] cbp-cVNC ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] cbp-cVNC ADMIN: SeverePwnage has started the game.
+[20:00:00] cbp-cVNC DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbp-cVNC DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbp-cVNC DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbp-cVNC DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] cbp-cVNC ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] cbp-cVNC ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:00] cbp-cVNC GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] cbp-cVNC DEBUG: Next event of severity Mundane in 13.532 minutes.
+[20:00:00] cbp-cVNC DEBUG: Next event of severity Moderate in 42.59 minutes.
+[20:00:00] cbp-cVNC DEBUG: Next event of severity Major in 83.2733 minutes.
+[20:00:04] cbp-cVNC ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 12:29.
+[20:00:07] cbp-cVNC ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[20:00:07] cbp-cVNC ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[20:00:48] cbp-cVNC ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-cYva) 21:36.58
+---------------------
+[05:00:00] cbp-cYva ADMIN: Loading ckey_whitelist
+[05:00:00] cbp-cYva ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbp-cYva ADMIN: Loading jobban_rank
+[05:00:00] cbp-cYva ADMIN: jobban_keylist was empty
+[05:00:00] cbp-cYva ADMIN: Loading Banlist
+[05:00:00] cbp-cYva DEBUG: Rebuilding Master Controller
+[05:00:00] cbp-cYva ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cYva ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cYva ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cYva ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cYva ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cYva DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbp-cYva ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cYva ADMIN: SeverePwnage has started the game.
+[05:00:00] cbp-cYva DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cYva DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cYva DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cYva DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cYva ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbp-cYva ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cYva GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbp-cYva DEBUG: Next event of severity Mundane in 14.978 minutes.
+[05:00:00] cbp-cYva DEBUG: Next event of severity Moderate in 53.234 minutes.
+[05:00:00] cbp-cYva DEBUG: Next event of severity Major in 84.5467 minutes.
+[05:00:03] cbp-cYva ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 04:42.
+[05:00:08] cbp-cYva ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 12:42.
+[05:00:10] cbp-cYva ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:10] cbp-cYva ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:15] cbp-cYva GAME: Explosion with size (0, 0, 0) in area forest 
+[05:00:22] cbp-cYva ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-cY7B) 21:40.50
+---------------------
+[15:00:00] cbp-cY7B ADMIN: Loading ckey_whitelist
+[15:00:00] cbp-cY7B ADMIN: ckey_whitelist: 4 entrie(s).
+[15:00:00] cbp-cY7B ADMIN: Loading jobban_rank
+[15:00:00] cbp-cY7B ADMIN: jobban_keylist was empty
+[15:00:00] cbp-cY7B ADMIN: Loading Banlist
+[15:00:00] cbp-cY7B DEBUG: Rebuilding Master Controller
+[15:00:00] cbp-cY7B ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-cY7B DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] cbp-cY7B ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] cbp-cY7B ADMIN: SeverePwnage has started the game.
+[15:00:00] cbp-cY7B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cY7B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cY7B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cY7B DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] cbp-cY7B ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] cbp-cY7B ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:00] cbp-cY7B GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] cbp-cY7B DEBUG: Next event of severity Mundane in 14.596 minutes.
+[15:00:00] cbp-cY7B DEBUG: Next event of severity Moderate in 36.458 minutes.
+[15:00:00] cbp-cY7B DEBUG: Next event of severity Major in 94.2783 minutes.
+[15:00:03] cbp-cY7B ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[15:00:03] cbp-cY7B ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[15:00:06] cbp-cY7B ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 12:18.
+[15:00:17] cbp-cY7B ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)
+
+
+Starting up. (ID: cbp-cZyv) 21:43.43
+---------------------
+[05:00:00] cbp-cZyv ADMIN: Loading ckey_whitelist
+[05:00:00] cbp-cZyv ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbp-cZyv ADMIN: Loading jobban_rank
+[05:00:00] cbp-cZyv ADMIN: jobban_keylist was empty
+[05:00:00] cbp-cZyv ADMIN: Loading Banlist
+[05:00:00] cbp-cZyv DEBUG: Rebuilding Master Controller
+[05:00:00] cbp-cZyv ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cZyv DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbp-cZyv ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbp-cZyv ADMIN: SeverePwnage has started the game.
+[05:00:00] cbp-cZyv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cZyv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cZyv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cZyv DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbp-cZyv ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbp-cZyv ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbp-cZyv GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbp-cZyv DEBUG: Next event of severity Mundane in 16.83 minutes.
+[05:00:00] cbp-cZyv DEBUG: Next event of severity Moderate in 40.056 minutes.
+[05:00:00] cbp-cZyv DEBUG: Next event of severity Major in 98.1133 minutes.
+[05:00:08] cbp-cZyv ACCESS: Logout: *no key*/(Artyom Chynorjy)
+[05:00:08] cbp-cZyv ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:48] cbp-cZyv GAME: Explosion with size (0, 0, 0) in area forest 
+[05:00:51] cbp-cZyv ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)

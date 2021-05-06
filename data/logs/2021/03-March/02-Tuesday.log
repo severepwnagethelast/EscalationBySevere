@@ -1,0 +1,279 @@
+
+
+Starting up. (ID: caR-bhBE) 10:24.58
+---------------------
+[15:00:00] caR-bhBE ADMIN: Loading jobban_rank
+[15:00:00] caR-bhBE ADMIN: jobban_keylist was empty
+[15:00:00] caR-bhBE ADMIN: Loading Banlist
+[15:00:00] caR-bhBE DEBUG: Rebuilding Master Controller
+[15:00:00] caR-bhBE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-bhBE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caR-bhBE ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caR-bhBE ADMIN: SeverePwnage has started the game.
+[15:00:00] caR-bhBE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bhBE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bhBE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bhBE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bhBE ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caR-bhBE ACCESS: Login: SeverePwnage/(Jamar Fisher) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-bhBE GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caR-bhBE DEBUG: Next event of severity Mundane in 14.844 minutes.
+[15:00:00] caR-bhBE DEBUG: Next event of severity Moderate in 45.036 minutes.
+[15:00:00] caR-bhBE DEBUG: Next event of severity Major in 99.4383 minutes.
+[15:00:11] caR-bhBE GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Jamar Fisher) used a grenade (40x103mm 'GRD-50' grenade shell).
+[15:00:18] caR-bhBE ADMIN: SeverePwnage/(Jamar Fisher) deleted the steel door at (32,259,1)
+[15:00:21] caR-bhBE ADMIN: SeverePwnage/(Jamar Fisher) deleted the steel door at (32,254,1)
+[15:00:24] caR-bhBE ACCESS: Logout: SeverePwnage/(Jamar Fisher)
+
+
+Starting up. (ID: caR-bkfQ) 10:41.54
+---------------------
+[10:00:00] caR-bkfQ ADMIN: Loading jobban_rank
+[10:00:00] caR-bkfQ ADMIN: jobban_keylist was empty
+[10:00:00] caR-bkfQ ADMIN: Loading Banlist
+[10:00:00] caR-bkfQ DEBUG: Rebuilding Master Controller
+[10:00:00] caR-bkfQ ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-bkfQ ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-bkfQ ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-bkfQ DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caR-bkfQ ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-bkfQ ADMIN: SeverePwnage has started the game.
+[10:00:00] caR-bkfQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-bkfQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-bkfQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-bkfQ DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-bkfQ ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caR-bkfQ ACCESS: Login: SeverePwnage/(Brendan Costello) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-bkfQ GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caR-bkfQ DEBUG: Next event of severity Mundane in 12.804 minutes.
+[10:00:00] caR-bkfQ DEBUG: Next event of severity Moderate in 42.572 minutes.
+[10:00:00] caR-bkfQ DEBUG: Next event of severity Major in 88.28 minutes.
+[10:00:08] caR-bkfQ GAME: <a href='?priv_msg=[0x5000000];ticket=[0x0]'>SeverePwnage</a>/(Brendan Costello) used a grenade (40x103mm 'GRD-50' grenade shell).
+[10:00:17] caR-bkfQ ADMIN: SeverePwnage/(Brendan Costello) deleted the steel door at (40,259,1)
+[10:00:20] caR-bkfQ ACCESS: Logout: SeverePwnage/(Brendan Costello)
+
+
+Starting up. (ID: caR-bt6Q) 11:44.56
+---------------------
+[15:00:00] caR-bt6Q ADMIN: Loading jobban_rank
+[15:00:00] caR-bt6Q ADMIN: jobban_keylist was empty
+[15:00:00] caR-bt6Q ADMIN: Loading Banlist
+[15:00:00] caR-bt6Q DEBUG: Rebuilding Master Controller
+[15:00:00] caR-bt6Q ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-bt6Q DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caR-bt6Q ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caR-bt6Q ADMIN: SeverePwnage has started the game.
+[15:00:00] caR-bt6Q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bt6Q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bt6Q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bt6Q DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-bt6Q ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caR-bt6Q ACCESS: Login: SeverePwnage/(Dalton Simmons) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-bt6Q GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caR-bt6Q DEBUG: Next event of severity Mundane in 17.302 minutes.
+[15:00:00] caR-bt6Q DEBUG: Next event of severity Moderate in 51.044 minutes.
+[15:00:00] caR-bt6Q DEBUG: Next event of severity Major in 92.1967 minutes.
+[15:00:29] caR-bt6Q ADMIN: SeverePwnage/(Dalton Simmons) spawned /obj/item/clothing/head/helmet/coldwar/soviet/ssh68/medic at (190,8,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=190;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:00:54] caR-bt6Q ADMIN: SeverePwnage/(Dalton Simmons) spawned /obj/item/clothing/head/helmet/coldwar/nvaddr/m56/medic at (181,8,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:08] caR-bt6Q ADMIN: SeverePwnage/(Dalton Simmons) spawned /obj/item/clothing/head/helmet/coldwar/nvaddr/m56/netting at (183,9,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=9;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:21] caR-bt6Q ADMIN: SeverePwnage/(Dalton Simmons) spawned /obj/item/clothing/head/helmet/coldwar/bdw/m62/netting at (180,8,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=180;Y=8;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[15:01:33] caR-bt6Q ACCESS: Logout: SeverePwnage/(Dalton Simmons)
+
+
+Starting up. (ID: caR-bFEE) 12:59.00
+---------------------
+[15:00:00] caR-bFEE ADMIN: Loading jobban_rank
+[15:00:00] caR-bFEE ADMIN: jobban_keylist was empty
+[15:00:00] caR-bFEE ADMIN: Loading Banlist
+[15:00:00] caR-bFEE DEBUG: Rebuilding Master Controller
+[15:00:00] caR-bFEE ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-bFEE ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caR-bYgy) 14:58.14
+---------------------
+[20:00:00] caR-bYgy ADMIN: Loading jobban_rank
+[20:00:00] caR-bYgy ADMIN: jobban_keylist was empty
+[20:00:00] caR-bYgy ADMIN: Loading Banlist
+[20:00:00] caR-bYgy DEBUG: Rebuilding Master Controller
+[20:00:00] caR-bYgy ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[20:00:00] caR-bYgy ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caR-b2JW) 15:20.29
+---------------------
+[15:00:00] caR-b2JW ADMIN: Loading jobban_rank
+[15:00:00] caR-b2JW ADMIN: jobban_keylist was empty
+[15:00:00] caR-b2JW ADMIN: Loading Banlist
+[15:00:00] caR-b2JW DEBUG: Rebuilding Master Controller
+[15:00:00] caR-b2JW ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+
+
+Starting up. (ID: caR-b30w) 15:29.32
+---------------------
+[10:00:00] caR-b30w ADMIN: Loading jobban_rank
+[10:00:00] caR-b30w ADMIN: jobban_keylist was empty
+[10:00:00] caR-b30w ADMIN: Loading Banlist
+[10:00:00] caR-b30w DEBUG: Rebuilding Master Controller
+[10:00:00] caR-b30w ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-b30w ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-b30w DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caR-b30w ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-b30w ADMIN: SeverePwnage has started the game.
+[10:00:00] caR-b30w DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b30w DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b30w DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b30w DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b30w ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caR-b30w ACCESS: Login: SeverePwnage/(Reynard Keener) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-b30w GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caR-b30w DEBUG: Next event of severity Mundane in 12.274 minutes.
+[10:00:00] caR-b30w DEBUG: Next event of severity Moderate in 39.726 minutes.
+[10:00:00] caR-b30w DEBUG: Next event of severity Major in 89.1967 minutes.
+[10:00:38] caR-b30w ACCESS: Logout: SeverePwnage/(Reynard Keener)
+
+
+Starting up. (ID: caR-b4W8) 15:34.40
+---------------------
+[20:00:00] caR-b4W8 ADMIN: Loading jobban_rank
+[20:00:00] caR-b4W8 ADMIN: jobban_keylist was empty
+[20:00:00] caR-b4W8 ADMIN: Loading Banlist
+[20:00:00] caR-b4W8 DEBUG: Rebuilding Master Controller
+[20:00:00] caR-b4W8 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] caR-b4W8 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[20:00:00] caR-b4W8 ADMIN: SeverePwnage Is accessing the game start menu.
+[20:00:00] caR-b4W8 ADMIN: SeverePwnage has started the game.
+[20:00:00] caR-b4W8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caR-b4W8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caR-b4W8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caR-b4W8 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[20:00:00] caR-b4W8 ACCESS: Logout: *no key*/(SeverePwnage)
+[20:00:00] caR-b4W8 ACCESS: Login: SeverePwnage/(Dante Wible) from localhost-3031256942 || BYOND v513
+[20:00:00] caR-b4W8 GAME: SQL ERROR during population polling. Failed to connect.
+[20:00:00] caR-b4W8 DEBUG: Next event of severity Mundane in 16.288 minutes.
+[20:00:00] caR-b4W8 DEBUG: Next event of severity Moderate in 52.322 minutes.
+[20:00:00] caR-b4W8 DEBUG: Next event of severity Major in 81.4267 minutes.
+[20:00:59] caR-b4W8 ATTACK: SeverePwnage/(Dante Wible) used the morphine syrette to inject /datum/reagent/morphine (10) (5u transferred) into SeverePwnage/(Dante Wible) (INTENT: HELP) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=250;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[20:02:24] caR-b4W8 ACCESS: Logout: SeverePwnage/(Dante Wible)
+
+
+Starting up. (ID: caR-b7r4) 15:50.40
+---------------------
+[10:00:00] caR-b7r4 ADMIN: Loading jobban_rank
+[10:00:00] caR-b7r4 ADMIN: jobban_keylist was empty
+[10:00:00] caR-b7r4 ADMIN: Loading Banlist
+[10:00:00] caR-b7r4 DEBUG: Rebuilding Master Controller
+[10:00:00] caR-b7r4 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-b7r4 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caR-b7r4 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: caR-b8z1) 15:57.54
+---------------------
+[15:00:00] caR-b8z1 ADMIN: Loading jobban_rank
+[15:00:00] caR-b8z1 ADMIN: jobban_keylist was empty
+[15:00:00] caR-b8z1 ADMIN: Loading Banlist
+[15:00:00] caR-b8z1 DEBUG: Rebuilding Master Controller
+[15:00:00] caR-b8z1 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-b8z1 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[15:00:00] caR-b8z1 ADMIN: SeverePwnage Is accessing the game start menu.
+[15:00:00] caR-b8z1 ADMIN: SeverePwnage has started the game.
+[15:00:00] caR-b8z1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-b8z1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-b8z1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-b8z1 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[15:00:00] caR-b8z1 ACCESS: Logout: *no key*/(SeverePwnage)
+[15:00:00] caR-b8z1 ACCESS: Login: SeverePwnage/(Parker Todd) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-b8z1 GAME: SQL ERROR during population polling. Failed to connect.
+[15:00:00] caR-b8z1 DEBUG: Next event of severity Mundane in 12.018 minutes.
+[15:00:00] caR-b8z1 DEBUG: Next event of severity Moderate in 49.6 minutes.
+[15:00:00] caR-b8z1 DEBUG: Next event of severity Major in 92.31 minutes.
+[15:00:44] caR-b8z1 ACCESS: Logout: SeverePwnage/(Parker Todd)
+
+
+Starting up. (ID: caR-b0n5) 16:09.29
+---------------------
+[10:00:00] caR-b0n5 ADMIN: Loading jobban_rank
+[10:00:00] caR-b0n5 ADMIN: jobban_keylist was empty
+[10:00:00] caR-b0n5 ADMIN: Loading Banlist
+[10:00:00] caR-b0n5 DEBUG: Rebuilding Master Controller
+[10:00:00] caR-b0n5 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-b0n5 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-b0n5 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-b0n5 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] caR-b0n5 ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] caR-b0n5 ADMIN: SeverePwnage has started the game.
+[10:00:00] caR-b0n5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b0n5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b0n5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b0n5 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] caR-b0n5 ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] caR-b0n5 ACCESS: Login: SeverePwnage/(Jed Ackerley) from localhost-3031256942 || BYOND v513
+[10:00:00] caR-b0n5 GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] caR-b0n5 DEBUG: Next event of severity Mundane in 12.884 minutes.
+[10:00:00] caR-b0n5 DEBUG: Next event of severity Moderate in 49.066 minutes.
+[10:00:00] caR-b0n5 DEBUG: Next event of severity Major in 80.1283 minutes.
+[10:01:53] caR-b0n5 ADMIN: SeverePwnage/(Jed Ackerley) spawned /obj/item/weapon/storage/firstaid/usmc_ifak at (49,247,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=49;Y=247;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:01:59] caR-b0n5 ADMIN: SeverePwnage/(Jed Ackerley) spawned /obj/item/weapon/storage/firstaid/sa_ifak at (49,251,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=49;Y=251;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[10:02:04] caR-b0n5 ACCESS: Logout: SeverePwnage/(Jed Ackerley)
+
+
+Starting up. (ID: caR-caKE) 16:18.13
+---------------------
+[05:00:00] caR-caKE ADMIN: Loading jobban_rank
+[05:00:00] caR-caKE ADMIN: jobban_keylist was empty
+[05:00:00] caR-caKE ADMIN: Loading Banlist
+[05:00:00] caR-caKE DEBUG: Rebuilding Master Controller
+[05:00:00] caR-caKE ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caR-caKE ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caR-caKE ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caR-caKE DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caR-caKE ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caR-caKE ADMIN: SeverePwnage has started the game.
+[05:00:00] caR-caKE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-caKE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-caKE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-caKE DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-caKE ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caR-caKE ACCESS: Login: SeverePwnage/(Edgar Basinger) from localhost-3031256942 || BYOND v513
+[05:00:00] caR-caKE GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caR-caKE DEBUG: Next event of severity Mundane in 16.608 minutes.
+[05:00:00] caR-caKE DEBUG: Next event of severity Moderate in 45.754 minutes.
+[05:00:00] caR-caKE DEBUG: Next event of severity Major in 97.6733 minutes.
+[05:00:12] caR-caKE ADMIN: SeverePwnage/(Edgar Basinger) spawned /obj/item/weapon/storage/firstaid/ifak/soviet at (197,10,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=197;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:17] caR-caKE ADMIN: SeverePwnage/(Edgar Basinger) spawned /obj/item/weapon/storage/firstaid/ifak/nato at (198,10,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=198;Y=10;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[05:00:29] caR-caKE ACCESS: Logout: SeverePwnage/(Edgar Basinger)
+
+
+Starting up. (ID: caR-cdPS) 16:37.59
+---------------------
+[15:00:00] caR-cdPS ADMIN: Loading jobban_rank
+[15:00:00] caR-cdPS ADMIN: jobban_keylist was empty
+[15:00:00] caR-cdPS ADMIN: Loading Banlist
+[15:00:00] caR-cdPS DEBUG: Rebuilding Master Controller
+[15:00:00] caR-cdPS ACCESS: Login: Guest-3031256942/(Guest-3031256942) from localhost-3031256942 || BYOND v513
+[15:00:00] caR-cdPS ACCESS: Logout: Guest-3031256942/(Guest-3031256942)
+
+
+Starting up. (ID: caR-cd1s) 16:39.04
+---------------------
+[05:00:00] caR-cd1s ADMIN: Loading jobban_rank
+[05:00:00] caR-cd1s ADMIN: jobban_keylist was empty
+[05:00:00] caR-cd1s ADMIN: Loading Banlist
+[05:00:00] caR-cd1s DEBUG: Rebuilding Master Controller
+[05:00:00] caR-cd1s ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] caR-cd1s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caR-cd1s DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] caR-cd1s ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] caR-cd1s ADMIN: SeverePwnage has started the game.
+[05:00:00] caR-cd1s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-cd1s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-cd1s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-cd1s DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] caR-cd1s ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] caR-cd1s ACCESS: Login: SeverePwnage/(Lukas Werner) from localhost-3031256942 || BYOND v513
+[05:00:00] caR-cd1s GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] caR-cd1s DEBUG: Next event of severity Mundane in 16.336 minutes.
+[05:00:00] caR-cd1s DEBUG: Next event of severity Moderate in 36.004 minutes.
+[05:00:00] caR-cd1s DEBUG: Next event of severity Major in 87.7333 minutes.
+[05:00:47] caR-cd1s ACCESS: Logout: SeverePwnage/(Lukas Werner)

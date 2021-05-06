@@ -1,0 +1,26 @@
+
+
+Starting up. (ID: cbt-box2) 11:09.25
+---------------------
+[05:00:00] cbt-box2 ADMIN: Loading ckey_whitelist
+[05:00:00] cbt-box2 ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbt-box2 ADMIN: Loading jobban_rank
+[05:00:00] cbt-box2 ADMIN: jobban_keylist was empty
+[05:00:00] cbt-box2 ADMIN: Loading Banlist
+[05:00:00] cbt-box2 DEBUG: Rebuilding Master Controller
+[05:00:00] cbt-box2 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbt-box2 DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbt-box2 ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbt-box2 ADMIN: SeverePwnage has started the game.
+[05:00:00] cbt-box2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbt-box2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbt-box2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbt-box2 DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbt-box2 ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbt-box2 ACCESS: Login: SeverePwnage/(Artyom Chynorjy) from localhost-3031256942 || BYOND v513
+[05:00:00] cbt-box2 GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbt-box2 DEBUG: Next event of severity Mundane in 13.422 minutes.
+[05:00:00] cbt-box2 DEBUG: Next event of severity Moderate in 50.446 minutes.
+[05:00:00] cbt-box2 DEBUG: Next event of severity Major in 93.6467 minutes.
+[05:00:05] cbt-box2 ADMIN: SeverePwnage/(Artyom Chynorjy) changed Europe's time to 12:39.
+[05:00:21] cbt-box2 ACCESS: Logout: SeverePwnage/(Artyom Chynorjy)

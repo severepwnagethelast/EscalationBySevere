@@ -1,0 +1,84 @@
+
+
+Starting up. (ID: cbz-a6aN) 09:05.21
+---------------------
+[05:00:00] cbz-a6aN ADMIN: Loading ckey_whitelist
+[05:00:00] cbz-a6aN ADMIN: ckey_whitelist: 4 entrie(s).
+[05:00:00] cbz-a6aN ADMIN: Loading jobban_rank
+[05:00:00] cbz-a6aN ADMIN: jobban_keylist was empty
+[05:00:00] cbz-a6aN ADMIN: Loading Banlist
+[05:00:00] cbz-a6aN DEBUG: Rebuilding Master Controller
+[05:00:00] cbz-a6aN ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[05:00:00] cbz-a6aN DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[05:00:00] cbz-a6aN ADMIN: SeverePwnage Is accessing the game start menu.
+[05:00:00] cbz-a6aN ADMIN: SeverePwnage has started the game.
+[05:00:00] cbz-a6aN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbz-a6aN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbz-a6aN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbz-a6aN DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[05:00:00] cbz-a6aN ACCESS: Logout: *no key*/(SeverePwnage)
+[05:00:00] cbz-a6aN ACCESS: Login: SeverePwnage/(Patrick Sheets) from localhost-3031256942 || BYOND v513
+[05:00:00] cbz-a6aN GAME: SQL ERROR during population polling. Failed to connect.
+[05:00:00] cbz-a6aN DEBUG: Next event of severity Mundane in 14.544 minutes.
+[05:00:00] cbz-a6aN DEBUG: Next event of severity Moderate in 37.334 minutes.
+[05:00:00] cbz-a6aN DEBUG: Next event of severity Major in 96.1483 minutes.
+[05:01:14] cbz-a6aN ADMIN: SeverePwnage/(Patrick Sheets) spawned /obj/item/device/flashlight/natoflare at (246,183,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=246;Y=183;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[05:03:00] cbz-a6aN ACCESS: Logout: SeverePwnage/(Patrick Sheets)
+
+
+Starting up. (ID: cbz-bpD7) 11:16.30
+---------------------
+[15:00:00] cbz-bpD7 ADMIN: Loading jobban_rank
+[15:00:00] cbz-bpD7 ADMIN: jobban_keylist was empty
+[15:00:00] cbz-bpD7 ADMIN: Loading Banlist
+[15:00:00] cbz-bpD7 DEBUG: Rebuilding Master Controller
+[15:00:00] cbz-bpD7 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbz-bpD7 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbz-bq13) 11:25.16
+---------------------
+[20:00:00] cbz-bq13 ADMIN: Loading jobban_rank
+[20:00:00] cbz-bq13 ADMIN: jobban_keylist was empty
+[20:00:00] cbz-bq13 ADMIN: Loading Banlist
+[20:00:00] cbz-bq13 DEBUG: Rebuilding Master Controller
+[20:00:00] cbz-bq13 ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[20:00:00] cbz-bq13 ADMIN: SeverePwnage/(SeverePwnage) has a cookie from a banned account! (Matched: severepwnage, 85.108.25.69, 3031256942)
+[20:00:00] cbz-bq13 ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbz-bxRd) 12:09.06
+---------------------
+[15:00:00] cbz-bxRd ADMIN: Loading jobban_rank
+[15:00:00] cbz-bxRd ADMIN: jobban_keylist was empty
+[15:00:00] cbz-bxRd ADMIN: Loading Banlist
+[15:00:00] cbz-bxRd DEBUG: Rebuilding Master Controller
+[15:00:00] cbz-bxRd ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[15:00:00] cbz-bxRd ACCESS: Logout: SeverePwnage/(SeverePwnage)
+
+
+Starting up. (ID: cbz-bGKs) 13:06.05
+---------------------
+[10:00:00] cbz-bGKs ADMIN: Loading ckey_whitelist
+[10:00:00] cbz-bGKs ADMIN: ckey_whitelist: 4 entrie(s).
+[10:00:00] cbz-bGKs ADMIN: Loading jobban_rank
+[10:00:00] cbz-bGKs ADMIN: jobban_keylist was empty
+[10:00:00] cbz-bGKs ADMIN: Loading Banlist
+[10:00:00] cbz-bGKs DEBUG: Rebuilding Master Controller
+[10:00:00] cbz-bGKs ACCESS: Login: SeverePwnage/(SeverePwnage) from localhost-3031256942 || BYOND v513
+[10:00:00] cbz-bGKs ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbz-bGKs DEBUG: Moved - /datum/proximity_monitor was deleted while still listening to the proximity sensor.
+[10:00:00] cbz-bGKs ADMIN: SeverePwnage Is accessing the game start menu.
+[10:00:00] cbz-bGKs ADMIN: SeverePwnage has started the game.
+[10:00:00] cbz-bGKs DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbz-bGKs DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbz-bGKs DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbz-bGKs DEBUG: SeverePwnage has not selected never for this role, so we are drafting them.
+[10:00:00] cbz-bGKs ACCESS: Logout: *no key*/(SeverePwnage)
+[10:00:00] cbz-bGKs ACCESS: Login: SeverePwnage/(Dalton Fulton) from localhost-3031256942 || BYOND v513
+[10:00:00] cbz-bGKs GAME: SQL ERROR during population polling. Failed to connect.
+[10:00:00] cbz-bGKs DEBUG: Next event of severity Mundane in 13.986 minutes.
+[10:00:00] cbz-bGKs DEBUG: Next event of severity Moderate in 40.418 minutes.
+[10:00:00] cbz-bGKs DEBUG: Next event of severity Major in 89.0083 minutes.
+[10:02:55] cbz-bGKs ADMIN: SeverePwnage/(Dalton Fulton) spawned /obj/item/device/flashlight/wpflare at (114,47,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=47;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[10:03:57] cbz-bGKs ACCESS: Logout: SeverePwnage/(Dalton Fulton)
